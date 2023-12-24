@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Konuya Müdahil",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1392,
+=======
+	"id": [
+		81408
+	],
+	"name": "Konuya Müdahil",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1392,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Konuya Müdahil",
 		"description": "Nergis Haçı Derneğinin sırlarını öğren ve Jakob'u yen.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

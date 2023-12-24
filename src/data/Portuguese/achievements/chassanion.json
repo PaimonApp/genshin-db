@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Chassagnon",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1416,
+=======
+	"id": [
+		81432
+	],
+	"name": "Chassagnon",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1416,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Chassagnon",
 		"description": "Derrote a Lenda Local: Chassagnon",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

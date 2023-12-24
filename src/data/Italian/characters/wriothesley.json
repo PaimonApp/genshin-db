@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Wriothesley",
 	"fullname": "Wriothesley",
 	"title": "Emissario di colpe silenti",
@@ -14,6 +15,27 @@
 	"affiliation": "Forte Méropide",
 	"birthdaymmdd": "11/23",
 	"birthday": "23 novembre",
+=======
+	"id": 10000086,
+	"name": "Wriothesley",
+	"title": "Emissario di colpe silenti",
+	"description": "Il Duca di Forte Méropide, misterioso signore delle torbide profondità.",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "Catalizzatore",
+	"bodyType": "BODY_MALE",
+	"gender": "maschio",
+	"qualityType": "QUALITY_ORANGE",
+	"rarity": 5,
+	"birthdaymmdd": "11/23",
+	"birthday": "23 novembre",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "Cryo",
+	"affiliation": "Forte Méropide",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "Fontaine",
+	"substatType": "FIGHT_PROP_CRITICAL_HURT",
+	"substatText": "DAN da CRIT",
+>>>>>>> upstream/main
 	"constellation": "Cerberus",
 	"cv": {
 		"english": "Joe Zieja",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "Scheggia di giada Shivada",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Unità di sottorilevazione",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Ingranaggio dentato",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Frammento di giada Shivada",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Dispositivo di Tubion\"",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Unità di sottorilevazione",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Ingranaggio dentato",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Frammento di giada Shivada",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Dispositivo di Tubion\"",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Unità di sottorilevazione",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Ingranaggio cilindrico",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Pezzo di giada Shivada",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Dispositivo di Tubion\"",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Unità di sottorilevazione",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Ingranaggio cilindrico",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Pezzo di giada Shivada",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Dispositivo di Tubion\"",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Unità di sottorilevazione",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Ingranaggio dinamico artificiato",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "Gemma di giada Shivada",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Dispositivo di Tubion\"",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Unità di sottorilevazione",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Ingranaggio dinamico artificiato",
 				"count": 24
 			}

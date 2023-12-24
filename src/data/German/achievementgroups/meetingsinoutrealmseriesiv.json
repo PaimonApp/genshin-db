@@ -1,7 +1,13 @@
 {
+	"id": 44,
 	"name": "Begegnung in einer anderen Welt – Reihe 4",
+<<<<<<< HEAD
 	"sortorder": 29,
+=======
+	"sortOrder": 29,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210169,
 		"name": "Errungenschaft – Pfad"
 	}
 }

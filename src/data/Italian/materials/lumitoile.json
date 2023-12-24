@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Lumitoile",
 	"description": "Un animale dal corpo soffice che emette una luce delicata. È possibile trovarla mentre si arrampica lungo le mura degli edifici vicino o sotto l'acqua.",
 	"sortorder": 2884,
 	"category": "EXCHANGE",
 	"materialtype": "Specialità di Fontaine",
 	"source": [
+=======
+	"id": 101237,
+	"name": "Lumitoile",
+	"sortRank": 315,
+	"description": "Un animale dal corpo soffice che emette una luce delicata. È possibile trovarla mentre si arrampica lungo le mura degli edifici vicino o sotto l'acqua.",
+	"category": "EXCHANGE",
+	"typeText": "Specialità di Fontaine",
+	"sources": [
+>>>>>>> upstream/main
 		"Presente in natura",
 		"Consiglio: si trova nella Regione di Liffey"
 	]

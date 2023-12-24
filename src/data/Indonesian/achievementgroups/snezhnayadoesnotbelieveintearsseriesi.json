@@ -1,7 +1,13 @@
 {
+	"id": 11,
 	"name": "Snezhnaya Tidak Percaya Air Mata: Seri I",
+<<<<<<< HEAD
 	"sortorder": 24,
+=======
+	"sortOrder": 24,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210031,
 		"name": "Achievement: Daratan Bersalju"
 	}
 }

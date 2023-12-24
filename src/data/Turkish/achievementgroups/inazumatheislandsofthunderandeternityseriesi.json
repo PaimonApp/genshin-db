@@ -1,7 +1,13 @@
 {
+	"id": 24,
 	"name": "Inazuma: Yıldırımı ve Sonsuzluğu Kucaklayan Adalar - I. Seri",
+<<<<<<< HEAD
 	"sortorder": 34,
+=======
+	"sortOrder": 34,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210090,
 		"name": "Inazuma: Kujou Nişanı"
 	}
 }

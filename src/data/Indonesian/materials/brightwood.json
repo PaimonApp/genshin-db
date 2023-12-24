@@ -1,12 +1,19 @@
 {
+	"id": 101313,
 	"name": "Brightwood",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Kayu Pohon Brightwood. Tampaknya memiliki sifat yang berbeda dari kayu biasa — lembut tapi sangat tahan banting, mudah diwarnai, dan dapat digunakan untuk tujuan tertentu.\nDapat digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2972,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Ditemukan di alam liar",
-		"Rekomendasi: Ditebang dari hutan di Sumeru"
+		"Rekomendasi: Ditebang dari hutan di Sumeru",
+		"Konversi Kayu"
 	]
 }

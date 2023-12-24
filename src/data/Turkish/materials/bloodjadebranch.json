@@ -1,9 +1,20 @@
 {
+	"id": 113018,
 	"name": "Kan Yeşimi Dalı",
+	"rarity": 5,
+	"sortRank": 11101,
 	"description": "Ejder kralının kudretiyle beslenmiş bu kemik dallar, garip ve eşsiz renklerle parlar.\nDoğal nehirlerden akan nefretin soğuk ay ışığıyla buluşmasıyla bu dallar yeşerdi ve büyüdü.\nEjder kanına bulanmış bu dallar, savaşta zarar görmüş olsa da gergin bir havayla hışırdar.",
+<<<<<<< HEAD
 	"sortorder": 3139,
 	"rarity": "5",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Karakter Seviyesi Yükseltme Malzemesi",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Karakter Seviyesi Yükseltme Malzemesi",
+	"sources": [
+		"Sv. 70 ve üzeri Azhdaha Mücadelesi Ödülü"
+	]
+>>>>>>> upstream/main
 }

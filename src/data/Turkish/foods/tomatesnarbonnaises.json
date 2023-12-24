@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Domates Dolması",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Saldırı Artırıcı Yemek",
 	"foodcategory": "Atk_Add",
+=======
+	"id": 3412,
+	"name": "Domates Dolması",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Saldırı Artırıcı Yemek",
+>>>>>>> upstream/main
 	"effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 160 ila 228 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Et ile sebzenin dengeli olduğu bir yemek. Yuvarlak bir domates alınır, içi oyulur ve kıyma ile doldurulur, daha sonra fırına verilir. Bu yemeğin tadı ekşi, dokusu yumuşaktır. Fontaine sofralarının en gözde seçimlerinden biridir.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Çiğ Et",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100079,
+>>>>>>> upstream/main
 			"name": "Domates",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110010,
+>>>>>>> upstream/main
 			"name": "Pastırma",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "Soğan",
 			"count": 1
 		}

@@ -1,8 +1,13 @@
 {
+	"id": 100618,
 	"name": "Gigi Aneh",
+	"sortRank": 200,
 	"description": "Sebuah gigi yang ditemukan di atas gunung bersalju. Mungkin ada seseorang yang lebih mengerti tentang benda ini...",
+<<<<<<< HEAD
 	"sortorder": 2776,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

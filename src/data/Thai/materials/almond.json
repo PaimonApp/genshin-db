@@ -1,10 +1,15 @@
 {
+	"id": 100089,
 	"name": "Almond",
+	"sortRank": 321,
 	"description": "เมล็ดที่มีกลิ่นหอมเฉพาะตัว สามารถสร้างความแตกต่างใหม่ ๆ มากมายให้กับอาหารที่ทำ",
+<<<<<<< HEAD
 	"sortorder": 2927,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "วัตถุดิบประกอบอาหาร",
-	"source": [
+	"typeText": "วัตถุดิบประกอบอาหาร",
+	"sources": [
 		"ซื้อจากร้านขายของชำใน Liyue",
 		"ซื้อจากร้านขายของชำใน Fontaine"
 	]

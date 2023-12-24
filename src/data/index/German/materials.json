@@ -492,9 +492,14 @@
 		"sumerurose": "Sumeru-Rose",
 		"sunsetcloudangler": "Dämmerwolken-Hornkugelfisch",
 		"sunsettia": "Dämmerfrucht",
+<<<<<<< HEAD
+=======
+		"superduperinvincibleshiningsparklymagiccrystal": "„Megamagisch-unbesiegbarer hell-glänzender Kristall“",
+>>>>>>> upstream/main
 		"surgingsacredchalice": "Aufsteigender Heiliger Kelch",
 		"sweetflower": "Zuckerblume",
 		"sweetflowermedaka": "Zuckerblumen-Medaka",
+		"swirlingsceneinabottle": "„Strudelnder Flaschengarten“",
 		"tailofboreas": "Schwanz des Nordwinds",
 		"teachingsofadmonition": "Lehren der „Ermahnung“",
 		"teachingsofballad": "Lehren der „Poesie“",
@@ -1059,9 +1064,14 @@
 		"Sumeru-Rose": "sumerurose",
 		"Dämmerwolken-Hornkugelfisch": "sunsetcloudangler",
 		"Dämmerfrucht": "sunsettia",
+<<<<<<< HEAD
+=======
+		"„Megamagisch-unbesiegbarer hell-glänzender Kristall“": "superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 		"Aufsteigender Heiliger Kelch": "surgingsacredchalice",
 		"Zuckerblume": "sweetflower",
 		"Zuckerblumen-Medaka": "sweetflowermedaka",
+		"„Strudelnder Flaschengarten“": "swirlingsceneinabottle",
 		"Schwanz des Nordwinds": "tailofboreas",
 		"Lehren der „Ermahnung“": "teachingsofadmonition",
 		"Lehren der „Poesie“": "teachingsofballad",
@@ -1517,7 +1527,13 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
+<<<<<<< HEAD
 			"surgingsacredchalice",
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+			"surgingsacredchalice",
+			"swirlingsceneinabottle",
+>>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1849,6 +1865,7 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
+			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2215,6 +2232,10 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
+<<<<<<< HEAD
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2468,6 +2489,10 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
+<<<<<<< HEAD
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3038,6 +3063,7 @@
 			"matchinvitationletter",
 			"naturestruefruit",
 			"silkenprint",
+			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"Sphäre der Kriegskunst: Trübe Wolken": [
@@ -3336,11 +3362,11 @@
 	},
 	"properties": {
 		"rarity": [
-			"3",
-			"5",
-			"1",
-			"2",
-			"4"
+			3,
+			5,
+			1,
+			2,
+			4
 		],
 		"category": [
 			"EXCHANGE",
@@ -3355,7 +3381,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"materialtype": [
+		"typeText": [
 			"Fisch",
 			"Objekt für Gebete",
 			"Nahrung",
@@ -3397,7 +3423,7 @@
 			"Material für den Drachengrat",
 			"Hilfsmittel"
 		],
-		"dropdomain": [
+		"dropDomainName": [
 			"Sphäre der Kriegskunst: Prüfungsplatz des alten Donners",
 			"Sphäre der Kriegskunst: Überflutetes Tal",
 			"Sphäre der Kriegskunst: Abgefahrene Apparate",
@@ -3429,7 +3455,7 @@
 			"Sphäre der Kriegskunst: Altar des Sandes",
 			"Sphäre der Kriegskunst: Besessenheit"
 		],
-		"daysofweek": [
+		"daysOfWeek": [
 			"Mittwoch",
 			"Samstag",
 			"Sonntag",

@@ -1,9 +1,23 @@
 {
+	"id": 112059,
 	"name": "Fungal Spore",
+	"rarity": 1,
+	"sortRank": 10121,
 	"description": "Spora berkilauan yang dijatuhkan oleh Floating Fungus. Kecil dan lembut, sepertinya cuma kena bersin saja, spora ini akan lenyap tak bersisa.",
+<<<<<<< HEAD
 	"sortorder": 3095,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Penguatan Senjata dan Karakter",
+	"sources": [
+		"Dijatuhkan oleh Fungus",
+		"Kadang dijatuhkan oleh Fungus yang diaktifkan",
+		"Kadang dijatuhkan oleh Fungus yang hangus",
+		"Penukaran Stardust"
+	]
+>>>>>>> upstream/main
 }

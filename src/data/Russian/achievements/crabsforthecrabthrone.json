@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Краб на крабьем троне",
 	"achievementgroup": "Победитель VIII",
 	"sortorder": 2183,
+=======
+	"id": [
+		82184
+	],
+	"name": "Краб на крабьем троне",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Победитель VIII",
+	"sortOrder": 2183,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Краб на крабьем троне",
 		"description": "Одолейте Императора огня и железа, пока тот ослаблен.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

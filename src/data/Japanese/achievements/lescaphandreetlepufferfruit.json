@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "潜水服はぽよぽよフルーツの夢を見る",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1376,
+=======
+	"id": [
+		81392
+	],
+	"name": "潜水服はぽよぽよフルーツの夢を見る",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1376,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "潜水服はぽよぽよフルーツの夢を見る",
 		"description": "水中の上級訓練をクリアする。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

@@ -1,9 +1,15 @@
 {
+	"id": 101714,
 	"name": "Fragrant Seasoning",
+	"rarity": 1,
+	"sortRank": 10,
 	"description": "Seasoning created using the recipe given to you by Nazafarin. It has a tangy aroma and serves to bring out the flavor in any dish it is added to.",
+<<<<<<< HEAD
 	"sortorder": 977,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Consumable",
-	"source": []
+	"typeText": "Consumable",
+	"sources": []
 }

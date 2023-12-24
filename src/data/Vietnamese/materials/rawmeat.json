@@ -1,10 +1,15 @@
 {
+	"id": 100061,
 	"name": "Thịt Rừng",
+	"sortRank": 321,
 	"description": "Thịt thú tươi ngon, khi qua xử lý sẽ tạo nên món ngon khó cưỡng.",
+<<<<<<< HEAD
 	"sortorder": 2912,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Nguyên Liệu Thực Phẩm",
-	"source": [
+	"typeText": "Nguyên Liệu Thực Phẩm",
+	"sources": [
 		"Động Vật Rơi Ra"
 	]
 }

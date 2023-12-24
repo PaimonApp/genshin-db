@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Ich glaube an Feen",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1411,
+=======
+	"id": [
+		81427
+	],
+	"name": "Ich glaube an Feen",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1411,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Ich glaube an Feen",
 		"description": "Hilf Penny dabei, ihre innere Krise zu überwinden.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

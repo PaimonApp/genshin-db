@@ -1,11 +1,17 @@
 {
+	"id": 104001,
 	"name": "Consejo del errante",
+	"rarity": 2,
+	"sortRank": 100,
 	"description": "Material de EXP de personaje. Otorga 1000 pts. de EXP.\nSigue siendo útil incluso para aquellos que no viven en Teyvat.",
+<<<<<<< HEAD
 	"sortorder": 2775,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "EXP_FRUIT",
-	"materialtype": "Material EXP de Personaje",
-	"source": [
+	"typeText": "Material EXP de Personaje",
+	"sources": [
 		"Recompensa de aventuras y expediciones",
 		"Tetetienda"
 	]

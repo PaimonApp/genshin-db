@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Côtes levées au barbecue",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Récupération",
 	"foodcategory": "Recovery_HpAdd",
+=======
+	"id": 2407,
+	"name": "Côtes levées au barbecue",
+	"rarity": 2,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Récupération",
+>>>>>>> upstream/main
 	"effect": "Restaure 20 % à 24 % des PV max du personnage sélectionné et 900 à 1 500 PV supplémentaires.",
 	"description": "Un plat de viande croustillant. Ce plat vous demandera de faire frire doucement les côtes jusqu'à ce qu'elles dégagent un léger arôme, avant d'envelopper l'extérieur croustillant dans de la sauce, pour enfin faire griller lentement le tout à feu doux. La manipulation méticuleuse de la chaleur garantit que l'extérieur croustille à la perfection tout en gardant la viande juteuse et tendre.",
 	"suspicious": {
@@ -20,14 +29,26 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Viande crue",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100077,
+>>>>>>> upstream/main
 			"name": "Poivre",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

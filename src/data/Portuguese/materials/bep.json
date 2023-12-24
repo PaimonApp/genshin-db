@@ -1,9 +1,15 @@
 {
+	"id": 116001,
 	"name": "EXP de PB",
+	"rarity": 3,
+	"sortRank": 430061,
 	"description": "Passe de Batalha contém tudo o que você experimentou em sua longa jornada. Um dia, essas experiências vão virar material de poema.",
+<<<<<<< HEAD
 	"sortorder": 4959,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "EXP de PB",
-	"source": []
+	"typeText": "EXP de PB",
+	"sources": []
 }

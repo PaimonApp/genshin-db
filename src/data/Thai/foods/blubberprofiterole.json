@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Blubber Profiterole",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "เมนูการโจมตี",
 	"foodcategory": "Atk_Add",
+=======
+	"id": 3417,
+	"name": "Blubber Profiterole",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "เมนูการโจมตี",
+>>>>>>> upstream/main
 	"effect": "เพิ่มความเสียหายกายภาพ ของตัวละครทั้งทีมขึ้น 20%-40% เป็นเวลา 300 วินาที\nเมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
 	"description": "ของหวานสอดไส้ครีม ชั้นแป้งที่ฟูนุ่มห่อหุ้มครีมที่เข้มข้นเอาไว้ รูปร่างพองกลมน่ารักคล้ายพุงของ Blubberbeast เนื้อครีมที่เข้มข้นและอ่อนนุ่มสามารถครองใจทุกคนได้",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Bird Egg",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100078,
+>>>>>>> upstream/main
 			"name": "Milk",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Flour",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Cream",
 			"count": 2
 		}

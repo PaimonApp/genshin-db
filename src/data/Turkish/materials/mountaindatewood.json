@@ -1,12 +1,19 @@
 {
+	"id": 101316,
 	"name": "Dağ Hurması Kütüğü",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Dağ Hurması Ağacından elde edilen bir kütük. Özel bir dokusu veya hissiyatı olmasa da suyu oldukça iyi muhafaza eder ve bundan ötürü de kolayca büyür.\nDekorasyon yapmak için kullanılabilir.",
+<<<<<<< HEAD
 	"sortorder": 2975,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Malzeme",
-	"source": [
+	"typeText": "Malzeme",
+	"sources": [
 		"Doğada bulunur.",
-		"Öneri: Sumeru çöllerinde kesilir."
+		"Öneri: Sumeru çöllerinde kesilir.",
+		"Kütüğü Dönüştür"
 	]
 }

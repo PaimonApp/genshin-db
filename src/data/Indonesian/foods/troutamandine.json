@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Trout Amandine",
 	"rarity": "1",
 	"foodtype": "NORMAL",
 	"foodfilter": "Makanan Pemulihan",
 	"foodcategory": "Recovery_HpAddAll",
+=======
+	"id": 1402,
+	"name": "Trout Amandine",
+	"rarity": 1,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Makanan Pemulihan",
+>>>>>>> upstream/main
 	"effect": "Memulihkan 8–10% HP Karakter yang dipilih.\nMemberikan regenerasi 210–300 HP setiap 5 detik selama 30 detik.",
 	"description": "Potongan ikan dengan ukuran yang tepat, goreng dengan mentega sebelum disajikan dengan kacang almond goreng yang garing. Berdasarkan resep tradisional hidangan ini, ikan trout utuh akan dimasukkan ke dalam wajan, tetapi baru-baru ini resep baru dengan fillet untuk hidangan ini juga mendapatkan popularitas.",
 	"suspicious": {
@@ -20,10 +29,18 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100084,
+>>>>>>> upstream/main
 			"name": "Fish",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Almond",
 			"count": 1
 		}

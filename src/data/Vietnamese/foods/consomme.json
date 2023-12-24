@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Consomme",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Tấn Công",
 	"foodcategory": "Atk_CritRate",
+=======
+	"id": 3413,
+	"name": "Consomme",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Món Dạng Tấn Công",
+>>>>>>> upstream/main
 	"effect": "Tỷ lệ bạo kích của tất cả nhân vật trong đội tăng 10%-20%, duy trì 300s.\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Món canh với công đoạn chế biến rất phức tạp. Sau khi nghiền nhuyễn nguyên liệu, đem nấu chín với nước sôi, cuối cùng lược lấy phần nước canh để dùng. Tại phố phường Fontaine có lưu truyền một thông tin thần bí thế này, nghe nói các tác giả đang không có cảm hứng sáng tác nếu húp một hơi hết chén canh này thì sẽ văn chương tuôn trào... Nhưng công dụng kỳ diệu thế này, thật sự không phải do các thương nhân bịa ra sao?",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100064,
+>>>>>>> upstream/main
 			"name": "Thịt Gia Cầm",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Trứng Chim",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "Cà Rốt",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

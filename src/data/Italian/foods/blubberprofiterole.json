@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Blobboprofiterole",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatto ATT+",
 	"foodcategory": "Atk_Add",
+=======
+	"id": 3417,
+	"name": "Blobboprofiterole",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Piatto ATT+",
+>>>>>>> upstream/main
 	"effect": "Aumenta di un 20-40% i DAN fisici di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Un dolcetto ripieno di panna. La crosta racchiude una ricca farcitura a base di panna. La sua forma tonda, come sul punto di esplodere, la rende adorabile come la pancia di una Blobbofoca. In pochi trovano scampo al fascino del suo denso e dolce cuor di panna.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Uovo d'uccello",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100078,
+>>>>>>> upstream/main
 			"name": "Latte",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Farina",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Panna",
 			"count": 2
 		}

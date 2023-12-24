@@ -1,7 +1,13 @@
 {
+	"id": 30,
 	"name": "Pelita Chasm",
+<<<<<<< HEAD
 	"sortorder": 39,
+=======
+	"sortOrder": 39,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210117,
 		"name": "Achievement: Situs Pertambangan"
 	}
 }

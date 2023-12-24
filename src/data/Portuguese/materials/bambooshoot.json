@@ -1,10 +1,15 @@
 {
+	"id": 100091,
 	"name": "Broto de Bambu",
+	"sortRank": 321,
 	"description": "Um broto de bambu que acabou de sair do chão, bem fresquinho. Este ingrediente com um aroma exótico só pode ser encontrado em áreas onde o bambu cresce.",
+<<<<<<< HEAD
 	"sortorder": 2928,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado na Floresta de Bambu da Vila Qingce"
 	]

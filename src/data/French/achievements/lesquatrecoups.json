@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Les quatre coups",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1363,
+=======
+	"id": [
+		81379
+	],
+	"name": "Les quatre coups",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1363,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Les quatre coups",
 		"description": "Terminez l'histoire de l'Ordre fruitier et de Blanche.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

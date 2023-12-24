@@ -1,7 +1,9 @@
 {
+	"id": 41,
 	"name": "Blessed Hamada",
-	"sortorder": 44,
+	"sortOrder": 44,
 	"reward": {
+		"id": 210157,
 		"name": "Achievement: Infinitum"
 	}
 }

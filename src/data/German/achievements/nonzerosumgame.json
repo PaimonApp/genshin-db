@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Nicht-Null-Summen-Spiel",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1361,
+=======
+	"id": [
+		81377
+	],
+	"name": "Nicht-Null-Summen-Spiel",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1361,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Nicht-Null-Summen-Spiel",
 		"description": "Schließ die Umfrage zur Zufriedenheit der Tauschscheinkantine ab.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

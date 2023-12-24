@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "“Made in Chronie”",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1380,
+=======
+	"id": [
+		81396
+	],
+	"name": "“Made in Chronie”",
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1380,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "“Made in Chronie”",
 		"description": "Obtén el informe especial escrito en secreto por Chronie.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

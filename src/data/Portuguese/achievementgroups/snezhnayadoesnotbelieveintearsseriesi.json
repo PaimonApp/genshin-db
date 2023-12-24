@@ -1,7 +1,13 @@
 {
+	"id": 11,
 	"name": "Snezhnaya Não Acredita em Lágrimas -Série I",
+<<<<<<< HEAD
 	"sortorder": 24,
+=======
+	"sortOrder": 24,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210031,
 		"name": "Conquista - Terra das Neves"
 	}
 }

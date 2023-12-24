@@ -1,9 +1,15 @@
 {
+	"id": 200106,
 	"name": "Emperor's Balsam",
+	"rarity": 4,
+	"sortRank": 90,
 	"description": "Specialized refinement material for the Luxurious Sea-Lord.\nThe intense fragrance of this paste seems to have sealed the spirit of sea life within. Smear it on the Luxurious Sea-Lord to temper this unique claymore and make it harder still.",
+<<<<<<< HEAD
 	"sortorder": 2757,
 	"rarity": "4",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Refinement Material",
-	"source": []
+	"typeText": "Refinement Material",
+	"sources": []
 }

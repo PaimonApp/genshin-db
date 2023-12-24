@@ -1,10 +1,15 @@
 {
+	"id": 111022,
 	"name": "Big Pretty Crystal",
+	"sortRank": 430051,
 	"description": "ไอเทมเพิ่มเติมจากการสรรค์สร้าง",
+<<<<<<< HEAD
 	"sortorder": 4958,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "ไอเทมจากการสร้าง",
-	"source": [
+	"typeText": "ไอเทมจากการสร้าง",
+	"sources": [
 		"ได้รับจากการสรรสร้าง"
 	]
 }

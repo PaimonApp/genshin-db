@@ -1,8 +1,13 @@
 {
+	"id": 100618,
 	"name": "Dente insolito",
+	"sortRank": 200,
 	"description": "Un dente di drago che hai raccolto sul Picco del Drago. Forse qualcuno potrebbe saperne di più su quest'oggetto...",
+<<<<<<< HEAD
 	"sortorder": 2776,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Materiale",
-	"source": []
+	"typeText": "Materiale",
+	"sources": []
 }

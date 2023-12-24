@@ -1,10 +1,15 @@
 {
+	"id": 100084,
 	"name": "Fisch",
+	"sortRank": 321,
 	"description": "Ein frisches Stück Fisch, das sich richtig zubereitet für eine leckere Mahlzeit eignet.",
+<<<<<<< HEAD
 	"sortorder": 2923,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Zutat",
-	"source": [
+	"typeText": "Zutat",
+	"sources": [
 		"Beim Fangen von Fischen zu erhalten"
 	]
 }

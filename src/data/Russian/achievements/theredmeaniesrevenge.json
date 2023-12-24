@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Отмщение алому проказнику",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1382,
+=======
+	"id": [
+		81398
+	],
+	"name": "Отмщение алому проказнику",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1382,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Отмщение алому проказнику",
 		"description": "Прогоните алого проказника и мелких проказников из печатной мастерской Браве.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

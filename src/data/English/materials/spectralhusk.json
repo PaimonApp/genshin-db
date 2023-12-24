@@ -1,9 +1,21 @@
 {
+	"id": 112053,
 	"name": "Spectral Husk",
+	"rarity": 1,
+	"sortRank": 10118,
 	"description": "An energy core that allows the Specters to float. It contains a small amount of elemental energy.\nMost of the rest has already dispersed.",
+<<<<<<< HEAD
 	"sortorder": 3086,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character and Weapon Enhancement Material",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Character and Weapon Enhancement Material",
+	"sources": [
+		"Dropped by Specters",
+		"Stardust Exchange"
+	]
+>>>>>>> upstream/main
 }

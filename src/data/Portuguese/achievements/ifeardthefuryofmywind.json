@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Temo minha fúria no vento...",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1403,
+=======
+	"id": [
+		81419
+	],
+	"name": "Temo minha fúria no vento...",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1403,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Temo minha fúria no vento...",
 		"description": "... Fará as Belas Flores Murcharem.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

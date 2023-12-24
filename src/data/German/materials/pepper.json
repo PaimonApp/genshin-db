@@ -1,10 +1,15 @@
 {
+	"id": 100077,
 	"name": "Pfeffer",
+	"sortRank": 321,
 	"description": "Schmeckt nach Pfeffer. Bringt den Geschmack fettreicher Speisen gut hervor und passt besonders gut zu Fleisch.",
+<<<<<<< HEAD
 	"sortorder": 2919,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Zutat",
-	"source": [
+	"typeText": "Zutat",
+	"sources": [
 		"In Gemischtwarenläden zu erstehen"
 	]
 }

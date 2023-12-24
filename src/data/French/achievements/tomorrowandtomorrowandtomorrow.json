@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Demain, et demain, et demain !",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1390,
+=======
+	"id": [
+		81406
+	],
+	"name": "Demain, et demain, et demain !",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1390,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Demain, et demain, et demain !",
 		"description": "Apprenez à Pahsiv comment dire au revoir.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

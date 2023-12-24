@@ -1,10 +1,15 @@
 {
+	"id": 110013,
 	"name": "Pescado seco",
+	"sortRank": 322,
 	"description": "",
+<<<<<<< HEAD
 	"sortorder": 2958,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente culinario",
-	"source": [
+	"typeText": "Ingrediente culinario",
+	"sources": [
 		"Procesar comida"
 	]
 }

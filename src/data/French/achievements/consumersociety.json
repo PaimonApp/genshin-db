@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "« Straight Outta Coupons »",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1359,
+=======
+	"id": [
+		81375
+	],
+	"name": "« Straight Outta Coupons »",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1359,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "« Straight Outta Coupons »",
 		"description": "Dépensez un max' dans La chiffonnerie.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

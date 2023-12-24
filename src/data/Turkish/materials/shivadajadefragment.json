@@ -1,11 +1,17 @@
 {
+	"id": 104162,
 	"name": "Shivada Yeşimi Kırıntısı",
+	"rarity": 3,
+	"sortRank": 12107,
 	"description": "Karakter Yükseltme malzemesi.\n\"Üzgünüm...\"",
+<<<<<<< HEAD
 	"sortorder": 3211,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Karakter Yükseltme Malzemesi",
-	"source": [
+	"typeText": "Karakter Yükseltme Malzemesi",
+	"sources": [
 		"Sv. 40 ve üzeri Yalancı Buz Ağaçlarından düşer.",
 		"Sv. 40 ve üzeri Buz Hipostazlarından düşer.",
 		"Üretilir."

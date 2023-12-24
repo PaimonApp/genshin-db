@@ -1,13 +1,20 @@
 {
+	"id": 101304,
 	"name": "Madera de avellano",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Madera obtenida de avellanos, unos árboles muy resistentes y con una larga vida.\nPuede utilizarse para fabricar decoraciones.",
+<<<<<<< HEAD
 	"sortorder": 2963,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Recolectar en la naturaleza",
 		"Talando en Minlin",
-		"Talando en Lisha"
+		"Talando en Lisha",
+		"Transformar madera"
 	]
 }

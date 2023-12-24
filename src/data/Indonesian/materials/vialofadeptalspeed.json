@@ -1,9 +1,15 @@
 {
+	"id": 107013,
 	"name": "Vial of Adeptal Speed",
+	"rarity": 4,
+	"sortRank": 410012,
 	"description": "Botol kecil yang menyegel adeptal energy di dalamnya. Saat digunakan maka akan segera menyelesaikan proses pembuatan perabot.",
+<<<<<<< HEAD
 	"sortorder": 4862,
 	"rarity": "4",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Konsumsi",
-	"source": []
+	"typeText": "Konsumsi",
+	"sources": []
 }

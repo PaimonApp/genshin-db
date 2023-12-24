@@ -1,8 +1,13 @@
 {
+	"id": 100618,
 	"name": "Strange Tooth",
+	"sortRank": 200,
 	"description": "A Dragontooth you picked up in Dragonspine. Perhaps someone would know something more about it...",
+<<<<<<< HEAD
 	"sortorder": 2776,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

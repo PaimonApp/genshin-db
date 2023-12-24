@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Autobiografía de un superviviente",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1362,
+=======
+	"id": [
+		81378
+	],
+	"name": "Autobiografía de un superviviente",
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1362,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Autobiografía de un superviviente",
 		"description": "Escucha las historias pasadas de Clynes.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

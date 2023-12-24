@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Otostopçunun Galaksi Rehberi",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 2187,
+=======
+	"id": [
+		82188
+	],
+	"name": "Otostopçunun Galaksi Rehberi",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2187,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Otostopçunun Galaksi Rehberi",
 		"description": "Tek mücadelede canavarın karnına iki kere gir.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 10
 		}

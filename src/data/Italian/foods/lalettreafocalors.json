@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Lettre à Focalors",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatto DIF+",
 	"foodcategory": "Def_Add",
+=======
+	"id": 3416,
+	"name": "Lettre à Focalors",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Piatto DIF+",
+>>>>>>> upstream/main
 	"effect": "Aumenta di un 20-25% i PS max di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Una piccola torta di forma rettangolare. Si dice che, molto, molto tempo fa, un certo pasticciere usò il grande amore del popolo di Fontaine verso l'Archon di Hydro come ispirazione per creare questo capolavoro. Gli strati posti accumulati uno sull'altro sono un vero test delle abilità dello chef, e ogni aspetto di questa torta è la prova della straordinaria influenza dell'Archon di Hydro.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Uovo d'uccello",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Farina",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "Chicchi di caffè",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Mandorla",
 			"count": 2
 		}

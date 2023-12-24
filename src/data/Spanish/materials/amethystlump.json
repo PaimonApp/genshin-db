@@ -1,10 +1,15 @@
 {
+	"id": 101008,
 	"name": "Pedazo de amatista",
+	"sortRank": 301,
 	"description": "Cristal mineral bruto. Obtenible únicamente en las islas de Inazuma. Solo un profesional podrá sacar su auténtico valor.",
+<<<<<<< HEAD
 	"sortorder": 2826,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Mineral de forja",
-	"source": [
+	"typeText": "Mineral de forja",
+	"sources": [
 		"Recolectar en la naturaleza",
 		"Recolectar en la Isla Narukami"
 	]

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Charlotte",
 	"fullname": "Charlotte",
 	"title": "Ống Kính Sự Thật",
@@ -14,6 +15,27 @@
 	"affiliation": "Tòa Soạn Chim Hơi Nước",
 	"birthdaymmdd": "4/10",
 	"birthday": "10 tháng 4",
+=======
+	"id": 10000088,
+	"name": "Charlotte",
+	"title": "Ống Kính Sự Thật",
+	"description": "Phóng viên đầy năng lượng của tờ báo Chim Hơi Nước, mỗi giây phút đều hướng về \"chân tướng\".",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "Pháp Khí",
+	"bodyType": "BODY_GIRL",
+	"gender": "nữ",
+	"qualityType": "QUALITY_PURPLE",
+	"rarity": 4,
+	"birthdaymmdd": "4/10",
+	"birthday": "10 tháng 4",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "Băng",
+	"affiliation": "Tòa Soạn Chim Hơi Nước",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "Fontaine",
+	"substatType": "FIGHT_PROP_ATTACK_PERCENT",
+	"substatText": "Tấn Công",
+>>>>>>> upstream/main
 	"constellation": "Cung Chân Thị Kính",
 	"cv": {
 		"english": "Maya Aoki Tuttle",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "Mảnh Ngọc Băng Vụn",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Ốc Beryl",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Liên Kết",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Ốc Beryl",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Liên Kết",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Ốc Beryl",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Chính",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Miếng Ngọc Băng",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Ốc Beryl",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Chính",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Miếng Ngọc Băng",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Ốc Beryl",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Lõi Trung Tâm",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "Ngọc Băng",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Ốc Beryl",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Lõi Trung Tâm",
 				"count": 24
 			}

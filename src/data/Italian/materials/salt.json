@@ -1,10 +1,15 @@
 {
+	"id": 100075,
 	"name": "Sale",
+	"sortRank": 321,
 	"description": "Un condimento per esaltare il sapore degli alimenti, se dosato saggiamente.",
+<<<<<<< HEAD
 	"sortorder": 2917,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente culinario",
-	"source": [
+	"typeText": "Ingrediente culinario",
+	"sources": [
 		"Acquistabile negli empori"
 	]
 }

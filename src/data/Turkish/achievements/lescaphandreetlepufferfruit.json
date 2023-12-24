@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Dalgıç ile Pofuduk Meyve",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1376,
+=======
+	"id": [
+		81392
+	],
+	"name": "Dalgıç ile Pofuduk Meyve",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1376,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Dalgıç ile Pofuduk Meyve",
 		"description": "İleri seviye su altı idmanını tamamla.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

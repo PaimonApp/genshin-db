@@ -1,7 +1,9 @@
 {
+	"id": 18,
 	"name": "A Realm Beyond: Series I",
-	"sortorder": 31,
+	"sortOrder": 31,
 	"reward": {
+		"id": 210072,
 		"name": "Achievement: Tea Time"
 	}
 }

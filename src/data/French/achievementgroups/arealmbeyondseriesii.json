@@ -1,7 +1,13 @@
 {
+	"id": 19,
 	"name": "Plus qu'un royaume - Partie II",
+<<<<<<< HEAD
 	"sortorder": 32,
+=======
+	"sortOrder": 32,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210075,
 		"name": "Succès - Maison de vacances"
 	}
 }

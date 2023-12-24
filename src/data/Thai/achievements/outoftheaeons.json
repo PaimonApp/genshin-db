@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "สิ่งที่เหลือจากอดีต",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 5089,
+=======
+	"id": [
+		84310
+	],
+	"name": "สิ่งที่เหลือจากอดีต",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 5089,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "สิ่งที่เหลือจากอดีต",
 		"description": "เรียนรู้เกี่ยวกับตัวตนที่แท้จริงของ Neuvillette",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

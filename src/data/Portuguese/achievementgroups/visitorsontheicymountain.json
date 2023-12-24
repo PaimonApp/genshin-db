@@ -1,7 +1,13 @@
 {
+	"id": 16,
 	"name": "Visitante da Montanha Nevada",
+<<<<<<< HEAD
 	"sortorder": 30,
+=======
+	"sortOrder": 30,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210052,
 		"name": "Conquista - Topo Nevado"
 	}
 }

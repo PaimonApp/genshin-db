@@ -1,7 +1,13 @@
 {
+	"id": 28,
 	"name": "백주의 빛",
+<<<<<<< HEAD
 	"sortorder": 38,
+=======
+	"sortOrder": 38,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210109,
 		"name": "이나즈마·영원의 나라"
 	}
 }

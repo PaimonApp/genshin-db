@@ -1,9 +1,20 @@
 {
+	"id": 113015,
 	"name": "Linh Hồn Võ Luyện - Cô Độc",
+	"rarity": 5,
+	"sortRank": 11101,
 	"description": "Sau khi đánh bại Childe sử dụng sức mạnh Delusion, tập hợp được chút sức mạnh.\nLà vật phẩm trải qua hàng ngàn huấn luyện, tuôn trào trong những trận chém giết, ngưng kết mà thành.\nNếu như con người cũng có vận mệnh, thì e rằng vận mệnh của hắn đã bị bẻ cong mất rồi. Nếu không thì tại sao, hắn luôn ở trong tâm của vòng xoáy tranh đấu cơ chứ?",
+<<<<<<< HEAD
 	"sortorder": 3137,
 	"rarity": "5",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+	"sources": [
+		"Thưởng khiêu chiến Tartaglia cấp 70 trở lên"
+	]
+>>>>>>> upstream/main
 }

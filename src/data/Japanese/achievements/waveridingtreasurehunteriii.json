@@ -1,7 +1,19 @@
 {
+<<<<<<< HEAD
 	"name": "蒼波のトレジャーハンター·3",
 	"achievementgroup": "フォンテーヌ·澄み渡った白露の泉舞·3",
 	"sortorder": 268,
+=======
+	"id": [
+		80292,
+		80293,
+		80294
+	],
+	"name": "蒼波のトレジャーハンター·3",
+	"achievementGroupId": 46,
+	"achievementGroupName": "フォンテーヌ·澄み渡った白露の泉舞·3",
+	"sortOrder": 268,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "蒼波のトレジャーハンター·3",
@@ -9,6 +21,10 @@
 		"description": "モルテ地区、エリニュス山林地区で宝箱を{param0}個開ける。",
 		"progress": 40,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}
@@ -19,6 +35,10 @@
 		"description": "モルテ地区、エリニュス山林地区で宝箱を{param0}個開ける。",
 		"progress": 80,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 10
 		}
@@ -29,6 +49,10 @@
 		"description": "モルテ地区、エリニュス山林地区で宝箱を{param0}個開ける。",
 		"progress": 160,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 20
 		}

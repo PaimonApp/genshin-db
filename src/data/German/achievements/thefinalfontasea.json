@@ -1,14 +1,30 @@
 {
+<<<<<<< HEAD
 	"name": "Die finale Fonta-See",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1383,
+=======
+	"id": [
+		81399,
+		81403,
+		81404
+	],
+	"name": "Die finale Fonta-See",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1383,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Die finale Fonta-See",
 		"description": "... Mach deine Welt frisch!",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}
@@ -18,6 +34,10 @@
 		"description": "... Mach deine Welt frisch!",
 		"progress": 13,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}
@@ -27,6 +47,10 @@
 		"description": "... Mach deine Welt frisch!",
 		"progress": 16,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

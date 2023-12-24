@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Version d'un superflu",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1362,
+=======
+	"id": [
+		81378
+	],
+	"name": "Version d'un superflu",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1362,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Version d'un superflu",
 		"description": "Écoutez l'histoire de Clynes.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

@@ -1,8 +1,13 @@
 {
+	"id": 101401,
 	"name": "Tela",
+	"sortRank": 331,
 	"description": "Una tela de excelente calidad. Será útil a la hora de fabricar decoraciones.",
+<<<<<<< HEAD
 	"sortorder": 2982,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

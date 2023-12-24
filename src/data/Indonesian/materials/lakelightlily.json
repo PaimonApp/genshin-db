@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Lakelight Lily",
 	"description": "Bunga berwarna biru yang bersih dan cerah, lahir di tempat aliran air berkumpul. Aromanya begitu dingin dan menyegarkan namun juga lembut.",
 	"sortorder": 2885,
 	"category": "EXCHANGE",
 	"materialtype": "Produk khas Fontaine",
 	"source": [
+=======
+	"id": 101238,
+	"name": "Lakelight Lily",
+	"sortRank": 315,
+	"description": "Bunga berwarna biru yang bersih dan cerah, lahir di tempat aliran air berkumpul. Aromanya begitu dingin dan menyegarkan namun juga lembut.",
+	"category": "EXCHANGE",
+	"typeText": "Produk khas Fontaine",
+	"sources": [
+>>>>>>> upstream/main
 		"Ditemukan di alam liar",
 		"Rekomendasi: Dapat ditemukan di Erinnyes Forest"
 	]

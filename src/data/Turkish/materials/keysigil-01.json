@@ -1,9 +1,14 @@
 {
+	"id": 100935,
 	"name": "Anahtar Mührü",
 	"dupealias": "Anahtar Mührü 1",
+	"sortRank": 430041,
 	"description": "Watatsumi Adası ve Enkanomiya'nın dört bir yanında bulunan bir Anahtar Mührü. Bir zamanlar Byakuyakoku'da yaşamakta olan halkın amblemlerinin parçalarına ayrılmasıyla yapılmıştır.",
+<<<<<<< HEAD
 	"sortorder": 4952,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Sarf Malzemesi",
-	"source": []
+	"typeText": "Sarf Malzemesi",
+	"sources": []
 }

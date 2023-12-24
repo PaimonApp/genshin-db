@@ -1,10 +1,15 @@
 {
+	"id": 101202,
 	"name": "Pétalas da Flor de Sakura",
+	"sortRank": 313,
 	"description": "Pétalas da Flor de Sakura Sagrada do Grande Santuário Narukami, exalando a afeição por Inazuma.",
+<<<<<<< HEAD
 	"sortorder": 2863,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Especialidade de Inazuma",
-	"source": [
+	"typeText": "Especialidade de Inazuma",
+	"sources": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado na Ilha Narukami"
 	]

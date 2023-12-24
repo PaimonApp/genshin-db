@@ -1,8 +1,11 @@
 {
+	"id": [
+		81409
+	],
 	"name": "An Immortal Emperor in a Mundane Universe",
-	"achievementgroup": "Wonders of the World",
-	"ishidden": true,
-	"sortorder": 1393,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1393,
 	"stages": 1,
 	"stage1": {
 		"title": "An Immortal Emperor in a Mundane Universe",
@@ -10,6 +13,7 @@
 		"description": "Defeat Narzissenkreuz.",
 		"progress": 1,
 		"reward": {
+			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

@@ -1,14 +1,18 @@
 {
+	"id": [
+		81398
+	],
 	"name": "The Red Meanies' Revenge",
-	"achievementgroup": "Wonders of the World",
-	"ishidden": true,
-	"sortorder": 1382,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1382,
 	"stages": 1,
 	"stage1": {
 		"title": "The Red Meanies' Revenge",
 		"description": "Removed all the Red Meanies and Mini Meanies from Bravais's Press Works.",
 		"progress": 1,
 		"reward": {
+			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

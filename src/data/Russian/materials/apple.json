@@ -1,10 +1,15 @@
 {
+	"id": 100001,
 	"name": "Яблоко",
+	"sortRank": 90000,
 	"description": "Ароматное и хрустящее. Обычно их едят сырыми или делают из них сидр.",
+<<<<<<< HEAD
 	"sortorder": 3416,
+=======
+>>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"materialtype": "Еда",
-	"source": [
+	"typeText": "Еда",
+	"sources": [
 		"Дикая природа"
 	]
 }

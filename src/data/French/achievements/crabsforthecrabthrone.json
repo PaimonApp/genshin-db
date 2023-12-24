@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Du crabe pour le trône des crabes",
 	"achievementgroup": "Au défi ! - Partie VIII",
 	"sortorder": 2183,
+=======
+	"id": [
+		82184
+	],
+	"name": "Du crabe pour le trône des crabes",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Au défi ! - Partie VIII",
+	"sortOrder": 2183,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Du crabe pour le trône des crabes",
 		"description": "Vainquez l'Empereur du feu ferreux lorsqu'il est affaibli.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

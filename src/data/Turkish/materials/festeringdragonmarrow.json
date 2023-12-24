@@ -1,9 +1,15 @@
 {
+	"id": 200103,
 	"name": "İltihaplı Ejder İliği",
+	"rarity": 4,
+	"sortRank": 90,
 	"description": "Yıkıcı Arzu için özel saflaştırma malzemesidir.\nDurin'in iğrenç zehrinin saflaştırılmasından oluşan üründür. Ejdersırtı'nın ley hatlarına sızmış ve yayılmıştır. Bu tarz malzemelere yatkınlığı fazla olan ölümcül bir kılıcın üzerinde kullanırsan kılıcın gücünü artırabilirsin.",
+<<<<<<< HEAD
 	"sortorder": 2754,
 	"rarity": "4",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Saflaştırma Malzemesi",
-	"source": []
+	"typeText": "Saflaştırma Malzemesi",
+	"sources": []
 }

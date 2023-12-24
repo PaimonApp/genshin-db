@@ -1,7 +1,7 @@
 {
 	"id": 2301,
 	"name": "Fatui - Người Xử Lý Nợ Hỏa",
-	"hp": 10,
+	"hp": 9,
 	"maxenergy": 2,
 	"tags": [
 		"GCG_TAG_ELEMENT_PYRO",
@@ -15,7 +15,7 @@
 	],
 	"storytitle": "Lưỡi Dao Tính Sổ - Người Xử Lý Nợ",
 	"storytext": "\"Tội chết không thể miễn, tội sống càng khó tránh...\"",
-	"source": "Nhận được sau khi Khiêu Chiến Quán Rượu với Tiểu Hoàng Tử trong Quán Rượu Đuôi Mèo, và giành chiến thắng trong độ khó Đánh Giải Trí với Người Xử Lý Nợ Hỏa",
+	"source": "Nhận được sau khi Khiêu Chiến Quán Rượu với Tiểu Hoàng Tử trong Quán Rượu Đuôi Mèo, và giành chiến thắng trong độ khó Đánh Giải Trí với Fatui - Người Xử Lý Nợ Hỏa",
 	"skills": [
 		{
 			"id": 23011,

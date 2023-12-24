@@ -1,7 +1,13 @@
 {
+	"id": 38,
 	"name": "Sumeru - ที่ราบทรายสีทอง: ตอนที่ 2",
+<<<<<<< HEAD
 	"sortorder": 42,
+=======
+	"sortOrder": 42,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210151,
 		"name": "Sumeru - หมอกทราย"
 	}
 }

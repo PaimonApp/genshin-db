@@ -1,9 +1,15 @@
 {
+	"id": 101692,
 	"name": "Işık Diyarı Mührü",
+	"rarity": 3,
+	"sortRank": 430041,
 	"description": "Enkanomiya'nın Tokoyo Ookami'sinin itibarını temsil eden bir işaret.\nBunlar Watatsumi Müritler Heykeline sunularak Bokuso Kutusu geliştirilebilir.",
+<<<<<<< HEAD
 	"sortorder": 4950,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Sarf Malzemesi",
-	"source": []
+	"typeText": "Sarf Malzemesi",
+	"sources": []
 }

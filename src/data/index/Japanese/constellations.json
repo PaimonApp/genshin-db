@@ -11,6 +11,10 @@
 		"bennett": "ベネット",
 		"candace": "キャンディス",
 		"charlotte": "シャルロット",
+<<<<<<< HEAD
+=======
+		"chevreuse": "シュヴルーズ",
+>>>>>>> upstream/main
 		"chongyun": "重雲",
 		"collei": "コレイ",
 		"cyno": "セノ",
@@ -44,6 +48,10 @@
 		"mika": "ミカ",
 		"mona": "モナ",
 		"nahida": "ナヒーダ",
+<<<<<<< HEAD
+=======
+		"navia": "ナヴィア",
+>>>>>>> upstream/main
 		"neuvillette": "ヌヴィレット",
 		"nilou": "ニィロウ",
 		"ningguang": "凝光",
@@ -92,6 +100,10 @@
 		"ベネット": "bennett",
 		"キャンディス": "candace",
 		"シャルロット": "charlotte",
+<<<<<<< HEAD
+=======
+		"シュヴルーズ": "chevreuse",
+>>>>>>> upstream/main
 		"重雲": "chongyun",
 		"コレイ": "collei",
 		"セノ": "cyno",
@@ -125,6 +137,10 @@
 		"ミカ": "mika",
 		"モナ": "mona",
 		"ナヒーダ": "nahida",
+<<<<<<< HEAD
+=======
+		"ナヴィア": "navia",
+>>>>>>> upstream/main
 		"ヌヴィレット": "neuvillette",
 		"ニィロウ": "nilou",
 		"凝光": "ningguang",

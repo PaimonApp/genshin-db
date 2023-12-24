@@ -1,9 +1,15 @@
 {
+	"id": 101714,
 	"name": "Assaisonnement parfumé",
+	"rarity": 1,
+	"sortRank": 10,
 	"description": "Un assaisonnement créé à partir d'une recette de Nazafarin. Grâce à son arôme intense, il peut rehausser la saveur de tout plat auquel il est ajouté.",
+<<<<<<< HEAD
 	"sortorder": 977,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Consommable",
-	"source": []
+	"typeText": "Consommable",
+	"sources": []
 }

@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "Perayaan: Melodi Agung",
 	"description": "Style Kartu Nama.\nSeiring dengan turunnya hujan, pohon-pohon di pegunungan pun ikut bernyanyi.",
 	"sortorder": 210177,
+=======
+	"id": 210177,
+	"name": "Perayaan: Melodi Agung",
+	"description": "Style Kartu Nama.\nSeiring dengan turunnya hujan, pohon-pohon di pegunungan pun ikut bernyanyi.",
+	"sortOrder": 210177,
+>>>>>>> upstream/main
 	"source": [
 		"Didapatkan dari event Genshin Concert"
 	]

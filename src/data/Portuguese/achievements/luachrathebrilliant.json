@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "\"Luachra, a Brilhante\"",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1377,
+=======
+	"id": [
+		81393
+	],
+	"name": "\"Luachra, a Brilhante\"",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1377,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"Luachra, a Brilhante\"",
 		"description": "Derrota a Lenda Local Luachra, a Brilhante",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

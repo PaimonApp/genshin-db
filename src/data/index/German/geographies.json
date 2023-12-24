@@ -424,7 +424,7 @@
 		]
 	},
 	"properties": {
-		"region": [
+		"regionName": [
 			"Sumeru",
 			"Mondstadt",
 			"Fontaine",

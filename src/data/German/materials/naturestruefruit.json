@@ -1,9 +1,15 @@
 {
+	"id": 222002,
 	"name": "„Wahre Frucht des Waldes“",
+	"rarity": 4,
+	"sortRank": 410011,
 	"description": "Eine Frucht mit einem wunderbaren Aroma. Sie wurde von Bolle, dem Kannengeist auf der Durchreise, als Andenken aus Sumeru zurückgebracht.\nAllein der Geruch dieser Frucht erzeugt bestimmte Bilder in deinem Kopf. Du kannst die Raumschaffung verwenden, um die wundersame Landschaft von Sumeru in das Kannenreich zu übertragen ...",
+<<<<<<< HEAD
 	"sortorder": 4855,
 	"rarity": "4",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Verbrauchsgegenstand",
-	"source": []
+	"typeText": "Verbrauchsgegenstand",
+	"sources": []
 }

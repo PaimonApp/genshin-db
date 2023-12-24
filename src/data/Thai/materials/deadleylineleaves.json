@@ -1,11 +1,23 @@
 {
+	"id": 112021,
 	"name": "Dead Ley Line Leaves",
+	"rarity": 3,
+	"sortRank": 10107,
 	"description": "กิ่งไม้ที่แตกสาขาในใต้ดิน แม้มันจะมาไกลจากต้นของมัน แต่ก็ยังคงสัมผัสได้ถึงพลังที่ซ่อนอยู่ และพร้อมที่จะปะทุขึ้นมาได้ทุกเมื่อ",
+<<<<<<< HEAD
 	"sortorder": 3052,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "วัสดุยกระดับตัวละครและอาวุธ",
 	"source": [
 		"ได้รับจากการสรรสร้าง"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "วัสดุยกระดับตัวละครและอาวุธ",
+	"sources": [
+		"ได้รับจากการสรรสร้าง",
+		"ดรอปจาก Abyss Mage Lv.40 ขึ้นไป",
+		"แลกเปลี่ยนด้วย Stardust"
+>>>>>>> upstream/main
 	]
 }

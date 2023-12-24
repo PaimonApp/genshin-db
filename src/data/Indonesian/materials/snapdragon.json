@@ -1,10 +1,15 @@
 {
+	"id": 100015,
 	"name": "Snapdragon",
+	"sortRank": 321,
 	"description": "Tumbuhan yang dapat dimakan setelah dimasak. Memberikan rasa yang unik saat dipakai sebagai bumbu masak.",
+<<<<<<< HEAD
 	"sortorder": 2904,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Ditemukan di dekat danau dan tepi sungai"
 	]
 }

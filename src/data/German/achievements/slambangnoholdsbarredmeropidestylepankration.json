@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Explosives Eisenkisten-Pankration",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1374,
+=======
+	"id": [
+		81390
+	],
+	"name": "Explosives Eisenkisten-Pankration",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1374,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Explosives Eisenkisten-Pankration",
 		"description": "Führe Geneviève und Poiret im Unterhaltungsturnier zum Sieg.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

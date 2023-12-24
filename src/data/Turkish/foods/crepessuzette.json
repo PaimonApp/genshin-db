@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Krep Süzet",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Maceracının Yemeği",
 	"foodcategory": "Other_SPReduceConsume",
+=======
+	"id": 3415,
+	"name": "Krep Süzet",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "Maceracının Yemeği",
+>>>>>>> upstream/main
 	"effect": "900 saniyeliğine tüm grup üyeleri için uçuş ve depar esnasında harcanan Dayanıklılığı %15 ila %25 azaltır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "İçi dolgulu krepler. Krepler kızartılır ve daha sonra reçel, krema ve meyve dilimleriyle servis edilir. Aslında tarifin birçok çeşidi bulunmaktadır ve tadı, kullanılan malzemelere göre farklılık gösterir.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 101230,
+>>>>>>> upstream/main
 			"name": "Bulle Meyvesi",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Krema",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110008,
+>>>>>>> upstream/main
 			"name": "Reçel",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Un",
 			"count": 1
 		}

@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Tapınak Kaşifi: Ahenkli Pınarların Diyarı (III)",
 	"achievementgroup": "Fontaine: Çiy Beyazı Pınarların Dansı (III)",
 	"sortorder": 264,
+=======
+	"id": [
+		80288
+	],
+	"name": "Tapınak Kaşifi: Ahenkli Pınarların Diyarı (III)",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (III)",
+	"sortOrder": 264,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Tapınak Kaşifi: Ahenkli Pınarların Diyarı (III)",
 		"description": "Fontaine'in şu bölgelerindeki tüm Derinlikler Tapınaklarının kilidini aç: Morte Bölgesi ve Erinnyes Ormanı.",
 		"progress": 2,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 10
 		}

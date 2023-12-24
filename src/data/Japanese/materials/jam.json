@@ -1,10 +1,15 @@
 {
+	"id": 110008,
 	"name": "ジャム",
+	"sortRank": 322,
 	"description": "果物と砂糖を煮詰めて作ったゲル状の物質。少し食べるだけでも疲れをとってくれる味だ。",
+<<<<<<< HEAD
 	"sortorder": 2953,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "食材",
-	"source": [
+	"typeText": "食材",
+	"sources": [
 		"食材加工で獲得"
 	]
 }

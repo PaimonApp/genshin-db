@@ -1,9 +1,10 @@
 {
+	"id": 3410,
 	"name": "咖啡芭芭露",
-	"rarity": "3",
+	"rarity": 3,
 	"foodtype": "NORMAL",
-	"foodfilter": "恢復類料理",
-	"foodcategory": "Recovery_HpAddAll",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "恢復類料理",
 	"effect": "為選中的角色恢復生命值上限的26%-30%。\n並在之後的30秒內，每5秒恢復450-790點生命值。",
 	"description": "沁涼的甜點。身為楓丹的代表性甜點，製作方法卻十分輕鬆簡單，只要食材比例得當幾乎不會失敗。細膩之餘還帶有一絲冰涼的口感，能讓人瞬間打起精神。",
 	"suspicious": {
@@ -20,18 +21,22 @@
 	},
 	"ingredients": [
 		{
+			"id": 100098,
 			"name": "咖啡豆",
 			"count": 4
 		},
 		{
+			"id": 100078,
 			"name": "牛奶",
 			"count": 3
 		},
 		{
+			"id": 100062,
 			"name": "鳥蛋",
 			"count": 3
 		},
 		{
+			"id": 110002,
 			"name": "鮮奶油",
 			"count": 2
 		}

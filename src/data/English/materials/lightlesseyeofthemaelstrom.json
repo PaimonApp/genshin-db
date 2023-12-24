@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Lightless Eye of the Maelstrom",
 	"description": "A strange \"substance\" obtained from fighting against the All-Devouring Narwhal. Its actual weight far exceeds what would be expected given its size.\nEverything gathers around heavy objects, just as gold attracts more than iron, or the ground more than in the breeze blowing above. Just as light cannot escape from the vortex of darkness, cause and effect is attached to fate, perhaps irreversibly so.",
 	"sortorder": 3154,
@@ -6,4 +7,16 @@
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character Level-Up Material",
 	"source": []
+=======
+	"id": 113055,
+	"name": "Lightless Eye of the Maelstrom",
+	"rarity": 5,
+	"sortRank": 11101,
+	"description": "A strange \"substance\" obtained from fighting against the All-Devouring Narwhal. Its actual weight far exceeds what would be expected given its size.\nEverything gathers around heavy objects, just as gold attracts more than iron, or the ground more than in the breeze blowing above. Just as light cannot escape from the vortex of darkness, cause and effect is attached to fate, perhaps irreversibly so.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Character Level-Up Material",
+	"sources": [
+		"Lv. 70+ All-Devouring Narwhal Challenge Reward"
+	]
+>>>>>>> upstream/main
 }

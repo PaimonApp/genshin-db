@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "แนวหน้าแรงโน้มถ่วง",
 	"achievementgroup": "ผู้ท้าทาย - ชุดที่ 8",
 	"sortorder": 2181,
+=======
+	"id": [
+		82182
+	],
+	"name": "แนวหน้าแรงโน้มถ่วง",
+	"achievementGroupId": 40,
+	"achievementGroupName": "ผู้ท้าทาย - ชุดที่ 8",
+	"sortOrder": 2181,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "แนวหน้าแรงโน้มถ่วง",
 		"description": "เอาชนะ Experimental Field Generator โดยไม่โดน \"ระลอกแรงโน้มถ่วง\"",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

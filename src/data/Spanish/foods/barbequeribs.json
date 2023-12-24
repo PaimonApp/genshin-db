@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Costillas a la parrilla",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que regeneran Vida",
 	"foodcategory": "Recovery_HpAdd",
+=======
+	"id": 2407,
+	"name": "Costillas a la parrilla",
+	"rarity": 2,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Platos que regeneran Vida",
+>>>>>>> upstream/main
 	"effect": "Restaura un 20%-24% de Vida Máx. al personaje seleccionado, además de 900-1500 pts. de Vida adicionales.",
 	"description": "Un plato de carne envuelta en piel crujiente. Las costillas se doran ligeramente por fuera, luego se unta la piel crujiente en salsa y se sazona. Finalmente, se asan lentamente a baja temperatura. Con un buen control del calor se obtiene una piel crujiente y una carne jugosa.",
 	"suspicious": {
@@ -20,14 +29,26 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Carne cruda",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100077,
+>>>>>>> upstream/main
 			"name": "Pimienta",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Jazmimpoluto",
 			"count": 1
 		}

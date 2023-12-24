@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "À la volonté du peuple",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1408,
+=======
+	"id": [
+		81424
+	],
+	"name": "À la volonté du peuple",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1408,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "À la volonté du peuple",
 		"description": "Ottieni la promessa della rosa arcobaleno.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

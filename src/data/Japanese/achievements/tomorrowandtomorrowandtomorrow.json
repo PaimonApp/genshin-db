@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "明日をもって交換する明日",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1390,
+=======
+	"id": [
+		81406
+	],
+	"name": "明日をもって交換する明日",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1390,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "明日をもって交換する明日",
 		"description": "パシーフに別れの挨拶の仕方を教える。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

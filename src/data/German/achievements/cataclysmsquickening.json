@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Die die ersten Bewegungen verkündenden letzten Minuten",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 5090,
+=======
+	"id": [
+		84311
+	],
+	"name": "Die die ersten Bewegungen verkündenden letzten Minuten",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 5090,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Die die ersten Bewegungen verkündenden letzten Minuten",
 		"description": "Schließe „Die die ersten Bewegungen verkündenden letzten Minuten“ ab.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 10
 		}

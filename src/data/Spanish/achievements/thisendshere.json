@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Hasta aquí hemos llegado",
 	"achievementgroup": "Fontaine: Un espectáculo de aguas cristalinas (II)",
 	"sortorder": 261,
+=======
+	"id": [
+		80285
+	],
+	"name": "Hasta aquí hemos llegado",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine: Un espectáculo de aguas cristalinas (II)",
+	"sortOrder": 261,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Hasta aquí hemos llegado",
 		"description": "Sé testigo de la historia del Instituto de Investigación Científica e Ingeniería de Energía Cinética de Fontaine.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 10
 		}

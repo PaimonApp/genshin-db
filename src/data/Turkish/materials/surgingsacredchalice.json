@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Yükselen Kutsal Kadeh",
 	"description": "Nergis Haçı'nın Kılıcı için özel saflaştırma malzemesi.\nKadim Fontaine'de deniz kabukları, ayinlerde kullanılan eşyaları yaparken en çok tercih edilen malzemelerdi ve kutsal kadeh olarak seçilen bu deniz kabuğundan sonunda merhemler çıkmıştı. Sembolik olarak bakıldığında bu kadeh ilk sözü, içindeki yağ güçlü iradeyi, kutsal kılıç da her şeye üstün gelen aklı temsil eder.",
 	"sortorder": 2769,
@@ -6,4 +7,14 @@
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Saflaştırma Malzemesi",
 	"source": []
+=======
+	"id": 200118,
+	"name": "Yükselen Kutsal Kadeh",
+	"rarity": 4,
+	"sortRank": 90,
+	"description": "Nergis Haçı'nın Kılıcı için özel saflaştırma malzemesi.\nKadim Fontaine'de deniz kabukları, ayinlerde kullanılan eşyaları yaparken en çok tercih edilen malzemelerdi ve kutsal kadeh olarak seçilen bu deniz kabuğundan sonunda merhemler çıkmıştı. Sembolik olarak bakıldığında bu kadeh ilk sözü, içindeki yağ güçlü iradeyi, kutsal kılıç da her şeye üstün gelen aklı temsil eder.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Saflaştırma Malzemesi",
+	"sources": []
+>>>>>>> upstream/main
 }

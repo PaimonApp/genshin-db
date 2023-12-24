@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Спасибо за вашу поддержку!",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1386,
+=======
+	"id": [
+		81402
+	],
+	"name": "Спасибо за вашу поддержку!",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1386,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Спасибо за вашу поддержку!",
 		"description": "Вытяните билетик с гаданием, обещающий двойную удачу.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

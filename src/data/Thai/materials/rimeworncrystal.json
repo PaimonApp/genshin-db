@@ -1,9 +1,15 @@
 {
+	"id": 200102,
 	"name": "Rime-Worn Crystal",
+	"rarity": 3,
+	"sortRank": 430061,
 	"description": "คริสตัลที่มาจากมอนสเตอร์ใน Dragonspine\nมักจะเกิดในช่วงเวลาที่พิเศษเสมอ",
+<<<<<<< HEAD
 	"sortorder": 4961,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "วัสดุสำหรับ Dragonspine",
-	"source": []
+	"typeText": "วัสดุสำหรับ Dragonspine",
+	"sources": []
 }

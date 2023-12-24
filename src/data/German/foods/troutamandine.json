@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Forelle Amandine",
 	"rarity": "1",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gericht zur LP-Wiederherstellung",
 	"foodcategory": "Recovery_HpAddAll",
+=======
+	"id": 1402,
+	"name": "Forelle Amandine",
+	"rarity": 1,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Gericht zur LP-Wiederherstellung",
+>>>>>>> upstream/main
 	"effect": "Stellt der gewählten Figur 8 bis 10 % LP wieder her.\nStellt innerhalb der nächsten 30 s alle 5 s 210 bis 300 LP wieder her.",
 	"description": "In Öl gebratene große Fischfiletstücke. Die Filets werden zunächst in Butter angebraten, dann werden die Mandeln knusprig geröstet und alles zusammen serviert. Traditionell wird eigentlich die ganze Forelle verarbeitet und dann direkt in die Pfanne gegeben. Zuletzt hat es sich jedoch durchgesetzt, dass nur die Filets gebraten werden.",
 	"suspicious": {
@@ -20,10 +29,18 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100084,
+>>>>>>> upstream/main
 			"name": "Fisch",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Mandeln",
 			"count": 1
 		}

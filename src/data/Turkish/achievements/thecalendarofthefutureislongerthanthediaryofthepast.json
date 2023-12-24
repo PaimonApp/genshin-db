@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Gelecek, Geçmişten Uzundur",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1368,
+=======
+	"id": [
+		81384
+	],
+	"name": "Gelecek, Geçmişten Uzundur",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1368,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Gelecek, Geçmişten Uzundur",
 		"description": "Hepimizin önünde parlak bir gelecek var...",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

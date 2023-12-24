@@ -1,11 +1,23 @@
 {
+	"id": 112054,
 	"name": "Spectral Heart",
+	"rarity": 2,
+	"sortRank": 10118,
 	"description": "Inti energi yang membuat Specter dapat melayang.\nMakhluk elemental seperti ini memiliki pola kebiasaan yang aneh, dapat memunculkan diri dan menghilang dalam jumlah banyak secara berkala.",
+<<<<<<< HEAD
 	"sortorder": 3085,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": [
 		"Didapatkan melalui Craft"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Penguatan Senjata dan Karakter",
+	"sources": [
+		"Didapatkan melalui Craft",
+		"Dijatuhkan oleh Specter Lv. 40+",
+		"Penukaran Stardust"
+>>>>>>> upstream/main
 	]
 }

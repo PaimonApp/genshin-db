@@ -1,10 +1,15 @@
 {
+	"id": 110003,
 	"name": "Carne de Ave Defumada",
+	"sortRank": 322,
 	"description": "Uma ave que foi defumada. Sua textura firme traz um novo sabor aos pratos.",
+<<<<<<< HEAD
 	"sortorder": 2949,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Processado"
 	]
 }

@@ -1,7 +1,13 @@
 {
+	"id": 35,
 	"name": "수메르·황금 모래사장·첫 번째",
+<<<<<<< HEAD
 	"sortorder": 41,
+=======
+	"sortOrder": 41,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210138,
 		"name": "수메르·모래 밟기"
 	}
 }

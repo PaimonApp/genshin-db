@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Konsome",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Saldırı Artırıcı Yemek",
 	"foodcategory": "Atk_CritRate",
+=======
+	"id": 3413,
+	"name": "Konsome",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Saldırı Artırıcı Yemek",
+>>>>>>> upstream/main
 	"effect": "300 saniyeliğine tüm grup üyelerinin Kritik Oranını %10 ila %20 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Tarifi karmaşık bir çorba. Malzemeler ezilerek püre haline getirilir ve et suyunda haşlanır. Daha sonra bu püreli et suyu süzülür ve çorba olarak servis edilir. Fontaine sokaklarında dolaşan gizemli bir söylentiye göre, hiç ilham bulamayan bir yazar bu çorbayı içtikten sonra resmen ilham patlaması yaşamış... Böylesine inanılmaz bir etki, çorbacının yalan yanlış reklamından başka bir şey olamaz herhalde, değil mi?",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100064,
+>>>>>>> upstream/main
 			"name": "Kuş Eti",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Kuş Yumurtası",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "Havuç",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

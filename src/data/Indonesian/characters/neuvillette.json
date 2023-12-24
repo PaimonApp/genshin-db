@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Neuvillette",
 	"fullname": "Neuvillette",
 	"title": "Ordainer of Inexorable Judgment",
@@ -14,6 +15,27 @@
 	"affiliation": "Court of Fontaine",
 	"birthdaymmdd": "12/18",
 	"birthday": "18 Desember",
+=======
+	"id": 10000087,
+	"name": "Neuvillette",
+	"title": "Ordainer of Inexorable Judgment",
+	"description": "Hakim Agung Fontaine yang bergelar Iudex. Terkenal karena selalu adil dan tidak berpihak.",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "Catalyst",
+	"bodyType": "BODY_MALE",
+	"gender": "Pria",
+	"qualityType": "QUALITY_ORANGE",
+	"rarity": 5,
+	"birthdaymmdd": "12/18",
+	"birthday": "18 Desember",
+	"elementType": "ELEMENT_HYDRO",
+	"elementText": "Hydro",
+	"affiliation": "Court of Fontaine",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "Fontaine",
+	"substatType": "FIGHT_PROP_CRITICAL_HURT",
+	"substatText": "CRIT DMG",
+>>>>>>> upstream/main
 	"constellation": "???",
 	"cv": {
 		"english": "Ray Chase",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104121,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Sliver",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "Lumitoile",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112080,
+>>>>>>> upstream/main
 				"name": "Transoceanic Pearl",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104122,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Fragment",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "Fontemer Unihorn",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "Lumitoile",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112080,
+>>>>>>> upstream/main
 				"name": "Transoceanic Pearl",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104122,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Fragment",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "Fontemer Unihorn",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "Lumitoile",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112081,
+>>>>>>> upstream/main
 				"name": "Transoceanic Chunk",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104123,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Chunk",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "Fontemer Unihorn",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "Lumitoile",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112081,
+>>>>>>> upstream/main
 				"name": "Transoceanic Chunk",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104123,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Chunk",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "Fontemer Unihorn",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "Lumitoile",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112082,
+>>>>>>> upstream/main
 				"name": "Xenochromatic Crystal",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104124,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Gemstone",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "Fontemer Unihorn",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "Lumitoile",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112082,
+>>>>>>> upstream/main
 				"name": "Xenochromatic Crystal",
 				"count": 24
 			}

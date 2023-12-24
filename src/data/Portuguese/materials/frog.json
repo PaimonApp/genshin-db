@@ -1,10 +1,15 @@
 {
+	"id": 100081,
 	"name": "Sapo",
+	"sortRank": 320,
 	"description": "Um sapo comum encontrado em ambientes úmidos. Cheio de energia, eles secretam uma substância que pode revigorá-lo.",
+<<<<<<< HEAD
 	"sortorder": 2893,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Encontrado Perto das Águas Doces"
 	]
 }

@@ -1,11 +1,18 @@
 {
+	"id": 305,
 	"name": "Anemo Sigil",
+<<<<<<< HEAD
 	"description": "เครื่องหมายที่แสดงว่าได้รับการยอมรับจากลมพายุแห่ง Mondstadt \nใช้สำหรับแลกเปลี่ยนไอเทมพิเศษ ในสถานที่เฉพาะของเมือง Mondstadt",
 	"sortorder": 4931,
 	"rarity": "3",
+=======
+	"rarity": 3,
+	"sortRank": 430001,
+	"description": "เครื่องหมายที่แสดงว่าได้รับการยอมรับจากลมพายุแห่ง Mondstadt \nใช้สำหรับแลกเปลี่ยนไอเทมพิเศษ ในสถานที่เฉพาะของเมือง Mondstadt",
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "เครื่องหมายธาตุ",
-	"source": [
+	"typeText": "เครื่องหมายธาตุ",
+	"sources": [
 		"รางวัลการสำรวจ Mondstadt"
 	]
 }

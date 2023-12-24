@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "콩소메",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "공격류 요리",
 	"foodcategory": "Atk_CritRate",
+=======
+	"id": 3413,
+	"name": "콩소메",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "공격류 요리",
+>>>>>>> upstream/main
 	"effect": "파티 내 모든 캐릭터의 치명타 확률이 10%-20% 증가한다. 지속 시간: 300초\n다인 모드 시 자신의 캐릭터에만 적용된다",
 	"description": "조리 단계가 많은 수프. 식자재를 갈아서 육수와 함께 끓인 후 걸러서 맑은 육수만 먹는다. 폰타인 거리에 떠도는 신비로운 소문에 따르면 영감이 없는 작가가 이걸 마시면 영감이 폭발한다고 한다…. 혹시 그 신기한 효과는 가게에서 지어낸 말이 아닐까?",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100064,
+>>>>>>> upstream/main
 			"name": "새고기",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "새알",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "당근",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "마코트 풀",
 			"count": 1
 		}

@@ -1,10 +1,15 @@
 {
+	"id": 100014,
 	"name": "Radish",
+	"sortRank": 321,
 	"description": "พืชหัวที่สามารถเพาะปลูก และเก็บเกี่ยวได้ง่าย อุดมไปด้วย เส้นใยและสารอาหาร",
+<<<<<<< HEAD
 	"sortorder": 2903,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "วัตถุดิบประกอบอาหาร",
-	"source": [
+	"typeText": "วัตถุดิบประกอบอาหาร",
+	"sources": [
 		"พบได้ในโลกกว้าง"
 	]
 }

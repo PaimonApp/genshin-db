@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "O Guia do Mochileiro das Galáxias",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 2187,
+=======
+	"id": [
+		82188
+	],
+	"name": "O Guia do Mochileiro das Galáxias",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2187,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "O Guia do Mochileiro das Galáxias",
 		"description": "Entre na barriga da besta duas vezes em um único desafio.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 10
 		}

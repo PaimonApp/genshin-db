@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
 	"name": "Fontaine: Un espectáculo de aguas cristalinas (II)",
 	"sortorder": 46,
 	"reward": {
+=======
+	"id": 45,
+	"name": "Fontaine: Un espectáculo de aguas cristalinas (II)",
+	"sortOrder": 46,
+	"reward": {
+		"id": 210179,
+>>>>>>> upstream/main
 		"name": "Fontaine - Expiación"
 	}
 }

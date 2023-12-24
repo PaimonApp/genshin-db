@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Mata Air Segala Penjuru (II)",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
 	"sortorder": 249,
+=======
+	"id": [
+		80273
+	],
+	"name": "Mata Air Segala Penjuru (II)",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
+	"sortOrder": 249,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Mata Air Segala Penjuru (II)",
 		"description": "Buka seluruh Teleport Waypoint di area Fontaine berikut: Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 22,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

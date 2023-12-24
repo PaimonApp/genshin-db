@@ -1,7 +1,13 @@
 {
+	"id": 12,
 	"name": "Geschichten vom Hafen der Steine – Reihe 1",
+<<<<<<< HEAD
 	"sortorder": 25,
+=======
+	"sortOrder": 25,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210032,
 		"name": "Errungenschaft – Bekannte Geschichten"
 	}
 }

@@ -1,8 +1,13 @@
 {
+	"id": 101404,
 	"name": "Teinture bleue",
+	"sortRank": 331,
 	"description": "Teinture de couleur bleue. Cet objet vous sera utile dans la fabrication de décorations.",
+<<<<<<< HEAD
 	"sortorder": 2985,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Matériau",
-	"source": []
+	"typeText": "Matériau",
+	"sources": []
 }

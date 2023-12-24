@@ -1,9 +1,23 @@
 {
+	"id": 112059,
 	"name": "Esporo de Cogumelo Flutuante",
+	"rarity": 1,
+	"sortRank": 10121,
 	"description": "Uma pequena quantidade de esporos cintilantes que foi deixado pelos Cogumelos Flutuantes. Parece que tudo que é preciso para que desapareça completamente é um espirro.",
+<<<<<<< HEAD
 	"sortorder": 3095,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Fortalecimento de Arma e Personagem",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de Fortalecimento de Arma e Personagem",
+	"sources": [
+		"Dropado por Cogumelos",
+		"Dropado raramente por Cogumelos (Estado Ativo)",
+		"Dropado raramente por Cogumelos (Estado Queimado)",
+		"Resgate de Poeira Estrelar"
+	]
+>>>>>>> upstream/main
 }

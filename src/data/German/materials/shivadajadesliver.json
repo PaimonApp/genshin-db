@@ -1,11 +1,17 @@
 {
+	"id": 104161,
 	"name": "Shivada-Jade-Splitter",
+	"rarity": 2,
+	"sortRank": 12107,
 	"description": "Material für den Figurenaufstieg.",
+<<<<<<< HEAD
 	"sortorder": 3212,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Material für den Figurenaufstieg",
-	"source": [
+	"typeText": "Material für den Figurenaufstieg",
+	"sources": [
 		"Beute von Fluxeisbäumen",
 		"Beute von Kryo-Hypostasen",
 		"Bei Andenkenhändlern zu erhalten"

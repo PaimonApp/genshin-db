@@ -1,9 +1,21 @@
 {
+	"id": 112065,
 	"name": "Cetim Vermelho Desbotado",
+	"rarity": 1,
+	"sortRank": 10123,
 	"description": "Um cetim vermelho levemente rasgado, usado para cobrir os olhos.\nMuitas vezes pessoas de Eremitas cobrem os seus olhos com tecido, e o registro desse comportamento já está perdido há muito no tempo.",
+<<<<<<< HEAD
 	"sortorder": 3101,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Fortalecimento de Arma e Personagem",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de Fortalecimento de Arma e Personagem",
+	"sources": [
+		"Dropado pelos Eremitas",
+		"Resgate de Poeira Estrelar"
+	]
+>>>>>>> upstream/main
 }

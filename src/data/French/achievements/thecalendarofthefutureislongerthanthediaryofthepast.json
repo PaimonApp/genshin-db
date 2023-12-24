@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Plus d'années à venir que passées",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1368,
+=======
+	"id": [
+		81384
+	],
+	"name": "Plus d'années à venir que passées",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1368,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Plus d'années à venir que passées",
 		"description": "Nous avons tous un avenir brillant...",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

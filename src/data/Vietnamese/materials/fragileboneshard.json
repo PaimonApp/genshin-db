@@ -1,9 +1,23 @@
 {
+	"id": 112041,
 	"name": "Mảnh Xương Giòn Yếu",
+	"rarity": 2,
+	"sortRank": 10114,
 	"description": "Mảnh xương được tìm thấy trên người rồng đất.\nCho dù rất giòn, nhưng trong đó chứa đựng sức mạnh không thể diễn tả bằng lời.",
+<<<<<<< HEAD
 	"sortorder": 3074,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sources": [
+		"Rồng Đất Nhỏ - Nham rơi",
+		"Rồng Đất Nham rơi",
+		"Rồng Biển Sâu rơi",
+		"Đổi từ Tinh Trần"
+	]
+>>>>>>> upstream/main
 }

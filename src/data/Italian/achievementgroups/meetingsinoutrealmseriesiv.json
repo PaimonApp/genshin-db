@@ -1,7 +1,13 @@
 {
+	"id": 44,
 	"name": "Incontri in un altro mondo: Serie IV",
+<<<<<<< HEAD
 	"sortorder": 29,
+=======
+	"sortOrder": 29,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210169,
 		"name": "Obiettivo: Orbite"
 	}
 }

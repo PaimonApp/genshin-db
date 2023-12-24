@@ -1,8 +1,13 @@
 {
+	"id": 101401,
 	"name": "Vải Vóc",
+	"sortRank": 331,
 	"description": "Vải chất lượng tốt, có thể dùng để chế tạo đồ trang trí.",
+<<<<<<< HEAD
 	"sortorder": 2982,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Nguyên Liệu",
-	"source": []
+	"typeText": "Nguyên Liệu",
+	"sources": []
 }

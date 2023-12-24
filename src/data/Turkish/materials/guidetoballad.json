@@ -1,17 +1,24 @@
 {
+	"id": 104308,
 	"name": "Şiir Rehberi",
+	"rarity": 3,
+	"sortRank": 13103,
 	"description": "Yetenek Seviyesi Yükseltme malzemesi.\nŞiirler, rüzgar diyarının hayat bulmuş halidir.\nŞiirler insanı yüreklendiren bir dost gibidir. Karanlık günlerde sokak aralarında esen kasvetli rüzgarlar; savaş davulları ve fırtına öncesi beliren alçak sesli gümbürtüler gibi öfkeli mısralar fısıldar.",
+<<<<<<< HEAD
 	"sortorder": 3224,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Karakter Yeteneği Malzemesi",
-	"dropdomain": "Ustalık Zindanı: Uyku Diyarı",
-	"daysofweek": [
+	"typeText": "Karakter Yeteneği Malzemesi",
+	"dropDomainId": 4231,
+	"dropDomainName": "Ustalık Zindanı: Uyku Diyarı",
+	"daysOfWeek": [
 		"Çarşamba",
 		"Cumartesi",
 		"Pazar"
 	],
-	"source": [
+	"sources": [
 		"Üretilir."
 	]
 }

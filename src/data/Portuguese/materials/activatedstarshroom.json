@@ -1,10 +1,15 @@
 {
+	"id": 101226,
 	"name": "Cogumelo Estrelar Florindo",
+	"sortRank": 90000,
 	"description": "Um fungo em forma de estrela de cinco pontas. É bastante resistente e parece estar cheio de energia.",
+<<<<<<< HEAD
 	"sortorder": 3419,
+=======
+>>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"materialtype": "Alimento",
-	"source": [
+	"typeText": "Alimento",
+	"sources": [
 		"Encontrado na natureza"
 	]
 }

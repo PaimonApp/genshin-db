@@ -1,7 +1,17 @@
 {
+<<<<<<< HEAD
 	"name": "Symonie Sem Sombra",
 	"achievementgroup": "Fontaine: Dança das Fontes Brancas de Orvalho III",
 	"sortorder": 274,
+=======
+	"id": [
+		80298
+	],
+	"name": "Symonie Sem Sombra",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho III",
+	"sortOrder": 274,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Symonie Sem Sombra",
@@ -9,6 +19,10 @@
 		"description": "Conheça uma fada misteriosa em Erinnyes.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 10
 		}

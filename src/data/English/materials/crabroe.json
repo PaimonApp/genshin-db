@@ -1,10 +1,15 @@
 {
+	"id": 100074,
 	"name": "Crab Roe",
+	"sortRank": 322,
 	"description": "A delicacy specific to female crabs. A rare and prized ingredient that isn't quite to everyone's taste.",
+<<<<<<< HEAD
 	"sortorder": 2945,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Cooking Ingredient",
-	"source": [
+	"typeText": "Cooking Ingredient",
+	"sources": [
 		"Processed"
 	]
 }

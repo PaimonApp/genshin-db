@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Guida galattica per autostoppisti",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 2187,
+=======
+	"id": [
+		82188
+	],
+	"name": "Guida galattica per autostoppisti",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 2187,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Guida galattica per autostoppisti",
 		"description": "Entra nella pancia della bestia due volte durante una sfida singola.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 10
 		}

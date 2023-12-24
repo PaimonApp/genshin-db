@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Dâng Thủy Thần",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Phòng Ngự",
 	"foodcategory": "Def_Add",
+=======
+	"id": 3416,
+	"name": "Dâng Thủy Thần",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Món Dạng Phòng Ngự",
+>>>>>>> upstream/main
 	"effect": "Tăng 20%-25% giới hạn HP cho tất cả nhân vật trong đội, duy trì 300 giây.\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Bánh kem dạng dài. Nghe nói rất lâu trước đây, một thợ làm bánh kem nào đó đã lấy tình yêu mến của dân chúng Fontaine đối với Thủy Thần làm cảm hứng sáng tạo ra chiếc bánh này. Nhiều lớp bánh được xếp chồng lên nhau, quy trình làm bánh đầy tính thử thách tài nghệ của người thợ, đủ để chứng minh tầm ảnh hưởng của Thủy Thần.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Trứng Chim",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Bột Mì",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "Hạt Cà Phê",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Hạnh Nhân",
 			"count": 2
 		}

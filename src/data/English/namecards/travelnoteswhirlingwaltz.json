@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "Travel Notes: Whirling Waltz",
 	"description": "Namecard style.\nEven if the clockwork stops ticking, even if the puppets stop stepping forward. Though our memories be frozen eternally as coral, do not forget our adventures and the time we spent together.",
 	"sortorder": 210183,
+=======
+	"id": 210183,
+	"name": "Travel Notes: Whirling Waltz",
+	"description": "Namecard style.\nEven if the clockwork stops ticking, even if the puppets stop stepping forward. Though our memories be frozen eternally as coral, do not forget our adventures and the time we spent together.",
+	"sortOrder": 210183,
+>>>>>>> upstream/main
 	"source": [
 		"BP Reward"
 	]

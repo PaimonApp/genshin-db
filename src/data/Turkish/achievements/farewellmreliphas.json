@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Elveda Bay Eliphas",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1395,
+=======
+	"id": [
+		81411
+	],
+	"name": "Elveda Bay Eliphas",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1395,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Elveda Bay Eliphas",
 		"description": "Eliphas'ı yen.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

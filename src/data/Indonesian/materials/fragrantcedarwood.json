@@ -1,12 +1,19 @@
 {
+	"id": 101307,
 	"name": "Fragrant Cedar Wood",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Kayu dari Pohon Aras. Juga dikenal sebagai \"Aras Harum\" karena mengandung minyak alami yang beraroma.\nDapat digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2966,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Ditemukan di alam liar",
-		"Rekomendasi: Ditebang dari Starfell Valley"
+		"Rekomendasi: Ditebang dari Starfell Valley",
+		"Konversi Kayu"
 	]
 }

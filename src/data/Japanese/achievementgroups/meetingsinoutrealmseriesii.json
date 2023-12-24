@@ -1,7 +1,13 @@
 {
+	"id": 21,
 	"name": "異世界の出会い·2",
+<<<<<<< HEAD
 	"sortorder": 27,
+=======
+	"sortOrder": 27,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210086,
 		"name": "アチーブメント·扉"
 	}
 }

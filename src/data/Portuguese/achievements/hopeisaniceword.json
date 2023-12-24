@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Esperança é uma Boa Palavra",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1414,
+=======
+	"id": [
+		81430
+	],
+	"name": "Esperança é uma Boa Palavra",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1414,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Esperança é uma Boa Palavra",
 		"description": "Testemunhe nova vida brotando em uma certa ruína.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

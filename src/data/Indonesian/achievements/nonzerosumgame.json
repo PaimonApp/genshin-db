@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Permainan Bukan Jumlah Nol",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1361,
+=======
+	"id": [
+		81377
+	],
+	"name": "Permainan Bukan Jumlah Nol",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1361,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Permainan Bukan Jumlah Nol",
 		"description": "Selesaikan survei kepuasan di Kantin Bersama.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

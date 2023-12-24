@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "\"Muhteşem Luachra\"",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1377,
+=======
+	"id": [
+		81393
+	],
+	"name": "\"Muhteşem Luachra\"",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1377,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"Muhteşem Luachra\"",
 		"description": "Yerel efsane Muhteşem Luachra'yı yen.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

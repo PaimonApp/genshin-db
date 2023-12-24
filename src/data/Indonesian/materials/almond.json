@@ -1,10 +1,15 @@
 {
+	"id": 100089,
 	"name": "Almond",
+	"sortRank": 321,
 	"description": "Biji dengan bau yang unik, memberikan makanan rasa yang menyegarkan.",
+<<<<<<< HEAD
 	"sortorder": 2927,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Dijual di toko barang kebutuhan di Liyue",
 		"Dijual di toko barang kebutuhan di Fontaine"
 	]

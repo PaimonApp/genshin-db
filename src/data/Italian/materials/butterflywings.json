@@ -1,10 +1,15 @@
 {
+	"id": 100072,
 	"name": "Ali di farfalla",
+	"sortRank": 320,
 	"description": "Ali dai colori vivaci. La polvere che fanno cadere luccica leggermente. Che sia questo che gli permette di volare?",
+<<<<<<< HEAD
 	"sortorder": 2892,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Materiale",
-	"source": [
+	"typeText": "Materiale",
+	"sources": [
 		"Presente in natura"
 	]
 }

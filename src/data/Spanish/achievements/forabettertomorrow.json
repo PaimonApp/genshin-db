@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Por un mejor mañana",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 5094,
+=======
+	"id": [
+		84315
+	],
+	"name": "Por un mejor mañana",
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 5094,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Por un mejor mañana",
 		"description": "La gente ya está reconstruyendo su hogar.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

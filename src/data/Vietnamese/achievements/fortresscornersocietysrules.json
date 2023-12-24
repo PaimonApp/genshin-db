@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Quy Tắc Của Một Góc Xã Hội",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 5085,
+=======
+	"id": [
+		84306
+	],
+	"name": "Quy Tắc Của Một Góc Xã Hội",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 5085,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Quy Tắc Của Một Góc Xã Hội",
 		"description": "Điều tra hai \"quy tắc ngầm\" trong nhà tù.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

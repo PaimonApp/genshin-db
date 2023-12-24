@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Sampai jumpa, Tuan Eliphas",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1395,
+=======
+	"id": [
+		81411
+	],
+	"name": "Sampai jumpa, Tuan Eliphas",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1395,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Sampai jumpa, Tuan Eliphas",
 		"description": "Kalahkan Eliphas.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

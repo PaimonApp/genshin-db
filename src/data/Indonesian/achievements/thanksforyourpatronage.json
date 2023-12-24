@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Terima Kasih Atas Dukungannya!",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1386,
+=======
+	"id": [
+		81402
+	],
+	"name": "Terima Kasih Atas Dukungannya!",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1386,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Terima Kasih Atas Dukungannya!",
 		"description": "Dapatkan slip keberuntungan dua kali lipat.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

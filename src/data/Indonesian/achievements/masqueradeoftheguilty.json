@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Penyamaran Sang Pendosa",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 5095,
+=======
+	"id": [
+		84316
+	],
+	"name": "Penyamaran Sang Pendosa",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 5095,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Penyamaran Sang Pendosa",
 		"description": "Selesaikan \"Penyamaran Sang Pendosa\".",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

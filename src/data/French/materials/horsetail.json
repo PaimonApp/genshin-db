@@ -1,10 +1,15 @@
 {
+	"id": 100032,
 	"name": "Queue de cheval",
+	"sortRank": 320,
 	"description": "Une plante violette qui pousse parfois au milieu des herbes dans les marais, les dépassant en taille et produisant plus de graines, un peu à la façon de quelque noble parmi la plèbe.",
+<<<<<<< HEAD
 	"sortorder": 2888,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Matériau",
-	"source": [
+	"typeText": "Matériau",
+	"sources": [
 		"Marais et zones humides",
 		"Zone conseillée : Marais Dihua"
 	]

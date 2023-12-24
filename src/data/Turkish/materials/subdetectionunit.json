@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Derin Tespit Ünitesi",
 	"description": "Fontaine Araştırma Enstitüsü tarafından yapay parçaların yeni modelleri kullanılarak üretilen tespit üniteleri. İlk olarak çevresel verileri izlemek için tasarlanmıştı.",
 	"sortorder": 2886,
 	"category": "EXCHANGE",
 	"materialtype": "Fontaine Yöresel Ürünü",
 	"source": [
+=======
+	"id": 101239,
+	"name": "Derin Tespit Ünitesi",
+	"sortRank": 315,
+	"description": "Fontaine Araştırma Enstitüsü tarafından yapay parçaların yeni modelleri kullanılarak üretilen tespit üniteleri. İlk olarak çevresel verileri izlemek için tasarlanmıştı.",
+	"category": "EXCHANGE",
+	"typeText": "Fontaine Yöresel Ürünü",
+	"sources": [
+>>>>>>> upstream/main
 		"Doğada bulunur.",
 		"Öneri: Fontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsü Bölgesinde bulunur."
 	]

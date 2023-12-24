@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Chassanion",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1416,
+=======
+	"id": [
+		81432
+	],
+	"name": "Chassanion",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1416,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Chassanion",
 		"description": "Chiến thắng Huyền Thoại Địa Phương: Chassanion.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

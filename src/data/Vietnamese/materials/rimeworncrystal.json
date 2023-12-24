@@ -1,9 +1,15 @@
 {
+	"id": 200102,
 	"name": "Kết Tinh Băng",
+	"rarity": 3,
+	"sortRank": 430061,
 	"description": "Mảnh kết tinh được lấy trên người ma vật ở Long Tích Tuyết Sơn.\nNó được sinh ra trong một khoảnh khắc đặc biệt.",
+<<<<<<< HEAD
 	"sortorder": 4961,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Nguyên Liệu Tuyết Sơn",
-	"source": []
+	"typeText": "Nguyên Liệu Tuyết Sơn",
+	"sources": []
 }

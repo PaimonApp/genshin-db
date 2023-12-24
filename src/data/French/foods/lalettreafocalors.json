@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "La lettre à Foçalors",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Défense",
 	"foodcategory": "Def_Add",
+=======
+	"id": 3416,
+	"name": "La lettre à Foçalors",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Défense",
+>>>>>>> upstream/main
 	"effect": "Augmente les PV max de tous les personnages de l'équipe de 20 % à 25 % pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
 	"description": "Un petit gâteau en forme de long rectangle. On raconte qu'il y a très, très longtemps, un certain pâtissier s'est inspiré du grand amour des Fontainois envers leur Archon Hydro pour créer ce chef-d'œuvre sucré. Les multiples couches empilées les unes sur les autres constituent un véritable test des talents d'un chef et chaque aspect de ce gâteau est la preuve de l'influence du grand Archon Hydro.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Œuf d'oiseau",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Farine",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "Grain de café",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Amande",
 			"count": 2
 		}

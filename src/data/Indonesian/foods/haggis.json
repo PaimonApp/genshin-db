@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Haggis",
 	"rarity": "4",
 	"foodtype": "NORMAL",
 	"foodfilter": "Makanan Pertahanan",
 	"foodcategory": "Def_Add",
+=======
+	"id": 4402,
+	"name": "Haggis",
+	"rarity": 4,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Makanan Pertahanan",
+>>>>>>> upstream/main
 	"effect": "Meningkatkan 215-308 DEF dan 6–10% efek pemulihan seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Hidangan dengan rasa yang kuat. Potong jeroan domba, campur dengan havermut, masukkan ke dalam perut domba bersama dengan berbagai bumbu dan rempah-rempah, terbentuklah kantong yang berisi macam-macam untuk dimasak ini. Saat menyajikan hidangan ini, kantong perut biasanya dilepas sementara isiannya akan disajikan dengan pasta lobak dan kentang tumbuk. Ini adalah makanan khas setempat yang dimasak orang Fontaine untuk menjamu tamu penting mereka.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Raw Meat",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100080,
+>>>>>>> upstream/main
 			"name": "Potato",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100014,
+>>>>>>> upstream/main
 			"name": "Radish",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 2
 		}

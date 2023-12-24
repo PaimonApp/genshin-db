@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Rocky Avildsen",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1418,
+=======
+	"id": [
+		81434
+	],
+	"name": "Rocky Avildsen",
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1418,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Rocky Avildsen",
 		"description": "Derrota a la leyenda local conocida como “Rocky Avildsen”.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

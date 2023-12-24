@@ -1,9 +1,21 @@
 {
+	"id": 112086,
 	"name": "Tropfen verunreinigten Wassers",
+	"rarity": 2,
+	"sortRank": 10130,
 	"description": "Ein kleiner Wassertropfen, den man von einem besiegten Okeanospuk erhält.\nDie darin enthaltene Lebenskraft scheint noch nicht vollständig verschwunden zu sein.",
+<<<<<<< HEAD
 	"sortorder": 3122,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren und Waffen",
+	"sources": [
+		"Beute von Okeanospuken",
+		"Mit Sternenstaub kaufen"
+	]
+>>>>>>> upstream/main
 }

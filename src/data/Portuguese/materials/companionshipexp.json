@@ -1,9 +1,15 @@
 {
+	"id": 105,
 	"name": "EXP de Amizade",
+	"rarity": 3,
+	"sortRank": 11,
 	"description": "EXP de Amizade. Usado para aumentar o nível de Amizade.",
+<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"materialtype": "Aumenta a Amizade",
-	"source": []
+	"typeText": "Aumenta a Amizade",
+	"sources": []
 }

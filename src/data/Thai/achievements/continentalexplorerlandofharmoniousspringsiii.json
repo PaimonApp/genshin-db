@@ -1,7 +1,17 @@
 {
+<<<<<<< HEAD
 	"name": "สำรวจโลกกว้าง - ดินแดนน้ำพุผูกสัมพันธ์ III",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว III",
 	"sortorder": 262,
+=======
+	"id": [
+		80286
+	],
+	"name": "สำรวจโลกกว้าง - ดินแดนน้ำพุผูกสัมพันธ์ III",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว III",
+	"sortOrder": 262,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "สำรวจโลกกว้าง - ดินแดนน้ำพุผูกสัมพันธ์ III",
@@ -9,6 +19,10 @@
 		"description": "เปิดแผนที่ Morte Region และ Erinnyes Forest ในพื้นที่ Fontaine",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

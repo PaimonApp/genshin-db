@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Akhir yang Sudah Diduga",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1406,
+=======
+	"id": [
+		81422
+	],
+	"name": "Akhir yang Sudah Diduga",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1406,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Akhir yang Sudah Diduga",
 		"description": "Membantu Institut Penelitian Fontaine kembali ke jalan yang benar ...?",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

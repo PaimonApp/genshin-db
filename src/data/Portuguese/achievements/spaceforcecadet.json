@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Cadete da Força Espacial",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1399,
+=======
+	"id": [
+		81415
+	],
+	"name": "Cadete da Força Espacial",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1399,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Cadete da Força Espacial",
 		"description": "Acerte todos os disparos!",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

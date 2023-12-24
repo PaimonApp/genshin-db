@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Chassanion",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1416,
+=======
+	"id": [
+		81432
+	],
+	"name": "Chassanion",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1416,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Chassanion",
 		"description": "Yerel Efsane: Chassanion'u yen.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

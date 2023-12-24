@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Le Déluge",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 5087,
+=======
+	"id": [
+		84308
+	],
+	"name": "Le Déluge",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 5087,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Le Déluge",
 		"description": "フレミネは自分の経験を思い出した…",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

@@ -1,9 +1,21 @@
 {
+	"id": 112011,
 	"name": "Punta di freccia robusta",
+	"rarity": 1,
+	"sortRank": 10104,
 	"description": "Una punta di freccia realizzata rozzamente. Anche se non sembra nulla di che, non va sottovalutata, e lo stesso vale per l'arco, perché perfino il cavaliere più coraggioso può essere abbattuto da un freccia alle spalle.",
+<<<<<<< HEAD
 	"sortorder": 3047,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Materiale di potenziamento armi e personaggi",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale di potenziamento armi e personaggi",
+	"sources": [
+		"Ottenibile dagli Hilichurl arcieri",
+		"Scambio di Polvere stellare"
+	]
+>>>>>>> upstream/main
 }

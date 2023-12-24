@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Oh, no! Gli otto Mekakavalieri malvagi!",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1372,
+=======
+	"id": [
+		81388
+	],
+	"name": "Oh, no! Gli otto Mekakavalieri malvagi!",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1372,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Oh, no! Gli otto Mekakavalieri malvagi!",
 		"description": "Ottieni l'eredità dei Mekautomi \"imperfetti\".",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

@@ -1,11 +1,17 @@
 {
+	"id": 104152,
 	"name": "Vayuda Turquoise Fragment",
+	"rarity": 3,
+	"sortRank": 12106,
 	"description": "Material Ascension Karakter.\n\"Tapi, arah angin bisa berubah.\"",
+<<<<<<< HEAD
 	"sortorder": 3207,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Material Ascension Karakter",
-	"source": [
+	"typeText": "Material Ascension Karakter",
+	"sources": [
 		"Dijatuhkan oleh Anemo Hypostasis Lv. 40+",
 		"Dijatuhkan oleh Setekh Wenut Lv. 40+",
 		"Didapatkan melalui Craft"

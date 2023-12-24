@@ -1,13 +1,26 @@
 {
+<<<<<<< HEAD
 	"name": "ประตูที่ไม่แคบมาก",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"sortorder": 1366,
+=======
+	"id": [
+		81382
+	],
+	"name": "ประตูที่ไม่แคบมาก",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"sortOrder": 1366,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "ประตูที่ไม่แคบมาก",
 		"description": "เปิดประตูใหญ่สู่ห้องสมุดที่ไหนสักแห่ง",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

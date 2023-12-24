@@ -1,7 +1,15 @@
 {
+	"id": 28021102,
 	"name": "Muhafız Kaniş",
 	"description": "İnsanın en iyi dostu!\nBu Fontaineli ev köpeklerinin kürklerine özenle bakılır ve özel yapım takılarla süslenir. Vücutlarının bazı kısımları metal parçalarla korunur ve askere benzer bir görünüm verilir. Bu köpekler diğer sıradan hayvanlara ve hatta haydutlara karşı en az bir insan koruma kadar gözdağı verir. Bu yüzden hayatlarına değişiklik katmak ve güvende hissetmek isteyen bazı zengin tüccarlar bu ırka ilgi duyar.",
+<<<<<<< HEAD
 	"category": "Canavarlar",
 	"counttype": "NONE",
 	"sortorder": 11020
+=======
+	"categoryType": "SUBTYPE_ANIMAL",
+	"categoryText": "Canavarlar",
+	"countType": "COUNT_TYPE_NONE",
+	"sortOrder": 11020
+>>>>>>> upstream/main
 }

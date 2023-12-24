@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Imminence de l'apocalypse",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 5090,
+=======
+	"id": [
+		84311
+	],
+	"name": "Imminence de l'apocalypse",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 5090,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Imminence de l'apocalypse",
 		"description": "Terminez « Imminence de l'apocalypse ».",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 10
 		}

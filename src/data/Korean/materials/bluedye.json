@@ -1,8 +1,13 @@
 {
+	"id": 101404,
 	"name": "파란색 염료",
+	"sortRank": 331,
 	"description": "파란색 염료. 장식 제작에 유용하게 쓰인다",
+<<<<<<< HEAD
 	"sortorder": 2985,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "소재",
-	"source": []
+	"typeText": "소재",
+	"sources": []
 }

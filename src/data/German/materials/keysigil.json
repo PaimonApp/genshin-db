@@ -1,9 +1,14 @@
 {
+	"id": 100934,
 	"name": "Schlüsselmuster",
 	"dupealias": "Schlüsselmuster 0",
+	"sortRank": 430041,
 	"description": "Ein Siegel, das von Watatsumi und Enkanoiya weitergegeben wird. Solche Bilder werden beim Aufschließen verwendet und deshalb „Schlüsselmuster“ genannt.",
+<<<<<<< HEAD
 	"sortorder": 4951,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Verbrauchsgegenstand",
-	"source": []
+	"typeText": "Verbrauchsgegenstand",
+	"sources": []
 }

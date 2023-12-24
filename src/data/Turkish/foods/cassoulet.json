@@ -1,14 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Güveç",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Savunma Artırıcı Yemek",
 	"foodcategory": "Def_Add",
+=======
+	"id": 3414,
+	"name": "Güveç",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Savunma Artırıcı Yemek",
+>>>>>>> upstream/main
 	"effect": "300 saniyeliğine tüm grup üyelerinin Kalkan Gücünü %20 ila %30 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Basit bir köy güveci. Tüm malzemeler güvece konulur ve karıştırılır, servise hazır olana kadar da pişirilir. Bu yemeğin tam adının \"Marcotte ile Servis Edilen Kabuksuz Nohutlu, Kuş Etli ve Tütsülenmiş Sosisli Güveç\" olduğunu belirtmekte fayda var. Tabii bu isim aşırı derecede uzun olunca insanlar ona sadece \"Güveç\" demekle yetinmiştir.",
 	"suspicious": {
 		"effect": "300 saniyeliğine tüm grup üyelerinin Kalkan Gücünü %20 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
+<<<<<<< HEAD
 		"description": "Basit bir köy güveci. İlk bakışta herhangi bir sorun yokmuş gibi görünse de yiyince ağzına hafif yanık bir tat gelir. Daha sonra alt kısımdaki malzemelerin kötü bir şekilde yandığını ve güvecin kendisiyle tamamen bütünleştiğini fark edersin. Off... Bir daha bu yemeği yaparken malzemeleri ara sıra karıştırmayı unutmamak lazım..."
+=======
+		"description": "Basit bir köy güveci. İlk bakışta herhangi bir sorun yokmuş gibi görünse de yiyince ağzına hafif yanık bir tat gelir. Daha sonra alt kısımdaki malzemelerin kötü bir şekilde yandığını ve güvecin kendisiyle tamamen bütünleştiğini fark edersin. Off... Bir daha bu yemeği yaparken arada bir malzemeleri karıştır..."
+>>>>>>> upstream/main
 	},
 	"normal": {
 		"effect": "300 saniyeliğine tüm grup üyelerinin Kalkan Gücünü %25 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
@@ -20,18 +33,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 110011,
+>>>>>>> upstream/main
 			"name": "Sosis",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100064,
+>>>>>>> upstream/main
 			"name": "Kuş Eti",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100096,
+>>>>>>> upstream/main
 			"name": "Kabuksuz Nohut",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

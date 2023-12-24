@@ -1,10 +1,15 @@
 {
+	"id": 101001,
 	"name": "Morceau de fer",
+	"sortRank": 301,
 	"description": "Un morceau de fer que les mains expertes d'un bon forgeron peuvent transformer en objet.",
+<<<<<<< HEAD
 	"sortorder": 2821,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Minerai de forge",
-	"source": [
+	"typeText": "Minerai de forge",
+	"sources": [
 		"Dans la nature"
 	]
 }

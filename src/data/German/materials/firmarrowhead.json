@@ -1,9 +1,21 @@
 {
+	"id": 112011,
 	"name": "Stabile Bolzenspitze",
+	"rarity": 1,
+	"sortRank": 10104,
 	"description": "Eine grob gefertigte Bolzenspitze, die jedoch nicht unterschätzt werden sollte: Die Armbrust ist eine tödliche Waffe, die selbst für Ritter eine Gefahr darstellt.",
+<<<<<<< HEAD
 	"sortorder": 3047,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren und Waffen",
+	"sources": [
+		"Beute von Hilichurl-Schützen",
+		"Mit Sternenstaub kaufen"
+	]
+>>>>>>> upstream/main
 }

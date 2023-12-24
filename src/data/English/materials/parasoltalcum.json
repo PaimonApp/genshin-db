@@ -1,9 +1,15 @@
 {
+	"id": 200113,
 	"name": "Parasol Talcum",
+	"rarity": 4,
+	"sortRank": 90,
 	"description": "Specialized refinement material for \"Toukabou Shigure.\"\nA powdery substance meant to bind bamboo to an umbrella.\nEven as the seasons change and the past dissolves, memory and thoughts will always remain, slumbering beneath an umbrella to rest in the shroud of a dream.",
+<<<<<<< HEAD
 	"sortorder": 2764,
 	"rarity": "4",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Refinement Material",
-	"source": []
+	"typeText": "Refinement Material",
+	"sources": []
 }

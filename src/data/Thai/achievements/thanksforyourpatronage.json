@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "ขอบคุณที่มาอุดหนุนนะ!",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1386,
+=======
+	"id": [
+		81402
+	],
+	"name": "ขอบคุณที่มาอุดหนุนนะ!",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1386,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "ขอบคุณที่มาอุดหนุนนะ!",
 		"description": "สุ่มเซียมซีนำโชคได้โชคดีสองชั้น",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

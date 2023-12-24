@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "นักผจญภัยแห่งเกลียวคลื่น II",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว II",
 	"sortorder": 257,
+=======
+	"id": [
+		80281,
+		80282,
+		80283
+	],
+	"name": "นักผจญภัยแห่งเกลียวคลื่น II",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว II",
+	"sortOrder": 257,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "นักผจญภัยแห่งเกลียวคลื่น II",
 		"description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region {param0} ครั้ง",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region {param0} ครั้ง",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region {param0} ครั้ง",
 		"progress": 12,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

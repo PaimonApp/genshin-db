@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Erscheine, geheimnisvolles Mineral!",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1365,
+=======
+	"id": [
+		81381
+	],
+	"name": "Erscheine, geheimnisvolles Mineral!",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1365,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Erscheine, geheimnisvolles Mineral!",
 		"description": "Sammle sieben Brocken des geheimnisvollen gelbgrünen Erzes.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

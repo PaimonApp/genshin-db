@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "ヌヴィレット",
 	"fullname": "ヌヴィレット",
 	"title": "告諭の潮騒",
@@ -14,6 +15,27 @@
 	"affiliation": "フォンテーヌ廷",
 	"birthdaymmdd": "12/18",
 	"birthday": "12月18日",
+=======
+	"id": 10000087,
+	"name": "ヌヴィレット",
+	"title": "告諭の潮騒",
+	"description": "フォンテーヌの最高審判官。一分の隙もない「公正無私」な振る舞いで名高い。",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "法器",
+	"bodyType": "BODY_MALE",
+	"gender": "男",
+	"qualityType": "QUALITY_ORANGE",
+	"rarity": 5,
+	"birthdaymmdd": "12/18",
+	"birthday": "12月18日",
+	"elementType": "ELEMENT_HYDRO",
+	"elementText": "水",
+	"affiliation": "フォンテーヌ廷",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "フォンテーヌ",
+	"substatType": "FIGHT_PROP_CRITICAL_HURT",
+	"substatText": "会心ダメージ",
+>>>>>>> upstream/main
 	"constellation": "？？？",
 	"cv": {
 		"english": "Ray Chase",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104121,
+>>>>>>> upstream/main
 				"name": "澄明なラピスラズリ·砕屑",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "ルエトワール",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112080,
+>>>>>>> upstream/main
 				"name": "異海の露",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104122,
+>>>>>>> upstream/main
 				"name": "澄明なラピスラズリ·欠片",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "原海駿の角",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "ルエトワール",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112080,
+>>>>>>> upstream/main
 				"name": "異海の露",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104122,
+>>>>>>> upstream/main
 				"name": "澄明なラピスラズリ·欠片",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "原海駿の角",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "ルエトワール",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112081,
+>>>>>>> upstream/main
 				"name": "異海の塊",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104123,
+>>>>>>> upstream/main
 				"name": "澄明なラピスラズリ·塊",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "原海駿の角",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "ルエトワール",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112081,
+>>>>>>> upstream/main
 				"name": "異海の塊",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104123,
+>>>>>>> upstream/main
 				"name": "澄明なラピスラズリ·塊",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "原海駿の角",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "ルエトワール",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112082,
+>>>>>>> upstream/main
 				"name": "色変わりの結晶",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104124,
+>>>>>>> upstream/main
 				"name": "澄明なラピスラズリ",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113053,
+>>>>>>> upstream/main
 				"name": "原海駿の角",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101237,
+>>>>>>> upstream/main
 				"name": "ルエトワール",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112082,
+>>>>>>> upstream/main
 				"name": "色変わりの結晶",
 				"count": 24
 			}

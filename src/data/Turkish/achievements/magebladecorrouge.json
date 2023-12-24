@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Sihirli Kılıç Corrouge",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1417,
+=======
+	"id": [
+		81433
+	],
+	"name": "Sihirli Kılıç Corrouge",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1417,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Sihirli Kılıç Corrouge",
 		"description": "Yerel Efsane: Sihirli Kılıç Corrouge'u yen.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

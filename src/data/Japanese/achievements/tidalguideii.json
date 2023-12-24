@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "潮海の導き·2",
 	"achievementgroup": "フォンテーヌ·澄み渡った白露の泉舞·2",
 	"sortorder": 251,
+=======
+	"id": [
+		80275,
+		80276,
+		80277
+	],
+	"name": "潮海の導き·2",
+	"achievementGroupId": 45,
+	"achievementGroupName": "フォンテーヌ·澄み渡った白露の泉舞·2",
+	"sortOrder": 251,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "潮海の導き·2",
 		"description": "リフィー地区、フォンテーヌ運動エネルギー工学科学研究院地区で仙霊を{param0}体追いかけ、仙霊ノ庭を灯す。",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "リフィー地区、フォンテーヌ運動エネルギー工学科学研究院地区で仙霊を{param0}体追いかけ、仙霊ノ庭を灯す。",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "リフィー地区、フォンテーヌ運動エネルギー工学科学研究院地区で仙霊を{param0}体追いかけ、仙霊ノ庭を灯す。",
 		"progress": 9,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 20
 		}

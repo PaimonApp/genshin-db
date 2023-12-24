@@ -1,11 +1,22 @@
 {
+	"id": 112028,
 	"name": "Đuốc Hư Vô",
+	"rarity": 4,
+	"sortRank": 10109,
 	"description": "Bó Cỏ Hư Vô quý hiếm, sẽ tạo ra ánh sáng mờ ảo, người cầm bó đuốc này sẽ gọi Cicin và xui xẻo đến.",
+<<<<<<< HEAD
 	"sortorder": 3057,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
 	"source": [
 		"Ghép Nhận"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sources": [
+		"Ghép Nhận",
+		"Fatui - Thuật Sĩ Cicin Lôi cấp 60 trở lên rơi"
+>>>>>>> upstream/main
 	]
 }

@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "スペアリブのロースト",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "回復系料理",
 	"foodcategory": "Recovery_HpAdd",
+=======
+	"id": 2407,
+	"name": "スペアリブのロースト",
+	"rarity": 2,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "回復系料理",
+>>>>>>> upstream/main
 	"effect": "選択したキャラのHP上限の20%~24%を回復し、さらにHPを900~1500回復する。",
 	"description": "パリパリの皮で覆われた肉料理。まず、リブの表面をさっと炙り、ソースを塗った後、事前に調理したパリパリの皮で包む。最後に低温でじっくりと焼き上げる。厳しい火加減のコントロールにより、表面の皮はパリッと、中の肉は柔らかくジューシーに仕上がる。",
 	"suspicious": {
@@ -20,14 +29,26 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "獣肉",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100077,
+>>>>>>> upstream/main
 			"name": "コショウ",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "マルコット草",
 			"count": 1
 		}

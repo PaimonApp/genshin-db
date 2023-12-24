@@ -1,11 +1,17 @@
 {
+	"id": 104121,
 	"name": "Varunada Lazurite Sliver",
+	"rarity": 2,
+	"sortRank": 12103,
 	"description": "Character Ascension material.",
+<<<<<<< HEAD
 	"sortorder": 3196,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Character Ascension Material",
-	"source": [
+	"typeText": "Character Ascension Material",
+	"sources": [
 		"Dropped by Oceanids",
 		"Dropped by Hydro Hypostases",
 		"Dropped by Hydro Tulpas",

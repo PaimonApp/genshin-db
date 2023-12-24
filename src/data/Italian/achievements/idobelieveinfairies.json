@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Io credo nelle fate",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1411,
+=======
+	"id": [
+		81427
+	],
+	"name": "Io credo nelle fate",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1411,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Io credo nelle fate",
 		"description": "Aiuta Penny a risolvere il suo tumulto interiore.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

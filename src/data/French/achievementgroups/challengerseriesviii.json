@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
 	"name": "Au défi ! - Partie VIII",
 	"sortorder": 21,
 	"reward": {
+=======
+	"id": 40,
+	"name": "Au défi ! - Partie VIII",
+	"sortOrder": 21,
+	"reward": {
+		"id": 210178,
+>>>>>>> upstream/main
 		"name": "Succès - Perpétuité"
 	}
 }

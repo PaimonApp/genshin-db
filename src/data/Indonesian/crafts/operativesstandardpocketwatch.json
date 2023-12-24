@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Operative's Standard Pocket Watch",
 	"filter": "Material Penguatan Senjata dan Karakter",
 	"sortorder": 140180,
@@ -7,6 +8,18 @@
 	"moracost": 50,
 	"recipe": [
 		{
+=======
+	"id": 11059,
+	"name": "Operative's Standard Pocket Watch",
+	"filterText": "Material Penguatan Senjata dan Karakter",
+	"sortOrder": 140180,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112092,
+>>>>>>> upstream/main
 			"name": "Old Operative's Pocket Watch",
 			"count": 3
 		}

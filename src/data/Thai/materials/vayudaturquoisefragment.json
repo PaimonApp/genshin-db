@@ -1,11 +1,17 @@
 {
+	"id": 104152,
 	"name": "Vayuda Turquoise Fragment",
+	"rarity": 3,
+	"sortRank": 12106,
 	"description": "วัสดุเลื่อนขั้นตัวละคร\n\"สายลมนั้นเปลี่ยนทิศไปเสมอ\"",
+<<<<<<< HEAD
 	"sortorder": 3207,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "วัสดุเลื่อนขั้นตัวละคร",
-	"source": [
+	"typeText": "วัสดุเลื่อนขั้นตัวละคร",
+	"sources": [
 		"ดรอปจาก Anemo Hypostasis Lv.40 ขึ้นไป",
 		"ดรอปจาก Setekh Wenut Lv.40 ขึ้นไป",
 		"ได้รับจากการสรรสร้าง"

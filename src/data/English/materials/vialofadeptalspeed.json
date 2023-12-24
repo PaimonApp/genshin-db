@@ -1,9 +1,15 @@
 {
+	"id": 107013,
 	"name": "Vial of Adeptal Speed",
+	"rarity": 4,
+	"sortRank": 410012,
 	"description": "A small bottle that seals some adeptal energy within. Will immediately complete a furnishing when used.",
+<<<<<<< HEAD
 	"sortorder": 4862,
 	"rarity": "4",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Consumable",
-	"source": []
+	"typeText": "Consumable",
+	"sources": []
 }

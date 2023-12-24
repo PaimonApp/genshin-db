@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Furina",
 	"fullname": "Furina",
 	"title": "Endless Solo of Solitude",
@@ -14,6 +15,27 @@
 	"affiliation": "Court of Fontaine",
 	"birthdaymmdd": "10/13",
 	"birthday": "13 Oktober",
+=======
+	"id": 10000089,
+	"name": "Furina",
+	"title": "Endless Solo of Solitude",
+	"description": "Pusat perhatian utama panggung pengadilan, hingga tepuk-tangan di penghujung acara terdengar.",
+	"weaponType": "WEAPON_SWORD_ONE_HAND",
+	"weaponText": "Sword",
+	"bodyType": "BODY_GIRL",
+	"gender": "Perempuan",
+	"qualityType": "QUALITY_ORANGE",
+	"rarity": 5,
+	"birthdaymmdd": "10/13",
+	"birthday": "13 Oktober",
+	"elementType": "ELEMENT_HYDRO",
+	"elementText": "Hydro",
+	"affiliation": "Court of Fontaine",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "Fontaine",
+	"substatType": "FIGHT_PROP_CRITICAL",
+	"substatText": "CRIT Rate",
+>>>>>>> upstream/main
 	"constellation": "Animula Choragi",
 	"cv": {
 		"english": "Amber Lee Connors",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104121,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Sliver",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101238,
+>>>>>>> upstream/main
 				"name": "Lakelight Lily",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112038,
+>>>>>>> upstream/main
 				"name": "Whopperflower Nectar",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104122,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Fragment",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113057,
+>>>>>>> upstream/main
 				"name": "Water That Failed To Transcend",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101238,
+>>>>>>> upstream/main
 				"name": "Lakelight Lily",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112038,
+>>>>>>> upstream/main
 				"name": "Whopperflower Nectar",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104122,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Fragment",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113057,
+>>>>>>> upstream/main
 				"name": "Water That Failed To Transcend",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101238,
+>>>>>>> upstream/main
 				"name": "Lakelight Lily",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112039,
+>>>>>>> upstream/main
 				"name": "Shimmering Nectar",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104123,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Chunk",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113057,
+>>>>>>> upstream/main
 				"name": "Water That Failed To Transcend",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101238,
+>>>>>>> upstream/main
 				"name": "Lakelight Lily",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112039,
+>>>>>>> upstream/main
 				"name": "Shimmering Nectar",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104123,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Chunk",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113057,
+>>>>>>> upstream/main
 				"name": "Water That Failed To Transcend",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101238,
+>>>>>>> upstream/main
 				"name": "Lakelight Lily",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112040,
+>>>>>>> upstream/main
 				"name": "Energy Nectar",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104124,
+>>>>>>> upstream/main
 				"name": "Varunada Lazurite Gemstone",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113057,
+>>>>>>> upstream/main
 				"name": "Water That Failed To Transcend",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101238,
+>>>>>>> upstream/main
 				"name": "Lakelight Lily",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112040,
+>>>>>>> upstream/main
 				"name": "Energy Nectar",
 				"count": 24
 			}

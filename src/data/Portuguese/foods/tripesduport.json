@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Tripes du Port",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de Regeneração",
 	"foodcategory": "Recovery_Revive",
+=======
+	"id": 3411,
+	"name": "Tripes du Port",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Pratos de Regeneração",
+>>>>>>> upstream/main
 	"effect": "Revive o personagem selecionado.\nRestaura 900 - 1.500 de Vida.",
 	"description": "Um prato de vísceras. Fatie os ingredientes, coloque numa panela, cubra com massa e cozinhe. Essa receita surgiu num porto. A história da cidade há muito já foi engolida pelos mares, mas a receita dessa iguaria ainda é muito popular em Fontaine.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Carne Crua",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "Cenoura",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "Cebola",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100099,
+>>>>>>> upstream/main
 			"name": "Suco Fermentado",
 			"count": 1
 		}

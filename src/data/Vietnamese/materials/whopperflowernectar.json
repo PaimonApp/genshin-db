@@ -1,9 +1,21 @@
 {
+	"id": 112038,
 	"name": "Mật Hoa Lừa Dối",
+	"rarity": 1,
+	"sortRank": 10113,
 	"description": "Mật lấy từ nhụy hoa, có chứa lượng nhỏ nguyên tố.\nMùi vị gần giống với Hoa Ngọt.",
+<<<<<<< HEAD
 	"sortorder": 3071,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sources": [
+		"Hoa Lừa Dối rơi",
+		"Đổi từ Tinh Trần"
+	]
+>>>>>>> upstream/main
 }

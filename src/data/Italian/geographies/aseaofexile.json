@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Un mare d'esili",
 	"area": "Regione di Liffey",
 	"description": "\"Non importa quale sia il peccato, finirà col perdersi tra le onde come la sabbia.\"",
 	"region": "Fontaine",
 	"sortorder": 403
+=======
+	"id": 70500003,
+	"name": "Un mare d'esili",
+	"areaId": 50400,
+	"areaName": "Regione di Liffey",
+	"description": "\"Non importa quale sia il peccato, finirà col perdersi tra le onde come la sabbia.\"",
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"sortOrder": 403
+>>>>>>> upstream/main
 }

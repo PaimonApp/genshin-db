@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Luachra la brillante",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1377,
+=======
+	"id": [
+		81393
+	],
+	"name": "Luachra la brillante",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1377,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Luachra la brillante",
 		"description": "Vainquez la légende locale : Luachra la brillante.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

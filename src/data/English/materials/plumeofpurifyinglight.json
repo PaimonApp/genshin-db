@@ -1,8 +1,13 @@
 {
+	"id": 107022,
 	"name": "Plume of Purifying Light",
+	"sortRank": 420021,
 	"description": "Fragment left by Khvarena. Carrier of past memories.",
+<<<<<<< HEAD
 	"sortorder": 4890,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Consumable",
-	"source": []
+	"typeText": "Consumable",
+	"sources": []
 }

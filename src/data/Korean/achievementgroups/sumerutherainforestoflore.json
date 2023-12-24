@@ -1,7 +1,13 @@
 {
+	"id": 31,
 	"name": "수메르·심오한 지식이 숨겨진 우림",
+<<<<<<< HEAD
 	"sortorder": 40,
+=======
+	"sortOrder": 40,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210130,
 		"name": "수메르·눈부신 숲"
 	}
 }

@@ -1,8 +1,13 @@
 {
+	"id": 101401,
 	"name": "Tecido",
+	"sortRank": 331,
 	"description": "Tecido de boa confecção. Certamente será útil para fazer Decorações.",
+<<<<<<< HEAD
 	"sortorder": 2982,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

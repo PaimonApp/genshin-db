@@ -1,10 +1,15 @@
 {
+	"id": 100061,
 	"name": "Raw Meat",
+	"sortRank": 321,
 	"description": "Sepotong daging yang segar. Saat diolah dengan baik, dapat dibuat menjadi masakan yang lezat.",
+<<<<<<< HEAD
 	"sortorder": 2912,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Dijatuhkan oleh hewan"
 	]
 }

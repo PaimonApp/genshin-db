@@ -1,7 +1,10 @@
 {
+	"id": 70500004,
 	"name": "The Copper Keep",
-	"area": "Administrative Area",
+	"areaId": 50401,
+	"areaName": "Administrative Area",
 	"description": "\"A fastness of bronze and iron will collapse one day, but a city of law and justice will never fall.\"",
-	"region": "Fontaine",
-	"sortorder": 404
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"sortOrder": 404
 }

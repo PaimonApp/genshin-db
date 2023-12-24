@@ -1,7 +1,9 @@
 {
+	"id": 12,
 	"name": "Stone Harbor's Nostalgia: Series I",
-	"sortorder": 25,
+	"sortOrder": 25,
 	"reward": {
+		"id": 210032,
 		"name": "Achievement: Cliffhanger"
 	}
 }

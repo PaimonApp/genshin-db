@@ -1,8 +1,13 @@
 {
+	"id": 100619,
 	"name": "Lebensenergie saugender Drachenzahn",
+	"sortRank": 200,
 	"description": "Ein von Vitalität durchdrungener Drachenzahn. Allein sein Glanz und seine Ausstrahlung genügen, um einen ganz unruhig zu machen ...",
+<<<<<<< HEAD
 	"sortorder": 2777,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

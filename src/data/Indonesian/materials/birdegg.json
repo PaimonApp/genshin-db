@@ -1,10 +1,15 @@
 {
+	"id": 100062,
 	"name": "Bird Egg",
+	"sortRank": 321,
 	"description": "Telur yang memiliki potensi tanpa batas, juga dapat memberikan kebutuhan protein untuk satu hari.",
+<<<<<<< HEAD
 	"sortorder": 2913,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Ditemukan di alam liar"
 	]
 }

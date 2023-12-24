@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Çiçek Dilinde Lumidouce Çanı Ne Anlama Geliyor?",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1412,
+=======
+	"id": [
+		81428
+	],
+	"name": "Çiçek Dilinde Lumidouce Çanı Ne Anlama Geliyor?",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1412,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Çiçek Dilinde Lumidouce Çanı Ne Anlama Geliyor?",
 		"description": "Kimsenin dikkat etmediği bir köşede duran bir çiçek keşfediyorsun.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

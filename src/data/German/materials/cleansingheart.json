@@ -1,9 +1,20 @@
 {
+	"id": 113012,
 	"name": "Reinigendes Herz",
+	"rarity": 4,
+	"sortRank": 11101,
 	"description": "Eine Handvoll reines, durchsichtiges Wasser, das von einer Okeanide zurückgelassen wurde.\nObwohl es sich mit dem Wasser des Sees vermischt hat, wird es seine Reinheit nie verlieren. Warum aber sollten so reine Wesen wie Okeaniden die Form eines Wesens auf dem Lande mit Wasser nachahmen wollen, wo sie doch weder atmen noch essen müssen?",
+<<<<<<< HEAD
 	"sortorder": 3161,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren",
+	"sources": [
+		"Beute von Okeaniden ab Stufe 30"
+	]
+>>>>>>> upstream/main
 }

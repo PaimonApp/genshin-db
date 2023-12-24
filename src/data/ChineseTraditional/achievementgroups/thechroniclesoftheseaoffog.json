@@ -1,7 +1,9 @@
 {
+	"id": 27,
 	"name": "霧海紀行",
-	"sortorder": 36,
+	"sortOrder": 36,
 	"reward": {
+		"id": 210103,
 		"name": "稻妻·鷲羽"
 	}
 }

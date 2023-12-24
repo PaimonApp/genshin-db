@@ -1,10 +1,15 @@
 {
+	"id": 100096,
 	"name": "Haricot glabre",
+	"sortRank": 321,
 	"description": "Un légume commun en Teyvat qui dégage un parfum léger. Il se cuisine de diverses manières et son utilisation est donc répandue dans le monde entier.",
+<<<<<<< HEAD
 	"sortorder": 2933,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrédient",
-	"source": [
+	"typeText": "Ingrédient",
+	"sources": [
 		"Restaurants de Sumeru",
 		"Épiceries de Fontaine"
 	]

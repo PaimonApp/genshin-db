@@ -1,7 +1,9 @@
 {
+	"id": 11,
 	"name": "Snezhnaya Does Not Believe in Tears: Series I",
-	"sortorder": 24,
+	"sortOrder": 24,
 	"reward": {
+		"id": 210031,
 		"name": "Achievement: Snowy Land"
 	}
 }

@@ -1,12 +1,19 @@
 {
+	"id": 101301,
 	"name": "Birkenholz",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Das Holz der Birke. Es ist leicht zu bearbeiten und ergibt glatte Schnitte. Möbel aus diesem Holz sind sowohl schön als auch langlebig.\nKann zum Herstellen von Dekoration verwendet werden.",
+<<<<<<< HEAD
 	"sortorder": 2960,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"In der freien Natur zu finden",
-		"Empfohlen: Auf dem Klagewind-Plateau zu finden"
+		"Empfohlen: Auf dem Klagewind-Plateau zu finden",
+		"Holz umwandeln"
 	]
 }

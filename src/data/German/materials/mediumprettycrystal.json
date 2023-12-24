@@ -1,10 +1,15 @@
 {
+	"id": 111021,
 	"name": "Hübscher mittlerer Kristall",
+	"sortRank": 430051,
 	"description": "Zusätzlich hergestelltes Produkt",
+<<<<<<< HEAD
 	"sortorder": 4957,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Hergestelltes Produkt",
-	"source": [
+	"typeText": "Hergestelltes Produkt",
+	"sources": [
 		"Kann hergestellt werden"
 	]
 }

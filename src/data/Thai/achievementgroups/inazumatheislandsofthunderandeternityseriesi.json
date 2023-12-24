@@ -1,7 +1,13 @@
 {
+	"id": 24,
 	"name": "Inazuma: สายฟ้าและหมู่เกาะนิจนิรันดร์ (I)",
+<<<<<<< HEAD
 	"sortorder": 34,
+=======
+	"sortOrder": 34,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210090,
 		"name": "Inazuma - ลวดลาย Kujou"
 	}
 }

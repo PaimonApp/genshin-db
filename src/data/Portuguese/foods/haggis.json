@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Haggis",
 	"rarity": "4",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de DEF",
 	"foodcategory": "Def_Add",
+=======
+	"id": 4402,
+	"name": "Haggis",
+	"rarity": 4,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Pratos de DEF",
+>>>>>>> upstream/main
 	"effect": "Aumenta a DEF de todos os personagens da equipe em 215-308 e Efeito de Cura em 6%-10% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Um prato com sabores fortes e ricos. Corte as vísceras de ovelha, misture com aveia e encha o estômago da ovelha com vários temperos e especiarias, assim você vai ter uma mistura na forma de uma sacola para cozinhar. Ao servir o prato, essa bolsa feita com o estômago é geralmente removida, e o recheio é servido com pasta de rabanete e batatas amassadas. Essa é uma especialidade local que as pessoas de Fontaine adoram fazer para seus convidados importantes.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Carne Crua",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100080,
+>>>>>>> upstream/main
 			"name": "Batata",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100014,
+>>>>>>> upstream/main
 			"name": "Rabanete Branco",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 2
 		}

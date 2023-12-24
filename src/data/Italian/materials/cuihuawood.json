@@ -1,13 +1,20 @@
 {
+	"id": 101302,
 	"name": "Legno di cuihua",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Legno ottenuto dagli alberi di cuihua. Grazie al suo splendido colore e alla sua particolare fattura, si rivela estremamente versatile nelle mani di un abile artigiano.\nPuoi usarlo per creare mobili.",
+<<<<<<< HEAD
 	"sortorder": 2961,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Materiale",
-	"source": [
+	"typeText": "Materiale",
+	"sources": [
 		"Presente in natura",
 		"Consiglio: si taglia nella Valle Stellare",
-		"Consiglio: si taglia nella Pianura di Bishui"
+		"Consiglio: si taglia nella Pianura di Bishui",
+		"Converti legno"
 	]
 }

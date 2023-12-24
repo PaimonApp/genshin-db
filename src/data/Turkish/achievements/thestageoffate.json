@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Kaderin Sahnesi",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 5093,
+=======
+	"id": [
+		84314
+	],
+	"name": "Kaderin Sahnesi",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5093,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Kaderin Sahnesi",
 		"description": "Yoldaşlarınla \"bir tanrıyı yargılamanızı\" sağlayacak bir tuzak kur.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

@@ -889,7 +889,7 @@
 		]
 	},
 	"properties": {
-		"enemytype": [
+		"enemyType": [
 			"ELITE",
 			"BOSS",
 			"COMMON"

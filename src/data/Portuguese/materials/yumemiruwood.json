@@ -1,12 +1,19 @@
 {
+	"id": 101309,
 	"name": "Madeira Yumemiru",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Madeira obtida de Árvores de Sakura. De qualidade requintada e viçosa, dizem que pode embalar as pessoas em sonhos tão doces quanto a primavera quente.\nPode ser usada para fabricar Decorações.",
+<<<<<<< HEAD
 	"sortorder": 2968,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Encontrado na natureza",
-		"Recomendação: Cortado na Ilha Narukami"
+		"Recomendação: Cortado na Ilha Narukami",
+		"Converter Madeira"
 	]
 }

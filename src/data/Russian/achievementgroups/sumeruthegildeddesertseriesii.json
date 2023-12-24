@@ -1,7 +1,14 @@
 {
+	"id": 38,
 	"name": "Сумеру: Позолоченная пустыня II",
+<<<<<<< HEAD
 	"sortorder": 42,
 	"reward": {
+=======
+	"sortOrder": 42,
+	"reward": {
+		"id": 210151,
+>>>>>>> upstream/main
 		"name": "Песчаная буря"
 	}
 }

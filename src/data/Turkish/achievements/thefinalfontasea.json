@@ -1,14 +1,30 @@
 {
+<<<<<<< HEAD
 	"name": "Son Fonta Denizi",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1383,
+=======
+	"id": [
+		81399,
+		81403,
+		81404
+	],
+	"name": "Son Fonta Denizi",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1383,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Son Fonta Denizi",
 		"description": "... Ferahlığı Yaşa!",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -18,6 +34,10 @@
 		"description": "... Ferahlığı Yaşa!",
 		"progress": 13,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -27,6 +47,10 @@
 		"description": "... Ferahlığı Yaşa!",
 		"progress": 16,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

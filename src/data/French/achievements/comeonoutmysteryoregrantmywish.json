@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Montre ton minois, minerai !",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1365,
+=======
+	"id": [
+		81381
+	],
+	"name": "Montre ton minois, minerai !",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1365,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Montre ton minois, minerai !",
 		"description": "Collectez les sept mystérieuses pierres jaune-vert.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

@@ -1,14 +1,30 @@
 {
+<<<<<<< HEAD
 	"name": "Biển Fonta Cuối Cùng",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1383,
+=======
+	"id": [
+		81399,
+		81403,
+		81404
+	],
+	"name": "Biển Fonta Cuối Cùng",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1383,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Biển Fonta Cuối Cùng",
 		"description": "...Giải Khát Tuyệt Vời!",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}
@@ -18,6 +34,10 @@
 		"description": "...Giải Khát Tuyệt Vời!",
 		"progress": 13,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}
@@ -27,6 +47,10 @@
 		"description": "...Giải Khát Tuyệt Vời!",
 		"progress": 16,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

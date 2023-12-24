@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "Wellenreitender Abenteurer III",
 	"achievementgroup": "Fontaine – Tanz der Weißtauquellen III",
 	"sortorder": 271,
+=======
+	"id": [
+		80295,
+		80296,
+		80297
+	],
+	"name": "Wellenreitender Abenteurer III",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine – Tanz der Weißtauquellen III",
+	"sortOrder": 271,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Wellenreitender Abenteurer III",
 		"description": "Schließ {param0} Zeitherausforderungen im Bezirk Morte und im Wald von Erinnyes ab.",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "Schließ {param0} Zeitherausforderungen im Bezirk Morte und im Wald von Erinnyes ab.",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "Schließ {param0} Zeitherausforderungen im Bezirk Morte und im Wald von Erinnyes ab.",
 		"progress": 9,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 20
 		}

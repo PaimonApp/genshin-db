@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Ein prognostiziertes Ende",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1406,
+=======
+	"id": [
+		81422
+	],
+	"name": "Ein prognostiziertes Ende",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1406,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Ein prognostiziertes Ende",
 		"description": "Hilf dem Forschungsinstitut Fontaine, wieder auf die Beine zu kommen ...?",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

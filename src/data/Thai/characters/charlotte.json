@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Charlotte",
 	"fullname": "Charlotte",
 	"title": "เลนส์สะท้อนความจริง",
@@ -14,6 +15,27 @@
 	"affiliation": "สำนักข่าว The Steambird",
 	"birthdaymmdd": "4/10",
 	"birthday": "10 เมษายน",
+=======
+	"id": 10000088,
+	"name": "Charlotte",
+	"title": "เลนส์สะท้อนความจริง",
+	"description": "นักข่าวของหนังสือพิมพ์ The Steambird ผู้เปี่ยมไปด้วยพลังและมีชีวิตชีวาอยู่เสมอ กำลังวิ่งตามหา \"ความจริง\" อยู่ทุกวินาที",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "สื่อเวท",
+	"bodyType": "BODY_GIRL",
+	"gender": "ผู้หญิง",
+	"qualityType": "QUALITY_PURPLE",
+	"rarity": 4,
+	"birthdaymmdd": "4/10",
+	"birthday": "10 เมษายน",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "น้ำแข็ง",
+	"affiliation": "สำนักข่าว The Steambird",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "Fontaine",
+	"substatType": "FIGHT_PROP_ATTACK_PERCENT",
+	"substatText": "พลังโจมตี",
+>>>>>>> upstream/main
 	"constellation": "Hualina Veritas",
 	"cv": {
 		"english": "Maya Aoki Tuttle",
@@ -24,128 +46,249 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Sliver",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beryl Conch",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Meshing Gear",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Fragment",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 2
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 2
+			},
+			{
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beryl Conch",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Meshing Gear",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Fragment",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 4
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 4
+			},
+			{
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beryl Conch",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Mechanical Spur Gear",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Chunk",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 8
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 8
+			},
+			{
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beryl Conch",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Mechanical Spur Gear",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Chunk",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 12
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 12
+			},
+			{
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beryl Conch",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Artificed Dynamic Gear",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Gemstone",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 20
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 20
+			},
+			{
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beryl Conch",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Artificed Dynamic Gear",
 				"count": 24
 			}

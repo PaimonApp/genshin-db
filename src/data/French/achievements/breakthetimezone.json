@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Rompre la zone temporelle",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1369,
+=======
+	"id": [
+		81385
+	],
+	"name": "Rompre la zone temporelle",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1369,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Rompre la zone temporelle",
 		"description": "Éclatez le kyste épineux et purifiez les eaux.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

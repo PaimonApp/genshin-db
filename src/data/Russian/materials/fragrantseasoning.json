@@ -1,9 +1,15 @@
 {
+	"id": 101714,
 	"name": "Ароматные приправы",
+	"rarity": 1,
+	"sortRank": 10,
 	"description": "Созданные по рецепту Назафарин приправы. Их пикантный аромат поможет раскрыть вкус блюда.",
+<<<<<<< HEAD
 	"sortorder": 977,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Расходный предмет",
-	"source": []
+	"typeText": "Расходный предмет",
+	"sources": []
 }

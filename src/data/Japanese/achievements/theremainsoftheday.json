@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "陽の名残り",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1367,
+=======
+	"id": [
+		81383
+	],
+	"name": "陽の名残り",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1367,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "陽の名残り",
 		"description": "長い時間をかけて審美眼を培う。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

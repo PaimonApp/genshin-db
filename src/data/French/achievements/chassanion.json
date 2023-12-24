@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Chassanion",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1416,
+=======
+	"id": [
+		81432
+	],
+	"name": "Chassanion",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1416,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Chassanion",
 		"description": "Vainquez la légende locale : Chassanion.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

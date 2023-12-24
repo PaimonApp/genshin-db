@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "In einem Alter, in dem es mehr Zukunft als Vergangenheit gibt",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1368,
+=======
+	"id": [
+		81384
+	],
+	"name": "In einem Alter, in dem es mehr Zukunft als Vergangenheit gibt",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1368,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "In einem Alter, in dem es mehr Zukunft als Vergangenheit gibt",
 		"description": "Auf uns alle wartet eine glänzende Zukunft ...",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

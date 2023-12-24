@@ -1,10 +1,15 @@
 {
+	"id": 100076,
 	"name": "Cipolla",
+	"sortRank": 321,
 	"description": "Una pianta bulbosa. Se affettata, farà scoppiare in lacrime anche i più temerari.",
+<<<<<<< HEAD
 	"sortorder": 2918,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente culinario",
-	"source": [
+	"typeText": "Ingrediente culinario",
+	"sources": [
 		"Acquistabile negli empori"
 	]
 }

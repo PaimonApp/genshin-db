@@ -1,7 +1,13 @@
 {
+	"id": 12,
 	"name": "Cerita Pelabuhan Batu: Seri I",
+<<<<<<< HEAD
 	"sortorder": 25,
+=======
+	"sortOrder": 25,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210032,
 		"name": "Achievement: Ketegangan"
 	}
 }

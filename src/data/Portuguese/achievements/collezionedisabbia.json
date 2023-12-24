@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Coletor de Areia",
 	"achievementgroup": "Desafiante - Série VIII",
 	"sortorder": 2184,
+=======
+	"id": [
+		82185
+	],
+	"name": "Coletor de Areia",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Desafiante - Série VIII",
+	"sortOrder": 2184,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Coletor de Areia",
 		"description": "Quebre a Pérola do Mar Primordial diretamente sem destruir o Orbe do Coral Ressoante enquanto o Cavalo-marinho Perolado Milenar está guiando o Trovão do Mar Primordial.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

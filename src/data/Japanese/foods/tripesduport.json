@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "ポート風トリップ",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "回復系料理",
 	"foodcategory": "Recovery_Revive",
+=======
+	"id": 3411,
+	"name": "ポート風トリップ",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "回復系料理",
+>>>>>>> upstream/main
 	"effect": "選択したキャラを復活させる。\nさらにHPを900～1500回復する。",
 	"description": "内臓を主な材料とした料理。食材を切り、鍋に入れて、生地で鍋の口を封じてから焼き上げる。とある小さな港町発祥の料理。その港町の物語は上昇した海水により失われてしまったが、この料理の美味しさは今でもフォンテーヌに伝わっている。",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "獣肉",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "ニンジン",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "玉ねぎ",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100099,
+>>>>>>> upstream/main
 			"name": "発酵フルーツジュース",
 			"count": 1
 		}

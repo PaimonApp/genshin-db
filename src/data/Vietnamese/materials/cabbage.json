@@ -1,10 +1,15 @@
 {
+	"id": 100018,
 	"name": "Bắp Cải Cuộn",
+	"sortRank": 321,
 	"description": "Rau cuộn từng lớp. Nghe nói từng là cây cảnh, bây giờ hình dáng trong nồi cũng đẹp lắm.",
+<<<<<<< HEAD
 	"sortorder": 2907,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Nguyên Liệu Thực Phẩm",
-	"source": [
+	"typeText": "Nguyên Liệu Thực Phẩm",
+	"sources": [
 		"Thu Thập Bên Ngoài",
 		"Mua trong Tiệm Tạp Hóa"
 	]

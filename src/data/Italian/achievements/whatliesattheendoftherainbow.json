@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Cosa c'è alla fine dell'arcobaleno...?",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1364,
+=======
+	"id": [
+		81380
+	],
+	"name": "Cosa c'è alla fine dell'arcobaleno...?",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1364,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Cosa c'è alla fine dell'arcobaleno...?",
 		"description": "Segui la luce fino alla destinazione finale.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

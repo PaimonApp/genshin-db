@@ -1,9 +1,21 @@
 {
+	"id": 112053,
 	"name": "Hạt Bay Lượn Khô Héo",
+	"rarity": 1,
+	"sortRank": 10118,
 	"description": "Hạt năng lượng có thể giúp Bóng Ma bay lượn, chứa các vi nguyên tố.\nĐa số năng lượng hình như đã bốc hơi mất.",
+<<<<<<< HEAD
 	"sortorder": 3086,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sources": [
+		"Bóng Ma Rơi Ra",
+		"Đổi từ Tinh Trần"
+	]
+>>>>>>> upstream/main
 }

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "虹の終わりにあるものは…？",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1364,
+=======
+	"id": [
+		81380
+	],
+	"name": "虹の終わりにあるものは…？",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1364,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "虹の終わりにあるものは…？",
 		"description": "最後まで光について行く。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

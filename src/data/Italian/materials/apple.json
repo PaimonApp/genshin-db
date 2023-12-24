@@ -1,10 +1,15 @@
 {
+	"id": 100001,
 	"name": "Mela",
+	"sortRank": 90000,
 	"description": "Croccante e fragrante. Deliziosa sia cruda che come sidro.",
+<<<<<<< HEAD
 	"sortorder": 3416,
+=======
+>>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"materialtype": "Cibo",
-	"source": [
+	"typeText": "Cibo",
+	"sources": [
 		"Presente in natura"
 	]
 }

@@ -1,14 +1,30 @@
 {
+<<<<<<< HEAD
 	"name": "ไฟนอลฟอนต้าซี",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1383,
+=======
+	"id": [
+		81399,
+		81403,
+		81404
+	],
+	"name": "ไฟนอลฟอนต้าซี",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1383,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "ไฟนอลฟอนต้าซี",
 		"description": "...โลกที่ดื่มกันซ่า!",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -18,6 +34,10 @@
 		"description": "...โลกที่ดื่มกันซ่า!",
 		"progress": 13,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -27,6 +47,10 @@
 		"description": "...โลกที่ดื่มกันซ่า!",
 		"progress": 16,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

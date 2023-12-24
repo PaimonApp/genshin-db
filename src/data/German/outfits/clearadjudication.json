@@ -1,6 +1,15 @@
 {
+<<<<<<< HEAD
 	"name": "Eindeutiges Urteil",
 	"description": "Neuvillettes Kleidung. Das anmutige und elegante Gewand des Obersten Richters. Seine komplexe Gestaltung erschwert dem Träger die freie Bewegung, doch für ihn hingegen ist ein angemessenes Erscheinungsbild nach seinem Status von besonderer Wichtigkeit.",
 	"isdefault": true,
 	"character": "Neuvillette"
+=======
+	"id": 208700,
+	"name": "Eindeutiges Urteil",
+	"description": "Neuvillettes Kleidung. Das anmutige und elegante Gewand des Obersten Richters. Seine komplexe Gestaltung erschwert dem Träger die freie Bewegung, doch für ihn hingegen ist ein angemessenes Erscheinungsbild nach seinem Status von besonderer Wichtigkeit.",
+	"isDefault": true,
+	"characterId": 10000087,
+	"characterName": "Neuvillette"
+>>>>>>> upstream/main
 }

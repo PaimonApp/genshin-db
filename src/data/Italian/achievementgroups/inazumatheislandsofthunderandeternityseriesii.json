@@ -1,7 +1,13 @@
 {
+	"id": 26,
 	"name": "Inazuma, le isole del tuono e dell'eternità: Serie II",
+<<<<<<< HEAD
 	"sortorder": 35,
+=======
+	"sortOrder": 35,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210097,
 		"name": "Inazuma: Stemma dei Sangonomiya"
 	}
 }

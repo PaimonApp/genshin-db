@@ -59,6 +59,10 @@
 		"celebrationvastness": "การฉลอง - ท่องโลกกว้าง",
 		"celebrationwondrouscalculation": "การฉลอง - การคำนวณอันเยี่ยมยอด",
 		"charlotteexclusive": "Charlotte - สุดพิเศษ",
+<<<<<<< HEAD
+=======
+		"chevreusetypeii": "Chevreuse - ประเภท II",
+>>>>>>> upstream/main
 		"childefoullegacy": "Childe - Foul Legacy",
 		"chongyunspiritblade": "Chongyun - Spirit Blade",
 		"colleigoodvirtue": "Collei - องอาจ",
@@ -115,6 +119,10 @@
 		"mondstadtherosfame": "Mondstadt - Hero's Fame",
 		"mondstadtwhistlingwind": "Mondstadt - เสียงของสายลม",
 		"nahidacrescent": "Nahida - จันทร์เสี้ยว",
+<<<<<<< HEAD
+=======
+		"naviarosula": "Navia - กุหลาบหนาม",
+>>>>>>> upstream/main
 		"neuvillettesurge": "Neuvillette - กระแสวารี",
 		"niloulotusdance": "Nilou - ระบำบงกช",
 		"ningguangphoenix": "Ningguang - Phoenix",
@@ -161,6 +169,7 @@
 		"travelnotessecrets": "บันทึก - ความลับ",
 		"travelnotesstellarrivers": "บันทึก - ทะเลดาว",
 		"travelnotessubspacerecreation": "บันทึก - ท่องพิภพ",
+		"travelnotestimeinscribed": "บันทึก - สลักเวลา",
 		"travelnotesvividillumination": "บันทึก - แสงสีสาดส่อง",
 		"travelnoteswhirlingwaltz": "บันทึก - หมุนระบำ",
 		"travelnoteswindblume": "บันทึก - Windblume",
@@ -240,6 +249,10 @@
 		"การฉลอง - ท่องโลกกว้าง": "celebrationvastness",
 		"การฉลอง - การคำนวณอันเยี่ยมยอด": "celebrationwondrouscalculation",
 		"Charlotte - สุดพิเศษ": "charlotteexclusive",
+<<<<<<< HEAD
+=======
+		"Chevreuse - ประเภท II": "chevreusetypeii",
+>>>>>>> upstream/main
 		"Childe - Foul Legacy": "childefoullegacy",
 		"Chongyun - Spirit Blade": "chongyunspiritblade",
 		"Collei - องอาจ": "colleigoodvirtue",
@@ -296,6 +309,10 @@
 		"Mondstadt - Hero's Fame": "mondstadtherosfame",
 		"Mondstadt - เสียงของสายลม": "mondstadtwhistlingwind",
 		"Nahida - จันทร์เสี้ยว": "nahidacrescent",
+<<<<<<< HEAD
+=======
+		"Navia - กุหลาบหนาม": "naviarosula",
+>>>>>>> upstream/main
 		"Neuvillette - กระแสวารี": "neuvillettesurge",
 		"Nilou - ระบำบงกช": "niloulotusdance",
 		"Ningguang - Phoenix": "ningguangphoenix",
@@ -342,6 +359,7 @@
 		"บันทึก - ความลับ": "travelnotessecrets",
 		"บันทึก - ทะเลดาว": "travelnotesstellarrivers",
 		"บันทึก - ท่องพิภพ": "travelnotessubspacerecreation",
+		"บันทึก - สลักเวลา": "travelnotestimeinscribed",
 		"บันทึก - แสงสีสาดส่อง": "travelnotesvividillumination",
 		"บันทึก - หมุนระบำ": "travelnoteswhirlingwaltz",
 		"บันทึก - Windblume": "travelnoteswindblume",

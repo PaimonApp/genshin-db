@@ -1,11 +1,17 @@
 {
+	"id": 302,
 	"name": "Hydro Sigil",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "A sigil that serves as a sign of recognition from the waters in Fontaine.\nOffer it to the Fountain of Lucine to receive the rewards from the springs.",
+<<<<<<< HEAD
 	"sortorder": 4928,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "City States Sigil",
-	"source": [
+	"typeText": "City States Sigil",
+	"sources": [
 		"Fontaine Exploration Reward"
 	]
 }

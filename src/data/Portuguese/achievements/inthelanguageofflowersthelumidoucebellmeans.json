@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Na Língua das Flores, a Campânula Lumidouce Significa...?",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1412,
+=======
+	"id": [
+		81428
+	],
+	"name": "Na Língua das Flores, a Campânula Lumidouce Significa...?",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1412,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Na Língua das Flores, a Campânula Lumidouce Significa...?",
 		"description": "Você descobre uma flor num canto que ninguém reparou.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Um Mundo a Ser Desencantado",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1407,
+=======
+	"id": [
+		81423
+	],
+	"name": "Um Mundo a Ser Desencantado",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1407,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Um Mundo a Ser Desencantado",
 		"description": "Dê Cristais Caleidoscópicos para o timoneiro do Leme Enferrujado três vezes.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

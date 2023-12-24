@@ -1,9 +1,10 @@
 {
+	"id": 3411,
 	"name": "港湾牛肚",
-	"rarity": "3",
+	"rarity": 3,
 	"foodtype": "NORMAL",
-	"foodfilter": "恢复类料理",
-	"foodcategory": "Recovery_Revive",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "恢复类料理",
 	"effect": "复苏选中的角色。\n为其恢复900-1500点生命值。",
 	"description": "以内脏为主的菜肴。将食材切成块，放入锅中再用面团封口，烤制而成。做法起源于某个港湾小镇，小镇的故事早已被涨起的海水吞没，但美味却一直在枫丹流传。",
 	"suspicious": {
@@ -20,18 +21,22 @@
 	},
 	"ingredients": [
 		{
+			"id": 100061,
 			"name": "兽肉",
 			"count": 3
 		},
 		{
+			"id": 100013,
 			"name": "胡萝卜",
 			"count": 3
 		},
 		{
+			"id": 100076,
 			"name": "洋葱",
 			"count": 2
 		},
 		{
+			"id": 100099,
 			"name": "发酵果实汁",
 			"count": 1
 		}

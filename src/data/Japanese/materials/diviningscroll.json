@@ -1,9 +1,21 @@
 {
+	"id": 112008,
 	"name": "占いの絵巻",
+	"rarity": 1,
+	"sortRank": 10103,
 	"description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
+<<<<<<< HEAD
 	"sortorder": 3044,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "キャラと武器育成素材",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "キャラと武器育成素材",
+	"sources": [
+		"ヒルチャールシャーマンがドロップ",
+		"スターダスト交換"
+	]
+>>>>>>> upstream/main
 }

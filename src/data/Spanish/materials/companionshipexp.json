@@ -1,9 +1,15 @@
 {
+	"id": 105,
 	"name": "EXP de Amistad",
+	"rarity": 3,
+	"sortRank": 11,
 	"description": "Utilizado para aumentar la EXP de Amistad.",
+<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"materialtype": "Aumenta la Amistad",
-	"source": []
+	"typeText": "Aumenta la Amistad",
+	"sources": []
 }

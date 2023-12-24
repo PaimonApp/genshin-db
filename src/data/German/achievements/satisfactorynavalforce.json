@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Gesättigter Hydro-Angriff",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1398,
+=======
+	"id": [
+		81414
+	],
+	"name": "Gesättigter Hydro-Angriff",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1398,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Gesättigter Hydro-Angriff",
 		"description": "Erhalte Schätze unter dem heftigen Hagel von Schiffskanonen.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

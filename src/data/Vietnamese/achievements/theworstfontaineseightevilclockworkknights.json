@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Nguy Hiểm Nhất! Tám Hung Thần Robot Dây Cót",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1372,
+=======
+	"id": [
+		81388
+	],
+	"name": "Nguy Hiểm Nhất! Tám Hung Thần Robot Dây Cót",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1372,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Nguy Hiểm Nhất! Tám Hung Thần Robot Dây Cót",
 		"description": "Nhận được di sản của Robot Dây Cót \"không hoàn mỹ\"",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

@@ -11,6 +11,10 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
+<<<<<<< HEAD
+=======
+		"chevreuse": "Chevreuse",
+>>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -44,6 +48,10 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
+<<<<<<< HEAD
+=======
+		"navia": "Navia",
+>>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -92,6 +100,10 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
+<<<<<<< HEAD
+=======
+		"Chevreuse": "chevreuse",
+>>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -125,6 +137,10 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
+<<<<<<< HEAD
+=======
+		"Navia": "navia",
+>>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -175,6 +191,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -208,6 +228,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -320,6 +344,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -353,6 +381,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -735,6 +767,10 @@
 		],
 		"Greifendes Zahnrad": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -746,6 +782,10 @@
 		],
 		"Mechanisches Stirnrad": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -757,11 +797,40 @@
 		],
 		"Neuartiges Uhrwerk-Zahnrad": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Aphotischer Seidenfaden": [
+<<<<<<< HEAD
 			"charlotte"
+=======
+			"charlotte",
+			"navia"
+		],
+		"Lehren der „Ordnung“": [
+			"chevreuse",
+			"lynette",
+			"wriothesley"
+		],
+		"Anleitung zur „Ordnung“": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"Philosophie der „Ordnung“": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"Aphotisches Auge des Wirbels": [
+			"chevreuse"
+>>>>>>> upstream/main
 		],
 		"Lehren des „Fleißes“": [
 			"chongyun",
@@ -902,16 +971,28 @@
 		],
 		"Transozeanische Perle": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Transozeanischer Brocken": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Xenochromatischer Kristall": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1069,6 +1150,7 @@
 			"razor",
 			"xiangling"
 		],
+<<<<<<< HEAD
 		"Lehren der „Ordnung“": [
 			"lynette",
 			"wriothesley"
@@ -1085,16 +1167,29 @@
 		],
 		"Lehren der „Fairness“": [
 			"lyney",
+=======
+		"Lehren der „Fairness“": [
+			"lyney",
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Anleitung zur „Fairness“": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Philosophie der „Fairness“": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1181,6 +1276,13 @@
 			"Philosophie der „Gerechtigkeit“",
 			"Neuartiges Uhrwerk-Zahnrad",
 			"Aphotischer Seidenfaden",
+<<<<<<< HEAD
+=======
+			"Lehren der „Ordnung“",
+			"Anleitung zur „Ordnung“",
+			"Philosophie der „Ordnung“",
+			"Aphotisches Auge des Wirbels",
+>>>>>>> upstream/main
 			"Lehren des „Fleißes“",
 			"Zerbrochene Maske",
 			"Anleitung zum „Fleiß“",
@@ -1223,9 +1325,12 @@
 			"Philosophie der „Vergänglichkeit“",
 			"Permabernstein",
 			"Klaue des Ostwinds",
+<<<<<<< HEAD
 			"Lehren der „Ordnung“",
 			"Anleitung zur „Ordnung“",
 			"Philosophie der „Ordnung“",
+=======
+>>>>>>> upstream/main
 			"Lehren der „Fairness“",
 			"Anleitung zur „Fairness“",
 			"Philosophie der „Fairness“",

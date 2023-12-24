@@ -1,11 +1,17 @@
 {
+	"id": 302,
 	"name": "Hydro Sigil",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "Sigil yang berfungsi sebagai tanda pengakuan aliran air di Fontaine.\nBerikan ke Fountain of Lucine untuk mendapatkan hadiah dari sumber mata air.",
+<<<<<<< HEAD
 	"sortorder": 4928,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Sigil Elemental",
-	"source": [
+	"typeText": "Sigil Elemental",
+	"sources": [
 		"Hadiah Eksplorasi Fontaine"
 	]
 }

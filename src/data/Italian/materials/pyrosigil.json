@@ -1,11 +1,17 @@
 {
+	"id": 301,
 	"name": "Sigillo di Pyro",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "Un oggetto che esprime gratitudine e apprezzamento, reperibile a Mondstadt. Puoi scambiarlo per degli oggetti rari nel negozio.",
+<<<<<<< HEAD
 	"sortorder": 4927,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Sigillo delle città stato",
-	"source": [
+	"typeText": "Sigillo delle città stato",
+	"sources": [
 		"Ricompensa esplorazione"
 	]
 }

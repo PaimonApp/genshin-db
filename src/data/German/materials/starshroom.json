@@ -1,10 +1,15 @@
 {
+	"id": 101212,
 	"name": "Sternpilz",
+	"sortRank": 90000,
 	"description": "Ein Pilz mit einem sternförmigen Hut. Er hat eine sehr starke Lebenskraft. Wenn er reif ist, spaltet sich der Hut in der Mitte.",
+<<<<<<< HEAD
 	"sortorder": 3418,
+=======
+>>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"materialtype": "Nahrung",
-	"source": [
+	"typeText": "Nahrung",
+	"sources": [
 		"In der freien Natur zu finden"
 	]
 }

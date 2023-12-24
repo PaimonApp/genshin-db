@@ -1,7 +1,13 @@
 {
+	"id": 38,
 	"name": "Sumeru : Désert doré - II",
+<<<<<<< HEAD
 	"sortorder": 42,
+=======
+	"sortOrder": 42,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210151,
 		"name": "Sumeru - Tempête de sable"
 	}
 }

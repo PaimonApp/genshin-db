@@ -1,13 +1,24 @@
 {
+<<<<<<< HEAD
 	"name": "Kalkan Mı Dedin?",
 	"achievementgroup": "Mücadeleci: I. Seri",
 	"sortorder": 2004,
+=======
+	"id": [
+		82004
+	],
+	"name": "Kalkan Mı Dedin?",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Mücadeleci: I. Seri",
+	"sortOrder": 2004,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Kalkan Mı Dedin?",
 		"description": "Büyük bir Toprak Bodurlopunun Toprak Kristali Kalkanını parçala.",
 		"progress": 1,
 		"reward": {
+			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

@@ -1,9 +1,15 @@
 {
+	"id": 223,
 	"name": "Intertwined Fate",
+	"rarity": 5,
+	"sortRank": 410003,
 	"description": "Benih takdir yang menghubungkan mimpi.\nBatu menyala yang dapat menghubungkan takdir dan mimpi satu sama lain, seperti kecerahan yang menghubungkan bintang-bintang dan membentuk hati.",
+<<<<<<< HEAD
 	"sortorder": 4850,
 	"rarity": "5",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Limited Wishing Item",
-	"source": []
+	"typeText": "Limited Wishing Item",
+	"sources": []
 }

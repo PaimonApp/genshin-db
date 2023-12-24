@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Apocalisse imminente",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 5090,
+=======
+	"id": [
+		84311
+	],
+	"name": "Apocalisse imminente",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 5090,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Apocalisse imminente",
 		"description": "Completa Apocalisse imminente.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 10
 		}

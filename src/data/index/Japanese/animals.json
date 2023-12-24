@@ -297,7 +297,7 @@
 	},
 	"aliases": {},
 	"categories": {
-		"魚類": [
+		"SUBTYPE_FISH": [
 			"abidingangelfish",
 			"aizenmedaka",
 			"akaimaou",
@@ -340,7 +340,7 @@
 			"truefruitangler",
 			"venomspinefish"
 		],
-		"FISH": [
+		"COUNT_TYPE_FISH": [
 			"abidingangelfish",
 			"aizenmedaka",
 			"akaimaou",
@@ -379,7 +379,7 @@
 			"truefruitangler",
 			"venomspinefish"
 		],
-		"その他": [
+		"SUBTYPE_CRITTER": [
 			"adornedunagi",
 			"anemocrystalfly",
 			"bluefrog",
@@ -412,7 +412,7 @@
 			"sunnyloach",
 			"sunsetloach"
 		],
-		"CAPTURE": [
+		"COUNT_TYPE_CAPTURE": [
 			"adornedunagi",
 			"amberhuntinghound",
 			"anemocrystalfly",
@@ -485,7 +485,7 @@
 			"viridianfantailpigeon",
 			"whitepigeon"
 		],
-		"獣類": [
+		"SUBTYPE_ANIMAL": [
 			"amateurweaselthief",
 			"amberhuntinghound",
 			"bakedanuki",
@@ -530,7 +530,7 @@
 			"tenttortoise",
 			"tigerstripedcat"
 		],
-		"NONE": [
+		"COUNT_TYPE_NONE": [
 			"amateurweaselthief",
 			"azurecrane",
 			"bakedanuki",
@@ -570,7 +570,7 @@
 			"tigerstripedcat",
 			"umbertailfalcon"
 		],
-		"鳥類": [
+		"SUBTYPE_AVIARY": [
 			"azurecrane",
 			"blackkingpigeon",
 			"bluecrownfinch",
@@ -605,16 +605,16 @@
 		]
 	},
 	"properties": {
-		"category": [
-			"魚類",
-			"その他",
-			"獣類",
-			"鳥類"
+		"categoryType": [
+			"SUBTYPE_FISH",
+			"SUBTYPE_CRITTER",
+			"SUBTYPE_ANIMAL",
+			"SUBTYPE_AVIARY"
 		],
-		"counttype": [
-			"FISH",
-			"CAPTURE",
-			"NONE"
+		"countType": [
+			"COUNT_TYPE_FISH",
+			"COUNT_TYPE_CAPTURE",
+			"COUNT_TYPE_NONE"
 		]
 	}
 }

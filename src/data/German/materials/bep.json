@@ -1,9 +1,15 @@
 {
+	"id": 116001,
 	"name": "Erlebnispass-EP",
+	"rarity": 3,
+	"sortRank": 430061,
 	"description": "In deinem Tagebuch hältst du alles fest, was du auf deinen Reisen erlebt hast. Dies ist der Stoff, aus dem Epen gemacht werden.",
+<<<<<<< HEAD
 	"sortorder": 4959,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Erlebnispass-EP",
-	"source": []
+	"typeText": "Erlebnispass-EP",
+	"sources": []
 }

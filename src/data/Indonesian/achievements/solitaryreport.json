@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Laporan Terisolasi",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1380,
+=======
+	"id": [
+		81396
+	],
+	"name": "Laporan Terisolasi",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1380,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Laporan Terisolasi",
 		"description": "Dapatkan \"laporan khusus\" yang dicetak sendiri oleh Chronie.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

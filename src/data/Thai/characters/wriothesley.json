@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Wriothesley",
 	"fullname": "Wriothesley",
 	"title": "ทูตแห่งบาปเร้นคณา",
@@ -14,6 +15,27 @@
 	"affiliation": "ป้อมปราการ Meropide",
 	"birthdaymmdd": "11/23",
 	"birthday": "23 พฤศจิกายน",
+=======
+	"id": 10000086,
+	"name": "Wriothesley",
+	"title": "ทูตแห่งบาปเร้นคณา",
+	"description": "ดยุกแห่งป้อมปราการ Meropide ผู้ปกครองใต้ท้องทะเลอันมืดมิด",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "สื่อเวท",
+	"bodyType": "BODY_MALE",
+	"gender": "ชาย",
+	"qualityType": "QUALITY_ORANGE",
+	"rarity": 5,
+	"birthdaymmdd": "11/23",
+	"birthday": "23 พฤศจิกายน",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "น้ำแข็ง",
+	"affiliation": "ป้อมปราการ Meropide",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "Fontaine",
+	"substatType": "FIGHT_PROP_CRITICAL_HURT",
+	"substatText": "ความแรงคริ",
+>>>>>>> upstream/main
 	"constellation": "Cerberus",
 	"cv": {
 		"english": "Joe Zieja",
@@ -24,128 +46,249 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Sliver",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Subdetection Unit",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Meshing Gear",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Fragment",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 2
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 2
+			},
+			{
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Subdetection Unit",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Meshing Gear",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Fragment",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 4
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 4
+			},
+			{
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Subdetection Unit",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Mechanical Spur Gear",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Chunk",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 8
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 8
+			},
+			{
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Subdetection Unit",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Mechanical Spur Gear",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Chunk",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 12
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 12
+			},
+			{
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Subdetection Unit",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Artificed Dynamic Gear",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "Shivada Jade Gemstone",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
 				"name": "\"Tubion Device\"",
 				"count": 20
 			},
 			{
+=======
+				"id": 113052,
+				"name": "\"Tourbillon Device\"",
+				"count": 20
+			},
+			{
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Subdetection Unit",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Artificed Dynamic Gear",
 				"count": 24
 			}

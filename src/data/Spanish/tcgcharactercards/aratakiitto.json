@@ -13,7 +13,7 @@
 		"Mandoble",
 		"Inazuma"
 	],
-	"storytitle": "Arataki Itto, el Héroe de Hanamizaka",
+	"storytitle": "Arataki Itto - El Héroe de Hanamizaka",
 	"storytext": "“Arataki Itto, el campeón supremo de las cartas”.",
 	"source": "Se obtiene tras retar y ganar a Arataki Itto en un duelo amistoso en la taberna Cola de Gato",
 	"skills": [
@@ -59,10 +59,10 @@
 			"id": 16053,
 			"name": "Rey oni maligno: ¡Itto contra todos!",
 			"descriptionraw": "Inflige $[D__KEY__DAMAGE] {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de $[D__KEY__ELEMENT] y este personaje entra en el estado de <color=#FFFFFFFF>$[C116053|s1]</color>.",
-			"basedamage": 5,
+			"basedamage": 4,
 			"baseelement": "GCG_ELEMENT_GEO",
-			"descriptionreplaced": "Inflige 5 pts. de {SPRITE_PRESET#2106}<color=#FFE699FF>Daño Geo</color> y este personaje entra en el estado de <color=#FFFFFFFF>rey oni enfurecido</color>.",
-			"description": "Inflige 5 pts. de Daño Geo y este personaje entra en el estado de rey oni enfurecido.",
+			"descriptionreplaced": "Inflige 4 pts. de {SPRITE_PRESET#2106}<color=#FFE699FF>Daño Geo</color> y este personaje entra en el estado de <color=#FFFFFFFF>rey oni enfurecido</color>.",
+			"description": "Inflige 4 pts. de Daño Geo y este personaje entra en el estado de rey oni enfurecido.",
 			"typetag": "GCG_SKILL_TAG_Q",
 			"type": "Habilidad Definitiva",
 			"playcost": [

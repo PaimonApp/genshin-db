@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Aquariumsbesucher",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 5083,
+=======
+	"id": [
+		84304
+	],
+	"name": "Aquariumsbesucher",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 5083,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Aquariumsbesucher",
 		"description": "Begib dich nach Abschluss aller Formalitäten zum Fort Méropide.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

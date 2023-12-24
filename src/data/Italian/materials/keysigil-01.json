@@ -1,9 +1,14 @@
 {
+	"id": 100935,
 	"name": "Chiave sigillo",
 	"dupealias": "Chiave sigillo 1",
+	"sortRank": 430041,
 	"description": "Una Chiave sigillo tramandata sull'Isola di Watatsumi e a Enkanomiya. È stata realizzata smontando gli emblemi degli abitanti di Byakuyakoku di un tempo.",
+<<<<<<< HEAD
 	"sortorder": 4952,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Consumabile",
-	"source": []
+	"typeText": "Consumabile",
+	"sources": []
 }

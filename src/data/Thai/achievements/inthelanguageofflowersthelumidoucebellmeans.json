@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "ภาษาดอกไม้ของ Lumidouce Bell...?",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1412,
+=======
+	"id": [
+		81428
+	],
+	"name": "ภาษาดอกไม้ของ Lumidouce Bell...?",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1412,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "ภาษาดอกไม้ของ Lumidouce Bell...?",
 		"description": "พบดอกไม้เล็ก ๆ ดอกหนึ่งในมุมที่ไม่มีใครสังเกตเห็น",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

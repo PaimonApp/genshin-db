@@ -1,7 +1,13 @@
 {
+	"id": 42,
 	"name": "フォンテーヌ·澄み渡った白露の泉舞·1",
+<<<<<<< HEAD
 	"sortorder": 45,
+=======
+	"sortOrder": 45,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210168,
 		"name": "フォンテーヌ·審判"
 	}
 }

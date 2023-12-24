@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Rapporto solitario",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1380,
+=======
+	"id": [
+		81396
+	],
+	"name": "Rapporto solitario",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1380,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Rapporto solitario",
 		"description": "Ottieni il \"rapporto speciale\" stampato personalmente da Chronie.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

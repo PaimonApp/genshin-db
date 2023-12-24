@@ -1,10 +1,15 @@
 {
+	"id": 100014,
 	"name": "Rabanete Branco",
+	"sortRank": 321,
 	"description": "Rico em fibras e nutrientes. Fácil de plantar e colher.",
+<<<<<<< HEAD
 	"sortorder": 2903,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Encontrado na natureza"
 	]
 }

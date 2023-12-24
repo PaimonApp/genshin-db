@@ -1,17 +1,25 @@
 {
+	"id": 114050,
 	"name": "Kadim Akor Kuplesi",
+<<<<<<< HEAD
 	"description": "Silah Yükseltme Malzemesi.\nEfsanelere göre kadim hanedandan hayatta kalanlar, anmak ve yas tutmak için siyah demirden bir arp dökmüş.\nSiyah demirden dökülen arplar çalınamaz. Bir zamanlar altın müziğiyle gurur duyan kadim hanedanın yasını tutmak adına geride kalanlar, sessizliği kendinden ağır bu enstrümanı dövmüşler.\nFakat sonunda siyah demir arp tıpkı o kayıp çağ gibi sessiz kaldı.",
 	"sortorder": 3328,
 	"rarity": "3",
+=======
+	"rarity": 3,
+	"sortRank": 15113,
+	"description": "Silah Yükseltme Malzemesi.\nEfsanelere göre kadim hanedandan hayatta kalanlar, anmak ve yas tutmak için siyah demirden bir arp dökmüş.\nSiyah demirden dökülen arplar çalınamaz. Bir zamanlar altın müziğiyle gurur duyan kadim hanedanın yasını tutmak adına geride kalanlar, sessizliği kendinden ağır bu enstrümanı dövmüşler.\nFakat sonunda siyah demir arp tıpkı o kayıp çağ gibi sessiz kaldı.",
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Silah Yükseltme Malzemesi",
-	"dropdomain": "Döküm Zindanı: Robot Aklı",
-	"daysofweek": [
+	"typeText": "Silah Yükseltme Malzemesi",
+	"dropDomainId": 4471,
+	"dropDomainName": "Döküm Zindanı: Robot Aklı",
+	"daysOfWeek": [
 		"Pazartesi",
 		"Perşembe",
 		"Pazar"
 	],
-	"source": [
+	"sources": [
 		"Üretilir."
 	]
 }

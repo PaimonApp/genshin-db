@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Truite aux amandes",
 	"rarity": "1",
 	"foodtype": "NORMAL",
 	"foodfilter": "Récupération",
 	"foodcategory": "Recovery_HpAddAll",
+=======
+	"id": 1402,
+	"name": "Truite aux amandes",
+	"rarity": 1,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Récupération",
+>>>>>>> upstream/main
 	"effect": "Restaure 8 à 10 % des PV max du personnage sélectionné.\nEt restaure 210 à 300 PV toutes les 5 s pendant 30 s.",
 	"description": "Des filets de poisson frits de bonne taille. Les filets sont frits dans du beurre onctueux avant d'être servis accompagnés d'amandes rôties croustillantes. La recette traditionnelle de ce plat préconise de placer une truite entière préparée dans la poêle à frire, mais une nouvelle recette a récemment également gagné en popularité.",
 	"suspicious": {
@@ -20,10 +29,18 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100084,
+>>>>>>> upstream/main
 			"name": "Poisson",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Amande",
 			"count": 1
 		}

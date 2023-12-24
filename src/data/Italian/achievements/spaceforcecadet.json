@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Cadetto delle forze spaziali",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1399,
+=======
+	"id": [
+		81415
+	],
+	"name": "Cadetto delle forze spaziali",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1399,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Cadetto delle forze spaziali",
 		"description": "Fai centro a ogni colpo!",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

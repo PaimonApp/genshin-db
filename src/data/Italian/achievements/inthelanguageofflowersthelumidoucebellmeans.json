@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Nel linguaggio dei fiori, la campanula di Lumidouce significa...?",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1412,
+=======
+	"id": [
+		81428
+	],
+	"name": "Nel linguaggio dei fiori, la campanula di Lumidouce significa...?",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1412,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Nel linguaggio dei fiori, la campanula di Lumidouce significa...?",
 		"description": "Scopri un fiore in un angolo a cui nessuno aveva fatto caso.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

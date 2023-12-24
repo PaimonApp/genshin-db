@@ -1,14 +1,30 @@
 {
+<<<<<<< HEAD
 	"name": "Fonta final",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1383,
+=======
+	"id": [
+		81399,
+		81403,
+		81404
+	],
+	"name": "Fonta final",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1383,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Fonta final",
 		"description": "... Un frisson !",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -18,6 +34,10 @@
 		"description": "... Un frisson !",
 		"progress": 13,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -27,6 +47,10 @@
 		"description": "... Un frisson !",
 		"progress": 16,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

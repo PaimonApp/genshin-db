@@ -1,8 +1,13 @@
 {
+	"id": 100619,
 	"name": "생명력을 흡수한 용의 이빨",
+	"sortRank": 200,
 	"description": "생명력을 흡수한 용의 이빨. 불쾌한 광택에 불쾌한 질감이다…",
+<<<<<<< HEAD
 	"sortorder": 2777,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "소재",
-	"source": []
+	"typeText": "소재",
+	"sources": []
 }

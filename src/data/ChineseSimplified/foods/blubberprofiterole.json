@@ -1,9 +1,10 @@
 {
+	"id": 3417,
 	"name": "膨膨泡芙",
-	"rarity": "3",
+	"rarity": 3,
 	"foodtype": "NORMAL",
-	"foodfilter": "攻击类料理",
-	"foodcategory": "Atk_Add",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "攻击类料理",
 	"effect": "队伍中所有角色物理伤害提升20%-40%，持续300秒。\n多人游戏时，仅对自己的角色生效。",
 	"description": "奶油夹心的甜点。蓬松的酥皮，包裹着饱满的奶油，圆鼓鼓的，就像膨膨兽的肚皮一样可爱。绵密柔软的奶油能抓住每一个人的心。",
 	"suspicious": {
@@ -20,18 +21,22 @@
 	},
 	"ingredients": [
 		{
+			"id": 100062,
 			"name": "鸟蛋",
 			"count": 4
 		},
 		{
+			"id": 100078,
 			"name": "牛奶",
 			"count": 3
 		},
 		{
+			"id": 110001,
 			"name": "面粉",
 			"count": 3
 		},
 		{
+			"id": 110002,
 			"name": "奶油",
 			"count": 2
 		}

@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "นักผจญภัยแห่งเกลียวคลื่น III",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว III",
 	"sortorder": 271,
+=======
+	"id": [
+		80295,
+		80296,
+		80297
+	],
+	"name": "นักผจญภัยแห่งเกลียวคลื่น III",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว III",
+	"sortOrder": 271,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "นักผจญภัยแห่งเกลียวคลื่น III",
 		"description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างใน Morte Region และ Erinnyes Forest {param0} ครั้ง",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างใน Morte Region และ Erinnyes Forest {param0} ครั้ง",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างใน Morte Region และ Erinnyes Forest {param0} ครั้ง",
 		"progress": 9,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

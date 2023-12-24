@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "ผู้ชี้นำกระแสน้ำ II",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว II",
 	"sortorder": 251,
+=======
+	"id": [
+		80275,
+		80276,
+		80277
+	],
+	"name": "ผู้ชี้นำกระแสน้ำ II",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว II",
+	"sortOrder": 251,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "ผู้ชี้นำกระแสน้ำ II",
 		"description": "ตาม Seelie {param0} ตัว ไปยังแท่นของมันใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "ตาม Seelie {param0} ตัว ไปยังแท่นของมันใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "ตาม Seelie {param0} ตัว ไปยังแท่นของมันใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region",
 		"progress": 9,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Lòng Bò Bến Cảng",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Hồi Phục",
 	"foodcategory": "Recovery_Revive",
+=======
+	"id": 3411,
+	"name": "Lòng Bò Bến Cảng",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Món Dạng Hồi Phục",
+>>>>>>> upstream/main
 	"effect": "Hồi sinh cho nhân vật được chọn.\nHồi 900-1500 điểm HP.",
 	"description": "Món ăn với nguyên liệu chính là lòng bò. Cắt nguyên liệu thành hạt lựu, cho vào nồi rồi dùng bột mì bít lại và đem nướng. Cách làm bắt nguồn từ một thị trấn nhỏ ở bến cảng, câu chuyện về thị trấn đã bị nước biển nuốt chửng từ lâu, nhưng hương vị thì vẫn mãi lưu truyền tại Fontaine.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Thịt Rừng",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "Cà Rốt",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "Hành Tây",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100099,
+>>>>>>> upstream/main
 			"name": "Nước Trái Cây Lên Men",
 			"count": 1
 		}

@@ -1,10 +1,15 @@
 {
+	"id": 100061,
 	"name": "獣肉",
+	"sortRank": 321,
 	"description": "ケモノ類の新鮮な肉。適切な料理をすると元気モリモリの食事になる。",
+<<<<<<< HEAD
 	"sortorder": 2912,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "食材",
-	"source": [
+	"typeText": "食材",
+	"sources": [
 		"動物がドロップ"
 	]
 }

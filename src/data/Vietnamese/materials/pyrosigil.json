@@ -1,11 +1,17 @@
 {
+	"id": 301,
 	"name": "Ấn Hỏa",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "Tiền Kỷ Niệm xung quanh Mondstadt, có thể đổi vật phẩm hiếm trong Cửa Hàng",
+<<<<<<< HEAD
 	"sortorder": 4927,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Con Dấu 7 Đất Nước",
-	"source": [
+	"typeText": "Con Dấu 7 Đất Nước",
+	"sources": [
 		"Thưởng Thám Hiểm"
 	]
 }

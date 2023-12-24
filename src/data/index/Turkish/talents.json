@@ -11,6 +11,10 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
+<<<<<<< HEAD
+=======
+		"chevreuse": "Chevreuse",
+>>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -44,6 +48,10 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
+<<<<<<< HEAD
+=======
+		"navia": "Navia",
+>>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -92,6 +100,10 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
+<<<<<<< HEAD
+=======
+		"Chevreuse": "chevreuse",
+>>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -125,6 +137,10 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
+<<<<<<< HEAD
+=======
+		"Navia": "navia",
+>>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -175,6 +191,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -208,6 +228,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -320,6 +344,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -353,6 +381,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -735,6 +767,10 @@
 		],
 		"Kavrama Dişlisi": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -746,6 +782,10 @@
 		],
 		"Mekanik Düz Dişli": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -757,11 +797,40 @@
 		],
 		"Usta İşi Dinamik Dişli": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Sönük İpek İplik": [
+<<<<<<< HEAD
 			"charlotte"
+=======
+			"charlotte",
+			"navia"
+		],
+		"Düzen Öğretisi": [
+			"chevreuse",
+			"lynette",
+			"wriothesley"
+		],
+		"Düzen Rehberi": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"Düzen Felsefesi": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"Sönük Girdap Gözü": [
+			"chevreuse"
+>>>>>>> upstream/main
 		],
 		"Çalışkanlık Öğretisi": [
 			"chongyun",
@@ -902,16 +971,28 @@
 		],
 		"Okyanus Ötesi İncisi": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Okyanus Ötesi Parça": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Alaca Kristal": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1069,6 +1150,7 @@
 			"razor",
 			"xiangling"
 		],
+<<<<<<< HEAD
 		"Düzen Öğretisi": [
 			"lynette",
 			"wriothesley"
@@ -1085,16 +1167,29 @@
 		],
 		"Eşitlik Öğretisi": [
 			"lyney",
+=======
+		"Eşitlik Öğretisi": [
+			"lyney",
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Eşitlik Rehberi": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Eşitlik Felsefesi": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1181,6 +1276,13 @@
 			"Adalet Felsefesi",
 			"Usta İşi Dinamik Dişli",
 			"Sönük İpek İplik",
+<<<<<<< HEAD
+=======
+			"Düzen Öğretisi",
+			"Düzen Rehberi",
+			"Düzen Felsefesi",
+			"Sönük Girdap Gözü",
+>>>>>>> upstream/main
 			"Çalışkanlık Öğretisi",
 			"Kırık Maske",
 			"Çalışkanlık Rehberi",
@@ -1223,9 +1325,12 @@
 			"Fani Dünya Felsefesi",
 			"Ezeli Kehribar",
 			"Dvalin'in Pençesi",
+<<<<<<< HEAD
 			"Düzen Öğretisi",
 			"Düzen Rehberi",
 			"Düzen Felsefesi",
+=======
+>>>>>>> upstream/main
 			"Eşitlik Öğretisi",
 			"Eşitlik Rehberi",
 			"Eşitlik Felsefesi",

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "เพื่อวันพรุ่งนี้ที่งดงาม",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 5094,
+=======
+	"id": [
+		84315
+	],
+	"name": "เพื่อวันพรุ่งนี้ที่งดงาม",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 5094,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "เพื่อวันพรุ่งนี้ที่งดงาม",
 		"description": "ผู้คนกำลังสร้างบ้านใหม่อีกครั้ง",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

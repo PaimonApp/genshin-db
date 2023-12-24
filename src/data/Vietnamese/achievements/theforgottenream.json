@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Băng Giấy Bị Lãng Quên",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1370,
+=======
+	"id": [
+		81386
+	],
+	"name": "Băng Giấy Bị Lãng Quên",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1370,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Băng Giấy Bị Lãng Quên",
 		"description": "Giúp Broglie thu hồi và sắp xếp toàn bộ \"dữ liệu quan trắc thủy văn\".",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

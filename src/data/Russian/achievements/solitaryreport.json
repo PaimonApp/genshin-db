@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Доклад одиночки",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1380,
+=======
+	"id": [
+		81396
+	],
+	"name": "Доклад одиночки",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1380,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Доклад одиночки",
 		"description": "Получите «особый отчёт», напечатанный Хронией.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

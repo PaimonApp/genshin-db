@@ -1,10 +1,15 @@
 {
+	"id": 111021,
 	"name": "Medium Pretty Crystal",
+	"sortRank": 430051,
 	"description": "Additional Crafted Item",
+<<<<<<< HEAD
 	"sortorder": 4957,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Crafted Item",
-	"source": [
+	"typeText": "Crafted Item",
+	"sources": [
 		"Crafted"
 	]
 }

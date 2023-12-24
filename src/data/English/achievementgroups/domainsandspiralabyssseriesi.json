@@ -1,7 +1,9 @@
 {
+	"id": 9,
 	"name": "Domains and Spiral Abyss: Series I",
-	"sortorder": 22,
+	"sortOrder": 22,
 	"reward": {
+		"id": 210029,
 		"name": "Achievement: Deep & Dark"
 	}
 }

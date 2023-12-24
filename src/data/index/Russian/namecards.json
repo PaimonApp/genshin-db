@@ -59,6 +59,10 @@
 		"celebrationvastness": "Необъятность",
 		"celebrationwondrouscalculation": "Великолепный расчёт",
 		"charlotteexclusive": "Эксклюзив",
+<<<<<<< HEAD
+=======
+		"chevreusetypeii": "Модель № 2",
+>>>>>>> upstream/main
 		"childefoullegacy": "Маска",
 		"chongyunspiritblade": "Духовные лезвия",
 		"colleigoodvirtue": "Благородство леопарда",
@@ -115,6 +119,10 @@
 		"mondstadtherosfame": "Почётный рыцарь",
 		"mondstadtwhistlingwind": "Песнь ветра",
 		"nahidacrescent": "Полумесяц",
+<<<<<<< HEAD
+=======
+		"naviarosula": "Росула",
+>>>>>>> upstream/main
 		"neuvillettesurge": "Наплыв",
 		"niloulotusdance": "Танец лотоса",
 		"ningguangphoenix": "Величие феникса",
@@ -161,6 +169,7 @@
 		"travelnotessecrets": "Секреты",
 		"travelnotesstellarrivers": "Звёздные реки",
 		"travelnotessubspacerecreation": "Другая реальность",
+		"travelnotestimeinscribed": "Резьба по времени",
 		"travelnotesvividillumination": "Сияющие цвета",
 		"travelnoteswhirlingwaltz": "Вихрь вальса",
 		"travelnoteswindblume": "Анемония",
@@ -240,6 +249,10 @@
 		"Необъятность": "celebrationvastness",
 		"Великолепный расчёт": "celebrationwondrouscalculation",
 		"Эксклюзив": "charlotteexclusive",
+<<<<<<< HEAD
+=======
+		"Модель № 2": "chevreusetypeii",
+>>>>>>> upstream/main
 		"Маска": "childefoullegacy",
 		"Духовные лезвия": "chongyunspiritblade",
 		"Благородство леопарда": "colleigoodvirtue",
@@ -296,6 +309,10 @@
 		"Почётный рыцарь": "mondstadtherosfame",
 		"Песнь ветра": "mondstadtwhistlingwind",
 		"Полумесяц": "nahidacrescent",
+<<<<<<< HEAD
+=======
+		"Росула": "naviarosula",
+>>>>>>> upstream/main
 		"Наплыв": "neuvillettesurge",
 		"Танец лотоса": "niloulotusdance",
 		"Величие феникса": "ningguangphoenix",
@@ -341,6 +358,7 @@
 		"Секреты": "travelnotessecrets",
 		"Звёздные реки": "travelnotesstellarrivers",
 		"Другая реальность": "travelnotessubspacerecreation",
+		"Резьба по времени": "travelnotestimeinscribed",
 		"Сияющие цвета": "travelnotesvividillumination",
 		"Вихрь вальса": "travelnoteswhirlingwaltz",
 		"Анемония": "travelnoteswindblume",

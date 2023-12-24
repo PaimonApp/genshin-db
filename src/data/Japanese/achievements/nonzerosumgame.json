@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "ノンゼロサムゲーム",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1361,
+=======
+	"id": [
+		81377
+	],
+	"name": "ノンゼロサムゲーム",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1361,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "ノンゼロサムゲーム",
 		"description": "特別許可食堂のアンケート調査を終わらせる。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

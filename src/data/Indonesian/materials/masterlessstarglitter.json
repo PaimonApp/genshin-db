@@ -1,11 +1,17 @@
 {
+	"id": 221,
 	"name": "Masterless Starglitter",
+	"rarity": 5,
+	"sortRank": 410001,
 	"description": "Mata uang yang dapat digunakan untuk membeli item-item langka dari Toko.\nStardust of Destiny yang berlebih, mungkin bisa digunakan untuk menyinari ujung alam semesta lain.",
+<<<<<<< HEAD
 	"sortorder": 4847,
 	"rarity": "5",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Superior Voucher",
-	"source": [
+	"typeText": "Superior Voucher",
+	"sources": [
 		"Permohonan"
 	]
 }

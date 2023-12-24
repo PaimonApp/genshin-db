@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Massa senza luce",
 	"description": "Un frammento generato dall'intensa battaglia contro il Narvalo Divoramondi.\nL'universo è un luogo buio e freddo.\nMa osserva con attenzione: al suo interno vi sono sempre deboli bagliori di luce, come perle che brillano nella sabbia, schegge di diamante disseminate sull'asfalto, fari che fendono la nebbia notturna e scintille che divampano vivacemente.",
 	"sortorder": 3155,
@@ -6,4 +7,16 @@
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Materiale per l'aumento di livello del personaggio",
 	"source": []
+=======
+	"id": 113056,
+	"name": "Massa senza luce",
+	"rarity": 5,
+	"sortRank": 11101,
+	"description": "Un frammento generato dall'intensa battaglia contro il Narvalo Divoramondi.\nL'universo è un luogo buio e freddo.\nMa osserva con attenzione: al suo interno vi sono sempre deboli bagliori di luce, come perle che brillano nella sabbia, schegge di diamante disseminate sull'asfalto, fari che fendono la nebbia notturna e scintille che divampano vivacemente.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale per l'aumento di livello del personaggio",
+	"sources": [
+		"Ricompensa sfida liv. 70+ Narvalo Divoramondi"
+	]
+>>>>>>> upstream/main
 }

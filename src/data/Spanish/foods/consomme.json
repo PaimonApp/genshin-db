@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Cien sabores",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que mejoran ataques",
 	"foodcategory": "Atk_CritRate",
+=======
+	"id": 3413,
+	"name": "Cien sabores",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Platos que mejoran ataques",
+>>>>>>> upstream/main
 	"effect": "Aumenta la Prob. CRIT de todos los miembros del equipo en un 10%-20% durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Una sopa de compleja elaboración. Los ingredientes se trituran y se cuecen a fuego lento con el caldo, y este se cuela y se sirve al final. Circula por las calles de Fontaine el misterioso rumor de que escritores faltos de inspiración la encuentran con solo probar esta sopa... Pero ¿no son los mercaderes quienes crean cosas con efectos tan increíbles?",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100064,
+>>>>>>> upstream/main
 			"name": "Carne de ave",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Huevo de pájaro",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "Zanahoria",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Jazmimpoluto",
 			"count": 1
 		}

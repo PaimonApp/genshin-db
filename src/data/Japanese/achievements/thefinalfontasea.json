@@ -1,14 +1,30 @@
 {
+<<<<<<< HEAD
 	"name": "ファイナル·フォンタ·シー",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1383,
+=======
+	"id": [
+		81399,
+		81403,
+		81404
+	],
+	"name": "ファイナル·フォンタ·シー",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1383,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "ファイナル·フォンタ·シー",
 		"description": "…世界に「爽やか」を！",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}
@@ -18,6 +34,10 @@
 		"description": "…世界に「爽やか」を！",
 		"progress": 13,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}
@@ -27,6 +47,10 @@
 		"description": "…世界に「爽やか」を！",
 		"progress": 16,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

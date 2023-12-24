@@ -1279,7 +1279,7 @@
 		]
 	},
 	"properties": {
-		"filter": [
+		"filterText": [
 			"Materiale di potenziamento armi e personaggi",
 			"Materiale d'ascensione personaggi",
 			"Consumabile",

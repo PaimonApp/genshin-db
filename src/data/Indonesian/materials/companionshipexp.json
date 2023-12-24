@@ -1,9 +1,15 @@
 {
+	"id": 105,
 	"name": "Companionship EXP",
+	"rarity": 3,
+	"sortRank": 11,
 	"description": "Companionship EXP, digunakan untuk meningkatkan level Persahabatan.",
+<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"materialtype": "Meningkatkan Persahabatan",
-	"source": []
+	"typeText": "Meningkatkan Persahabatan",
+	"sources": []
 }

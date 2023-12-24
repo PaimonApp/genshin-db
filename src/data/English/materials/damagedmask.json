@@ -1,9 +1,25 @@
 {
+	"id": 112005,
 	"name": "Damaged Mask",
+	"rarity": 1,
+	"sortRank": 10102,
 	"description": "A broken bone mask that once belonged to some hilichurl.\nNow more broken than complete, it can no longer perform its primary function.",
+<<<<<<< HEAD
 	"sortorder": 3041,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character and Weapon Enhancement Material",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Character and Weapon Enhancement Material",
+	"sources": [
+		"Dropped by hilichurls",
+		"Dropped uncommonly by Hilichurl Shooters",
+		"Dropped uncommonly by samachurls",
+		"Dropped uncommonly by mitachurls",
+		"Dropped uncommonly by lawachurls",
+		"Stardust Exchange"
+	]
+>>>>>>> upstream/main
 }

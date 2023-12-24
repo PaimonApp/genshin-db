@@ -492,9 +492,14 @@
 		"sumerurose": "Сумерская роза",
 		"sunsetcloudangler": "Вечерний иглобрюх",
 		"sunsettia": "Закатник",
+<<<<<<< HEAD
+=======
+		"superduperinvincibleshiningsparklymagiccrystal": "Супер-пупер непобедимый сияющий магический кристалл",
+>>>>>>> upstream/main
 		"surgingsacredchalice": "Сияющий кубок",
 		"sweetflower": "Цветок-сахарок",
 		"sweetflowermedaka": "Сахарная оризия",
+		"swirlingsceneinabottle": "Водовороты пейзажа в бутылке",
 		"tailofboreas": "Хвост Борея",
 		"teachingsofadmonition": "Учения о «Наставлениях»",
 		"teachingsofballad": "Учения о «Поэзии»",
@@ -1059,9 +1064,14 @@
 		"Сумерская роза": "sumerurose",
 		"Вечерний иглобрюх": "sunsetcloudangler",
 		"Закатник": "sunsettia",
+<<<<<<< HEAD
+=======
+		"Супер-пупер непобедимый сияющий магический кристалл": "superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 		"Сияющий кубок": "surgingsacredchalice",
 		"Цветок-сахарок": "sweetflower",
 		"Сахарная оризия": "sweetflowermedaka",
+		"Водовороты пейзажа в бутылке": "swirlingsceneinabottle",
 		"Хвост Борея": "tailofboreas",
 		"Учения о «Наставлениях»": "teachingsofadmonition",
 		"Учения о «Поэзии»": "teachingsofballad",
@@ -1517,7 +1527,13 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
+<<<<<<< HEAD
 			"surgingsacredchalice",
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+			"surgingsacredchalice",
+			"swirlingsceneinabottle",
+>>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1849,6 +1865,7 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
+			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2215,6 +2232,10 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
+<<<<<<< HEAD
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2467,6 +2488,10 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
+<<<<<<< HEAD
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3041,6 +3066,7 @@
 			"naturestruefruit",
 			"plumeofpurifyinglight",
 			"silkenprint",
+			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"Воля: Скверные тучи": [
@@ -3336,11 +3362,11 @@
 	},
 	"properties": {
 		"rarity": [
-			"3",
-			"5",
-			"1",
-			"2",
-			"4"
+			3,
+			5,
+			1,
+			2,
+			4
 		],
 		"category": [
 			"EXCHANGE",
@@ -3355,7 +3381,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"materialtype": [
+		"typeText": [
 			"Рыба",
 			"Предмет молитвы",
 			"Еда",
@@ -3397,7 +3423,7 @@
 			"Материал Драконьего хребта",
 			"Инструмент"
 		],
-		"dropdomain": [
+		"dropDomainName": [
 			"Воля: Древние испытания молнии",
 			"Воля: Затопленное ущелье",
 			"Воля: Удивительные механизмы",
@@ -3429,7 +3455,7 @@
 			"Воля: Песчаный алтарь",
 			"Воля: Искушение"
 		],
-		"daysofweek": [
+		"daysOfWeek": [
 			"Среда",
 			"Суббота",
 			"Воскресенье",

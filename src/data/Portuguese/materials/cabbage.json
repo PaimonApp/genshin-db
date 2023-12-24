@@ -1,10 +1,15 @@
 {
+	"id": 100018,
 	"name": "Repolho",
+	"sortRank": 321,
 	"description": "Um vegetal em camadas. Dizem ser originalmente uma planta ornamental. Sem dúvidas tem um ótimo aspecto dentro de uma panela.",
+<<<<<<< HEAD
 	"sortorder": 2907,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Encontrado na natureza",
 		"Vendido nas Tendas"
 	]

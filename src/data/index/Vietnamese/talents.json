@@ -11,6 +11,10 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
+<<<<<<< HEAD
+=======
+		"chevreuse": "Chevreuse",
+>>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -44,6 +48,10 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
+<<<<<<< HEAD
+=======
+		"navia": "Navia",
+>>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -92,6 +100,10 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
+<<<<<<< HEAD
+=======
+		"Chevreuse": "chevreuse",
+>>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -125,6 +137,10 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
+<<<<<<< HEAD
+=======
+		"Navia": "navia",
+>>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -175,6 +191,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -208,6 +228,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -320,6 +344,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -353,6 +381,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -735,6 +767,10 @@
 		],
 		"Bánh Răng Liên Kết": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -746,6 +782,10 @@
 		],
 		"Bánh Răng Chính": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -757,11 +797,40 @@
 		],
 		"Bánh Răng Lõi Trung Tâm": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Sợi Không Ánh Sáng": [
+<<<<<<< HEAD
 			"charlotte"
+=======
+			"charlotte",
+			"navia"
+		],
+		"Bài Giảng Của \"Trật Tự\"": [
+			"chevreuse",
+			"lynette",
+			"wriothesley"
+		],
+		"Hướng Dẫn Của \"Trật Tự\"": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"Triết Học Của \"Trật Tự\"": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"Mắt Xoáy Không Ánh Sáng": [
+			"chevreuse"
+>>>>>>> upstream/main
 		],
 		"Bài Giảng Của \"Chăm Chỉ\"": [
 			"chongyun",
@@ -902,16 +971,28 @@
 		],
 		"Ngọc Vụn Đại Dương": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Kết Tinh Đại Dương": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Tinh Thạch Dị Sắc": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1069,6 +1150,7 @@
 			"razor",
 			"xiangling"
 		],
+<<<<<<< HEAD
 		"Bài Giảng Của \"Trật Tự\"": [
 			"lynette",
 			"wriothesley"
@@ -1085,16 +1167,29 @@
 		],
 		"Bài Giảng Của \"Công Bằng\"": [
 			"lyney",
+=======
+		"Bài Giảng Của \"Công Bằng\"": [
+			"lyney",
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Hướng Dẫn Của \"Công Bằng\"": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Triết Học Của \"Công Bằng\"": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1181,6 +1276,13 @@
 			"Triết Học Của \"Chính Nghĩa\"",
 			"Bánh Răng Lõi Trung Tâm",
 			"Sợi Không Ánh Sáng",
+<<<<<<< HEAD
+=======
+			"Bài Giảng Của \"Trật Tự\"",
+			"Hướng Dẫn Của \"Trật Tự\"",
+			"Triết Học Của \"Trật Tự\"",
+			"Mắt Xoáy Không Ánh Sáng",
+>>>>>>> upstream/main
 			"Bài Giảng Của \"Chăm Chỉ\"",
 			"Mặt Nạ Vỡ",
 			"Hướng Dẫn Của \"Chăm Chỉ\"",
@@ -1223,9 +1325,12 @@
 			"Triết Học Của \"Phù Thế\"",
 			"Hổ Phách Vĩnh Hằng",
 			"Móng Vuốt Đông Phong",
+<<<<<<< HEAD
 			"Bài Giảng Của \"Trật Tự\"",
 			"Hướng Dẫn Của \"Trật Tự\"",
 			"Triết Học Của \"Trật Tự\"",
+=======
+>>>>>>> upstream/main
 			"Bài Giảng Của \"Công Bằng\"",
 			"Hướng Dẫn Của \"Công Bằng\"",
 			"Triết Học Của \"Công Bằng\"",

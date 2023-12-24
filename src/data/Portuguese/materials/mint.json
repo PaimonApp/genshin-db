@@ -1,10 +1,15 @@
 {
+	"id": 100016,
 	"name": "Menta",
+	"sortRank": 321,
 	"description": "Um ingrediente refrescante. Traz um frescor que pode refrescar o calor dos dias de verão.",
+<<<<<<< HEAD
 	"sortorder": 2905,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Encontrado na natureza"
 	]
 }

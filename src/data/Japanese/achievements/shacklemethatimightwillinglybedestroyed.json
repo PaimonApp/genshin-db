@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "さあ、鎖で縛りあげるがいい。よろこんで滅びよう。",
 	"achievementgroup": "挑戦者·8",
 	"sortorder": 2182,
+=======
+	"id": [
+		82183
+	],
+	"name": "さあ、鎖で縛りあげるがいい。よろこんで滅びよう。",
+	"achievementGroupId": 40,
+	"achievementGroupName": "挑戦者·8",
+	"sortOrder": 2182,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "さあ、鎖で縛りあげるがいい。よろこんで滅びよう。",
 		"description": "「氷風組曲·コッペリアの葬送」のクライマックスで、コペリウスの攻撃を借りて、すべての葬送の旋風を元素変化させる。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

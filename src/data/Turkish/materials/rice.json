@@ -1,10 +1,15 @@
 {
+	"id": 100092,
 	"name": "Pirinç",
+	"sortRank": 321,
 	"description": "Teyvat'ta yaygın olarak bulunan bir tahıl ürünü. Taneli ve dolgun tadı her kesimden insan tarafından beğenilir. Ne demişler, \"bir çeşit pirinç yüz çeşit insanı besler\".",
+<<<<<<< HEAD
 	"sortorder": 2929,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Yemek Malzemesi",
-	"source": [
+	"typeText": "Yemek Malzemesi",
+	"sources": [
 		"Liyue'deki gıda pazarında satılır.",
 		"Inazuma'daki gıda pazarında satılır.",
 		"Sumeru'daki gıda pazarında satılır."

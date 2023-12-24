@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "Hướng dẫn câu cá Teyvat - Phần I",
 	"sortorder": 37,
+=======
+	"id": 25,
+	"name": "Hướng Dẫn Câu Cá Teyvat - Phần I",
+	"sortOrder": 37,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210098,
 		"name": "Thành Tựu - Đập Kim"
 	}
 }

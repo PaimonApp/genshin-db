@@ -1,11 +1,17 @@
 {
+	"id": 104121,
 	"name": "Varunada Lazuriti Tozu",
+	"rarity": 2,
+	"sortRank": 12103,
 	"description": "Karakter Yükseltme Malzemesi.",
+<<<<<<< HEAD
 	"sortorder": 3196,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Karakter Yükseltme Malzemesi",
-	"source": [
+	"typeText": "Karakter Yükseltme Malzemesi",
+	"sources": [
 		"Okeanidlerden düşer.",
 		"Su Hipostazlarından düşer.",
 		"Su Tulpalarından düşer.",

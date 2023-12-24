@@ -1,10 +1,15 @@
 {
+	"id": 100033,
 	"name": "Conchas Estreladas",
+	"sortRank": 312,
 	"description": "Conchas do mar vazias trazidas para terra pelas marés. Segure-o perto do ouvido e ouça os apelos do mar.",
+<<<<<<< HEAD
 	"sortorder": 2859,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Especialidade de Liyue",
-	"source": [
+	"typeText": "Especialidade de Liyue",
+	"sources": [
 		"Encontrado nas Costas de Liyue"
 	]
 }

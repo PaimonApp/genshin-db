@@ -1,10 +1,15 @@
 {
+	"id": 101216,
 	"name": "Harra-Frucht",
+	"sortRank": 321,
 	"description": "Diese Frucht wächst inmitten des feucht-heißen Regenwaldes. Sie hat ein besonderes scharfes Aroma. Indem sie zu einem Pulver zermahlen wird, entsteht die Harra-Würze. Somit ist sie die wertvollste Gewürzpflanze ganz Sumerus.",
+<<<<<<< HEAD
 	"sortorder": 2939,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Zutat",
-	"source": [
+	"typeText": "Zutat",
+	"sources": [
 		"In der freien Natur zu finden"
 	]
 }

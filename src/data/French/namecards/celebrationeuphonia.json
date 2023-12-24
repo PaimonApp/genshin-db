@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "Célébration - Euphonie",
 	"description": "Thème.\nLa pluie passe et les arbres de la montagne chantent.",
 	"sortorder": 210177,
+=======
+	"id": 210177,
+	"name": "Célébration - Euphonie",
+	"description": "Thème.\nLa pluie passe et les arbres de la montagne chantent.",
+	"sortOrder": 210177,
+>>>>>>> upstream/main
 	"source": [
 		"Événement « GENSHIN CONCERT »"
 	]

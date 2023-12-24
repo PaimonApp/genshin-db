@@ -1,9 +1,21 @@
 {
+	"id": 112050,
 	"name": "Prisma Sombrio",
+	"rarity": 2,
+	"sortRank": 10117,
 	"description": "Este já foi um prisma capaz de polarizar a luz, mas tornou-se opaco com o passar dos anos.",
+<<<<<<< HEAD
 	"sortorder": 3083,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Fortalecimento de Arma e Personagem",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de Fortalecimento de Arma e Personagem",
+	"sources": [
+		"Dropado por Fatui - Dama de Snezhnaya",
+		"Resgate de Poeira Estrelar"
+	]
+>>>>>>> upstream/main
 }

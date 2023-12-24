@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Tripes du Port",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Makanan Pemulihan",
 	"foodcategory": "Recovery_Revive",
+=======
+	"id": 3411,
+	"name": "Tripes du Port",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Makanan Pemulihan",
+>>>>>>> upstream/main
 	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 900–1.500 HP.",
 	"description": "Hidangan yang dibuat menggunakan jeroan. Potong bahan-bahannya dan masukkan ke dalam panci, lalu tutup dengan adonan tepung dan panggang. Metode pembuatan ini berasal dari sebuah kota pelabuhan. Kisah kota ini telah lama ditelan oleh air laut yang tinggi, tetapi rasa yang lezat masih tersebar di seluruh Fontaine.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Raw Meat",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "Carrot",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "Onion",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100099,
+>>>>>>> upstream/main
 			"name": "Fermented Juice",
 			"count": 1
 		}

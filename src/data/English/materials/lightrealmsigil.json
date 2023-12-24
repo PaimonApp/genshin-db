@@ -1,9 +1,15 @@
 {
+	"id": 101692,
 	"name": "Light Realm Sigil",
+	"rarity": 3,
+	"sortRank": 430041,
 	"description": "A mark symbolizing the recognition of Enkanomiya's Tokoyo Ookami.\nThey can be offered up to the Statue of the Vassals of Watatsumi, thus upgrading the Bokuso Box.",
+<<<<<<< HEAD
 	"sortorder": 4950,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Consumable",
-	"source": []
+	"typeText": "Consumable",
+	"sources": []
 }

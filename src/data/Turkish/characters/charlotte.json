@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Charlotte",
 	"fullname": "Charlotte",
 	"title": "Hakikatin Merceği",
@@ -14,6 +15,27 @@
 	"affiliation": "Buğukuş",
 	"birthdaymmdd": "4/10",
 	"birthday": "10 Nisan",
+=======
+	"id": 10000088,
+	"name": "Charlotte",
+	"title": "Hakikatin Merceği",
+	"description": "Buğukuş'un her zaman \"gerçeğin\" peşinde koşan ve asla yorulmak bilmeyen muhabiri.",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "Katalizör",
+	"bodyType": "BODY_GIRL",
+	"gender": "kadın",
+	"qualityType": "QUALITY_PURPLE",
+	"rarity": 4,
+	"birthdaymmdd": "4/10",
+	"birthday": "10 Nisan",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "Buz",
+	"affiliation": "Buğukuş",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "Fontaine",
+	"substatType": "FIGHT_PROP_ATTACK_PERCENT",
+	"substatText": "Saldırı",
+>>>>>>> upstream/main
 	"constellation": "Gerçeklerin Aynası",
 	"cv": {
 		"english": "Maya Aoki Tuttle",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "Shivada Yeşimi Tozu",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beril Kabuk",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Kavrama Dişlisi",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Shivada Yeşimi Kırıntısı",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Tourbillon Cihazı\"",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beril Kabuk",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Kavrama Dişlisi",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Shivada Yeşimi Kırıntısı",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Tourbillon Cihazı\"",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beril Kabuk",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Mekanik Düz Dişli",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Shivada Yeşimi Parçası",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Tourbillon Cihazı\"",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beril Kabuk",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Mekanik Düz Dişli",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Shivada Yeşimi Parçası",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Tourbillon Cihazı\"",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beril Kabuk",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Usta İşi Dinamik Dişli",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "Shivada Yeşimi Külçesi",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Tourbillon Cihazı\"",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "Beril Kabuk",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Usta İşi Dinamik Dişli",
 				"count": 24
 			}

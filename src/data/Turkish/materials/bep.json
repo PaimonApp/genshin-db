@@ -1,9 +1,15 @@
 {
+	"id": 116001,
 	"name": "SB TP",
+	"rarity": 3,
+	"sortRank": 430061,
 	"description": "Seyahat güncen uzun yolculuğun boyunca deneyimlediğin her şeyi içeriyor. Bir gün deneyimlerin şarkılara konu olsun.",
+<<<<<<< HEAD
 	"sortorder": 4959,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "SB TP",
-	"source": []
+	"typeText": "SB TP",
+	"sources": []
 }

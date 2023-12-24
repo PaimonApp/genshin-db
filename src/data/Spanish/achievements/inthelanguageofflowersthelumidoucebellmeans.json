@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "La simbología de las campanillas lumidulces",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1412,
+=======
+	"id": [
+		81428
+	],
+	"name": "La simbología de las campanillas lumidulces",
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1412,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "La simbología de las campanillas lumidulces",
 		"description": "Encuentra una flor que pasa desapercibida en un rincón que pasa desapercibido.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

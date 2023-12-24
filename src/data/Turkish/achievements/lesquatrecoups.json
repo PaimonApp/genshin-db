@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Dört Meyvenin Saldırısı",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1363,
+=======
+	"id": [
+		81379
+	],
+	"name": "Dört Meyvenin Saldırısı",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1363,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Dört Meyvenin Saldırısı",
 		"description": "\"Meyve Tarikatı\" ve Blanche'in hikayesini tamamla.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

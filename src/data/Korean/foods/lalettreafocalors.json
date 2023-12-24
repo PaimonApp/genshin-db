@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "물의 신님께",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "방어류 요리",
 	"foodcategory": "Def_Add",
+=======
+	"id": 3416,
+	"name": "물의 신님께",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "방어류 요리",
+>>>>>>> upstream/main
 	"effect": "파티 내 모든 캐릭터의 HP 최대치가 20%-25% 증가한다. 지속 시간: 300초\n다인 모드 시 자신의 캐릭터에만 적용된다",
 	"description": "직사각형 모양의 조각 케이크. 아주 오래전 어떤 파티시에가 물의 신에 대한 폰타인 백성들의 사랑에서 영감을 받아 만들었다고 한다. 겹겹이 쌓아 올린 층에서 파티시에의 뛰어난 실력을 엿볼 수 있으며 모든 층이 물의 신의 영향력을 증명한다",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "새알",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "밀가루",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "커피콩",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "행인",
 			"count": 2
 		}

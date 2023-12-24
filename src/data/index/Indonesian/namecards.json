@@ -59,6 +59,10 @@
 		"celebrationvastness": "Perayaan: Seluas Alam Semesta",
 		"celebrationwondrouscalculation": "Perayaan: Perhitungan Menakjubkan",
 		"charlotteexclusive": "Charlotte: Exclusive",
+<<<<<<< HEAD
+=======
+		"chevreusetypeii": "Chevreuse: Type II",
+>>>>>>> upstream/main
 		"childefoullegacy": "Childe: Foul Legacy",
 		"chongyunspiritblade": "Chongyun: Spirit Blade",
 		"colleigoodvirtue": "Collei: Good Virtue",
@@ -115,6 +119,10 @@
 		"mondstadtherosfame": "Mondstadt: Ketenaran",
 		"mondstadtwhistlingwind": "Mondstadt: Embusan Angin",
 		"nahidacrescent": "Nahida: Crescent",
+<<<<<<< HEAD
+=======
+		"naviarosula": "Navia: Rosula",
+>>>>>>> upstream/main
 		"neuvillettesurge": "Neuvillette: Surge",
 		"niloulotusdance": "Nilou: Lotus Dance",
 		"ningguangphoenix": "Ningguang: Phoenix",
@@ -161,6 +169,7 @@
 		"travelnotessecrets": "Catatan Perjalanan: Rahasia Pemanggil",
 		"travelnotesstellarrivers": "Catatan Perjalanan: Lautan Bintang",
 		"travelnotessubspacerecreation": "Catatan Perjalanan: Penciptaan Alam",
+		"travelnotestimeinscribed": "Catatan Perjalanan: Aliran Waktu",
 		"travelnotesvividillumination": "Catatan Perjalanan: Warna-Warni Pencahayaan",
 		"travelnoteswhirlingwaltz": "Catatan Perjalanan: Tarian Berputar",
 		"travelnoteswindblume": "Catatan Perjalanan: Windblume",
@@ -240,6 +249,10 @@
 		"Perayaan: Seluas Alam Semesta": "celebrationvastness",
 		"Perayaan: Perhitungan Menakjubkan": "celebrationwondrouscalculation",
 		"Charlotte: Exclusive": "charlotteexclusive",
+<<<<<<< HEAD
+=======
+		"Chevreuse: Type II": "chevreusetypeii",
+>>>>>>> upstream/main
 		"Childe: Foul Legacy": "childefoullegacy",
 		"Chongyun: Spirit Blade": "chongyunspiritblade",
 		"Collei: Good Virtue": "colleigoodvirtue",
@@ -296,6 +309,10 @@
 		"Mondstadt: Ketenaran": "mondstadtherosfame",
 		"Mondstadt: Embusan Angin": "mondstadtwhistlingwind",
 		"Nahida: Crescent": "nahidacrescent",
+<<<<<<< HEAD
+=======
+		"Navia: Rosula": "naviarosula",
+>>>>>>> upstream/main
 		"Neuvillette: Surge": "neuvillettesurge",
 		"Nilou: Lotus Dance": "niloulotusdance",
 		"Ningguang: Phoenix": "ningguangphoenix",
@@ -342,6 +359,7 @@
 		"Catatan Perjalanan: Rahasia Pemanggil": "travelnotessecrets",
 		"Catatan Perjalanan: Lautan Bintang": "travelnotesstellarrivers",
 		"Catatan Perjalanan: Penciptaan Alam": "travelnotessubspacerecreation",
+		"Catatan Perjalanan: Aliran Waktu": "travelnotestimeinscribed",
 		"Catatan Perjalanan: Warna-Warni Pencahayaan": "travelnotesvividillumination",
 		"Catatan Perjalanan: Tarian Berputar": "travelnoteswhirlingwaltz",
 		"Catatan Perjalanan: Windblume": "travelnoteswindblume",

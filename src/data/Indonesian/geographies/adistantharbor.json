@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Pelabuhan Jauh",
 	"area": "Lumidouce Harbor",
 	"description": "Pelabuhan utama, gerbang menuju bangsa lain. Pernah ada gagasan untuk membangun jalur Aquabus keempat yang akan menghubungkan Lumidouce Harbor dengan Court of Fontaine, namun rencana ini tertangguhkan bersamaan dengan sponsor terbesar Aquabus.",
 	"region": "Fontaine",
 	"sortorder": 408
+=======
+	"id": 70500008,
+	"name": "Pelabuhan Jauh",
+	"areaId": 50725,
+	"areaName": "Lumidouce Harbor",
+	"description": "Pelabuhan utama, gerbang menuju bangsa lain. Pernah ada gagasan untuk membangun jalur Aquabus keempat yang akan menghubungkan Lumidouce Harbor dengan Court of Fontaine, namun rencana ini tertangguhkan bersamaan dengan sponsor terbesar Aquabus.",
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"sortOrder": 408
+>>>>>>> upstream/main
 }

@@ -1,12 +1,19 @@
 {
+	"id": 101317,
 	"name": "Ilgın Kütüğü",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Ilgın Ağacından elde edilen bir kütük. Özel bir dokuya sahiptir, kuraklığa ve neme karşı dirençli olduğu için oldukça dayanıklıdır.\nDekorasyon yapmak için kullanılabilir.",
+<<<<<<< HEAD
 	"sortorder": 2976,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Malzeme",
-	"source": [
+	"typeText": "Malzeme",
+	"sources": [
 		"Doğada bulunur.",
-		"Öneri: Sumeru çöllerinde kesilir."
+		"Öneri: Sumeru çöllerinde kesilir.",
+		"Kütüğü Dönüştür"
 	]
 }

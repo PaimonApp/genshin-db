@@ -1,7 +1,13 @@
 {
+	"id": 26,
 	"name": "Inazuma: las islas del trueno y la eternidad (II)",
+<<<<<<< HEAD
 	"sortorder": 35,
+=======
+	"sortOrder": 35,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210097,
 		"name": "Inazuma - Emblema de Sangonomiya"
 	}
 }

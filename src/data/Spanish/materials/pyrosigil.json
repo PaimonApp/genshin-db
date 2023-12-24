@@ -1,11 +1,17 @@
 {
+	"id": 301,
 	"name": "Insignia Pyro",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "Un símbolo de reconocimiento y apreciación, concebido por los vientos que favorecen y vigilan Mondstadt. Puede ser intercambiado por objetos raros en ciertos lugares.",
+<<<<<<< HEAD
 	"sortorder": 4927,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Insignia Elemental",
-	"source": [
+	"typeText": "Insignia Elemental",
+	"sources": [
 		"Recompensa de expedición"
 	]
 }

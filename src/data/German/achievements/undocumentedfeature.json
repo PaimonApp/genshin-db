@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Nicht protokollierte Funktion",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1375,
+=======
+	"id": [
+		81391
+	],
+	"name": "Nicht protokollierte Funktion",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1375,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Nicht protokollierte Funktion",
 		"description": "Löse bei der Reparatur des „Prototypen – Grundtyp Mk. 2“ dessen verborgene Funktion aus.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

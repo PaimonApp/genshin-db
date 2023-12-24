@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Lumitoile",
 	"description": "Hewan berbadan lembek yang memancarkan cahaya hangat. Sering ditemukan memanjat dinding bangunan di dekat air atau di bawah air.",
 	"sortorder": 2884,
 	"category": "EXCHANGE",
 	"materialtype": "Produk khas Fontaine",
 	"source": [
+=======
+	"id": 101237,
+	"name": "Lumitoile",
+	"sortRank": 315,
+	"description": "Hewan berbadan lembek yang memancarkan cahaya hangat. Sering ditemukan memanjat dinding bangunan di dekat air atau di bawah air.",
+	"category": "EXCHANGE",
+	"typeText": "Produk khas Fontaine",
+	"sources": [
+>>>>>>> upstream/main
 		"Ditemukan di alam liar",
 		"Rekomendasi: Dapat ditemukan di Liffey Region"
 	]

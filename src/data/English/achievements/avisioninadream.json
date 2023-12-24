@@ -1,14 +1,18 @@
 {
+	"id": [
+		84305
+	],
 	"name": "A Vision in a Dream",
-	"achievementgroup": "Wonders of the World",
-	"ishidden": true,
-	"sortorder": 5084,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 5084,
 	"stages": 1,
 	"stage1": {
 		"title": "A Vision in a Dream",
 		"description": "See what Childe experienced from his perspective in a dream.",
 		"progress": 1,
 		"reward": {
+			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

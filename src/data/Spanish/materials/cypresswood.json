@@ -1,12 +1,19 @@
 {
+	"id": 101321,
 	"name": "Madera de ciprés fragante",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Madera obtenida de cipreses fragantes. De albura fina y diámetro amplio. Aunque no es tan rígida y fiable como el metal, es perfecta para fabricar piezas de mayor volumen.\nPuede utilizarse para fabricar decoraciones.",
+<<<<<<< HEAD
 	"sortorder": 2980,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Recolectar en la naturaleza",
-		"Talar en Fontaine"
+		"Talar en Fontaine",
+		"Transformar madera"
 	]
 }

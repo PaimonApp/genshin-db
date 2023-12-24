@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Força Naval Satisfatória",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1398,
+=======
+	"id": [
+		81414
+	],
+	"name": "Força Naval Satisfatória",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1398,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Força Naval Satisfatória",
 		"description": "Obtenha o tesouro através de uma forte saraivada de canhões.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

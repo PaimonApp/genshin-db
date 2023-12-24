@@ -1,11 +1,17 @@
 {
+	"id": 221,
 	"name": "Brillo estelar sin dueño",
+	"rarity": 5,
+	"sortRank": 410001,
 	"description": "Intercambiable por artículos poco comunes en la Tienda.\nExcedente de Brillo estelar. Tal vez pueda iluminar otras partes del universo.",
+<<<<<<< HEAD
 	"sortorder": 4847,
 	"rarity": "5",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Cupón de Intercambio Avanzado",
-	"source": [
+	"typeText": "Cupón de Intercambio Avanzado",
+	"sources": [
 		"Gachapón"
 	]
 }

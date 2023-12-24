@@ -1,7 +1,13 @@
 {
+	"id": 24,
 	"name": "稲妻·雷と永遠の群島·1",
+<<<<<<< HEAD
 	"sortorder": 34,
+=======
+	"sortOrder": 34,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210090,
 		"name": "稲妻·九条の紋"
 	}
 }

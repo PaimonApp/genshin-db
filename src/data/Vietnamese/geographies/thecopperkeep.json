@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Pháo Đài Đúc Đồng",
 	"area": "Khu Hành Chính",
 	"description": "\"Pháo đài đồng và sắt rồi sẽ có ngày sụp đổ, bức tường kiên cố của luật pháp và chính nghĩa sẽ không bao giờ suy sụp.\"",
 	"region": "Fontaine",
 	"sortorder": 404
+=======
+	"id": 70500004,
+	"name": "Pháo Đài Đúc Đồng",
+	"areaId": 50401,
+	"areaName": "Khu Hành Chính",
+	"description": "\"Pháo đài đồng và sắt rồi sẽ có ngày sụp đổ, bức tường kiên cố của luật pháp và chính nghĩa sẽ không bao giờ suy sụp.\"",
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"sortOrder": 404
+>>>>>>> upstream/main
 }

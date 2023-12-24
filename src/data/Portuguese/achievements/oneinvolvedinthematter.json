@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Um Envolvido na Questão",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1392,
+=======
+	"id": [
+		81408
+	],
+	"name": "Um Envolvido na Questão",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1392,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Um Envolvido na Questão",
 		"description": "Descubra o segredo da Ordem da Cruz de Narcissus e derrote Jakob.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

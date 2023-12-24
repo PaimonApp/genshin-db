@@ -1,8 +1,13 @@
 {
+	"id": 101403,
 	"name": "Sarı Boya",
+	"sortRank": 331,
 	"description": "Sarı boya. Dekorasyon yapımında mutlaka işine yarayacak.",
+<<<<<<< HEAD
 	"sortorder": 2984,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Malzeme",
-	"source": []
+	"typeText": "Malzeme",
+	"sources": []
 }

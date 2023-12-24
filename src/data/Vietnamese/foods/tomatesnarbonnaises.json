@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Cà Dồn Narbonnaise",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Tấn Công",
 	"foodcategory": "Atk_Add",
+=======
+	"id": 3412,
+	"name": "Cà Dồn Narbonnaise",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Món Dạng Tấn Công",
+>>>>>>> upstream/main
 	"effect": "Tấn công cả đội tăng 160-228 điểm, kéo dài 300s\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Món ăn kết hợp giữa thịt và rau củ. Nạo sạch phần ruột của cà chua, nhồi thịt bằm vào trong rồi đem nướng chín. Thành phẩm chua ngọt mềm mại, là món ăn luôn được hoan nghênh trên bàn ăn tại Fontaine.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Thịt Rừng",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100079,
+>>>>>>> upstream/main
 			"name": "Cà Chua",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110010,
+>>>>>>> upstream/main
 			"name": "Thịt Xông Khói",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "Hành Tây",
 			"count": 1
 		}
