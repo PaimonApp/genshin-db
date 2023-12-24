@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "「…ニューウェーブって？」",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1384,
+=======
+	"id": [
+		81400
+	],
+	"name": "「…ニューウェーブって？」",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1384,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "「…ニューウェーブって？」",
 		"description": "流行りの書籍をすべて読む。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

@@ -1,10 +1,15 @@
 {
+	"id": 101209,
 	"name": "Champignon fluorescent",
+	"sortRank": 313,
 	"description": "Un champignon qui brille comme une lumière dans la nuit. Il renferme un pouvoir incroyable.",
+<<<<<<< HEAD
 	"sortorder": 2870,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Produit d'Inazuma",
-	"source": [
+	"typeText": "Produit d'Inazuma",
+	"sources": [
 		"Dans la nature",
 		"Zone conseillée : Île de Tsurumi"
 	]

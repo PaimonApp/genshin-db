@@ -492,9 +492,14 @@
 		"sumerurose": "Rosa di Sumeru",
 		"sunsetcloudangler": "Pesce palla nebuloso",
 		"sunsettia": "Tramontino",
+<<<<<<< HEAD
+=======
+		"superduperinvincibleshiningsparklymagiccrystal": "Cristallo magico scintillante super mega invincibile",
+>>>>>>> upstream/main
 		"surgingsacredchalice": "Calice sacro impetuoso",
 		"sweetflower": "Fiordolce",
 		"sweetflowermedaka": "Medaka goloso",
+		"swirlingsceneinabottle": "Scena vorticosa in bottiglia",
 		"tailofboreas": "Coda di Boreas",
 		"teachingsofadmonition": "Insegnamenti dell'ammonimento",
 		"teachingsofballad": "Insegnamenti della poesia",
@@ -1059,9 +1064,14 @@
 		"Rosa di Sumeru": "sumerurose",
 		"Pesce palla nebuloso": "sunsetcloudangler",
 		"Tramontino": "sunsettia",
+<<<<<<< HEAD
+=======
+		"Cristallo magico scintillante super mega invincibile": "superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 		"Calice sacro impetuoso": "surgingsacredchalice",
 		"Fiordolce": "sweetflower",
 		"Medaka goloso": "sweetflowermedaka",
+		"Scena vorticosa in bottiglia": "swirlingsceneinabottle",
 		"Coda di Boreas": "tailofboreas",
 		"Insegnamenti dell'ammonimento": "teachingsofadmonition",
 		"Insegnamenti della poesia": "teachingsofballad",
@@ -1517,7 +1527,13 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
+<<<<<<< HEAD
 			"surgingsacredchalice",
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+			"surgingsacredchalice",
+			"swirlingsceneinabottle",
+>>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1845,6 +1861,7 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
+			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2211,6 +2228,10 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
+<<<<<<< HEAD
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2464,6 +2485,10 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
+<<<<<<< HEAD
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3033,6 +3058,7 @@
 			"naturestruefruit",
 			"plumeofpurifyinglight",
 			"silkenprint",
+			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"Dominio della forgiatura: Nubi impure": [
@@ -3340,11 +3366,11 @@
 	},
 	"properties": {
 		"rarity": [
-			"3",
-			"5",
-			"1",
-			"2",
-			"4"
+			3,
+			5,
+			1,
+			2,
+			4
 		],
 		"category": [
 			"EXCHANGE",
@@ -3359,7 +3385,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"materialtype": [
+		"typeText": [
 			"Pesce",
 			"Oggetto del desiderio",
 			"Cibo",
@@ -3403,7 +3429,7 @@
 			"Materiale del Picco del Drago",
 			"Gadget"
 		],
-		"dropdomain": [
+		"dropDomainName": [
 			"Dominio della forgiatura: Terreni di prova del tuono",
 			"Dominio della forgiatura: Valle sott'acqua",
 			"Dominio della forgiatura: Congegni bizzarri",
@@ -3435,7 +3461,7 @@
 			"Dominio della forgiatura: Altare delle sabbie",
 			"Dominio della forgiatura: Ossessione"
 		],
-		"daysofweek": [
+		"daysOfWeek": [
 			"Mercoledì",
 			"Sabato",
 			"Domenica",

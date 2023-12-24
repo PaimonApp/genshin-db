@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "\"Pour Justice\"",
 	"rarity": "3",
 	"foodtype": "SPECIALTY",
@@ -10,18 +11,47 @@
 	"character": "Furina",
 	"ingredients": [
 		{
+=======
+	"id": 10000089,
+	"name": "\"Pour Justice\"",
+	"rarity": 3,
+	"foodtype": "SPECIALTY",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Món Dạng Phòng Ngự",
+	"effect": "Giới hạn HP của toàn bộ nhân vật trong đội tăng 30% trong 300s. Trong chế độ chơi nhiều người thì chỉ hiệu lực với nhân vật của bản thân.",
+	"description": "Món ăn đặc sắc của Furina. \"Pour Justice\" ở Fontaine có ý nghĩa là \"kính trọng chính nghĩa\", và ở trên sân khấu cô đã từng chứng kiến sự ra đời của chính nghĩa tối cao. Món ăn với nhiều tầng hương vị này giống như sau quá trình thăng trầm, cuối cùng cũng trút bỏ gánh nặng. Liệu có phải xuất phát từ trải nghiệm của một giai đoạn nào đó trong cuộc đời cô không?",
+	"baseDishId": 3416,
+	"baseDishName": "Dâng Thủy Thần",
+	"characterId": 10000089,
+	"characterName": "Furina",
+	"ingredients": [
+		{
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Trứng Chim",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Bột Mì",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "Hạt Cà Phê",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Hạnh Nhân",
 			"count": 2
 		}

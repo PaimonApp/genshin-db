@@ -1,7 +1,13 @@
 {
+	"id": 35,
 	"name": "スメール·金メッキの砂原·1",
+<<<<<<< HEAD
 	"sortorder": 41,
+=======
+	"sortOrder": 41,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210138,
 		"name": "スメール·砂踏み"
 	}
 }

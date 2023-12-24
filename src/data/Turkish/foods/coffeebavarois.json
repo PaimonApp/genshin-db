@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Bavyera Kahvesi",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "İyileştirici Yemek",
 	"foodcategory": "Recovery_HpAddAll",
+=======
+	"id": 3410,
+	"name": "Bavyera Kahvesi",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "İyileştirici Yemek",
+>>>>>>> upstream/main
 	"effect": "Seçili karakterin Maks. Canını %26 ila %30 yeniler.\n30 saniyeliğine 5 saniyede bir 450 ila 790 Can verir.",
 	"description": "Ferahlatıcı bir tatlı. Fontaine'in temsili bir tatlısı olmasına rağmen tarifi çok basit ve anlaşılırdır. Malzemelerin ölçüsü doğru bir şekilde konulduğu müddetçe bu tatlıyı yapamamak neredeyse imkansızdır. Keyifleri hemen yerine getiren ferahlatıcı, serin bir tadı ve yumuşak bir dokusu vardır.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "Kahve Çekirdekleri",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100078,
+>>>>>>> upstream/main
 			"name": "Süt",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Kuş Yumurtası",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Krema",
 			"count": 2
 		}

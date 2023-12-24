@@ -1,8 +1,13 @@
 {
+	"id": 101403,
 	"name": "Tinta Amarela",
+	"sortRank": 331,
 	"description": "Tinta amarela. Certamente será útil para fazer Decorações.",
+<<<<<<< HEAD
 	"sortorder": 2984,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

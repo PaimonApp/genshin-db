@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Visitatore dell'acquario",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 5083,
+=======
+	"id": [
+		84304
+	],
+	"name": "Visitatore dell'acquario",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 5083,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Visitatore dell'acquario",
 		"description": "Dopo aver completato tutti i documenti, vai a Forte Méropide.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

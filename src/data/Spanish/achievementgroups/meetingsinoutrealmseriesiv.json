@@ -1,7 +1,13 @@
 {
+	"id": 44,
 	"name": "Encuentros fuera de este mundo: Parte 4",
+<<<<<<< HEAD
 	"sortorder": 29,
+=======
+	"sortOrder": 29,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210169,
 		"name": "Logro - Órbitas"
 	}
 }

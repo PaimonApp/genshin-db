@@ -1,11 +1,17 @@
 {
+	"id": 221,
 	"name": "Masterless Starglitter",
+	"rarity": 5,
+	"sortRank": 410001,
 	"description": "Currency used to purchase rare resources from the Shop.\nSurplus Starglitter of destiny. Perhaps it can light up other corners of the universe.",
+<<<<<<< HEAD
 	"sortorder": 4847,
 	"rarity": "5",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Superior Voucher",
-	"source": [
+	"typeText": "Superior Voucher",
+	"sources": [
 		"Wish"
 	]
 }

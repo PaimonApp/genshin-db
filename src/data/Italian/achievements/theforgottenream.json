@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Il nastro dimenticato",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1370,
+=======
+	"id": [
+		81386
+	],
+	"name": "Il nastro dimenticato",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1370,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Il nastro dimenticato",
 		"description": "Aiuta Broglie a ritrovare e organizzare tutti i dati del monitoraggio idrologico",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

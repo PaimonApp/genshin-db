@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "\"Acqua pura\"",
 	"filter": "Cibo",
 	"sortorder": 220000,
@@ -7,14 +8,34 @@
 	"moracost": 100,
 	"recipe": [
 		{
+=======
+	"id": 14101,
+	"name": "\"Acqua pura\"",
+	"filterText": "Cibo",
+	"sortOrder": 220000,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 100,
+	"recipe": [
+		{
+			"id": 100017,
+>>>>>>> upstream/main
 			"name": "Frumento",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100020,
+>>>>>>> upstream/main
 			"name": "Pigna",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101234,
+>>>>>>> upstream/main
 			"name": "Algamarea",
 			"count": 1
 		}

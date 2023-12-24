@@ -492,9 +492,14 @@
 		"sumerurose": "수메르 장미",
 		"sunsetcloudangler": "놀구름 뿔복어",
 		"sunsettia": "일몰 열매",
+<<<<<<< HEAD
+=======
+		"superduperinvincibleshiningsparklymagiccrystal": "「반짝이는 슈퍼 무적 마법 수정」",
+>>>>>>> upstream/main
 		"surgingsacredchalice": "샘솟는 성배",
 		"sweetflower": "달콤달콤꽃",
 		"sweetflowermedaka": "달콤달콤 구피",
+		"swirlingsceneinabottle": "「병 속에 맴도는 경치」",
 		"tailofboreas": "북풍의 꼬리",
 		"teachingsofadmonition": "「간언」의 가르침",
 		"teachingsofballad": "「시문」의 가르침",
@@ -1059,9 +1064,14 @@
 		"수메르 장미": "sumerurose",
 		"놀구름 뿔복어": "sunsetcloudangler",
 		"일몰 열매": "sunsettia",
+<<<<<<< HEAD
+=======
+		"「반짝이는 슈퍼 무적 마법 수정」": "superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 		"샘솟는 성배": "surgingsacredchalice",
 		"달콤달콤꽃": "sweetflower",
 		"달콤달콤 구피": "sweetflowermedaka",
+		"「병 속에 맴도는 경치」": "swirlingsceneinabottle",
 		"북풍의 꼬리": "tailofboreas",
 		"「간언」의 가르침": "teachingsofadmonition",
 		"「시문」의 가르침": "teachingsofballad",
@@ -1517,7 +1527,13 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
+<<<<<<< HEAD
 			"surgingsacredchalice",
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+			"surgingsacredchalice",
+			"swirlingsceneinabottle",
+>>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1849,6 +1865,7 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
+			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2215,6 +2232,10 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
+<<<<<<< HEAD
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2468,6 +2489,10 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
+<<<<<<< HEAD
+=======
+			"superduperinvincibleshiningsparklymagiccrystal",
+>>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3039,6 +3064,7 @@
 			"naturestruefruit",
 			"plumeofpurifyinglight",
 			"silkenprint",
+			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"연무 비경: 운구": [
@@ -3334,11 +3360,11 @@
 	},
 	"properties": {
 		"rarity": [
-			"3",
-			"5",
-			"1",
-			"2",
-			"4"
+			3,
+			5,
+			1,
+			2,
+			4
 		],
 		"category": [
 			"EXCHANGE",
@@ -3353,7 +3379,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"materialtype": [
+		"typeText": [
 			"물고기",
 			"기원 아이템",
 			"음식",
@@ -3394,7 +3420,7 @@
 			"설산 재료",
 			"간편 아이템"
 		],
-		"dropdomain": [
+		"dropDomainName": [
 			"연무 비경: 고대 뇌전 시련장",
 			"연무 비경: 깊은 골짜기",
 			"연무 비경: 기계",
@@ -3426,7 +3452,7 @@
 			"연무 비경: 모래 제단",
 			"연무 비경: 사혹"
 		],
-		"daysofweek": [
+		"daysOfWeek": [
 			"수요일",
 			"토요일",
 			"일요일",

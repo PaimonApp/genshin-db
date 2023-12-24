@@ -1,10 +1,15 @@
 {
+	"id": 101224,
 	"name": "Trishirait",
+	"sortRank": 314,
 	"description": "Tief in den Bergen der Wildnis verstreut, erstrahlen diese einzigartigen schimmernden Steine in den merkwürdigsten Farben. Sie scheinen aus dem Gemisch elementarer Energien geronnen und entstanden zu sein.",
+<<<<<<< HEAD
 	"sortorder": 2878,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Regionale Besonderheiten aus Sumeru",
-	"source": [
+	"typeText": "Regionale Besonderheiten aus Sumeru",
+	"sources": [
 		"In der Wüste Sumerus zu finden",
 		"Empfohlen: Im Temir-Gebirge zu finden"
 	]

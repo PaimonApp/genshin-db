@@ -1,10 +1,15 @@
 {
+	"id": 100015,
 	"name": "Bocca di leone",
+	"sortRank": 321,
 	"description": "Commestibile previa cottura. Come condimento, può rendere i piatti più saporiti.",
+<<<<<<< HEAD
 	"sortorder": 2904,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente culinario",
-	"source": [
+	"typeText": "Ingrediente culinario",
+	"sources": [
 		"Si trova in riva a laghi e fiumi"
 	]
 }

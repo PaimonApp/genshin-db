@@ -66,6 +66,7 @@
 		"extravagantslumber": "Giấc Ngủ Xa Hoa",
 		"faitheternal": "Tín Ngưỡng Vĩnh Hằng",
 		"fatteh": "Fatteh",
+		"feastos": "Feast-O's",
 		"fishandchips": "Khoai Tây Chiên Cá",
 		"fishermanstoast": "Bánh Người Cá",
 		"fishflavoredtoast": "Bánh Cá Thơm Ngon",
@@ -76,6 +77,7 @@
 		"fontaineaspic": "Thịt Đông Fontaine",
 		"fontainianfoiegras": "Gan Ngỗng Fontaine",
 		"fontainianonionsoup": "Súp Hành Fontaine",
+		"fontinaliamousse": "Bánh Mousse Fontinalia",
 		"forestwatcherschoice": "Tuyển Chọn Của Đội Trưởng Kiểm Lâm",
 		"fragrantmashedpotatoes": "Khoai Tây Nghiền",
 		"friedradishballs": "Củ Cải Viên Chiên",
@@ -153,6 +155,7 @@
 		"padisarahpudding": "Pudding Padisarah",
 		"panipuri": "Panipuri",
 		"patedefruit": "Kẹo Dẻo Trái Cây",
+		"pickwhatyoulike": "\"Cứ Chọn Thoải Mái!\"",
 		"pileemup": "Pile 'Em Up",
 		"pitapocket": "Bánh Túi",
 		"poissonchantpie": "Bánh Poissonchant",
@@ -168,6 +171,7 @@
 		"radishandfishstew": "Cá Tươi Hầm Củ Cải",
 		"radishveggiesoup": "Canh Rau Củ",
 		"rainbowaster": "Tử Uyển Cầu Vồng",
+		"rainbowmacarons": "Macaron Cầu Vồng",
 		"ricebuns": "Bánh Gạo",
 		"ricecakesoup": "Zoni Đường Phố",
 		"ricepudding": "Pudding Gạo",
@@ -190,6 +194,7 @@
 		"shawarmawrap": "Cuốn Shawarma",
 		"shimichazuke": "Shimi Chazuke",
 		"showmethemora": "Mora Đến Đây Nhanh",
+		"sinthekindthatdoesntneedtobedealtwith": "Tội Ác - Loại Không Nhất Thiết Xử Lý",
 		"slowcookedbambooshootsoup": "Măng Chua Tươi Lửa Nhỏ",
 		"snowonthehearth": "Lò Hồng Chấm Tuyết",
 		"sobanoodles": "Mì Soba",
@@ -315,6 +320,7 @@
 		"Giấc Ngủ Xa Hoa": "extravagantslumber",
 		"Tín Ngưỡng Vĩnh Hằng": "faitheternal",
 		"Fatteh": "fatteh",
+		"Feast-O's": "feastos",
 		"Khoai Tây Chiên Cá": "fishandchips",
 		"Bánh Người Cá": "fishermanstoast",
 		"Bánh Cá Thơm Ngon": "fishflavoredtoast",
@@ -325,6 +331,7 @@
 		"Thịt Đông Fontaine": "fontaineaspic",
 		"Gan Ngỗng Fontaine": "fontainianfoiegras",
 		"Súp Hành Fontaine": "fontainianonionsoup",
+		"Bánh Mousse Fontinalia": "fontinaliamousse",
 		"Tuyển Chọn Của Đội Trưởng Kiểm Lâm": "forestwatcherschoice",
 		"Khoai Tây Nghiền": "fragrantmashedpotatoes",
 		"Củ Cải Viên Chiên": "friedradishballs",
@@ -402,6 +409,7 @@
 		"Pudding Padisarah": "padisarahpudding",
 		"Panipuri": "panipuri",
 		"Kẹo Dẻo Trái Cây": "patedefruit",
+		"\"Cứ Chọn Thoải Mái!\"": "pickwhatyoulike",
 		"Pile 'Em Up": "pileemup",
 		"Bánh Túi": "pitapocket",
 		"Bánh Poissonchant": "poissonchantpie",
@@ -417,6 +425,7 @@
 		"Cá Tươi Hầm Củ Cải": "radishandfishstew",
 		"Canh Rau Củ": "radishveggiesoup",
 		"Tử Uyển Cầu Vồng": "rainbowaster",
+		"Macaron Cầu Vồng": "rainbowmacarons",
 		"Bánh Gạo": "ricebuns",
 		"Zoni Đường Phố": "ricecakesoup",
 		"Pudding Gạo": "ricepudding",
@@ -439,6 +448,7 @@
 		"Cuốn Shawarma": "shawarmawrap",
 		"Shimi Chazuke": "shimichazuke",
 		"Mora Đến Đây Nhanh": "showmethemora",
+		"Tội Ác - Loại Không Nhất Thiết Xử Lý": "sinthekindthatdoesntneedtobedealtwith",
 		"Măng Chua Tươi Lửa Nhỏ": "slowcookedbambooshootsoup",
 		"Lò Hồng Chấm Tuyết": "snowonthehearth",
 		"Mì Soba": "sobanoodles",
@@ -539,6 +549,10 @@
 		"Kuki Shinobu": "omuricewaltz",
 		"Diluc": "onceuponatimeinmondstadt",
 		"Amber": "outriderschampionsteak",
+<<<<<<< HEAD
+=======
+		"Navia": "pickwhatyoulike",
+>>>>>>> upstream/main
 		"Furina": "pourlajustice",
 		"Ganyu": "prosperouspeace",
 		"Razor": "puppypawhashbrown",
@@ -551,6 +565,7 @@
 		"Wriothesley": "secretsaucebbqribs",
 		"Kẻ Lang Thang": "shimichazuke",
 		"Dori": "showmethemora",
+		"Chevreuse": "sinthekindthatdoesntneedtobedealtwith",
 		"Zhongli": "slowcookedbambooshootsoup",
 		"Kamisato Ayaka": "snowonthehearth",
 		"Barbara": "spicystew",
@@ -715,6 +730,10 @@
 			"duelsoul",
 			"energizingbento",
 			"exclusivescoopgourmetcolumn",
+<<<<<<< HEAD
+=======
+			"feastos",
+>>>>>>> upstream/main
 			"fishandchips",
 			"fivepickledtreasures",
 			"fontainianfoiegras",
@@ -756,6 +775,7 @@
 			"oncidiumtofu",
 			"padisarahpudding",
 			"patedefruit",
+			"pickwhatyoulike",
 			"pileemup",
 			"pitapocket",
 			"poissonchantpie",
@@ -768,6 +788,7 @@
 			"qingcestirfry",
 			"quietelegance",
 			"rainbowaster",
+			"rainbowmacarons",
 			"ricecakesoup",
 			"ricepudding",
 			"sabzmeatstew",
@@ -779,6 +800,7 @@
 			"seabirdssojourn",
 			"shimichazuke",
 			"showmethemora",
+			"sinthekindthatdoesntneedtobedealtwith",
 			"slowcookedbambooshootsoup",
 			"snowonthehearth",
 			"squirrelfish",
@@ -814,6 +836,7 @@
 			"buttercrab",
 			"chickentofupudding",
 			"chilimincecornbreadbuns",
+			"fontinaliamousse",
 			"goldencrab",
 			"goldenfriedchicken",
 			"haggis",
@@ -876,6 +899,7 @@
 			"duckconfit",
 			"eggroll",
 			"fatteh",
+			"feastos",
 			"fishandchips",
 			"fishermanstoast",
 			"fishwithcreamsauce",
@@ -884,6 +908,7 @@
 			"fontaineaspic",
 			"fontainianfoiegras",
 			"fontainianonionsoup",
+			"fontinaliamousse",
 			"fragrantmashedpotatoes",
 			"friedradishballs",
 			"fruitsofthefestival",
@@ -952,6 +977,7 @@
 			"radishandfishstew",
 			"radishveggiesoup",
 			"rainbowaster",
+			"rainbowmacarons",
 			"ricebuns",
 			"ricecakesoup",
 			"ricepudding",
@@ -1006,7 +1032,7 @@
 			"wakatakeni",
 			"zhongyuanchopsuey"
 		],
-		"Món Dạng Mạo Hiểm": [
+		"COOK_FOOD_FUNCTION": [
 			"aarumixedrice",
 			"abuoyantbreeze",
 			"barbatosratatouille",
@@ -1028,7 +1054,9 @@
 			"omuricewaltz",
 			"oncidiumtofu",
 			"padisarahpudding",
+			"pickwhatyoulike",
 			"rainbowaster",
+			"rainbowmacarons",
 			"ricepudding",
 			"sangayaki",
 			"selvasalad",
@@ -1039,17 +1067,43 @@
 			"utmostcare",
 			"zhongyuanchopsuey"
 		],
-		"Other_SPAdd": [
+		"Món Dạng Mạo Hiểm": [
 			"aarumixedrice",
+			"abuoyantbreeze",
+			"barbatosratatouille",
+			"boudinnoirauxpommes",
+			"cloudshroudedjade",
 			"coldnoodleswithmountaindelicacies",
+<<<<<<< HEAD
+=======
+			"creamstew",
+			"crepessuzette",
+>>>>>>> upstream/main
 			"exclusivescoopgourmetcolumn",
 			"fishandchips",
 			"fivepickledtreasures",
+			"fruitytrio",
+			"goulash",
+			"lotusseedandbirdeggsoup",
+			"mintymeatrolls",
 			"noodleswithmountaindelicacies",
 			"northernsmokedchicken",
+			"omeletterice",
+			"omuricewaltz",
 			"oncidiumtofu",
+			"padisarahpudding",
+			"pickwhatyoulike",
+			"rainbowaster",
+			"rainbowmacarons",
 			"ricepudding",
-			"utmostcare"
+			"sangayaki",
+			"selvasalad",
+			"spicystew",
+			"stickyhoneyroast",
+			"swirlingsteps",
+			"tulumba",
+			"utmostcare",
+			"zhongyuanchopsuey"
 		],
 		"Lúa Nước": [
 			"aarumixedrice",
@@ -1231,6 +1285,10 @@
 			"omuricewaltz",
 			"onceuponatimeinmondstadt",
 			"outriderschampionsteak",
+<<<<<<< HEAD
+=======
+			"pickwhatyoulike",
+>>>>>>> upstream/main
 			"pourlajustice",
 			"prosperouspeace",
 			"puppypawhashbrown",
@@ -1243,6 +1301,7 @@
 			"secretsaucebbqribs",
 			"shimichazuke",
 			"showmethemora",
+			"sinthekindthatdoesntneedtobedealtwith",
 			"slowcookedbambooshootsoup",
 			"snowonthehearth",
 			"spicystew",
@@ -1264,6 +1323,7 @@
 			"woodlanddream",
 			"yearning"
 		],
+<<<<<<< HEAD
 		"Other_SPReduceConsume": [
 			"abuoyantbreeze",
 			"barbatosratatouille",
@@ -1286,6 +1346,8 @@
 			"tulumba",
 			"zhongyuanchopsuey"
 		],
+=======
+>>>>>>> upstream/main
 		"Cà Rốt": [
 			"abuoyantbreeze",
 			"alldelicacyparcels",
@@ -1310,6 +1372,10 @@
 			"derweisheitletzterschlusslife",
 			"duckconfit",
 			"exclusivescoopgourmetcolumn",
+<<<<<<< HEAD
+=======
+			"feastos",
+>>>>>>> upstream/main
 			"fishandchips",
 			"fragrantmashedpotatoes",
 			"goldenshrimpballs",
@@ -1323,6 +1389,7 @@
 			"puppypawhashbrown",
 			"sakurashrimpcrackers",
 			"satisfyingsalad",
+			"sinthekindthatdoesntneedtobedealtwith",
 			"stoneharbordelicacies"
 		],
 		"Hành Tây": [
@@ -1331,6 +1398,7 @@
 			"bountifulyear",
 			"braisedmeat",
 			"curryshrimp",
+			"feastos",
 			"fishermanstoast",
 			"fishflavoredtoast",
 			"fontainianonionsoup",
@@ -1340,12 +1408,13 @@
 			"northernsmokedchicken",
 			"sabzmeatstew",
 			"scentedmeatballs",
+			"sinthekindthatdoesntneedtobedealtwith",
 			"steaktartare",
 			"tassesragout",
 			"tomatesnarbonnaises",
 			"tripesduport"
 		],
-		"Món Dạng Tấn Công": [
+		"COOK_FOOD_ATTACK": [
 			"adeptustemptation",
 			"adventurersbreakfastsandwich",
 			"almondtofu",
@@ -1366,6 +1435,7 @@
 			"dieheiligesinfonie",
 			"dragonbeardnoodles",
 			"fontaineaspic",
+			"fontinaliamousse",
 			"fragrantmashedpotatoes",
 			"friedradishballs",
 			"fruityduet",
@@ -1406,37 +1476,60 @@
 			"triflavoredskewer",
 			"vessiechicken"
 		],
-		"Atk_Add": [
+		"Món Dạng Tấn Công": [
 			"adeptustemptation",
 			"adventurersbreakfastsandwich",
 			"almondtofu",
+<<<<<<< HEAD
+=======
+			"baklava",
+>>>>>>> upstream/main
 			"blubberprofiterole",
 			"bountifulyear",
 			"braisedmeat",
 			"butterchicken",
 			"chickentofupudding",
 			"coldcutplatter",
+			"comeandgetit",
+			"consomme",
+			"consommepurete",
 			"crabroekourayaki",
+			"cubictricks",
+			"curedporkdryhotpot",
+			"derweisheitletzterschlusslife",
 			"dieheiligesinfonie",
 			"dragonbeardnoodles",
+			"fontaineaspic",
+			"fontinaliamousse",
 			"fragrantmashedpotatoes",
 			"friedradishballs",
 			"fruityduet",
 			"garlicbaguette",
 			"goldenfriedchicken",
 			"heartstringnoodles",
+			"importedpoultry",
 			"jadeparcels",
+			"jueyunchilichicken",
 			"jueyunguoba",
 			"katsusandwich",
+			"masalacheeseballs",
 			"meatloversmushroompizza",
 			"mintsalad",
 			"moreandmore",
+			"notomorrow",
+			"onceuponatimeinmondstadt",
+			"patedefruit",
+			"pileemup",
 			"qingcehouseholddish",
 			"qingcestirfry",
+			"radishandfishstew",
+			"rockinriffinchicken",
 			"sashimiplatter",
+			"satisfyingsalad",
 			"sauteedmatsutake",
 			"shawarmawrap",
 			"showmethemora",
+			"stoneharbordelicacies",
 			"sunsetberrytea",
 			"supermagnificentpizza",
 			"surveyorsbreakfastsandwich",
@@ -1519,6 +1612,7 @@
 			"derweisheitletzterschlusslife",
 			"eggroll",
 			"faitheternal",
+			"fontinaliamousse",
 			"fruitytrio",
 			"fullmoonegg",
 			"goldencrab",
@@ -1530,8 +1624,13 @@
 			"moonpie",
 			"omeletterice",
 			"omuricewaltz",
+			"pickwhatyoulike",
 			"poissonchantpie",
 			"pourlajustice",
+<<<<<<< HEAD
+=======
+			"rainbowmacarons",
+>>>>>>> upstream/main
 			"ricepudding",
 			"satisfyingsalad",
 			"steaktartare",
@@ -1545,6 +1644,52 @@
 			"tulumba",
 			"victoriouslegend"
 		],
+		"COOK_FOOD_DEFENSE": [
+			"aleisurelysip",
+			"aprizecatch",
+			"biryani",
+			"buttercrab",
+			"callalilyseafoodsoup",
+			"candiedajilenakhnut",
+			"cassoulet",
+			"chilimincecornbreadbuns",
+			"conchmadeleine",
+			"dewdippedshrimp",
+			"feastos",
+			"fishermanstoast",
+			"fishflavoredtoast",
+			"fontainianfoiegras",
+			"fontainianonionsoup",
+			"forestwatcherschoice",
+			"fruitsofthefestival",
+			"gildedtajine",
+			"goldencrab",
+			"goldflametajine",
+			"haggis",
+			"halvamazd",
+			"heatquellingsoup",
+			"jadefruitsoup",
+			"jewelrysoup",
+			"lalettreafocalors",
+			"lotusflowercrisp",
+			"mintyfruittea",
+			"moonpie",
+			"mushroomhodgepodge",
+			"pourlajustice",
+			"quietelegance",
+			"ricecakesoup",
+			"sakurashrimpcrackers",
+			"sakuratempura",
+			"shimichazuke",
+			"sinthekindthatdoesntneedtobedealtwith",
+			"stirfriedshrimp",
+			"stormcrestpie",
+			"sunshinesprat",
+			"triplelayeredconsomme",
+			"unagichazuke",
+			"wakatakeni",
+			"woodlanddream"
+		],
 		"Món Dạng Phòng Ngự": [
 			"aleisurelysip",
 			"aprizecatch",
@@ -1556,6 +1701,7 @@
 			"chilimincecornbreadbuns",
 			"conchmadeleine",
 			"dewdippedshrimp",
+			"feastos",
 			"fishermanstoast",
 			"fishflavoredtoast",
 			"fontainianfoiegras",
@@ -1581,50 +1727,7 @@
 			"sakurashrimpcrackers",
 			"sakuratempura",
 			"shimichazuke",
-			"stirfriedshrimp",
-			"stormcrestpie",
-			"sunshinesprat",
-			"triplelayeredconsomme",
-			"unagichazuke",
-			"wakatakeni",
-			"woodlanddream"
-		],
-		"Def_Add": [
-			"aleisurelysip",
-			"aprizecatch",
-			"biryani",
-			"buttercrab",
-			"callalilyseafoodsoup",
-			"candiedajilenakhnut",
-			"cassoulet",
-			"chilimincecornbreadbuns",
-			"conchmadeleine",
-			"dewdippedshrimp",
-			"fishermanstoast",
-			"fishflavoredtoast",
-			"fontainianfoiegras",
-			"fontainianonionsoup",
-			"forestwatcherschoice",
-			"fruitsofthefestival",
-			"gildedtajine",
-			"goldencrab",
-			"goldflametajine",
-			"haggis",
-			"halvamazd",
-			"heatquellingsoup",
-			"jadefruitsoup",
-			"jewelrysoup",
-			"lalettreafocalors",
-			"lotusflowercrisp",
-			"mintyfruittea",
-			"moonpie",
-			"mushroomhodgepodge",
-			"pourlajustice",
-			"quietelegance",
-			"ricecakesoup",
-			"sakurashrimpcrackers",
-			"sakuratempura",
-			"shimichazuke",
+			"sinthekindthatdoesntneedtobedealtwith",
 			"stirfriedshrimp",
 			"stormcrestpie",
 			"sunshinesprat",
@@ -1666,6 +1769,7 @@
 			"eggroll",
 			"extravagantslumber",
 			"faitheternal",
+			"fontinaliamousse",
 			"fruitsofthefestival",
 			"fruityduet",
 			"fruitysmoothie",
@@ -1681,6 +1785,8 @@
 			"omuricewaltz",
 			"padisarahpudding",
 			"patedefruit",
+			"pickwhatyoulike",
+			"rainbowmacarons",
 			"ricepudding",
 			"rosecustard",
 			"sakuramochi",
@@ -1695,7 +1801,7 @@
 			"tianshumeat",
 			"tulumba"
 		],
-		"Món Dạng Hồi Phục": [
+		"COOK_FOOD_HEAL": [
 			"alldelicacyparcels",
 			"allweatherbeauty",
 			"astunningstratagem",
@@ -1812,8 +1918,9 @@
 			"wayofthestrong",
 			"yearning"
 		],
-		"Recovery_HpAddAll": [
+		"Món Dạng Hồi Phục": [
 			"alldelicacyparcels",
+<<<<<<< HEAD
 			"bambooshootsoup",
 			"berrymizumanjuu",
 			"blackbackperchstew",
@@ -1850,44 +1957,125 @@
 			"allweatherbeauty",
 			"astunningstratagem",
 			"barbequeribs",
+=======
+			"allweatherbeauty",
+			"astunningstratagem",
+			"bambooshootsoup",
+			"barbequeribs",
+			"berrymizumanjuu",
+>>>>>>> upstream/main
 			"birdeggsushi",
+			"blackbackperchstew",
+			"charcoalbakedajilenakhcake",
 			"chickenmushroomskewer",
+			"coffeebavarois",
+			"crabhamveggiebake",
+			"crabroetofu",
+			"creamofmushroomsoup",
+			"crispypotatoshrimpplatter",
+			"crystalshrimp",
 			"curryshrimp",
+			"definitelynotbarfood",
 			"dinnerofjudgment",
+			"dizzinessbegonenojutsuversion20",
 			"drybraisedsaltedfish",
 			"duckconfit",
+			"duelsoul",
+			"eggroll",
+			"energizingbento",
+			"extravagantslumber",
+			"faitheternal",
+			"fatteh",
+			"fishwithcreamsauce",
+			"flamingredbolognese",
+			"flashfriedfilet",
 			"fruityskewers",
+			"fruitysmoothie",
+			"fukuuchiudon",
+			"fullmoonegg",
+			"ghostlymarch",
 			"goldenchickenburger",
+			"goldenshrimpballs",
 			"grilledtigerfish",
 			"grilledunagifillet",
 			"idealcircumstance",
+			"ileflottante",
+			"invigoratingkittymeal",
+			"invigoratingpizza",
+			"kondacuisine",
 			"lambadfishroll",
 			"lasagna",
+			"lighterthanairpancake",
 			"matsutakemeatrolls",
 			"milkymushroomcrisptower",
 			"mintjelly",
+			"mintybeansoup",
+			"misosoup",
+			"mixedyakisoba",
+			"mondstadtgrilledfish",
 			"mondstadthashbrown",
+			"morameat",
+			"mushroompizza",
+			"mysteriousbolognese",
+			"myway",
 			"northernapplestew",
+			"nutritiousmealv593",
+			"onigiri",
+			"outriderschampionsteak",
+			"panipuri",
 			"pitapocket",
+			"poissonchantpie",
+			"poissonseafoodsoup",
+			"potatoboat",
 			"prosperouspeace",
 			"puppypawhashbrown",
+			"qiankunmorameat",
+			"radishveggiesoup",
 			"ricebuns",
+			"rosecustard",
 			"sabzmeatstew",
+			"sakuramochi",
 			"samosa",
 			"satietygel",
 			"scentedmeatballs",
+<<<<<<< HEAD
 			"secretsaucebbqribs",
+=======
+			"seabirdssojourn",
+			"secretsaucebbqribs",
+			"slowcookedbambooshootsoup",
+			"snowonthehearth",
+			"sobanoodles",
+>>>>>>> upstream/main
 			"squirrelfish",
+			"steak",
 			"steaktartare",
+			"stirfriedfilet",
+			"stirfriedfishnoodles",
 			"summerfestivalfish",
 			"survivalgrilledfish",
 			"sweetmadame",
+			"sweetshrimpsushi",
+			"tahchin",
+			"taiyaki",
 			"tassesragout",
+			"teabreakpancake",
+			"teyvatcharredegg",
+			"teyvatfriedegg",
+			"theendeavor",
 			"tonkotsuramen",
+			"traditionallymadecharcoalbakedajilenakhcake",
 			"tricolordango",
+			"tripesduport",
+			"troutamandine",
 			"tunasushi",
+			"udonnoodles",
 			"universalpeace",
+			"vegetarianabalone",
 			"victoriouslegend",
+			"wanminrestaurantsboiledfish",
+			"warmth",
+			"wayofthestrong",
 			"yearning"
 		],
 		"Thịt Cá": [
@@ -1901,6 +2089,10 @@
 			"duelsoul",
 			"energizingbento",
 			"exclusivescoopgourmetcolumn",
+<<<<<<< HEAD
+=======
+			"feastos",
+>>>>>>> upstream/main
 			"fishandchips",
 			"fishwithcreamsauce",
 			"fontaineaspic",
@@ -1920,6 +2112,7 @@
 			"sangayaki",
 			"sashimiplatter",
 			"seabirdssojourn",
+			"sinthekindthatdoesntneedtobedealtwith",
 			"squirrelfish",
 			"stirfriedfishnoodles",
 			"sunshinesprat",
@@ -1978,7 +2171,13 @@
 			"halvamazd",
 			"lalettreafocalors",
 			"lotusflowercrisp",
+<<<<<<< HEAD
 			"pourlajustice",
+=======
+			"pickwhatyoulike",
+			"pourlajustice",
+			"rainbowmacarons",
+>>>>>>> upstream/main
 			"sweetdream",
 			"troutamandine"
 		],
@@ -2008,6 +2207,7 @@
 			"selvasalad",
 			"theendeavor"
 		],
+<<<<<<< HEAD
 		"Atk_CritRate": [
 			"baklava",
 			"comeandgetit",
@@ -2029,6 +2229,8 @@
 			"satisfyingsalad",
 			"stoneharbordelicacies"
 		],
+=======
+>>>>>>> upstream/main
 		"Quả Ajilenakh": [
 			"baklava",
 			"candiedajilenakhnut",
@@ -2201,6 +2403,10 @@
 			"creamstew",
 			"crepessuzette",
 			"fontaineaspic",
+<<<<<<< HEAD
+=======
+			"fontinaliamousse",
+>>>>>>> upstream/main
 			"fragrantmashedpotatoes",
 			"milkymushroomcrisptower",
 			"nutritiousmealv593",
@@ -2223,6 +2429,7 @@
 			"dragonbeardnoodles",
 			"duckconfit",
 			"duelsoul",
+			"feastos",
 			"fontaineaspic",
 			"fontainianfoiegras",
 			"fruityskewers",
@@ -2235,6 +2442,7 @@
 			"oncidiumtofu",
 			"rockinriffinchicken",
 			"showmethemora",
+			"sinthekindthatdoesntneedtobedealtwith",
 			"sweetmadame",
 			"tahchin",
 			"tandooriroastchicken",
@@ -2272,6 +2480,7 @@
 			"coldcutplatter",
 			"dieheiligesinfonie",
 			"ricecakesoup"
+<<<<<<< HEAD
 		],
 		"Recovery_Revive": [
 			"charcoalbakedajilenakhcake",
@@ -2315,12 +2524,15 @@
 			"udonnoodles",
 			"vegetarianabalone",
 			"wayofthestrong"
+=======
+>>>>>>> upstream/main
 		],
 		"Mứt": [
 			"charcoalbakedajilenakhcake",
 			"crepessuzette",
 			"cubictricks",
 			"fontainianfoiegras",
+			"fontinaliamousse",
 			"fruityduet",
 			"fruitytrio",
 			"mondstadthashbrown",
@@ -2429,7 +2641,13 @@
 			"crepessuzette",
 			"cubictricks",
 			"fruitytrio",
+<<<<<<< HEAD
 			"patedefruit"
+=======
+			"patedefruit",
+			"pickwhatyoulike",
+			"rainbowmacarons"
+>>>>>>> upstream/main
 		],
 		"Hoa Ngọt": [
 			"dinnerofjudgment",
@@ -2495,9 +2713,6 @@
 			"jadefruitsoup",
 			"tianshumeat"
 		],
-		"Climate_Heat": [
-			"goulash"
-		],
 		"Thịt Tươi Lạnh": [
 			"goulash"
 		],
@@ -2549,32 +2764,27 @@
 	},
 	"properties": {
 		"rarity": [
-			"2",
-			"3",
-			"5",
-			"1",
-			"4"
+			2,
+			3,
+			5,
+			1,
+			4
 		],
 		"foodtype": [
 			"NORMAL",
 			"SPECIALTY"
 		],
-		"foodfilter": [
+		"filterType": [
+			"COOK_FOOD_FUNCTION",
+			"COOK_FOOD_ATTACK",
+			"COOK_FOOD_DEFENSE",
+			"COOK_FOOD_HEAL"
+		],
+		"filterText": [
 			"Món Dạng Mạo Hiểm",
 			"Món Dạng Tấn Công",
 			"Món Dạng Phòng Ngự",
 			"Món Dạng Hồi Phục"
-		],
-		"foodcategory": [
-			"Other_SPAdd",
-			"Other_SPReduceConsume",
-			"Atk_Add",
-			"Def_Add",
-			"Recovery_HpAddAll",
-			"Recovery_HpAdd",
-			"Atk_CritRate",
-			"Recovery_Revive",
-			"Climate_Heat"
 		],
 		"ingredients": [
 			"Lúa Nước",

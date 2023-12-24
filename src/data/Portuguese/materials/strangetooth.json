@@ -1,8 +1,13 @@
 {
+	"id": 100618,
 	"name": "Dente Estranho",
+	"sortRank": 200,
 	"description": "Um dente que você pegou na Montanha Nevada. Talvez alguém saiba algo sobre ele...",
+<<<<<<< HEAD
 	"sortorder": 2776,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

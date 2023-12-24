@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Daha İyi Bir Gelecek İçin",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 5094,
+=======
+	"id": [
+		84315
+	],
+	"name": "Daha İyi Bir Gelecek İçin",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5094,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Daha İyi Bir Gelecek İçin",
 		"description": "İnsanlar evlerini yeniden inşa eder.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

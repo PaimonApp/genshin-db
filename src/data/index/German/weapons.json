@@ -167,6 +167,8 @@
 		"travelershandysword": "Reiseschwert",
 		"tulaytullahsremembrance": "Tulaytullahs Erinnerung",
 		"twinnephrite": "Zwillingsnephrit",
+		"ultimateoverlordsmegamagicsword": "„Megamagisches Schwert des ultimativen Oberherrn“",
+		"verdict": "Urteilsspruch",
 		"vortexvanquisher": "Regenbogenstecher",
 		"wanderingevenstar": "Wandernder Abendstern",
 		"wastergreatsword": "Übungsgroßschwert",
@@ -346,6 +348,8 @@
 		"Reiseschwert": "travelershandysword",
 		"Tulaytullahs Erinnerung": "tulaytullahsremembrance",
 		"Zwillingsnephrit": "twinnephrite",
+		"„Megamagisches Schwert des ultimativen Oberherrn“": "ultimateoverlordsmegamagicsword",
+		"Urteilsspruch": "verdict",
 		"Regenbogenstecher": "vortexvanquisher",
 		"Wandernder Abendstern": "wanderingevenstar",
 		"Übungsgroßschwert": "wastergreatsword",
@@ -503,6 +507,7 @@
 			"thewidsith",
 			"tidalshadow",
 			"toukaboushigure",
+			"ultimateoverlordsmegamagicsword",
 			"wanderingevenstar",
 			"wavebreakersfin",
 			"whiteblind",
@@ -551,10 +556,11 @@
 			"thunderingpulse",
 			"tomeoftheeternalflow",
 			"tulaytullahsremembrance",
+			"verdict",
 			"vortexvanquisher",
 			"wolfsgravestone"
 		],
-		"Zweihänder": [
+		"WEAPON_CLAYMORE": [
 			"akuoumaru",
 			"beaconofthereedsea",
 			"blackcliffslasher",
@@ -584,12 +590,14 @@
 			"thebell",
 			"theunforged",
 			"tidalshadow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict",
 			"wastergreatsword",
 			"whiteblind",
 			"whiteirongreatsword",
 			"wolfsgravestone"
 		],
-		"ANG": [
+		"FIGHT_PROP_ATTACK_PERCENT": [
 			"akuoumaru",
 			"alleyhunter",
 			"amenomakageuchi",
@@ -810,6 +818,8 @@
 			"travelershandysword",
 			"tulaytullahsremembrance",
 			"twinnephrite",
+			"ultimateoverlordsmegamagicsword",
+			"verdict",
 			"vortexvanquisher",
 			"wanderingevenstar",
 			"wastergreatsword",
@@ -915,7 +925,7 @@
 			"mistsplitterreforged",
 			"oathsworneye"
 		],
-		"Bogen": [
+		"WEAPON_BOW": [
 			"alleyhunter",
 			"amosbow",
 			"aquasimulacra",
@@ -1192,7 +1202,7 @@
 			"windblumeode",
 			"wolfsgravestone"
 		],
-		"Einhänder": [
+		"WEAPON_SWORD_ONE_HAND": [
 			"amenomakageuchi",
 			"aquilafavonia",
 			"blackclifflongsword",
@@ -1262,7 +1272,7 @@
 			"mistsplitterreforged",
 			"thecatch"
 		],
-		"Katalysator": [
+		"WEAPON_CATALYST": [
 			"apprenticesnotes",
 			"athousandfloatingdreams",
 			"balladoftheboundlessblue",
@@ -1460,7 +1470,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"KSCH": [
+		"FIGHT_PROP_CRITICAL_HURT": [
 			"aquasimulacra",
 			"blackcliffagate",
 			"blackclifflongsword",
@@ -1616,7 +1626,7 @@
 			"whiteblind",
 			"whitetassel"
 		],
-		"Physischer SCH-Bonus": [
+		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
 			"aquilafavonia",
 			"compoundbow",
 			"crescentpike",
@@ -1737,7 +1747,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"Elementarkunde": [
+		"FIGHT_PROP_ELEMENT_MASTERY": [
 			"athousandfloatingdreams",
 			"bloodtaintedgreatsword",
 			"darkironsword",
@@ -1841,7 +1851,11 @@
 			"talkingstick",
 			"wanderingevenstar"
 		],
+<<<<<<< HEAD
 		"Aufladerate": [
+=======
+		"FIGHT_PROP_CHARGE_EFFICIENCY": [
+>>>>>>> upstream/main
 			"balladoftheboundlessblue",
 			"elegyfortheend",
 			"endoftheline",
@@ -1869,6 +1883,10 @@
 			"skywardpride",
 			"skywardspine",
 			"thecatch",
+<<<<<<< HEAD
+=======
+			"ultimateoverlordsmegamagicsword",
+>>>>>>> upstream/main
 			"wineandsong"
 		],
 		"Milchzahn des borealischen Wolfs": [
@@ -2087,7 +2105,11 @@
 			"thrillingtalesofdragonslayers",
 			"wineandsong"
 		],
+<<<<<<< HEAD
 		"Stangenwaffe": [
+=======
+		"WEAPON_POLE": [
+>>>>>>> upstream/main
 			"balladofthefjords",
 			"beginnersprotector",
 			"blackcliffpole",
@@ -2118,7 +2140,7 @@
 			"wavebreakersfin",
 			"whitetassel"
 		],
-		"KT": [
+		"FIGHT_PROP_CRITICAL": [
 			"balladofthefjords",
 			"beaconofthereedsea",
 			"cashflowsupervision",
@@ -2140,6 +2162,7 @@
 			"theblacksword",
 			"theviridescenthunt",
 			"twinnephrite",
+			"verdict",
 			"whitetassel",
 			"wolffang"
 		],
@@ -2148,7 +2171,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Ungeblühte Blume unbekannter Herkunft": [
 			"balladofthefjords",
@@ -2176,7 +2200,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Jemandes geschätzte Blume": [
 			"balladofthefjords",
@@ -2204,7 +2229,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Blühende Blume eines Nomaden": [
 			"balladofthefjords",
@@ -2232,7 +2258,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Echo der sengenden Macht": [
 			"beaconofthereedsea",
@@ -2620,7 +2647,7 @@
 			"theunforged",
 			"twinnephrite"
 		],
-		"LP": [
+		"FIGHT_PROP_HP_PERCENT": [
 			"blacktassel",
 			"everlastingmoonglow",
 			"ferrousshadow",
@@ -2777,6 +2804,7 @@
 			"cashflowsupervision",
 			"prospectorsdrill",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thedockhandsassistant"
 		],
 		"Transozeanische Perle": [
@@ -2820,8 +2848,56 @@
 			"swordofnarzissenkreuz",
 			"thedockhandsassistant",
 			"thefirstgreatmagic"
+=======
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+>>>>>>> upstream/main
 		],
-		"VTD": [
+		"Transozeanische Perle": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"Standardtaschenuhr der Dienerin": [
+			"cashflowsupervision",
+			"prospectorsdrill",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+		],
+		"Transozeanischer Brocken": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"Beständigkeit der Dienerin": [
+			"cashflowsupervision",
+			"prospectorsdrill",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+		],
+		"Xenochromatischer Kristall": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"cinnabarspindle",
 			"travelershandysword",
 			"whiteblind",
@@ -2984,7 +3060,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Bruchstück einer archaischen Serenade": [
 			"fleuvecendreferryman",
@@ -2992,7 +3073,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Satz einer archaischen Serenade": [
 			"fleuvecendreferryman",
@@ -3000,7 +3086,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Echo einer archaischen Serenade": [
 			"fleuvecendreferryman",
@@ -3008,28 +3099,48 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Risskern": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Außerweltliche Synapse": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Außerweltlicher Lebenskern": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Kupfertalisman des Waldtaus": [
 			"forestregalia",
@@ -3129,38 +3240,57 @@
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Mechanisches Stirnrad": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Neuartiges Uhrwerk-Zahnrad": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		]
 	},
 	"properties": {
-		"weapontype": [
-			"Zweihänder",
-			"Bogen",
-			"Einhänder",
-			"Katalysator",
-			"Stangenwaffe"
+		"weaponType": [
+			"WEAPON_CLAYMORE",
+			"WEAPON_BOW",
+			"WEAPON_SWORD_ONE_HAND",
+			"WEAPON_CATALYST",
+			"WEAPON_POLE"
 		],
 		"rarity": [
-			"4",
-			"5",
-			"1",
-			"3",
-			"2"
+			4,
+			5,
+			1,
+			3,
+			2
 		],
+<<<<<<< HEAD
 		"substat": [
 			"ANG",
 			"KSCH",
@@ -3170,6 +3300,17 @@
 			"KT",
 			"LP",
 			"VTD"
+=======
+		"mainStatType": [
+			"FIGHT_PROP_ATTACK_PERCENT",
+			"FIGHT_PROP_CRITICAL_HURT",
+			"FIGHT_PROP_PHYSICAL_ADD_HURT",
+			"FIGHT_PROP_ELEMENT_MASTERY",
+			"FIGHT_PROP_CHARGE_EFFICIENCY",
+			"FIGHT_PROP_CRITICAL",
+			"FIGHT_PROP_HP_PERCENT",
+			"FIGHT_PROP_DEFENSE_PERCENT"
+>>>>>>> upstream/main
 		],
 		"costs": [
 			"Mora",

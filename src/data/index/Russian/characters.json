@@ -12,6 +12,10 @@
 		"bennett": "Беннет",
 		"candace": "Кандакия",
 		"charlotte": "Шарлотта",
+<<<<<<< HEAD
+=======
+		"chevreuse": "Шеврёз",
+>>>>>>> upstream/main
 		"chongyun": "Чун Юнь",
 		"collei": "Коллеи",
 		"cyno": "Сайно",
@@ -46,6 +50,10 @@
 		"mika": "Мика",
 		"mona": "Мона",
 		"nahida": "Нахида",
+<<<<<<< HEAD
+=======
+		"navia": "Навия",
+>>>>>>> upstream/main
 		"neuvillette": "Нёвиллет",
 		"nilou": "Нилу",
 		"ningguang": "Нин Гуан",
@@ -90,6 +98,10 @@
 		"Беннет": "bennett",
 		"Кандакия": "candace",
 		"Шарлотта": "charlotte",
+<<<<<<< HEAD
+=======
+		"Шеврёз": "chevreuse",
+>>>>>>> upstream/main
 		"Чун Юнь": "chongyun",
 		"Коллеи": "collei",
 		"Сайно": "cyno",
@@ -124,6 +136,10 @@
 		"Мика": "mika",
 		"Мона": "mona",
 		"Нахида": "nahida",
+<<<<<<< HEAD
+=======
+		"Навия": "navia",
+>>>>>>> upstream/main
 		"Нёвиллет": "neuvillette",
 		"Нилу": "nilou",
 		"Нин Гуан": "ningguang",
@@ -179,6 +195,11 @@
 		"Щит Заступницы": "candace",
 		"Объективная реальность": "charlotte",
 		"Отражение Истины": "charlotte",
+<<<<<<< HEAD
+=======
+		"Вершитель правосудия": "chevreuse",
+		"Мушкет": "chevreuse",
+>>>>>>> upstream/main
 		"Морозная пылкость": "chongyun",
 		"Тяжесть Небес": "chongyun",
 		"Росток возрождения": "collei",
@@ -245,6 +266,11 @@
 		"Багровая Заря": "mona",
 		"Средоточие чистоты": "nahida",
 		"Госпожа Мудрости": "nahida",
+<<<<<<< HEAD
+=======
+		"Штурвал цветущей розы": "navia",
+		"Дикая Роза": "navia",
+>>>>>>> upstream/main
 		"Распорядитель неумолимого суда": "neuvillette",
 		"???": "neuvillette",
 		"Танец лотоса": "nilou",
@@ -314,6 +340,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"diona",
@@ -370,6 +400,10 @@
 			"lyney",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"qiqi",
@@ -387,11 +421,11 @@
 			"yoimiya",
 			"zhongli"
 		],
-		"Нет": [
+		"ELEMENT_NONE": [
 			"aether",
 			"lumine"
 		],
-		"Одноручное": [
+		"WEAPON_SWORD_ONE_HAND": [
 			"aether",
 			"albedo",
 			"alhaitham",
@@ -412,7 +446,7 @@
 			"qiqi",
 			"xingqiu"
 		],
-		"Сила атаки": [
+		"FIGHT_PROP_ATTACK_PERCENT": [
 			"aether",
 			"amber",
 			"charlotte",
@@ -473,6 +507,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -507,6 +545,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -596,16 +638,17 @@
 			"aether",
 			"lumine"
 		],
-		"Гео": [
+		"ELEMENT_GEO": [
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"Бонус Гео урона": [
+		"FIGHT_PROP_ROCK_ADD_HURT": [
 			"albedo",
 			"gorou",
 			"ningguang",
@@ -643,6 +686,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -665,6 +709,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -689,6 +734,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -707,12 +753,13 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"Дендро": [
+		"ELEMENT_DENDRO": [
 			"alhaitham",
 			"baizhu",
 			"collei",
@@ -722,7 +769,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"Бонус Дендро урона": [
+		"FIGHT_PROP_GRASS_ADD_HURT": [
 			"alhaitham",
 			"tighnari"
 		],
@@ -818,7 +865,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"Крио": [
+		"ELEMENT_CRYO": [
 			"aloy",
 			"charlotte",
 			"chongyun",
@@ -835,7 +882,7 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"Стрелковое": [
+		"WEAPON_BOW": [
 			"aloy",
 			"amber",
 			"collei",
@@ -852,7 +899,7 @@
 			"yelan",
 			"yoimiya"
 		],
-		"Бонус Крио урона": [
+		"FIGHT_PROP_ICE_ADD_HURT": [
 			"aloy",
 			"diona"
 		],
@@ -863,6 +910,10 @@
 			"beidou",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"collei",
 			"dehya",
 			"diona",
@@ -886,6 +937,7 @@
 			"lynette",
 			"mona",
 			"nahida",
+			"navia",
 			"nilou",
 			"ningguang",
 			"noelle",
@@ -1011,9 +1063,10 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"Пиро": [
+		"ELEMENT_PYRO": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1030,11 +1083,13 @@
 			"faruzan",
 			"mika",
 			"mona",
+			"navia",
 			"ningguang"
 		],
 		"Осколок агата Агнидус": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1060,6 +1115,7 @@
 		"Фрагмент агата Агнидус": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1088,6 +1144,7 @@
 		"Кусок агата Агнидус": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1108,6 +1165,7 @@
 		"Драгоценный агат Агнидус": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1119,7 +1177,7 @@
 			"yanfei",
 			"yoimiya"
 		],
-		"Двуручное": [
+		"WEAPON_CLAYMORE": [
 			"aratakiitto",
 			"beidou",
 			"chongyun",
@@ -1129,12 +1187,13 @@
 			"eula",
 			"freminet",
 			"kaveh",
+			"navia",
 			"noelle",
 			"razor",
 			"sayu",
 			"xinyan"
 		],
-		"Шанс крит. попадания": [
+		"FIGHT_PROP_CRITICAL": [
 			"aratakiitto",
 			"diluc",
 			"furina",
@@ -1206,7 +1265,7 @@
 			"yaoyao",
 			"zhongli"
 		],
-		"Катализатор": [
+		"WEAPON_CATALYST": [
 			"baizhu",
 			"barbara",
 			"charlotte",
@@ -1224,10 +1283,11 @@
 			"yaemiko",
 			"yanfei"
 		],
-		"HP": [
+		"FIGHT_PROP_HP_PERCENT": [
 			"baizhu",
 			"barbara",
 			"candace",
+			"chevreuse",
 			"dehya",
 			"dori",
 			"kirara",
@@ -1287,7 +1347,7 @@
 			"nilou",
 			"tighnari"
 		],
-		"Гидро": [
+		"ELEMENT_HYDRO": [
 			"barbara",
 			"candace",
 			"furina",
@@ -1374,7 +1434,7 @@
 			"xingqiu",
 			"yelan"
 		],
-		"Электро": [
+		"ELEMENT_ELECTRO": [
 			"beidou",
 			"cyno",
 			"dori",
@@ -1387,7 +1447,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"Бонус Электро урона": [
+		"FIGHT_PROP_ELEC_ADD_HURT": [
 			"beidou"
 		],
 		"Осколок аметиста Ваджрада": [
@@ -1483,7 +1543,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"Восст. энергии": [
+		"FIGHT_PROP_CHARGE_EFFICIENCY": [
 			"bennett",
 			"kaeya",
 			"mona",
@@ -1491,8 +1551,9 @@
 			"venti",
 			"yunjin"
 		],
-		"Древковое": [
+		"WEAPON_POLE": [
 			"candace",
+			"chevreuse",
 			"cyno",
 			"hutao",
 			"mika",
@@ -1524,10 +1585,18 @@
 		],
 		"Фонтейн": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"freminet",
 			"furina",
 			"lynette",
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1536,6 +1605,10 @@
 		],
 		"Сцепляющаяся шестерня": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -1545,14 +1618,41 @@
 		],
 		"Шестерня механизма": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Изощрённая динамическая шестерня": [
 			"charlotte",
+<<<<<<< HEAD
 			"lynette",
 			"wriothesley"
 		],
+=======
+			"chevreuse",
+			"lynette",
+			"wriothesley"
+		],
+		"январь": [
+			"chevreuse",
+			"diona",
+			"kirara",
+			"rosaria",
+			"thoma",
+			"wanderer"
+		],
+		"Ламповый колокольчик": [
+			"chevreuse",
+			"lynette"
+		],
+		"Рог Фонтмера": [
+			"chevreuse",
+			"neuvillette"
+		],
+>>>>>>> upstream/main
 		"Кор ляпис": [
 			"chongyun",
 			"keqing",
@@ -1574,7 +1674,7 @@
 			"collei",
 			"tighnari"
 		],
-		"Крит. урон": [
+		"FIGHT_PROP_CRITICAL_HURT": [
 			"cyno",
 			"eula",
 			"ganyu",
@@ -1582,6 +1682,10 @@
 			"kamisatoayaka",
 			"kamisatoayato",
 			"keqing",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1619,13 +1723,6 @@
 			"tartaglia",
 			"yelan"
 		],
-		"январь": [
-			"diona",
-			"kirara",
-			"rosaria",
-			"thoma",
-			"wanderer"
-		],
 		"Лилия калла": [
 			"diona",
 			"kaeya"
@@ -1656,7 +1753,7 @@
 			"eula",
 			"jean"
 		],
-		"Анемо": [
+		"ELEMENT_ANEMO": [
 			"faruzan",
 			"jean",
 			"kaedeharakazuha",
@@ -1721,17 +1818,30 @@
 		],
 		"Жемчужина иноморья": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Запасная деталь чудного механизма: Коппелиус": [
-			"freminet"
+			"freminet",
+			"navia"
 		],
 		"Обломок из иноморья": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Ксенохромный кристалл": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Лилия озёрного света": [
@@ -1792,7 +1902,7 @@
 			"xiao",
 			"yanfei"
 		],
-		"Бонус лечения": [
+		"FIGHT_PROP_HEAL_ADD": [
 			"jean",
 			"qiqi"
 		],
@@ -1809,7 +1919,7 @@
 			"sucrose",
 			"venti"
 		],
-		"Мастерство стихий": [
+		"FIGHT_PROP_ELEMENT_MASTERY": [
 			"kaedeharakazuha",
 			"kaveh",
 			"lisa",
@@ -1873,7 +1983,7 @@
 			"kirara",
 			"raidenshogun"
 		],
-		"Бонус Пиро урона": [
+		"FIGHT_PROP_FIRE_ADD_HURT": [
 			"klee",
 			"yanfei"
 		],
@@ -1907,14 +2017,17 @@
 			"noelle",
 			"rosaria"
 		],
-		"Бонус Анемо урона": [
+		"FIGHT_PROP_WIND_ADD_HURT": [
 			"lynette",
 			"shikanoinheizou",
 			"sucrose"
 		],
+<<<<<<< HEAD
 		"Ламповый колокольчик": [
 			"lynette"
 		],
+=======
+>>>>>>> upstream/main
 		"Запасная деталь чудного механизма: Коппелия": [
 			"lynette"
 		],
@@ -1928,12 +2041,21 @@
 			"mika",
 			"razor"
 		],
+<<<<<<< HEAD
 		"Темнозвёздник": [
 			"neuvillette"
 		],
 		"Рог Фонтмера": [
 			"neuvillette"
 		],
+=======
+		"Источник первой росы": [
+			"navia"
+		],
+		"Темнозвёздник": [
+			"neuvillette"
+		],
+>>>>>>> upstream/main
 		"Падисара": [
 			"nilou"
 		],
@@ -1941,13 +2063,13 @@
 			"ningguang",
 			"yunjin"
 		],
-		"Защита": [
+		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"noelle"
 		],
-		"Бонус физ. урона": [
+		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
 			"razor"
 		],
-		"Бонус Гидро урона": [
+		"FIGHT_PROP_WATER_ADD_HURT": [
 			"sangonomiyakokomi",
 			"tartaglia"
 		],
@@ -1979,43 +2101,43 @@
 	},
 	"properties": {
 		"rarity": [
-			"5",
-			"4"
+			5,
+			4
 		],
-		"element": [
-			"Нет",
-			"Гео",
-			"Дендро",
-			"Крио",
-			"Пиро",
-			"Гидро",
-			"Электро",
-			"Анемо"
+		"elementType": [
+			"ELEMENT_NONE",
+			"ELEMENT_GEO",
+			"ELEMENT_DENDRO",
+			"ELEMENT_CRYO",
+			"ELEMENT_PYRO",
+			"ELEMENT_HYDRO",
+			"ELEMENT_ELECTRO",
+			"ELEMENT_ANEMO"
 		],
-		"weapontype": [
-			"Одноручное",
-			"Стрелковое",
-			"Двуручное",
-			"Катализатор",
-			"Древковое"
+		"weaponType": [
+			"WEAPON_SWORD_ONE_HAND",
+			"WEAPON_BOW",
+			"WEAPON_CLAYMORE",
+			"WEAPON_CATALYST",
+			"WEAPON_POLE"
 		],
-		"substat": [
-			"Сила атаки",
-			"Бонус Гео урона",
-			"Бонус Дендро урона",
-			"Бонус Крио урона",
-			"Шанс крит. попадания",
-			"HP",
-			"Бонус Электро урона",
-			"Восст. энергии",
-			"Крит. урон",
-			"Бонус лечения",
-			"Мастерство стихий",
-			"Бонус Пиро урона",
-			"Бонус Анемо урона",
-			"Защита",
-			"Бонус физ. урона",
-			"Бонус Гидро урона"
+		"substatType": [
+			"FIGHT_PROP_ATTACK_PERCENT",
+			"FIGHT_PROP_ROCK_ADD_HURT",
+			"FIGHT_PROP_GRASS_ADD_HURT",
+			"FIGHT_PROP_ICE_ADD_HURT",
+			"FIGHT_PROP_CRITICAL",
+			"FIGHT_PROP_HP_PERCENT",
+			"FIGHT_PROP_ELEC_ADD_HURT",
+			"FIGHT_PROP_CHARGE_EFFICIENCY",
+			"FIGHT_PROP_CRITICAL_HURT",
+			"FIGHT_PROP_HEAL_ADD",
+			"FIGHT_PROP_ELEMENT_MASTERY",
+			"FIGHT_PROP_FIRE_ADD_HURT",
+			"FIGHT_PROP_WIND_ADD_HURT",
+			"FIGHT_PROP_DEFENSE_PERCENT",
+			"FIGHT_PROP_PHYSICAL_ADD_HURT",
+			"FIGHT_PROP_WATER_ADD_HURT"
 		],
 		"gender": [
 			"Мужской",
@@ -2099,6 +2221,11 @@
 			"Турбийон",
 			"Шестерня механизма",
 			"Изощрённая динамическая шестерня",
+<<<<<<< HEAD
+=======
+			"Ламповый колокольчик",
+			"Рог Фонтмера",
+>>>>>>> upstream/main
 			"Кор ляпис",
 			"Инеевое ядро",
 			"Грибы руккхашава",
@@ -2148,13 +2275,21 @@
 			"Лотос нилотпала",
 			"Вечный механизм",
 			"Валяшка",
+<<<<<<< HEAD
 			"Ламповый колокольчик",
+=======
+>>>>>>> upstream/main
 			"Запасная деталь чудного механизма: Коппелия",
 			"Радужная роза",
 			"Приговор императора",
 			"Волчий крюк",
+<<<<<<< HEAD
 			"Темнозвёздник",
 			"Рог Фонтмера",
+=======
+			"Источник первой росы",
+			"Темнозвёздник",
+>>>>>>> upstream/main
 			"Падисара",
 			"Глазурная лилия",
 			"Ложный плавник Дракона глубин",

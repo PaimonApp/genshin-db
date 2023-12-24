@@ -1,10 +1,15 @@
 {
+	"id": 101212,
 	"name": "Starshroom",
+	"sortRank": 90000,
 	"description": "Jamur dengan topi yang menyerupai bentuk bintang bersudut lima. Jamur ini memang cukup tangguh. Setelah dewasa, bagian tengah topinya akan terbelah.",
+<<<<<<< HEAD
 	"sortorder": 3418,
+=======
+>>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"materialtype": "Makanan",
-	"source": [
+	"typeText": "Makanan",
+	"sources": [
 		"Ditemukan di alam liar"
 	]
 }

@@ -1,7 +1,13 @@
 {
+	"id": 35,
 	"name": "Sumeru – Die goldene Wüste I",
+<<<<<<< HEAD
 	"sortorder": 41,
+=======
+	"sortOrder": 41,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210138,
 		"name": "Sumeru – Sandmeerwanderung"
 	}
 }

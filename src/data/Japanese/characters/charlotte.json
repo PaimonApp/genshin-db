@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "シャルロット",
 	"fullname": "シャルロット",
 	"title": "真実を求める曇りなきモノクル",
@@ -14,6 +15,27 @@
 	"affiliation": "スチームバード新聞社",
 	"birthdaymmdd": "4/10",
 	"birthday": "4月10日",
+=======
+	"id": 10000088,
+	"name": "シャルロット",
+	"title": "真実を求める曇りなきモノクル",
+	"description": "元気に満ち溢れるスチームバード新聞の記者。いつも「真相」を求めて駆け回っている。",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "法器",
+	"bodyType": "BODY_GIRL",
+	"gender": "女",
+	"qualityType": "QUALITY_PURPLE",
+	"rarity": 4,
+	"birthdaymmdd": "4/10",
+	"birthday": "4月10日",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "氷",
+	"affiliation": "スチームバード新聞社",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "フォンテーヌ",
+	"substatType": "FIGHT_PROP_ATTACK_PERCENT",
+	"substatText": "攻撃力",
+>>>>>>> upstream/main
 	"constellation": "真実明鏡座",
 	"cv": {
 		"english": "Maya Aoki Tuttle",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "哀切なアイスクリスタル·砕屑",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "蒼晶螺",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "整合の歯車",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "哀切なアイスクリスタル·欠片",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「トゥールビヨン装置」",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "蒼晶螺",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "整合の歯車",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "哀切なアイスクリスタル·欠片",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「トゥールビヨン装置」",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "蒼晶螺",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "機構の平歯車",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "哀切なアイスクリスタル·塊",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「トゥールビヨン装置」",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "蒼晶螺",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "機構の平歯車",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "哀切なアイスクリスタル·塊",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「トゥールビヨン装置」",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "蒼晶螺",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "奇械のコア歯車",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "モラ",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "哀切なアイスクリスタル",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「トゥールビヨン装置」",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "蒼晶螺",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "奇械のコア歯車",
 				"count": 24
 			}

@@ -1,8 +1,13 @@
 {
+	"id": 101401,
 	"name": "직물",
+	"sortRank": 331,
 	"description": "질 좋은 직물. 장식 제작에 유용하게 쓰인다",
+<<<<<<< HEAD
 	"sortorder": 2982,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "소재",
-	"source": []
+	"typeText": "소재",
+	"sources": []
 }

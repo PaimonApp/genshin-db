@@ -1,8 +1,13 @@
 {
+	"id": 101404,
 	"name": "Tinte azul",
+	"sortRank": 331,
 	"description": "Tinte azul. Será útil a la hora de fabricar decoraciones.",
+<<<<<<< HEAD
 	"sortorder": 2985,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

@@ -1,9 +1,21 @@
 {
+	"id": 112026,
 	"name": "Polline d'Erbafosca",
+	"rarity": 2,
+	"sortRank": 10109,
 	"description": "Delle strane spore create dall'Erbafosca negli spazi chiusi. Sono il cibo preferito delle Cicin.",
+<<<<<<< HEAD
 	"sortorder": 3059,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Materiale di potenziamento armi e personaggi",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale di potenziamento armi e personaggi",
+	"sources": [
+		"Ottenibile dalle Maghe Cicin dei Fatui",
+		"Scambio di Polvere stellare"
+	]
+>>>>>>> upstream/main
 }

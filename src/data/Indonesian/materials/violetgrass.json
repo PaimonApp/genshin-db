@@ -1,10 +1,15 @@
 {
+	"id": 100034,
 	"name": "Violetgrass",
+	"sortRank": 312,
 	"description": "Bunga kecil dengan vitalitas yang kuat. Dikatakan bahwa bunga mekarnya yang menghadap ke bawah mencegah aromanya menghilang.",
+<<<<<<< HEAD
 	"sortorder": 2860,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Produk khas Liyue",
-	"source": [
+	"typeText": "Produk khas Liyue",
+	"sources": [
 		"Ditemukan di dekat tebing di Liyue"
 	]
 }

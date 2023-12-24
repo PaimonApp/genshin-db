@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Um Mar de Exílio",
 	"area": "Região Liffey",
 	"description": "\"Não importa qual for o pecado, será eventualmente perdido pelas ondas como a areia.\"",
 	"region": "Fontaine",
 	"sortorder": 403
+=======
+	"id": 70500003,
+	"name": "Um Mar de Exílio",
+	"areaId": 50400,
+	"areaName": "Região Liffey",
+	"description": "\"Não importa qual for o pecado, será eventualmente perdido pelas ondas como a areia.\"",
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"sortOrder": 403
+>>>>>>> upstream/main
 }

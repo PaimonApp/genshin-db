@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Spring of the First Dewdrop",
 	"description": "A limpid drop of dew floating amidst the waters of Morte Region. It is different from other pure water bodies, as though it is a conglomeration of even more pure and primordial Elemental Energy.",
 	"sortorder": 2887,
 	"category": "EXCHANGE",
 	"materialtype": "Local Specialty (Fontaine)",
 	"source": [
+=======
+	"id": 101240,
+	"name": "Spring of the First Dewdrop",
+	"sortRank": 315,
+	"description": "A limpid drop of dew floating amidst the waters of Morte Region. It is different from other pure water bodies, as though it is a conglomeration of even more pure and primordial Elemental Energy.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Fontaine)",
+	"sources": [
+>>>>>>> upstream/main
 		"Found in the wild",
 		"Recommendation: Found underwater in Morte Region"
 	]

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Relatório da Tribo Solitária",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1380,
+=======
+	"id": [
+		81396
+	],
+	"name": "Relatório da Tribo Solitária",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1380,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Relatório da Tribo Solitária",
 		"description": "Obtenha o \"relatório especial\" impresso pessoalmente por Chronie.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,8 +1,11 @@
 {
+	"id": 70500009,
 	"name": "Tower of Gestalt",
-	"area": "Morte Region",
+	"areaId": 50700,
+	"areaName": "Morte Region",
 	"description": "This was once many things and many dreams.",
-	"region": "Fontaine",
-	"showonlyunlocked": true,
-	"sortorder": 409
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"showOnlyUnlocked": true,
+	"sortOrder": 409
 }

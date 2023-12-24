@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Fronte gravitazionale",
 	"achievementgroup": "Competitività: Serie VIII",
 	"sortorder": 2181,
+=======
+	"id": [
+		82182
+	],
+	"name": "Fronte gravitazionale",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Competitività: Serie VIII",
+	"sortOrder": 2181,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Fronte gravitazionale",
 		"description": "Sconfiggi un Generatore di campo sperimentale senza farti colpire da un'onda gravitazionale.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

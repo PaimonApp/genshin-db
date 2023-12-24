@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Obrigada pela Escolha!",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1386,
+=======
+	"id": [
+		81402
+	],
+	"name": "Obrigada pela Escolha!",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1386,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Obrigada pela Escolha!",
 		"description": "Obtenha uma tirinhas da sorte dupla",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

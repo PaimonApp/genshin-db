@@ -1,7 +1,17 @@
 {
+<<<<<<< HEAD
 	"name": "Résolution de Narzissenkreuz",
 	"achievementgroup": "Fontaine - Danse de la rosée blanche (3)",
 	"sortorder": 275,
+=======
+	"id": [
+		80299
+	],
+	"name": "Résolution de Narzissenkreuz",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine - Danse de la rosée blanche (3)",
+	"sortOrder": 275,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Résolution de Narzissenkreuz",
@@ -9,6 +19,10 @@
 		"description": "Qu'est-ce qui a laissé son nom ? Qu'est-ce qui se répand dans la vallée ? Qu'est-ce qui se reflète dans l'eau ? Qu'est-ce qui symbolise le sacrifice solitaire et sauveur du monde ?",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 10
 		}

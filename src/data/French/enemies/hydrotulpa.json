@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "Tulpa Hydro",
 	"specialname": "Égrégore éveillé",
 	"enemytype": "BOSS",
+=======
+	"id": 20051201,
+	"name": "Tulpa Hydro",
+	"specialName": "Égrégore éveillé",
+	"enemyType": "BOSS",
+>>>>>>> upstream/main
 	"category": "Entités élémentaires",
 	"description": "Un monstre de forme humaine formé par l'agglomération de l'eau.",
 	"investigation": {
@@ -9,12 +16,19 @@
 		"category": "Boss",
 		"description": "Un monstre de forme humaine formé par l'agglomération d'innombrables gouttes d'eau."
 	},
+<<<<<<< HEAD
 	"rewardpreview": [
 		{
+=======
+	"rewardPreview": [
+		{
+			"id": 102,
+>>>>>>> upstream/main
 			"name": "EXP d'aventure",
 			"count": 200
 		},
 		{
+<<<<<<< HEAD
 			"name": "Mora"
 		},
 		{
@@ -33,10 +47,22 @@
 			"name": "Pierre de lazurite varunada"
 		},
 		{
+=======
+			"id": 202,
+			"name": "Mora"
+		},
+		{
+			"id": 105,
+			"name": "EXP d'affinité"
+		},
+		{
+			"id": 113057,
+>>>>>>> upstream/main
 			"name": "Eau n'ayant pas transcendé",
 			"count": 2.5556
 		},
 		{
+<<<<<<< HEAD
 			"name": "Berserker",
 			"rarity": "3"
 		},
@@ -79,6 +105,77 @@
 		{
 			"name": "Bande vagabonde",
 			"rarity": "5"
+=======
+			"id": 104121,
+			"name": "Éclat de lazurite varunada"
+		},
+		{
+			"id": 104122,
+			"name": "Fragment de lazurite varunada"
+		},
+		{
+			"id": 104123,
+			"name": "Morceau de lazurite varunada"
+		},
+		{
+			"id": 104124,
+			"name": "Pierre de lazurite varunada"
+		},
+		{
+			"id": 400022,
+			"name": "Berserker",
+			"rarity": 3
+		},
+		{
+			"id": 400042,
+			"name": "Exilé",
+			"rarity": 3
+		},
+		{
+			"id": 400132,
+			"name": "Sacrifieur Hydro",
+			"rarity": 3
+		},
+		{
+			"id": 400047,
+			"name": "Aventurier",
+			"rarity": 3
+		},
+		{
+			"id": 400088,
+			"name": "Rideau du Gladiateur",
+			"rarity": 4
+		},
+		{
+			"id": 400098,
+			"name": "Bande vagabonde",
+			"rarity": 4
+		},
+		{
+			"id": 400023,
+			"name": "Berserker",
+			"rarity": 4
+		},
+		{
+			"id": 400043,
+			"name": "Exilé",
+			"rarity": 4
+		},
+		{
+			"id": 400133,
+			"name": "Sacrifieur Hydro",
+			"rarity": 4
+		},
+		{
+			"id": 400089,
+			"name": "Rideau du Gladiateur",
+			"rarity": 5
+		},
+		{
+			"id": 400099,
+			"name": "Bande vagabonde",
+			"rarity": 5
+>>>>>>> upstream/main
 		}
 	]
 }

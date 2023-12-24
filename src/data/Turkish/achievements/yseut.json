@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "\"Yseut\"",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1389,
+=======
+	"id": [
+		81405
+	],
+	"name": "\"Yseut\"",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1389,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"Yseut\"",
 		"description": "Yerel Efsane: Yseut'u yen.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

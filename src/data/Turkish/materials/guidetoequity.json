@@ -1,17 +1,25 @@
 {
+	"id": 104339,
 	"name": "Eşitlik Rehberi",
+<<<<<<< HEAD
 	"description": "Yetenek Seviyesi Yükseltme Malzemesi.\nSu Ülkesinin kıyılarında hakkaniyet yatar.\nHakkaniyet, Fontaine'in üzerine kurulduğu temeldir. Hakkaniyet, kanunun ölçütüdür. Eğer kanun, hakkaniyetin özünü yitirecek olursa üzerinde kumar oynanıp kar edilen bir satranç tahtasından farkı kalmaz.",
 	"sortorder": 3254,
 	"rarity": "3",
+=======
+	"rarity": 3,
+	"sortRank": 13113,
+	"description": "Yetenek Seviyesi Yükseltme Malzemesi.\nSu Ülkesinin kıyılarında hakkaniyet yatar.\nHakkaniyet, Fontaine'in üzerine kurulduğu temeldir. Hakkaniyet, kanunun ölçütüdür. Eğer kanun, hakkaniyetin özünü yitirecek olursa üzerinde kumar oynanıp kar edilen bir satranç tahtasından farkı kalmaz.",
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Karakter Yeteneği Malzemesi",
-	"dropdomain": "Ustalık Zindanı: Ritmin Ahengi",
-	"daysofweek": [
+	"typeText": "Karakter Yeteneği Malzemesi",
+	"dropDomainId": 4461,
+	"dropDomainName": "Ustalık Zindanı: Ritmin Ahengi",
+	"daysOfWeek": [
 		"Pazartesi",
 		"Perşembe",
 		"Pazar"
 	],
-	"source": [
+	"sources": [
 		"Üretilir."
 	]
 }

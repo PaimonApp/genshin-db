@@ -1,10 +1,15 @@
 {
+	"id": 100058,
 	"name": "Cor Lapis",
+	"sortRank": 312,
 	"description": "Ein seltener Kristall, in dem die Geo-Kraft stark konzentriert ist. Er ist häufig in der Nähe anderer Gesteine zu finden und wird auch als das „Herz des Felsen“ bezeichnet.",
+<<<<<<< HEAD
 	"sortorder": 2861,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Regionale Besonderheit aus Liyue",
-	"source": [
+	"typeText": "Regionale Besonderheit aus Liyue",
+	"sources": [
 		"Am unteren Ende von Klippen bei Liyue zu finden",
 		"Empfohlen: Auf dem Hulao-Berg zu finden"
 	]

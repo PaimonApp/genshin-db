@@ -1,10 +1,15 @@
 {
+	"id": 110002,
 	"name": "Crema batida",
+	"sortRank": 322,
 	"description": "Un producto obtenido de la leche. Un ingrediente esencial para hacer pasteles.",
+<<<<<<< HEAD
 	"sortorder": 2948,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente culinario",
-	"source": [
+	"typeText": "Ingrediente culinario",
+	"sources": [
 		"Procesar comida"
 	]
 }

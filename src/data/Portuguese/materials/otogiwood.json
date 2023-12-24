@@ -1,12 +1,19 @@
 {
+	"id": 101312,
 	"name": "Madeira Otogi",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Madeira da Árvore Otogi. Tem a quantidade certa de umidade e óleo, e por isso possui muitos usos.\nPode ser usada para criar Decorações.",
+<<<<<<< HEAD
 	"sortorder": 2971,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Encontrado na natureza",
-		"Recomendação: Cortado na Ilha Yashiori"
+		"Recomendação: Cortado na Ilha Yashiori",
+		"Converter Madeira"
 	]
 }

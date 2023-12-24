@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Café Bavarois",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de Regeneração",
 	"foodcategory": "Recovery_HpAddAll",
+=======
+	"id": 3410,
+	"name": "Café Bavarois",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Pratos de Regeneração",
+>>>>>>> upstream/main
 	"effect": "Restaura 26% - 30% da Vida Máxima ao personagem selecionado.\nRegenera 450 - 790 de Vida a cada 5s durante 30s.",
 	"description": "Uma sobremesa refrescante. Embora seja uma sobremesa tradicional de Fontaine, sua receita é simples e direta. Desde que a proporção dos ingredientes esteja correta, ninguém erraria o preparo dessa sobremesa. Tem uma textura saborosa com um toque de frio refrescante que imediatamente animará você.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "Grão de Café",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100078,
+>>>>>>> upstream/main
 			"name": "Leite",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Ovo de Pássaro",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Creme",
 			"count": 2
 		}

@@ -1,8 +1,13 @@
 {
+	"id": 101401,
 	"name": "Fabric",
+	"sortRank": 331,
 	"description": "Kain berkualitas tinggi. Pasti bisa digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2982,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

@@ -1,10 +1,15 @@
 {
+	"id": 100053,
 	"name": "Alev Çiçeği Tomurcuğu",
+	"sortRank": 320,
 	"description": "Yanan bir çiçeğin ateşli çekirdeği. Söndükten sonra bile ısı yaymaya devam eder.",
+<<<<<<< HEAD
 	"sortorder": 2890,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Malzeme",
-	"source": [
+	"typeText": "Malzeme",
+	"sources": [
 		"Doğada bulunur.",
 		"Öneri: Bin Rüzgar Tapınağında bulunur."
 	]

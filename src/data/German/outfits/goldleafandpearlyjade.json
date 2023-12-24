@@ -1,6 +1,13 @@
 {
+	"id": 202700,
 	"name": "Jade in Blattgold",
 	"description": "Ningguangs Kleidung. Aufwändige Stickereien sind das Markenzeichen dieses anmutigen Rocks.",
+<<<<<<< HEAD
 	"isdefault": true,
 	"character": "Ningguang"
+=======
+	"isDefault": true,
+	"characterId": 10000027,
+	"characterName": "Ningguang"
+>>>>>>> upstream/main
 }

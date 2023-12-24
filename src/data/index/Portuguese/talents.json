@@ -11,6 +11,10 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
+<<<<<<< HEAD
+=======
+		"chevreuse": "Chevreuse",
+>>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -44,6 +48,10 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
+<<<<<<< HEAD
+=======
+		"navia": "Navia",
+>>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -92,6 +100,10 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
+<<<<<<< HEAD
+=======
+		"Chevreuse": "chevreuse",
+>>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -125,6 +137,10 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
+<<<<<<< HEAD
+=======
+		"Navia": "navia",
+>>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -175,6 +191,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -208,6 +228,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -320,6 +344,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -353,6 +381,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -735,6 +767,10 @@
 		],
 		"Engrenagem Transmissora": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -746,6 +782,10 @@
 		],
 		"Engrenagem Reta": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -757,11 +797,40 @@
 		],
 		"Engrenagem Dinâmica": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Fio de Seda Sem Luz": [
+<<<<<<< HEAD
 			"charlotte"
+=======
+			"charlotte",
+			"navia"
+		],
+		"Ensinamentos da Ordem": [
+			"chevreuse",
+			"lynette",
+			"wriothesley"
+		],
+		"Guia da Ordem": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"Filosofia da Ordem": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"Olho do Vórtice Sem Luz": [
+			"chevreuse"
+>>>>>>> upstream/main
 		],
 		"Ensinamentos de Esforço": [
 			"chongyun",
@@ -902,16 +971,28 @@
 		],
 		"Pérola Transoceânica": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Pedaço Transoceânico": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Cristal Caleidoscópico": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1069,6 +1150,7 @@
 			"razor",
 			"xiangling"
 		],
+<<<<<<< HEAD
 		"Ensinamentos da Ordem": [
 			"lynette",
 			"wriothesley"
@@ -1085,16 +1167,29 @@
 		],
 		"Ensinamentos da Igualdade": [
 			"lyney",
+=======
+		"Ensinamentos da Igualdade": [
+			"lyney",
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Guia da Igualdade": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Filosofia da Igualdade": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1181,6 +1276,13 @@
 			"Filosofia da Justiça",
 			"Engrenagem Dinâmica",
 			"Fio de Seda Sem Luz",
+<<<<<<< HEAD
+=======
+			"Ensinamentos da Ordem",
+			"Guia da Ordem",
+			"Filosofia da Ordem",
+			"Olho do Vórtice Sem Luz",
+>>>>>>> upstream/main
 			"Ensinamentos de Esforço",
 			"Máscara Danificada",
 			"Guia de Esforço",
@@ -1223,9 +1325,12 @@
 			"Filosofia do Mundo Mortal",
 			"Âmbar Eterno",
 			"Garra do Vento Oriental",
+<<<<<<< HEAD
 			"Ensinamentos da Ordem",
 			"Guia da Ordem",
 			"Filosofia da Ordem",
+=======
+>>>>>>> upstream/main
 			"Ensinamentos da Igualdade",
 			"Guia da Igualdade",
 			"Filosofia da Igualdade",

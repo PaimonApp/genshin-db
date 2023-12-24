@@ -1,8 +1,13 @@
 {
+	"id": 107002,
 	"name": "元素クリスタルの欠片",
+	"sortRank": 406,
 	"description": "神の瞳の結晶が砕けた破片。付近に隠されている宝箱を知らせる",
+<<<<<<< HEAD
 	"sortorder": 3033,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "冒険アイテム",
-	"source": []
+	"typeText": "冒険アイテム",
+	"sources": []
 }

@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Tomates narbonnaises",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatto ATT+",
 	"foodcategory": "Atk_Add",
+=======
+	"id": 3412,
+	"name": "Tomates narbonnaises",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Piatto ATT+",
+>>>>>>> upstream/main
 	"effect": "Aumenta di 160-228 l'ATT di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Un piatto con una proporzione bilanciata di carne e verdure. Svuota l'interno di un pomodoro tondo, riempilo con carne macinata e cuoci il tutto. Questo piatto dal sapore acidulo e dalla consistenza tenera è molto popolare sulle tavole di Fontaine.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Pezzo di carne cruda",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100079,
+>>>>>>> upstream/main
 			"name": "Pomodoro",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110010,
+>>>>>>> upstream/main
 			"name": "Pancetta",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "Cipolla",
 			"count": 1
 		}

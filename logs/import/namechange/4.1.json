@@ -1,5 +1,37 @@
 [
 	{
+		"language": "Indonesian",
+		"folder": "tcgactioncards",
+		"filename": "favoniuscathedral",
+		"dataid": 321006,
+		"from": "Katedral Favonius",
+		"to": "Favonius Cathedral"
+	},
+	{
+		"language": "Indonesian",
+		"folder": "tcgactioncards",
+		"filename": "leylinedisorderaegisoftheabyss",
+		"dataid": 422006,
+		"from": "Ley Line Disorder: Aegis of the Abyss",
+		"to": "Gangguan Ley Line: Aegis of the Abyss"
+	},
+	{
+		"language": "Indonesian",
+		"folder": "tcgactioncards",
+		"filename": "leylinedisorderfightorflight",
+		"dataid": 422004,
+		"from": "Ley Line Disorder: Fight or Flight",
+		"to": "Gangguan Ley Line: Fight or Flight"
+	},
+	{
+		"language": "Indonesian",
+		"folder": "tcgkeywords",
+		"filename": "electroapplication",
+		"dataid": 204,
+		"from": "memberikan efek Electro",
+		"to": "Memberikan efek Electro"
+	},
+	{
 		"language": "Turkish",
 		"folder": "achievements",
 		"filename": "angleeraser",
@@ -40,6 +72,22 @@
 		"to": "Kalkan Mı Dedin?"
 	},
 	{
+		"language": "Korean",
+		"folder": "animals",
+		"filename": "dendrocrystalfly",
+		"dataid": 28050106,
+		"from": "풀 수정 나비",
+		"to": "풀수정 나비"
+	},
+	{
+		"language": "Italian",
+		"folder": "animals",
+		"filename": "shroomboar",
+		"dataid": 28020313,
+		"from": "Funginghiale",
+		"to": "Funghiale"
+	},
+	{
 		"language": "Portuguese",
 		"folder": "achievementgroups",
 		"filename": "mortaltravailsseriesii",
@@ -50,20 +98,36 @@
 	{
 		"language": "Turkish",
 		"folder": "achievements",
-		"filename": "thatsonebigcrystalfly-01",
+		"filename": "thatsonebigcrystalfly",
 		"dataid": [
-			86007
+			82010
 		],
-		"from": "Bu Kristal Kelebeği amma da Büyükmüş",
-		"to": "Bu Kristal Kelebeği Amma Da Büyükmüş"
+		"from": "\"Bu Kristal Kelebeği amma da büyükmüş\"",
+		"to": "\"Bu Kristal Kelebeği Amma Da Büyükmüş\""
 	},
 	{
-		"language": "German",
-		"folder": "namecards",
-		"filename": "achievementnails",
-		"dataid": 210098,
-		"from": "Errungenschaften – Nadelhaken",
-		"to": "Errungenschaft – Nadelhaken"
+		"language": "Spanish",
+		"folder": "crafts",
+		"filename": "transoceanicchunk",
+		"dataid": 11201,
+		"from": "Fragmento engendroceánico",
+		"to": "Fragmento extramarino"
+	},
+	{
+		"language": "Spanish",
+		"folder": "materials",
+		"filename": "transoceanicchunk",
+		"dataid": 112081,
+		"from": "Fragmento engendroceánico",
+		"to": "Fragmento extramarino"
+	},
+	{
+		"language": "Spanish",
+		"folder": "materials",
+		"filename": "transoceanicpearl",
+		"dataid": 112080,
+		"from": "Condensado engendroceánico",
+		"to": "Condensado extramarino"
 	},
 	{
 		"language": "French",
@@ -90,44 +154,64 @@
 		"to": "Chef-d'œuvre Isshin"
 	},
 	{
+		"language": "German",
+		"folder": "namecards",
+		"filename": "achievementnails",
+		"dataid": 210098,
+		"from": "Errungenschaften – Nadelhaken",
+		"to": "Errungenschaft – Nadelhaken"
+	},
+	{
+		"language": "Indonesian",
+		"folder": "tcgkeywords",
+		"filename": "dendroapplication",
+		"dataid": 207,
+		"from": "memberikan efek Dendro",
+		"to": "Memberikan efek Dendro"
+	},
+	{
+		"language": "Indonesian",
+		"folder": "tcgactioncards",
+		"filename": "leylinedisorderdireechoes",
+		"dataid": 422005,
+		"from": "Ley Line Disorder: Dire Echoes",
+		"to": "Gangguan Ley Line: Dire Echoes"
+	},
+	{
+		"language": "Indonesian",
+		"folder": "tcgkeywords",
+		"filename": "pyroapplication",
+		"dataid": 203,
+		"from": "memberikan efek Pyro",
+		"to": "Memberikan efek Pyro"
+	},
+	{
+		"language": "Indonesian",
+		"folder": "tcgstatuseffects",
+		"filename": "stonehide",
+		"dataid": 126011,
+		"from": "Infused Stonehide",
+		"to": "Stonehide"
+	},
+	{
 		"language": "Italian",
-		"folder": "animals",
-		"filename": "shroomboar",
-		"dataid": 28020313,
-		"from": "Funginghiale",
-		"to": "Funghiale"
+		"folder": "achievements",
+		"filename": "welcometofontaine",
+		"dataid": [
+			81348
+		],
+		"from": "#Benvenut{F#e}{M#i} a Fontaine",
+		"to": "Benvenuti a Fontaine"
 	},
 	{
-		"language": "Korean",
-		"folder": "animals",
-		"filename": "dendrocrystalfly",
-		"dataid": 28050106,
-		"from": "풀 수정 나비",
-		"to": "풀수정 나비"
-	},
-	{
-		"language": "Spanish",
-		"folder": "crafts",
-		"filename": "transoceanicchunk",
-		"dataid": 11201,
-		"from": "Fragmento engendroceánico",
-		"to": "Fragmento extramarino"
-	},
-	{
-		"language": "Spanish",
-		"folder": "materials",
-		"filename": "transoceanicchunk",
-		"dataid": 112081,
-		"from": "Fragmento engendroceánico",
-		"to": "Fragmento extramarino"
-	},
-	{
-		"language": "Spanish",
-		"folder": "materials",
-		"filename": "transoceanicpearl",
-		"dataid": 112080,
-		"from": "Condensado engendroceánico",
-		"to": "Condensado extramarino"
+		"language": "Turkish",
+		"folder": "achievements",
+		"filename": "dragonslayer",
+		"dataid": [
+			82137
+		],
+		"from": "Doğal Kin",
+		"to": "Ejder Avcısı"
 	},
 	{
 		"language": "Turkish",
@@ -162,33 +246,13 @@
 		"to": "Şekil Almaya Başladı"
 	},
 	{
-		"language": "Italian",
-		"folder": "achievements",
-		"filename": "welcometofontaine",
-		"dataid": [
-			81348
-		],
-		"from": "#Benvenut{F#e}{M#i} a Fontaine",
-		"to": "Benvenuti a Fontaine"
-	},
-	{
 		"language": "Turkish",
 		"folder": "achievements",
-		"filename": "dragonslayer",
+		"filename": "thatsonebigcrystalfly-01",
 		"dataid": [
-			82137
+			86007
 		],
-		"from": "Doğal Kin",
-		"to": "Ejder Avcısı"
-	},
-	{
-		"language": "Turkish",
-		"folder": "achievements",
-		"filename": "thatsonebigcrystalfly",
-		"dataid": [
-			82010
-		],
-		"from": "\"Bu Kristal Kelebeği amma da büyükmüş\"",
-		"to": "\"Bu Kristal Kelebeği Amma Da Büyükmüş\""
+		"from": "Bu Kristal Kelebeği amma da Büyükmüş",
+		"to": "Bu Kristal Kelebeği Amma Da Büyükmüş"
 	}
 ]

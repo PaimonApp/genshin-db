@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Fragmento extramarino",
 	"filter": "Material de mejora de personaje y arma",
 	"sortorder": 150110,
@@ -7,6 +8,18 @@
 	"moracost": 25,
 	"recipe": [
 		{
+=======
+	"id": 11201,
+	"name": "Fragmento extramarino",
+	"filterText": "Material de mejora de personaje y arma",
+	"sortOrder": 150110,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112080,
+>>>>>>> upstream/main
 			"name": "Condensado extramarino",
 			"count": 3
 		}

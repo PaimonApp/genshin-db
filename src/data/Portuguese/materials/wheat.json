@@ -1,10 +1,15 @@
 {
+	"id": 100017,
 	"name": "Trigo",
+	"sortRank": 321,
 	"description": "Grãos dourados e tostados pelo sol. Necessitam ser moídos em farinha para usos posteriores.",
+<<<<<<< HEAD
 	"sortorder": 2906,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Encontrado na natureza",
 		"Vendido nas Tendas"
 	]

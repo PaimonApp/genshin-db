@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Kicauan Burung Camar",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 5091,
+=======
+	"id": [
+		84312
+	],
+	"name": "Kicauan Burung Camar",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 5091,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Kicauan Burung Camar",
 		"description": "Saksikan bencana di Poisson.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

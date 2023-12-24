@@ -1,11 +1,25 @@
 {
+	"id": 112033,
 	"name": "Emblema del sergente",
+	"rarity": 2,
+	"sortRank": 10111,
 	"description": "Un emblema con una forma differente per distinguere i sergenti dalle nuove reclute. Forse ci sono delle emozioni complesse dietro.",
+<<<<<<< HEAD
 	"sortorder": 3064,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Materiale di potenziamento armi e personaggi",
 	"source": [
 		"Creato"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale di potenziamento armi e personaggi",
+	"sources": [
+		"Creato",
+		"Ottenibile dagli Schermagliatori dei Fatui di liv. 40+",
+		"Ottenibile raramente dagli Agenti dei Fatui di liv. 40+",
+		"Ottenibile raramente dalle Maghe Cicin dei Fatui di liv. 40+",
+		"Scambio di Polvere stellare"
+>>>>>>> upstream/main
 	]
 }

@@ -1,10 +1,15 @@
 {
+	"id": 110002,
 	"name": "Cream",
+	"sortRank": 322,
 	"description": "Bahan makanan yang terbuat dari hasil olahan susu. Ini adalah bahan penting untuk membuat kue yang lezat.",
+<<<<<<< HEAD
 	"sortorder": 2948,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Didapatkan saat proses cooking"
 	]
 }

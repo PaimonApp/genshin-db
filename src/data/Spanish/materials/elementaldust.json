@@ -1,8 +1,13 @@
 {
+	"id": 107002,
 	"name": "Polvo Elemental",
+	"sortRank": 406,
 	"description": "Fragmentos de óculus rotos. Muestra cofres escondidos cerca.",
+<<<<<<< HEAD
 	"sortorder": 3033,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Objeto de aventura",
-	"source": []
+	"typeText": "Objeto de aventura",
+	"sources": []
 }

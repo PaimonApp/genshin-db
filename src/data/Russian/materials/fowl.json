@@ -1,10 +1,15 @@
 {
+	"id": 100064,
 	"name": "Мясо птицы",
+	"sortRank": 321,
 	"description": "Свежее мясо птицы. Из него можно приготовить что-нибудь вкусненькое.",
+<<<<<<< HEAD
 	"sortorder": 2915,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Кухонный ингредиент",
-	"source": [
+	"typeText": "Кухонный ингредиент",
+	"sources": [
 		"Животные"
 	]
 }

@@ -1,7 +1,13 @@
 {
+	"id": 33,
 	"name": "Incontri in un altro mondo: Serie III",
+<<<<<<< HEAD
 	"sortorder": 28,
+=======
+	"sortOrder": 28,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210129,
 		"name": "Obiettivo: Incontro predestinato"
 	}
 }

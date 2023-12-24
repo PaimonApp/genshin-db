@@ -1,7 +1,13 @@
 {
+	"id": 16,
 	"name": "Besucher in den Schneebergen",
+<<<<<<< HEAD
 	"sortorder": 30,
+=======
+	"sortOrder": 30,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210052,
 		"name": "Errungenschaft – Schneegipfel"
 	}
 }

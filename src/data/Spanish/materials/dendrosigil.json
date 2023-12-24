@@ -1,11 +1,17 @@
 {
+	"id": 303,
 	"name": "Insignia Dendro",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "Una insignia obtenida al ganarte la gracia de la vegetación de Sumeru.\nOfrécesela al Árbol Onírico de las profundidades del bosque para aumentar su nivel de gracia.",
+<<<<<<< HEAD
 	"sortorder": 4929,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Insignia Elemental",
-	"source": [
+	"typeText": "Insignia Elemental",
+	"sources": [
 		"Recompensa de expedición en Sumeru"
 	]
 }

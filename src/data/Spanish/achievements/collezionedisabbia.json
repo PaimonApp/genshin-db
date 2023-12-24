@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Coleccionista de arena",
 	"achievementgroup": "Retador: Parte 8",
 	"sortorder": 2184,
+=======
+	"id": [
+		82185
+	],
+	"name": "Coleccionista de arena",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Retador: Parte 8",
+	"sortOrder": 2184,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Coleccionista de arena",
 		"description": "Cuando el Corcel de Mar Perlamilenario invoque los truenos fontamarinos, destruye la perla extramarina sin interrumpir la resonancia de la perla de coral resonante.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

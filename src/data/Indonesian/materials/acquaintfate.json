@@ -1,9 +1,15 @@
 {
+	"id": 224,
 	"name": "Acquaint Fate",
+	"rarity": 5,
+	"sortRank": 410004,
 	"description": "Benih yang menyinari malam.\nTidak peduli seberapa jauh, yang ditakdirkan akan bertemu di bawah bintang, dipandu oleh sinar batunya.",
+<<<<<<< HEAD
 	"sortorder": 4851,
 	"rarity": "5",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Wishing Item",
-	"source": []
+	"typeText": "Wishing Item",
+	"sources": []
 }

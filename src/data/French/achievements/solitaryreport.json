@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "En loucedé",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1380,
+=======
+	"id": [
+		81396
+	],
+	"name": "En loucedé",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1380,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "En loucedé",
 		"description": "Obtenez le rapport spécial imprimé en cachette par Chronie.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

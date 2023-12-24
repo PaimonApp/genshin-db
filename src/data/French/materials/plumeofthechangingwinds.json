@@ -1,9 +1,15 @@
 {
+	"id": 200112,
 	"name": "Panache des vents changeants",
+	"rarity": 4,
+	"sortRank": 90,
 	"description": "Matériau de raffinement spécial pour la Lance du vent saisonnier.\nUne ancienne plume taillée dans la turquoise. Elle était autrefois utilisée comme une sorte d'ornement ou de gage.",
+<<<<<<< HEAD
 	"sortorder": 2763,
 	"rarity": "4",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Matériau de raffinement",
-	"source": []
+	"typeText": "Matériau de raffinement",
+	"sources": []
 }

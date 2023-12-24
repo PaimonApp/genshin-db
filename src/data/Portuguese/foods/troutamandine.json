@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Trout Amandine",
 	"rarity": "1",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de Regeneração",
 	"foodcategory": "Recovery_HpAddAll",
+=======
+	"id": 1402,
+	"name": "Trout Amandine",
+	"rarity": 1,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Pratos de Regeneração",
+>>>>>>> upstream/main
 	"effect": "Restaura 8% - 10% da Vida Máxima ao personagem selecionado.\nRegenera 210 - 300 de Vida a cada 5s por 30s.",
 	"description": "Filés de peixe de tamanho satisfatório, fritos com manteiga e servidos com amêndoas crocantes fritas. Segundo a receita tradicional desse prato, uma truta inteira preparada era colocada na frigideira, mas agora, a nova receita de filé está ganhando mais popularidade.",
 	"suspicious": {
@@ -20,10 +29,18 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100084,
+>>>>>>> upstream/main
 			"name": "Peixe",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Amêndoa",
 			"count": 1
 		}

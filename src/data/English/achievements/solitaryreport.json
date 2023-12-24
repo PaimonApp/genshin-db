@@ -1,14 +1,18 @@
 {
+	"id": [
+		81396
+	],
 	"name": "Solitary Report",
-	"achievementgroup": "Wonders of the World",
-	"ishidden": true,
-	"sortorder": 1380,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1380,
 	"stages": 1,
 	"stage1": {
 		"title": "Solitary Report",
 		"description": "Obtain Chronie's personally printed \"special report.\"",
 		"progress": 1,
 		"reward": {
+			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

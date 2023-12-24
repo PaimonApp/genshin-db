@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Chi Tiêu Xã Hội",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1359,
+=======
+	"id": [
+		81375
+	],
+	"name": "Chi Tiêu Xã Hội",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1359,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Chi Tiêu Xã Hội",
 		"description": "Thỏa sức chi tiêu ở Tiệm Xương Mục.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

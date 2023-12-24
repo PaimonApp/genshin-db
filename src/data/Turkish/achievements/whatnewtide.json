@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "\"... Ne Yeni Dalgası?\"",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1384,
+=======
+	"id": [
+		81400
+	],
+	"name": "\"... Ne Yeni Dalgası?\"",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1384,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"... Ne Yeni Dalgası?\"",
 		"description": "Tüm moda okuma materyallerini oku.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

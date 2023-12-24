@@ -1,12 +1,19 @@
 {
+	"id": 101317,
 	"name": "タマリスク材",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "「タマリスク」から生産される木材。特別な質感がある。乾燥にも湿気にも強く、劣化に極めて強い。\n調度品の製作に使うことができる。",
+<<<<<<< HEAD
 	"sortorder": 2976,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "素材",
-	"source": [
+	"typeText": "素材",
+	"sources": [
 		"野外で採集",
-		"推奨：スメールの砂漠で伐採"
+		"推奨：スメールの砂漠で伐採",
+		"木材変転"
 	]
 }

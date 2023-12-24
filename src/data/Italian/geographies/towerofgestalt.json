@@ -1,8 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Torre della Gestalt",
 	"area": "Regione di Morterre",
 	"description": "Questa un tempo fu molte cose e molti sogni.",
 	"region": "Fontaine",
 	"showonlyunlocked": true,
 	"sortorder": 409
+=======
+	"id": 70500009,
+	"name": "Torre della Gestalt",
+	"areaId": 50700,
+	"areaName": "Regione di Morterre",
+	"description": "Questa un tempo fu molte cose e molti sogni.",
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"showOnlyUnlocked": true,
+	"sortOrder": 409
+>>>>>>> upstream/main
 }

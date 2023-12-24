@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "По локоть в бюрократии",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1379,
+=======
+	"id": [
+		81395
+	],
+	"name": "По локоть в бюрократии",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1379,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "По локоть в бюрократии",
 		"description": "Завершите «окончательную проверку» Исследовательского института Фонтейна.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

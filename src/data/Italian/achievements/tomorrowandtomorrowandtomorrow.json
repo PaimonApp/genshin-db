@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Domani, e domani, e domani",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1390,
+=======
+	"id": [
+		81406
+	],
+	"name": "Domani, e domani, e domani",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1390,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Domani, e domani, e domani",
 		"description": "Insegna a Pahsiv come dire addio.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Corbeau ou merle ?",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1409,
+=======
+	"id": [
+		81425
+	],
+	"name": "Corbeau ou merle ?",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1409,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Corbeau ou merle ?",
 		"description": "C'est un pélican !",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

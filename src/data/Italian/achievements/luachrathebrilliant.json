@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "\"Luachra la Brillante\"",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1377,
+=======
+	"id": [
+		81393
+	],
+	"name": "\"Luachra la Brillante\"",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1377,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"Luachra la Brillante\"",
 		"description": "Sconfiggi la leggenda locale, Luachra la Brillante",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

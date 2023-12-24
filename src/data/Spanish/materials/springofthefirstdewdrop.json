@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Gota de rocío primigenio",
 	"description": "Una gota de rocío cristalina que flota entre las aguas del Condado Morte. Es diferente de otras creaciones de agua pura, como si fuera una conglomeración aún más impoluta y primordial de Energía Elemental.",
 	"sortorder": 2887,
 	"category": "EXCHANGE",
 	"materialtype": "Objeto típico de Fontaine",
 	"source": [
+=======
+	"id": 101240,
+	"name": "Gota de rocío primigenio",
+	"sortRank": 315,
+	"description": "Una gota de rocío cristalina que flota entre las aguas del Condado Morte. Es diferente de otras creaciones de agua pura, como si fuera una conglomeración aún más impoluta y primordial de Energía Elemental.",
+	"category": "EXCHANGE",
+	"typeText": "Objeto típico de Fontaine",
+	"sources": [
+>>>>>>> upstream/main
 		"Recolectar en la naturaleza",
 		"Recolectar bajo el agua en el Condado Morte"
 	]

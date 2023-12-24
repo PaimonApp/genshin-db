@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "In der Sprache der Blumen steht die Lumidouce-Glockenblume für ...?",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1412,
+=======
+	"id": [
+		81428
+	],
+	"name": "In der Sprache der Blumen steht die Lumidouce-Glockenblume für ...?",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1412,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "In der Sprache der Blumen steht die Lumidouce-Glockenblume für ...?",
 		"description": "Finde eine kleine, unbeachtete Blume in einer unscheinbaren Ecke.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

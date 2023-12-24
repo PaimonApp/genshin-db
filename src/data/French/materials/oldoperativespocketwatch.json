@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Vieille montre à gousset d'opérateur",
 	"description": "Une montre de poche standard donnée aux agents des Fatui.\nL'érosion et l'oxydation du boîtier témoignent des journées passées par son propriétaire en tant qu'exécuteur.",
 	"sortorder": 3128,
@@ -6,4 +7,17 @@
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Matériau d'amélioration de personnage et d'arme",
 	"source": []
+=======
+	"id": 112092,
+	"name": "Vieille montre à gousset d'opérateur",
+	"rarity": 2,
+	"sortRank": 10132,
+	"description": "Une montre de poche standard donnée aux agents des Fatui.\nL'érosion et l'oxydation du boîtier témoignent des journées passées par son propriétaire en tant qu'exécuteur.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Matériau d'amélioration de personnage et d'arme",
+	"sources": [
+		"Butin d'Opérateur Fatui",
+		"Échange Astrions"
+	]
+>>>>>>> upstream/main
 }

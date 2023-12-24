@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "フルーツは判ってくれない",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1363,
+=======
+	"id": [
+		81379
+	],
+	"name": "フルーツは判ってくれない",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1363,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "フルーツは判ってくれない",
 		"description": "「秩序のフルーツ団」とブランシェの物語をクリアする。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

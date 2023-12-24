@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Guía del polizón galáctico",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 2187,
+=======
+	"id": [
+		82188
+	],
+	"name": "Guía del polizón galáctico",
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 2187,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Guía del polizón galáctico",
 		"description": "Entra dos veces en el estómago del narval gigante durante un único desafío.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 10
 		}

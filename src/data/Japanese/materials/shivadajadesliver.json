@@ -1,11 +1,17 @@
 {
+	"id": 104161,
 	"name": "哀切なアイスクリスタル·砕屑",
+	"rarity": 2,
+	"sortRank": 12107,
 	"description": "キャラクターの突破用アイテム。",
+<<<<<<< HEAD
 	"sortorder": 3212,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "キャラクター突破素材",
-	"source": [
+	"typeText": "キャラクター突破素材",
+	"sources": [
 		"急凍樹がドロップ",
 		"無相の氷がドロップ",
 		"記念品ショップ交換"

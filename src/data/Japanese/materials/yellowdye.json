@@ -1,8 +1,13 @@
 {
+	"id": 101403,
 	"name": "黄色の染料",
+	"sortRank": 331,
 	"description": "接触したものを黄色に染める染料。調度品を製作する時に使えるかもしれない。",
+<<<<<<< HEAD
 	"sortorder": 2984,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "素材",
-	"source": []
+	"typeText": "素材",
+	"sources": []
 }

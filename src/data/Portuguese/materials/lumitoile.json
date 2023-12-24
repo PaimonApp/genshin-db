@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Lumitoile",
 	"description": "Um animal macio que emite uma luz gentil. Geralmente encontrado subindo as paredes de prédios perto ou debaixo da água.",
 	"sortorder": 2884,
 	"category": "EXCHANGE",
 	"materialtype": "Especialidade de Fontaine",
 	"source": [
+=======
+	"id": 101237,
+	"name": "Lumitoile",
+	"sortRank": 315,
+	"description": "Um animal macio que emite uma luz gentil. Geralmente encontrado subindo as paredes de prédios perto ou debaixo da água.",
+	"category": "EXCHANGE",
+	"typeText": "Especialidade de Fontaine",
+	"sources": [
+>>>>>>> upstream/main
 		"Encontrado na natureza",
 		"Recomendação: encontrado na Região Liffey"
 	]

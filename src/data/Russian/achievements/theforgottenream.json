@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Забытые ленты",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1370,
+=======
+	"id": [
+		81386
+	],
+	"name": "Забытые ленты",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1370,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Забытые ленты",
 		"description": "Помогите Бройлю собрать все данные о гидрологических исследованиях.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

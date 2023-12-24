@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Ajanın Klasik Cep Saati",
 	"filter": "Karakter ve Silah Geliştirme Malzemesi",
 	"sortorder": 140180,
@@ -7,6 +8,18 @@
 	"moracost": 50,
 	"recipe": [
 		{
+=======
+	"id": 11059,
+	"name": "Ajanın Klasik Cep Saati",
+	"filterText": "Karakter ve Silah Geliştirme Malzemesi",
+	"sortOrder": 140180,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112092,
+>>>>>>> upstream/main
 			"name": "Kıdemli Ajanın Cep Saati",
 			"count": 3
 		}

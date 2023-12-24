@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Quand les machines dorment...",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1371,
+=======
+	"id": [
+		81387
+	],
+	"name": "Quand les machines dorment...",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1371,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Quand les machines dorment...",
 		"description": "Découvrez le secret caché dans l'Atelier horlogoïde de Kuisel.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

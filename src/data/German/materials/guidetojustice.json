@@ -1,17 +1,25 @@
 {
+	"id": 104342,
 	"name": "Anleitung zur „Gerechtigkeit“",
+<<<<<<< HEAD
 	"description": "Material zur Verbesserung von Talenten.\nDenn das Schwert des Reichs des Wassers ist Gerechtigkeit.\nDie Gesetze von Fontaine werden mit dem Schwert der Gerechtigkeit geführt. Die Gerechtigkeit ist blind, denn die, die ihre scharfe Klinge führen, lassen sich weder von persönlichen Interessen noch von Eigennutz treiben.",
 	"sortorder": 3257,
 	"rarity": "3",
+=======
+	"rarity": 3,
+	"sortRank": 13114,
+	"description": "Material zur Verbesserung von Talenten.\nDenn das Schwert des Reichs des Wassers ist Gerechtigkeit.\nDie Gesetze von Fontaine werden mit dem Schwert der Gerechtigkeit geführt. Die Gerechtigkeit ist blind, denn die, die ihre scharfe Klinge führen, lassen sich weder von persönlichen Interessen noch von Eigennutz treiben.",
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Material für Figurentalente",
-	"dropdomain": "Sphäre des Verständnisses: Mahnende Inschrift",
-	"daysofweek": [
+	"typeText": "Material für Figurentalente",
+	"dropDomainId": 4491,
+	"dropDomainName": "Sphäre des Verständnisses: Mahnende Inschrift",
+	"daysOfWeek": [
 		"Dienstag",
 		"Freitag",
 		"Sonntag"
 	],
-	"source": [
+	"sources": [
 		"Kann hergestellt werden"
 	]
 }

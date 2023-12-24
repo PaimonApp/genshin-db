@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "ファデュイ·氷霜の従者",
 	"specialname": "ファデュイ·アナ",
 	"enemytype": "ELITE",
+=======
+	"id": 23060101,
+	"name": "ファデュイ·氷霜の従者",
+	"specialName": "ファデュイ·アナ",
+	"enemyType": "ELITE",
+>>>>>>> upstream/main
 	"category": "ファデュイ",
 	"description": "ファデュイ所属の精鋭特別部隊。\n幼少期に選抜された者が長年に渡る教育と訓練によりふるいにかけられ、残った者が「従者」となる。ファデュイの中で最も優秀な兵士であり、優れた腕前と揺るがない忠誠心を持つ。",
 	"investigation": {
@@ -9,23 +16,42 @@
 		"category": "精鋭",
 		"description": "ファデュイに属する精鋭の特別部隊。並々ならぬ腕前と確固たる意志を持っている。"
 	},
+<<<<<<< HEAD
 	"rewardpreview": [
 		{
 			"name": "モラ"
 		},
 		{
+=======
+	"rewardPreview": [
+		{
+			"id": 202,
+			"name": "モラ"
+		},
+		{
+			"id": 112092,
+>>>>>>> upstream/main
 			"name": "古びた従者の懐中時計",
 			"count": 5.2526
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 112093,
+>>>>>>> upstream/main
 			"name": "従者の制式懐中時計",
 			"count": 1.4006
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 112094,
+>>>>>>> upstream/main
 			"name": "従者の時々刻々",
 			"count": 0.3502
 		},
 		{
+<<<<<<< HEAD
 			"name": "狂戦士",
 			"rarity": "3"
 		},
@@ -52,6 +78,41 @@
 		{
 			"name": "亡命者",
 			"rarity": "4"
+=======
+			"id": 400022,
+			"name": "狂戦士",
+			"rarity": 3
+		},
+		{
+			"id": 400032,
+			"name": "教官",
+			"rarity": 3
+		},
+		{
+			"id": 400042,
+			"name": "亡命者",
+			"rarity": 3
+		},
+		{
+			"id": 400062,
+			"name": "医者",
+			"rarity": 3
+		},
+		{
+			"id": 400023,
+			"name": "狂戦士",
+			"rarity": 4
+		},
+		{
+			"id": 400033,
+			"name": "教官",
+			"rarity": 4
+		},
+		{
+			"id": 400043,
+			"name": "亡命者",
+			"rarity": 4
+>>>>>>> upstream/main
 		}
 	]
 }

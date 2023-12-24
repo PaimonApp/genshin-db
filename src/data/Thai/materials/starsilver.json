@@ -1,10 +1,15 @@
 {
+	"id": 101006,
 	"name": "Starsilver",
+	"sortRank": 301,
 	"description": "แร่หายากและล้ำค่าที่เกิดจาก สภาพแวดล้อมและกระแสพลังงานที่ค่อนข้างพิเศษของ Dragonspine",
+<<<<<<< HEAD
 	"sortorder": 2825,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "แร่ที่ใช้ในการหลอม",
-	"source": [
+	"typeText": "แร่ที่ใช้ในการหลอม",
+	"sources": [
 		"พบได้ในโลกกว้าง",
 		"คำแนะนำ: หาได้ที่ Dragonspine"
 	]

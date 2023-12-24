@@ -1,7 +1,13 @@
 {
+	"id": 19,
 	"name": "Um Reino Distante - Série II",
+<<<<<<< HEAD
 	"sortorder": 32,
+=======
+	"sortOrder": 32,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210075,
 		"name": "Conquista: Casa de Férias"
 	}
 }

@@ -1,9 +1,21 @@
 {
+	"id": 112086,
 	"name": "Drop of Tainted Water",
+	"rarity": 2,
+	"sortRank": 10130,
 	"description": "Tetesan air yang diambil dari Tainted Hydro Phantasm yang dikalahkan.\nKekuatan kehidupan di dalamnya sepertinya belum sepenuhnya hilang.",
+<<<<<<< HEAD
 	"sortorder": 3122,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Penguatan Senjata dan Karakter",
+	"sources": [
+		"Dijatuhkan oleh Tainted Hydro Phantasm",
+		"Penukaran Stardust"
+	]
+>>>>>>> upstream/main
 }

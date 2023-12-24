@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Vũ Điệu Của Tội Lỗi",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 5095,
+=======
+	"id": [
+		84316
+	],
+	"name": "Vũ Điệu Của Tội Lỗi",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 5095,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Vũ Điệu Của Tội Lỗi",
 		"description": "Hoàn thành \"Vũ Điệu Của Tội Lỗi\".",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 10
 		}

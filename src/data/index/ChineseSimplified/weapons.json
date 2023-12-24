@@ -167,6 +167,8 @@
 		"travelershandysword": "旅行剑",
 		"tulaytullahsremembrance": "图莱杜拉的回忆",
 		"twinnephrite": "甲级宝珏",
+		"ultimateoverlordsmegamagicsword": "「究极霸王超级魔剑」",
+		"verdict": "裁断",
 		"vortexvanquisher": "贯虹之槊",
 		"wanderingevenstar": "流浪的晚星",
 		"wastergreatsword": "训练大剑",
@@ -346,6 +348,8 @@
 		"旅行剑": "travelershandysword",
 		"图莱杜拉的回忆": "tulaytullahsremembrance",
 		"甲级宝珏": "twinnephrite",
+		"「究极霸王超级魔剑」": "ultimateoverlordsmegamagicsword",
+		"裁断": "verdict",
 		"贯虹之槊": "vortexvanquisher",
 		"流浪的晚星": "wanderingevenstar",
 		"训练大剑": "wastergreatsword",
@@ -503,6 +507,7 @@
 			"thewidsith",
 			"tidalshadow",
 			"toukaboushigure",
+			"ultimateoverlordsmegamagicsword",
 			"wanderingevenstar",
 			"wavebreakersfin",
 			"whiteblind",
@@ -551,10 +556,11 @@
 			"thunderingpulse",
 			"tomeoftheeternalflow",
 			"tulaytullahsremembrance",
+			"verdict",
 			"vortexvanquisher",
 			"wolfsgravestone"
 		],
-		"双手剑": [
+		"WEAPON_CLAYMORE": [
 			"akuoumaru",
 			"beaconofthereedsea",
 			"blackcliffslasher",
@@ -584,12 +590,14 @@
 			"thebell",
 			"theunforged",
 			"tidalshadow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict",
 			"wastergreatsword",
 			"whiteblind",
 			"whiteirongreatsword",
 			"wolfsgravestone"
 		],
-		"攻击力": [
+		"FIGHT_PROP_ATTACK_PERCENT": [
 			"akuoumaru",
 			"alleyhunter",
 			"amenomakageuchi",
@@ -810,6 +818,8 @@
 			"travelershandysword",
 			"tulaytullahsremembrance",
 			"twinnephrite",
+			"ultimateoverlordsmegamagicsword",
+			"verdict",
 			"vortexvanquisher",
 			"wanderingevenstar",
 			"wastergreatsword",
@@ -915,7 +925,7 @@
 			"mistsplitterreforged",
 			"oathsworneye"
 		],
-		"弓": [
+		"WEAPON_BOW": [
 			"alleyhunter",
 			"amosbow",
 			"aquasimulacra",
@@ -1192,7 +1202,7 @@
 			"windblumeode",
 			"wolfsgravestone"
 		],
-		"单手剑": [
+		"WEAPON_SWORD_ONE_HAND": [
 			"amenomakageuchi",
 			"aquilafavonia",
 			"blackclifflongsword",
@@ -1262,7 +1272,7 @@
 			"mistsplitterreforged",
 			"thecatch"
 		],
-		"法器": [
+		"WEAPON_CATALYST": [
 			"apprenticesnotes",
 			"athousandfloatingdreams",
 			"balladoftheboundlessblue",
@@ -1460,7 +1470,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"暴击伤害": [
+		"FIGHT_PROP_CRITICAL_HURT": [
 			"aquasimulacra",
 			"blackcliffagate",
 			"blackclifflongsword",
@@ -1616,7 +1626,7 @@
 			"whiteblind",
 			"whitetassel"
 		],
-		"物理伤害加成": [
+		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
 			"aquilafavonia",
 			"compoundbow",
 			"crescentpike",
@@ -1737,7 +1747,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"元素精通": [
+		"FIGHT_PROP_ELEMENT_MASTERY": [
 			"athousandfloatingdreams",
 			"bloodtaintedgreatsword",
 			"darkironsword",
@@ -1841,7 +1851,11 @@
 			"talkingstick",
 			"wanderingevenstar"
 		],
+<<<<<<< HEAD
 		"元素充能效率": [
+=======
+		"FIGHT_PROP_CHARGE_EFFICIENCY": [
+>>>>>>> upstream/main
 			"balladoftheboundlessblue",
 			"elegyfortheend",
 			"endoftheline",
@@ -1869,6 +1883,10 @@
 			"skywardpride",
 			"skywardspine",
 			"thecatch",
+<<<<<<< HEAD
+=======
+			"ultimateoverlordsmegamagicsword",
+>>>>>>> upstream/main
 			"wineandsong"
 		],
 		"凛风奔狼的始龀": [
@@ -2087,7 +2105,11 @@
 			"thrillingtalesofdragonslayers",
 			"wineandsong"
 		],
+<<<<<<< HEAD
 		"长柄武器": [
+=======
+		"WEAPON_POLE": [
+>>>>>>> upstream/main
 			"balladofthefjords",
 			"beginnersprotector",
 			"blackcliffpole",
@@ -2118,7 +2140,7 @@
 			"wavebreakersfin",
 			"whitetassel"
 		],
-		"暴击率": [
+		"FIGHT_PROP_CRITICAL": [
 			"balladofthefjords",
 			"beaconofthereedsea",
 			"cashflowsupervision",
@@ -2140,6 +2162,7 @@
 			"theblacksword",
 			"theviridescenthunt",
 			"twinnephrite",
+			"verdict",
 			"whitetassel",
 			"wolffang"
 		],
@@ -2148,7 +2171,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"来自何处的待放之花": [
 			"balladofthefjords",
@@ -2176,7 +2200,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"何人所珍藏之花": [
 			"balladofthefjords",
@@ -2204,7 +2229,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"漫游者的盛放之花": [
 			"balladofthefjords",
@@ -2232,7 +2258,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"烈日威权的残响": [
 			"beaconofthereedsea",
@@ -2620,7 +2647,7 @@
 			"theunforged",
 			"twinnephrite"
 		],
-		"生命值": [
+		"FIGHT_PROP_HP_PERCENT": [
 			"blacktassel",
 			"everlastingmoonglow",
 			"ferrousshadow",
@@ -2777,6 +2804,7 @@
 			"cashflowsupervision",
 			"prospectorsdrill",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thedockhandsassistant"
 		],
 		"异海凝珠": [
@@ -2820,8 +2848,56 @@
 			"swordofnarzissenkreuz",
 			"thedockhandsassistant",
 			"thefirstgreatmagic"
+=======
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+>>>>>>> upstream/main
 		],
-		"防御力": [
+		"异海凝珠": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"役人的制式怀表": [
+			"cashflowsupervision",
+			"prospectorsdrill",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+		],
+		"异海之块": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"役人的时时刻刻": [
+			"cashflowsupervision",
+			"prospectorsdrill",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+		],
+		"异色结晶石": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"cinnabarspindle",
 			"travelershandysword",
 			"whiteblind",
@@ -2984,7 +3060,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"悠古弦音的断章": [
 			"fleuvecendreferryman",
@@ -2992,7 +3073,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"悠古弦音的乐章": [
 			"fleuvecendreferryman",
@@ -3000,7 +3086,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"悠古弦音的回响": [
 			"fleuvecendreferryman",
@@ -3008,28 +3099,48 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"隙间之核": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"外世突触": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"异界生命核": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"谧林涓露的铜符": [
 			"forestregalia",
@@ -3129,38 +3240,57 @@
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"机关正齿轮": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"奇械机芯齿轮": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		]
 	},
 	"properties": {
-		"weapontype": [
-			"双手剑",
-			"弓",
-			"单手剑",
-			"法器",
-			"长柄武器"
+		"weaponType": [
+			"WEAPON_CLAYMORE",
+			"WEAPON_BOW",
+			"WEAPON_SWORD_ONE_HAND",
+			"WEAPON_CATALYST",
+			"WEAPON_POLE"
 		],
 		"rarity": [
-			"4",
-			"5",
-			"1",
-			"3",
-			"2"
+			4,
+			5,
+			1,
+			3,
+			2
 		],
+<<<<<<< HEAD
 		"substat": [
 			"攻击力",
 			"暴击伤害",
@@ -3170,6 +3300,17 @@
 			"暴击率",
 			"生命值",
 			"防御力"
+=======
+		"mainStatType": [
+			"FIGHT_PROP_ATTACK_PERCENT",
+			"FIGHT_PROP_CRITICAL_HURT",
+			"FIGHT_PROP_PHYSICAL_ADD_HURT",
+			"FIGHT_PROP_ELEMENT_MASTERY",
+			"FIGHT_PROP_CHARGE_EFFICIENCY",
+			"FIGHT_PROP_CRITICAL",
+			"FIGHT_PROP_HP_PERCENT",
+			"FIGHT_PROP_DEFENSE_PERCENT"
+>>>>>>> upstream/main
 		],
 		"costs": [
 			"摩拉",

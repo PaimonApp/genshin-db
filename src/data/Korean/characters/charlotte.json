@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "샤를로트",
 	"fullname": "샤를로트",
 	"title": "진실을 쫓는 렌즈",
@@ -14,6 +15,27 @@
 	"affiliation": "스팀버드사",
 	"birthdaymmdd": "4/10",
 	"birthday": "4월 10일",
+=======
+	"id": 10000088,
+	"name": "샤를로트",
+	"title": "진실을 쫓는 렌즈",
+	"description": "활력이 넘치는 스팀버드 기자. 언제나 「진실」을 찾아 바쁘게 돌아다닌다",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "법구",
+	"bodyType": "BODY_GIRL",
+	"gender": "여성",
+	"qualityType": "QUALITY_PURPLE",
+	"rarity": 4,
+	"birthdaymmdd": "4/10",
+	"birthday": "4월 10일",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "얼음",
+	"affiliation": "스팀버드사",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "폰타인",
+	"substatType": "FIGHT_PROP_ATTACK_PERCENT",
+	"substatText": "공격력",
+>>>>>>> upstream/main
 	"constellation": "진실의 렌즈자리",
 	"cv": {
 		"english": "Maya Aoki Tuttle",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 가루",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "푸른 수정 소라",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "맞물림 톱니바퀴",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 조각",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "푸른 수정 소라",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "맞물림 톱니바퀴",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 조각",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "푸른 수정 소라",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "평톱니바퀴",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 덩이",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "푸른 수정 소라",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "평톱니바퀴",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 덩이",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "푸른 수정 소라",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "오토마톤 코어 톱니바퀴",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101232,
+>>>>>>> upstream/main
 				"name": "푸른 수정 소라",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "오토마톤 코어 톱니바퀴",
 				"count": 24
 			}

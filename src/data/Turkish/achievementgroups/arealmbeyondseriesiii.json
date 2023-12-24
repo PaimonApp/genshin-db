@@ -1,7 +1,13 @@
 {
+	"id": 23,
 	"name": "Başka Bir Diyar: III. Seri",
+<<<<<<< HEAD
 	"sortorder": 33,
+=======
+	"sortOrder": 33,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210089,
 		"name": "Başarım: Çiçekli Bahçe"
 	}
 }

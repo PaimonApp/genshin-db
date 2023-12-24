@@ -1,11 +1,22 @@
 {
+	"id": 112013,
 	"name": "Weathered Arrowhead",
+	"rarity": 3,
+	"sortRank": 10104,
 	"description": "An old arrowhead coated in blood. The arrowhead has long since lost its sharpness and thus its use as a weapon.\nHowever, it represents the pride of a hunter and acts as both an amulet and a medal.",
+<<<<<<< HEAD
 	"sortorder": 3045,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character and Weapon Enhancement Material",
 	"source": [
 		"Crafted"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Character and Weapon Enhancement Material",
+	"sources": [
+		"Crafted",
+		"Dropped by Lv. 60+ Hilichurl Shooters"
+>>>>>>> upstream/main
 	]
 }

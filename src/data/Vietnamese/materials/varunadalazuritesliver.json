@@ -1,11 +1,17 @@
 {
+	"id": 104121,
 	"name": "Vụn Thanh Kim Sạch",
+	"rarity": 2,
+	"sortRank": 12103,
 	"description": "Nguyên Liệu Đột Phá Nhân Vật",
+<<<<<<< HEAD
 	"sortorder": 3196,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
-	"source": [
+	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
+	"sources": [
 		"Tinh Linh Nước Trong rơi ra",
 		"Thủy Nguyên Bản rơi",
 		"Nhân Dạng Nước rơi",

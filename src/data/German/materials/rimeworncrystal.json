@@ -1,9 +1,15 @@
 {
+	"id": 200102,
 	"name": "Frostbiss-Kristall",
+	"rarity": 3,
+	"sortRank": 430061,
 	"description": "Ein von einem Monster des Drachengrats extrahierter Kristall.\nEntsteht nur zu ganz bestimmten Zeiten.",
+<<<<<<< HEAD
 	"sortorder": 4961,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Material für den Drachengrat",
-	"source": []
+	"typeText": "Material für den Drachengrat",
+	"sources": []
 }

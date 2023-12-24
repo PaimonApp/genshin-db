@@ -1,11 +1,23 @@
 {
+	"id": 112025,
 	"name": "Chaos-Getriebe",
+	"rarity": 4,
+	"sortRank": 10108,
 	"description": "Ein uraltes Ruinenkonstrukt, das einmal dazu diente, ein Gerät mit Energie zu versorgen. Wenn man diese Technik verstehen und nachbauen könnte, wäre die Welt womöglich eine vollkommen andere.",
+<<<<<<< HEAD
 	"sortorder": 3054,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": [
 		"Kann hergestellt werden"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren und Waffen",
+	"sources": [
+		"Kann hergestellt werden",
+		"Beute von Ruinenwächtern ab Stufe 60",
+		"Beute von Ruinenjägern ab Stufe 60"
+>>>>>>> upstream/main
 	]
 }

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Pankration sbabam senza limiti alla Méropide",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1374,
+=======
+	"id": [
+		81390
+	],
+	"name": "Pankration sbabam senza limiti alla Méropide",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1374,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Pankration sbabam senza limiti alla Méropide",
 		"description": "Porta Poiret e Geneviève alla vittoria nel torneo di Pankration amichevole.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

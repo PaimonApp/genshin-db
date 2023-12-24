@@ -1,9 +1,21 @@
 {
+	"id": 112002,
 	"name": "Condensado de Slime",
+	"rarity": 1,
+	"sortRank": 10101,
 	"description": "Denso fluido que cubre la superficie de un Slime. Es un material comúnmente visto en talleres elementales.",
+<<<<<<< HEAD
 	"sortorder": 3038,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de mejora de personaje y arma",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de mejora de personaje y arma",
+	"sources": [
+		"Obtenido de Slimes",
+		"Canjear Polvo estelar"
+	]
+>>>>>>> upstream/main
 }

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "O Futuro à Frente é Maior do que o Passado",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1368,
+=======
+	"id": [
+		81384
+	],
+	"name": "O Futuro à Frente é Maior do que o Passado",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1368,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "O Futuro à Frente é Maior do que o Passado",
 		"description": "Todos temos um futuro brilhante nos aguardando...",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

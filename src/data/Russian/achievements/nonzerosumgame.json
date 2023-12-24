@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Игра с ненулевой суммой",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1361,
+=======
+	"id": [
+		81377
+	],
+	"name": "Игра с ненулевой суммой",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1361,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Игра с ненулевой суммой",
 		"description": "Пройдите опрос в купонной столовой.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

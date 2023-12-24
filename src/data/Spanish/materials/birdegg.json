@@ -1,10 +1,15 @@
 {
+	"id": 100062,
 	"name": "Huevo de pájaro",
+	"sortRank": 321,
 	"description": "Este huevo ofrece un sinfín de posibilidades culinarias. Puede aportar la dosis diaria de proteínas para una persona adulta.",
+<<<<<<< HEAD
 	"sortorder": 2913,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente culinario",
-	"source": [
+	"typeText": "Ingrediente culinario",
+	"sources": [
 		"Recolectar en la naturaleza"
 	]
 }

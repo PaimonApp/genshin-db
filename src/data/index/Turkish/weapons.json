@@ -167,6 +167,8 @@
 		"travelershandysword": "Gezginin Mahir Kılıcı",
 		"tulaytullahsremembrance": "Tulaytullah'ın Anısı",
 		"twinnephrite": "İkiz Yeşimtaşı",
+		"ultimateoverlordsmegamagicsword": "\"Yüce Lordun Devasa Büyü Kılıcı\"",
+		"verdict": "Gereği Düşünüldü",
 		"vortexvanquisher": "Girdap Söndüren",
 		"wanderingevenstar": "Serseri Akşam Yıldızı",
 		"wastergreatsword": "Darmaduman Büyük Kılıcı",
@@ -346,6 +348,8 @@
 		"Gezginin Mahir Kılıcı": "travelershandysword",
 		"Tulaytullah'ın Anısı": "tulaytullahsremembrance",
 		"İkiz Yeşimtaşı": "twinnephrite",
+		"\"Yüce Lordun Devasa Büyü Kılıcı\"": "ultimateoverlordsmegamagicsword",
+		"Gereği Düşünüldü": "verdict",
 		"Girdap Söndüren": "vortexvanquisher",
 		"Serseri Akşam Yıldızı": "wanderingevenstar",
 		"Darmaduman Büyük Kılıcı": "wastergreatsword",
@@ -503,6 +507,7 @@
 			"thewidsith",
 			"tidalshadow",
 			"toukaboushigure",
+			"ultimateoverlordsmegamagicsword",
 			"wanderingevenstar",
 			"wavebreakersfin",
 			"whiteblind",
@@ -551,10 +556,11 @@
 			"thunderingpulse",
 			"tomeoftheeternalflow",
 			"tulaytullahsremembrance",
+			"verdict",
 			"vortexvanquisher",
 			"wolfsgravestone"
 		],
-		"Çift Elli Kılıç": [
+		"WEAPON_CLAYMORE": [
 			"akuoumaru",
 			"beaconofthereedsea",
 			"blackcliffslasher",
@@ -584,12 +590,14 @@
 			"thebell",
 			"theunforged",
 			"tidalshadow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict",
 			"wastergreatsword",
 			"whiteblind",
 			"whiteirongreatsword",
 			"wolfsgravestone"
 		],
-		"Saldırı": [
+		"FIGHT_PROP_ATTACK_PERCENT": [
 			"akuoumaru",
 			"alleyhunter",
 			"amenomakageuchi",
@@ -810,6 +818,8 @@
 			"travelershandysword",
 			"tulaytullahsremembrance",
 			"twinnephrite",
+			"ultimateoverlordsmegamagicsword",
+			"verdict",
 			"vortexvanquisher",
 			"wanderingevenstar",
 			"wastergreatsword",
@@ -915,7 +925,7 @@
 			"mistsplitterreforged",
 			"oathsworneye"
 		],
-		"Yay": [
+		"WEAPON_BOW": [
 			"alleyhunter",
 			"amosbow",
 			"aquasimulacra",
@@ -1192,7 +1202,7 @@
 			"windblumeode",
 			"wolfsgravestone"
 		],
-		"Kılıç": [
+		"WEAPON_SWORD_ONE_HAND": [
 			"amenomakageuchi",
 			"aquilafavonia",
 			"blackclifflongsword",
@@ -1262,7 +1272,7 @@
 			"mistsplitterreforged",
 			"thecatch"
 		],
-		"Katalizör": [
+		"WEAPON_CATALYST": [
 			"apprenticesnotes",
 			"athousandfloatingdreams",
 			"balladoftheboundlessblue",
@@ -1460,7 +1470,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"Kritik Hasar": [
+		"FIGHT_PROP_CRITICAL_HURT": [
 			"aquasimulacra",
 			"blackcliffagate",
 			"blackclifflongsword",
@@ -1616,7 +1626,7 @@
 			"whiteblind",
 			"whitetassel"
 		],
-		"Fiziksel Hasar Bonusu": [
+		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
 			"aquilafavonia",
 			"compoundbow",
 			"crescentpike",
@@ -1737,7 +1747,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"Element Ustalığı": [
+		"FIGHT_PROP_ELEMENT_MASTERY": [
 			"athousandfloatingdreams",
 			"bloodtaintedgreatsword",
 			"darkironsword",
@@ -1841,7 +1851,11 @@
 			"talkingstick",
 			"wanderingevenstar"
 		],
+<<<<<<< HEAD
 		"Enerji Yüklemesi": [
+=======
+		"FIGHT_PROP_CHARGE_EFFICIENCY": [
+>>>>>>> upstream/main
 			"balladoftheboundlessblue",
 			"elegyfortheend",
 			"endoftheline",
@@ -1869,6 +1883,10 @@
 			"skywardpride",
 			"skywardspine",
 			"thecatch",
+<<<<<<< HEAD
+=======
+			"ultimateoverlordsmegamagicsword",
+>>>>>>> upstream/main
 			"wineandsong"
 		],
 		"Kutup Kurdunun Süt Dişi": [
@@ -2087,7 +2105,11 @@
 			"thrillingtalesofdragonslayers",
 			"wineandsong"
 		],
+<<<<<<< HEAD
 		"Mızrak": [
+=======
+		"WEAPON_POLE": [
+>>>>>>> upstream/main
 			"balladofthefjords",
 			"beginnersprotector",
 			"blackcliffpole",
@@ -2118,7 +2140,7 @@
 			"wavebreakersfin",
 			"whitetassel"
 		],
-		"Kritik Oranı": [
+		"FIGHT_PROP_CRITICAL": [
 			"balladofthefjords",
 			"beaconofthereedsea",
 			"cashflowsupervision",
@@ -2140,6 +2162,7 @@
 			"theblacksword",
 			"theviridescenthunt",
 			"twinnephrite",
+			"verdict",
 			"whitetassel",
 			"wolffang"
 		],
@@ -2148,7 +2171,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Henüz Açmamış Çiçek": [
 			"balladofthefjords",
@@ -2176,7 +2200,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Değerli Çiçek": [
 			"balladofthefjords",
@@ -2204,7 +2229,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Göçebenin Çiçeği": [
 			"balladofthefjords",
@@ -2232,7 +2258,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Kavurucu Kuvvetin Yankısı": [
 			"beaconofthereedsea",
@@ -2620,7 +2647,7 @@
 			"theunforged",
 			"twinnephrite"
 		],
-		"Can": [
+		"FIGHT_PROP_HP_PERCENT": [
 			"blacktassel",
 			"everlastingmoonglow",
 			"ferrousshadow",
@@ -2777,6 +2804,7 @@
 			"cashflowsupervision",
 			"prospectorsdrill",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thedockhandsassistant"
 		],
 		"Okyanus Ötesi İncisi": [
@@ -2820,8 +2848,56 @@
 			"swordofnarzissenkreuz",
 			"thedockhandsassistant",
 			"thefirstgreatmagic"
+=======
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+>>>>>>> upstream/main
 		],
-		"Savunma": [
+		"Okyanus Ötesi İncisi": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"Ajanın Klasik Cep Saati": [
+			"cashflowsupervision",
+			"prospectorsdrill",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+		],
+		"Okyanus Ötesi Parça": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"Ajanın Vefası": [
+			"cashflowsupervision",
+			"prospectorsdrill",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+		],
+		"Alaca Kristal": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"cinnabarspindle",
 			"travelershandysword",
 			"whiteblind",
@@ -2984,7 +3060,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Kadim Akor Kuplesi": [
 			"fleuvecendreferryman",
@@ -2992,7 +3073,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Kadim Akor Bölümü": [
 			"fleuvecendreferryman",
@@ -3000,7 +3086,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Kadim Akor Yankısı": [
 			"fleuvecendreferryman",
@@ -3008,28 +3099,48 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Yarık Çekirdeği": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Yabancı Sinaps": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Dünya Dışı Yaşam Çekirdeği": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Orman Çiyinin Bakır Tılsımı": [
 			"forestregalia",
@@ -3129,38 +3240,57 @@
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Mekanik Düz Dişli": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Usta İşi Dinamik Dişli": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		]
 	},
 	"properties": {
-		"weapontype": [
-			"Çift Elli Kılıç",
-			"Yay",
-			"Kılıç",
-			"Katalizör",
-			"Mızrak"
+		"weaponType": [
+			"WEAPON_CLAYMORE",
+			"WEAPON_BOW",
+			"WEAPON_SWORD_ONE_HAND",
+			"WEAPON_CATALYST",
+			"WEAPON_POLE"
 		],
 		"rarity": [
-			"4",
-			"5",
-			"1",
-			"3",
-			"2"
+			4,
+			5,
+			1,
+			3,
+			2
 		],
+<<<<<<< HEAD
 		"substat": [
 			"Saldırı",
 			"Kritik Hasar",
@@ -3170,6 +3300,17 @@
 			"Kritik Oranı",
 			"Can",
 			"Savunma"
+=======
+		"mainStatType": [
+			"FIGHT_PROP_ATTACK_PERCENT",
+			"FIGHT_PROP_CRITICAL_HURT",
+			"FIGHT_PROP_PHYSICAL_ADD_HURT",
+			"FIGHT_PROP_ELEMENT_MASTERY",
+			"FIGHT_PROP_CHARGE_EFFICIENCY",
+			"FIGHT_PROP_CRITICAL",
+			"FIGHT_PROP_HP_PERCENT",
+			"FIGHT_PROP_DEFENSE_PERCENT"
+>>>>>>> upstream/main
 		],
 		"costs": [
 			"Mora",

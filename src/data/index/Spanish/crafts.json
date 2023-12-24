@@ -1281,7 +1281,7 @@
 		]
 	},
 	"properties": {
-		"filter": [
+		"filterText": [
 			"Material de mejora de personaje y arma",
 			"Material de ascensión de personaje",
 			"Consumible",

@@ -1,10 +1,15 @@
 {
+	"id": 100078,
 	"name": "Milch",
+	"sortRank": 321,
 	"description": "Von Kühen. Bei diesem vollen Aroma willst du keinen einzigen Tropfen verschwenden.",
+<<<<<<< HEAD
 	"sortorder": 2920,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Zutat",
-	"source": [
+	"typeText": "Zutat",
+	"sources": [
 		"In Gemischtwarenläden zu erstehen"
 	]
 }

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Lâmina Mágica Crouges",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1417,
+=======
+	"id": [
+		81433
+	],
+	"name": "Lâmina Mágica Crouges",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1417,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Lâmina Mágica Crouges",
 		"description": "Derrote a Lenda Local: Lâmina Mágica Crouges",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

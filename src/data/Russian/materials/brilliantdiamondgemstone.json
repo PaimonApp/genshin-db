@@ -1,11 +1,17 @@
 {
+	"id": 104104,
 	"name": "Драгоценный бриллиант",
+	"rarity": 5,
+	"sortRank": 12101,
 	"description": "Материал возвышения персонажа.\n«Добро пожаловать в мир!»",
+<<<<<<< HEAD
 	"sortorder": 3185,
 	"rarity": "5",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Возвышение персонажей",
-	"source": [
+	"typeText": "Возвышение персонажей",
+	"sources": [
 		"Награда Ранга приключений"
 	]
 }

@@ -1,10 +1,15 @@
 {
+	"id": 101218,
 	"name": "Zaytun Peach",
+	"sortRank": 321,
 	"description": "The fruit of a forest shrub. Its flesh is firm and sweet. It is said to have a calming effect on the mind.",
+<<<<<<< HEAD
 	"sortorder": 2940,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Cooking Ingredient",
-	"source": [
+	"typeText": "Cooking Ingredient",
+	"sources": [
 		"Found in the wild"
 	]
 }

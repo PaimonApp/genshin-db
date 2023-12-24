@@ -1,8 +1,13 @@
 {
+	"id": 100618,
 	"name": "\"Chiếc Răng\" Kỳ Lạ",
+	"sortRank": 200,
 	"description": "Chiếc răng nhặt được trên núi tuyết. Có lẽ sẽ có ai đó biết được chút thông tin về nó...",
+<<<<<<< HEAD
 	"sortorder": 2776,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Nguyên Liệu",
-	"source": []
+	"typeText": "Nguyên Liệu",
+	"sources": []
 }

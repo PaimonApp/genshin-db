@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "Nhân Dạng Nước",
 	"specialname": "Sinh Mệnh Thức Tỉnh",
 	"enemytype": "BOSS",
+=======
+	"id": 20051201,
+	"name": "Nhân Dạng Nước",
+	"specialName": "Sinh Mệnh Thức Tỉnh",
+	"enemyType": "BOSS",
+>>>>>>> upstream/main
 	"category": "Sinh Mệnh Nguyên Tố",
 	"description": "Ma vật hình người được hình thành từ nước ngưng tụ.",
 	"investigation": {
@@ -9,12 +16,19 @@
 		"category": "Thủ Lĩnh",
 		"description": "Ma vật hình người được hình thành từ vô số giọt nước ngưng tụ."
 	},
+<<<<<<< HEAD
 	"rewardpreview": [
 		{
+=======
+	"rewardPreview": [
+		{
+			"id": 102,
+>>>>>>> upstream/main
 			"name": "EXP Mạo Hiểm",
 			"count": 200
 		},
 		{
+<<<<<<< HEAD
 			"name": "Mora"
 		},
 		{
@@ -33,10 +47,22 @@
 			"name": "Thanh Kim Sạch"
 		},
 		{
+=======
+			"id": 202,
+			"name": "Mora"
+		},
+		{
+			"id": 105,
+			"name": "EXP Yêu Thích"
+		},
+		{
+			"id": 113057,
+>>>>>>> upstream/main
 			"name": "Nước Chưa Đạt Mức Siêu Việt",
 			"count": 2.5556
 		},
 		{
+<<<<<<< HEAD
 			"name": "Cuồng Chiến",
 			"rarity": "3"
 		},
@@ -79,6 +105,77 @@
 		{
 			"name": "Đoàn Hát Lang Thang Đại Lục",
 			"rarity": "5"
+=======
+			"id": 104121,
+			"name": "Vụn Thanh Kim Sạch"
+		},
+		{
+			"id": 104122,
+			"name": "Mảnh Thanh Kim Sạch"
+		},
+		{
+			"id": 104123,
+			"name": "Miếng Thanh Kim Sạch"
+		},
+		{
+			"id": 104124,
+			"name": "Thanh Kim Sạch"
+		},
+		{
+			"id": 400022,
+			"name": "Cuồng Chiến",
+			"rarity": 3
+		},
+		{
+			"id": 400042,
+			"name": "Kẻ Lưu Đày",
+			"rarity": 3
+		},
+		{
+			"id": 400132,
+			"name": "Người Tế Thủy",
+			"rarity": 3
+		},
+		{
+			"id": 400047,
+			"name": "Nhà Mạo Hiểm",
+			"rarity": 3
+		},
+		{
+			"id": 400088,
+			"name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+			"rarity": 4
+		},
+		{
+			"id": 400098,
+			"name": "Đoàn Hát Lang Thang Đại Lục",
+			"rarity": 4
+		},
+		{
+			"id": 400023,
+			"name": "Cuồng Chiến",
+			"rarity": 4
+		},
+		{
+			"id": 400043,
+			"name": "Kẻ Lưu Đày",
+			"rarity": 4
+		},
+		{
+			"id": 400133,
+			"name": "Người Tế Thủy",
+			"rarity": 4
+		},
+		{
+			"id": 400089,
+			"name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+			"rarity": 5
+		},
+		{
+			"id": 400099,
+			"name": "Đoàn Hát Lang Thang Đại Lục",
+			"rarity": 5
+>>>>>>> upstream/main
 		}
 	]
 }

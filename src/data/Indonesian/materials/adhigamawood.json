@@ -1,12 +1,19 @@
 {
+	"id": 101315,
 	"name": "Adhigama Wood",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Kayu Pohon Adhigama. Dapat ditemukan di mana-mana dan karena itu terlihat seperti kayu biasa, tetapi ini merupakan kayu yang tahan lama dan mudah diproses.\nDapat digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2974,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Ditemukan di alam liar",
-		"Rekomendasi: Ditebang dari hutan di Sumeru"
+		"Rekomendasi: Ditebang dari hutan di Sumeru",
+		"Konversi Kayu"
 	]
 }

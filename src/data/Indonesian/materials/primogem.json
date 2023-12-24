@@ -1,9 +1,15 @@
 {
+	"id": 201,
 	"name": "Primogem",
+	"rarity": 5,
+	"sortRank": 30,
 	"description": "Sebuah batu mutiara dari zaman purbakala. Bersinar terang dengan penuh harapan dan impian alam semesta dari masa lampau.",
+<<<<<<< HEAD
 	"sortorder": 2714,
 	"rarity": "5",
+=======
+>>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"materialtype": "Mata Uang Langka",
-	"source": []
+	"typeText": "Mata Uang Langka",
+	"sources": []
 }

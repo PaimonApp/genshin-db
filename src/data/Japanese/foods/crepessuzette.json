@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "クレームクレープシュゼット",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "冒険系料理",
 	"foodcategory": "Other_SPReduceConsume",
+=======
+	"id": 3415,
+	"name": "クレームクレープシュゼット",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "冒険系料理",
+>>>>>>> upstream/main
 	"effect": "チーム全員が滑翔とダッシュに消費するスタミナ-15%~25%、継続時間900秒。\nマルチプレイ中、自分のキャラクターにのみ有効。",
 	"description": "具材の入ったクレープ。まずはクレープ生地を焼き、次にジャム、クリーム、果物のスライスをトッピング。作り方は一つだけではなく、具材次第で様々な味が楽しめる。",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 101230,
+>>>>>>> upstream/main
 			"name": "バブルオレンジ",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "クリーム",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110008,
+>>>>>>> upstream/main
 			"name": "ジャム",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "小麦粉",
 			"count": 1
 		}

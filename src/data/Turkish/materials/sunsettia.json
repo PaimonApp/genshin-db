@@ -1,10 +1,15 @@
 {
+	"id": 100002,
 	"name": "Güneriği",
+	"sortRank": 90000,
 	"description": "Gün batımı kadar güzel, tüm Teyvat'ta bol miktarda bulunan dolgun bir meyve. Tuhaf ve tatlı bir aroması var, insanın enerjisini yükseltiyor.",
+<<<<<<< HEAD
 	"sortorder": 3417,
+=======
+>>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"materialtype": "Yiyecek",
-	"source": [
+	"typeText": "Yiyecek",
+	"sources": [
 		"Doğada bulunur."
 	]
 }

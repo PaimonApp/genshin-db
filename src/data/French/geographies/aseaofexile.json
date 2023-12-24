@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Une mer d'exil",
 	"area": "Région de Liffey",
 	"description": "« Peu importe le péché, il finira perdu dans les vagues comme le sable. »",
 	"region": "Fontaine",
 	"sortorder": 403
+=======
+	"id": 70500003,
+	"name": "Une mer d'exil",
+	"areaId": 50400,
+	"areaName": "Région de Liffey",
+	"description": "« Peu importe le péché, il finira perdu dans les vagues comme le sable. »",
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"sortOrder": 403
+>>>>>>> upstream/main
 }

@@ -1,11 +1,22 @@
 {
+	"id": 112058,
 	"name": "Garra Fantasmagórica Oculta",
+	"rarity": 4,
+	"sortRank": 10119,
 	"description": "Uma garrafa afiada deixada para trás por um dos Caninos da Fenda.\nTodas as maravilhas do mundo não são nada quando comparadas com \"Cretaceus\".",
+<<<<<<< HEAD
 	"sortorder": 3087,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Fortalecimento de Arma e Personagem",
 	"source": [
 		"Obtido na síntese"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de Fortalecimento de Arma e Personagem",
+	"sources": [
+		"Obtido na síntese",
+		"Dropado por Caninos da Fenda Nv.60+"
+>>>>>>> upstream/main
 	]
 }

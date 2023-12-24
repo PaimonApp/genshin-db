@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "Nhà Mạo Hiểm Sóng Biển II",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (II)",
 	"sortorder": 257,
+=======
+	"id": [
+		80281,
+		80282,
+		80283
+	],
+	"name": "Nhà Mạo Hiểm Sóng Biển II",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (II)",
+	"sortOrder": 257,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Nhà Mạo Hiểm Sóng Biển II",
 		"description": "Hoàn thành {param0} khiêu chiến đại thế giới tại Khu Liffey, Khu Viện Nghiên Cứu Khoa Học Công Trình Động Năng Fontaine.",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "Hoàn thành {param0} khiêu chiến đại thế giới tại Khu Liffey, Khu Viện Nghiên Cứu Khoa Học Công Trình Động Năng Fontaine.",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "Hoàn thành {param0} khiêu chiến đại thế giới tại Khu Liffey, Khu Viện Nghiên Cứu Khoa Học Công Trình Động Năng Fontaine.",
 		"progress": 12,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 20
 		}

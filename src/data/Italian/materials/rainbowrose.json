@@ -1,10 +1,15 @@
 {
+	"id": 101236,
 	"name": "Rosa arcobaleno",
+	"sortRank": 315,
 	"description": "Un fiore rosa tenero e delicato. Nonostante il nome, la rosa arcobaleno è molto più simile al giglio.",
+<<<<<<< HEAD
 	"sortorder": 2883,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Specialità di Fontaine",
-	"source": [
+	"typeText": "Specialità di Fontaine",
+	"sources": [
 		"Presente in natura",
 		"Consiglio: si trova nella regione di Béryl"
 	]

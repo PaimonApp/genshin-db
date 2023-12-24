@@ -1,17 +1,24 @@
 {
+	"id": 114002,
 	"name": "Mur abattu de Décabarian",
+	"rarity": 3,
+	"sortRank": 15101,
 	"description": "Matériau d'élévation d'arme.\nDécabarian, fier de son œuvre, était vénéré du haut de sa tour. Cependant, il ignorait que le peuple ne se prosternait pas ni par respect ni par admiration.",
+<<<<<<< HEAD
 	"sortorder": 3279,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Matériau d'élévation d'arme",
-	"dropdomain": "Donjon d'entraînement : Ville de réflexions",
-	"daysofweek": [
+	"typeText": "Matériau d'élévation d'arme",
+	"dropDomainId": 4311,
+	"dropDomainName": "Donjon d'entraînement : Ville de réflexions",
+	"daysOfWeek": [
 		"Lundi",
 		"Jeudi",
 		"Dimanche"
 	],
-	"source": [
+	"sources": [
 		"Synthèse"
 	]
 }

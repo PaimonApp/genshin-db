@@ -1,7 +1,13 @@
 {
+	"id": 37,
 	"name": "Invocation des Sept : JCC",
+<<<<<<< HEAD
 	"sortorder": 43,
+=======
+	"sortOrder": 43,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210145,
 		"name": "Succès - Invocateur"
 	}
 }

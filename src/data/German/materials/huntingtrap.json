@@ -1,8 +1,13 @@
 {
+	"id": 100225,
 	"name": "Jagdfalle",
+	"sortRank": 430031,
 	"description": "Wird zum Fangen wilder Tiere einer gewissen Größe verwendet. Suchst du vorsichtig in der Wildnis danach, kannst du auch eine solche Falle herstellen. Lege sie vorsichtig ab und verstecke sie.",
+<<<<<<< HEAD
 	"sortorder": 4948,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Verbrauchsgegenstand",
-	"source": []
+	"typeText": "Verbrauchsgegenstand",
+	"sources": []
 }

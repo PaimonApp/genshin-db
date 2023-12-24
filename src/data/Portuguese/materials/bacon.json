@@ -1,10 +1,15 @@
 {
+	"id": 110010,
 	"name": "Bacon",
+	"sortRank": 322,
 	"description": "Tiras defumadas de porco. Crocante e um pouco gorduroso, mas não muito.",
+<<<<<<< HEAD
 	"sortorder": 2955,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Processado"
 	]
 }

@@ -1,12 +1,19 @@
 {
+	"id": 101305,
 	"name": "Bamboo Segment",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Bagian-bagian bambu yang sangat ringan dan jauh lebih kuat dari penampilannya. Memancarkan sebuah aroma yang menenangkan.\nDapat digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2964,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Ditemukan di alam liar",
-		"Rekomendasi: Ditebang dari Bishui Plain"
+		"Rekomendasi: Ditebang dari Bishui Plain",
+		"Konversi Kayu"
 	]
 }

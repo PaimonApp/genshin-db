@@ -1,7 +1,13 @@
 {
+	"id": 19,
 	"name": "世外洞天·2",
+<<<<<<< HEAD
 	"sortorder": 32,
+=======
+	"sortOrder": 32,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210075,
 		"name": "アチーブメント·旅居"
 	}
 }

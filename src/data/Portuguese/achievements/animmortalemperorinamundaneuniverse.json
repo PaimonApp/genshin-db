@@ -1,8 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Imperador Eterno do Universo",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1393,
+=======
+	"id": [
+		81409
+	],
+	"name": "Imperador Eterno do Universo",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1393,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Imperador Eterno do Universo",
@@ -10,6 +20,10 @@
 		"description": "Derrote Narzissenkreuz.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

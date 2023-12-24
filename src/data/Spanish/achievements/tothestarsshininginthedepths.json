@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Hacia las estrellas del abismo marino",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 5086,
+=======
+	"id": [
+		84307
+	],
+	"name": "Hacia las estrellas del abismo marino",
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 5086,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Hacia las estrellas del abismo marino",
 		"description": "Completa la misión «Hacia las estrellas del abismo marino».",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 10
 		}

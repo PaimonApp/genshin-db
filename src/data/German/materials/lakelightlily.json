@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Seeschimmer-Maiglöckchen",
 	"description": "Diese blasse Blume, klar und rein, wächst dort, wo Wasseradern zusammenfließen. Sie verströmt einen kühlen und eleganten Duft, der scharf und doch sanft ist.",
 	"sortorder": 2885,
 	"category": "EXCHANGE",
 	"materialtype": "Regionale Besonderheit aus Fontaine",
 	"source": [
+=======
+	"id": 101238,
+	"name": "Seeschimmer-Maiglöckchen",
+	"sortRank": 315,
+	"description": "Diese blasse Blume, klar und rein, wächst dort, wo Wasseradern zusammenfließen. Sie verströmt einen kühlen und eleganten Duft, der scharf und doch sanft ist.",
+	"category": "EXCHANGE",
+	"typeText": "Regionale Besonderheit aus Fontaine",
+	"sources": [
+>>>>>>> upstream/main
 		"In der freien Natur zu finden",
 		"Empfohlen: Im Wald von Erinnyes zu finden"
 	]

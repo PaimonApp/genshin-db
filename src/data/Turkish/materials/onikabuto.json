@@ -1,10 +1,15 @@
 {
+	"id": 101201,
 	"name": "Hayalet Böcek",
+	"sortRank": 313,
 	"description": "Elektrik enerjisiyle zengin bölgelerde yaşayan garip bir böcek. Kabuğundaki şeytani görüntünün aksine çok uysal ve yavaştır.",
+<<<<<<< HEAD
 	"sortorder": 2862,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Inazuma Yöresel Ürünü",
-	"source": [
+	"typeText": "Inazuma Yöresel Ürünü",
+	"sources": [
 		"Doğada bulunur.",
 		"Öneri: Narukami Adası'nda bulunur.",
 		"Öneri: Tatarasuna'da bulunur."

@@ -1,9 +1,21 @@
 {
+	"id": 112053,
 	"name": "Geisterhülle",
+	"rarity": 1,
+	"sortRank": 10118,
 	"description": "Ein Energiekern, der es den Gespenstern erlaubt zu schweben.\nEr enthält eine kleine Menge an Elementarenergie. Der Rest hat sich bereits zerstreut.",
+<<<<<<< HEAD
 	"sortorder": 3086,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren und Waffen",
+	"sources": [
+		"Beute von Gespenstern",
+		"Mit Sternenstaub kaufen"
+	]
+>>>>>>> upstream/main
 }

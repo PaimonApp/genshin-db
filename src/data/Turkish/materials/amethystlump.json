@@ -1,10 +1,15 @@
 {
+	"id": 101008,
 	"name": "Ametist Parçası",
+	"sortRank": 301,
 	"description": "Sadece Inazuma'da bulunabilen kesilmemiş bir kristal. Sadece profesyonel bir işçilikle gerçek değeri ortaya çıkar.",
+<<<<<<< HEAD
 	"sortorder": 2826,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Dövmeye Uygun Cevher",
-	"source": [
+	"typeText": "Dövmeye Uygun Cevher",
+	"sources": [
 		"Doğada bulunur.",
 		"Öneri: Narukami Adası'nda bulunur."
 	]

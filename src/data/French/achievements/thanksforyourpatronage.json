@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "#Et {M#un client satisfait}{F#une cliente satisfaite} !",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1386,
+=======
+	"id": [
+		81402
+	],
+	"name": "#Et {M#un client satisfait}{F#une cliente satisfaite} !",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1386,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "#Et {M#un client satisfait}{F#une cliente satisfaite} !",
 		"description": "Obtenez une bandelette de chance doublement chanceuse.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

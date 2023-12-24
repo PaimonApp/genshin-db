@@ -12,6 +12,10 @@
 		"bennett": "班尼特",
 		"candace": "坎蒂丝",
 		"charlotte": "夏洛蒂",
+<<<<<<< HEAD
+=======
+		"chevreuse": "夏沃蕾",
+>>>>>>> upstream/main
 		"chongyun": "重云",
 		"collei": "柯莱",
 		"cyno": "赛诺",
@@ -46,6 +50,10 @@
 		"mika": "米卡",
 		"mona": "莫娜",
 		"nahida": "纳西妲",
+<<<<<<< HEAD
+=======
+		"navia": "娜维娅",
+>>>>>>> upstream/main
 		"neuvillette": "那维莱特",
 		"nilou": "妮露",
 		"ningguang": "凝光",
@@ -90,6 +98,10 @@
 		"班尼特": "bennett",
 		"坎蒂丝": "candace",
 		"夏洛蒂": "charlotte",
+<<<<<<< HEAD
+=======
+		"夏沃蕾": "chevreuse",
+>>>>>>> upstream/main
 		"重云": "chongyun",
 		"柯莱": "collei",
 		"赛诺": "cyno",
@@ -124,6 +136,10 @@
 		"米卡": "mika",
 		"莫娜": "mona",
 		"纳西妲": "nahida",
+<<<<<<< HEAD
+=======
+		"娜维娅": "navia",
+>>>>>>> upstream/main
 		"那维莱特": "neuvillette",
 		"妮露": "nilou",
 		"凝光": "ningguang",
@@ -179,6 +195,11 @@
 		"箭盾座": "candace",
 		"朗镜索真": "charlotte",
 		"真视镜座": "charlotte",
+<<<<<<< HEAD
+=======
+		"明律决罚": "chevreuse",
+		"剑铳座": "chevreuse",
+>>>>>>> upstream/main
 		"雪融有踪": "chongyun",
 		"乾坤锋座": "chongyun",
 		"萃念初蘖": "collei",
@@ -245,6 +266,11 @@
 		"映天座": "mona",
 		"白草净华": "nahida",
 		"智慧主座": "nahida",
+<<<<<<< HEAD
+=======
+		"明花蔓舵": "navia",
+		"野蔷薇座": "navia",
+>>>>>>> upstream/main
 		"谕告的潮音": "neuvillette",
 		"？？？": "neuvillette",
 		"莲光落舞筵": "nilou",
@@ -314,6 +340,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"diona",
@@ -370,6 +400,10 @@
 			"lyney",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"qiqi",
@@ -387,11 +421,11 @@
 			"yoimiya",
 			"zhongli"
 		],
-		"无": [
+		"ELEMENT_NONE": [
 			"aether",
 			"lumine"
 		],
-		"单手剑": [
+		"WEAPON_SWORD_ONE_HAND": [
 			"aether",
 			"albedo",
 			"alhaitham",
@@ -412,7 +446,7 @@
 			"qiqi",
 			"xingqiu"
 		],
-		"攻击力": [
+		"FIGHT_PROP_ATTACK_PERCENT": [
 			"aether",
 			"amber",
 			"charlotte",
@@ -473,6 +507,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -507,6 +545,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -596,16 +638,17 @@
 			"aether",
 			"lumine"
 		],
-		"岩": [
+		"ELEMENT_GEO": [
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"岩元素伤害加成": [
+		"FIGHT_PROP_ROCK_ADD_HURT": [
 			"albedo",
 			"gorou",
 			"ningguang",
@@ -643,6 +686,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -665,6 +709,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -689,6 +734,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -707,12 +753,13 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"草": [
+		"ELEMENT_DENDRO": [
 			"alhaitham",
 			"baizhu",
 			"collei",
@@ -722,7 +769,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"草元素伤害加成": [
+		"FIGHT_PROP_GRASS_ADD_HURT": [
 			"alhaitham",
 			"tighnari"
 		],
@@ -818,7 +865,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"冰": [
+		"ELEMENT_CRYO": [
 			"aloy",
 			"charlotte",
 			"chongyun",
@@ -835,7 +882,7 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"弓": [
+		"WEAPON_BOW": [
 			"aloy",
 			"amber",
 			"collei",
@@ -852,7 +899,7 @@
 			"yelan",
 			"yoimiya"
 		],
-		"冰元素伤害加成": [
+		"FIGHT_PROP_ICE_ADD_HURT": [
 			"aloy",
 			"diona"
 		],
@@ -863,6 +910,10 @@
 			"beidou",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"collei",
 			"dehya",
 			"diona",
@@ -886,6 +937,7 @@
 			"lynette",
 			"mona",
 			"nahida",
+			"navia",
 			"nilou",
 			"ningguang",
 			"noelle",
@@ -1011,9 +1063,10 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"火": [
+		"ELEMENT_PYRO": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1030,11 +1083,13 @@
 			"faruzan",
 			"mika",
 			"mona",
+			"navia",
 			"ningguang"
 		],
 		"燃愿玛瑙碎屑": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1060,6 +1115,7 @@
 		"燃愿玛瑙断片": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1088,6 +1144,7 @@
 		"燃愿玛瑙块": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1108,6 +1165,7 @@
 		"燃愿玛瑙": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1119,7 +1177,7 @@
 			"yanfei",
 			"yoimiya"
 		],
-		"双手剑": [
+		"WEAPON_CLAYMORE": [
 			"aratakiitto",
 			"beidou",
 			"chongyun",
@@ -1129,12 +1187,13 @@
 			"eula",
 			"freminet",
 			"kaveh",
+			"navia",
 			"noelle",
 			"razor",
 			"sayu",
 			"xinyan"
 		],
-		"暴击率": [
+		"FIGHT_PROP_CRITICAL": [
 			"aratakiitto",
 			"diluc",
 			"furina",
@@ -1206,7 +1265,7 @@
 			"yaoyao",
 			"zhongli"
 		],
-		"法器": [
+		"WEAPON_CATALYST": [
 			"baizhu",
 			"barbara",
 			"charlotte",
@@ -1224,10 +1283,11 @@
 			"yaemiko",
 			"yanfei"
 		],
-		"生命值": [
+		"FIGHT_PROP_HP_PERCENT": [
 			"baizhu",
 			"barbara",
 			"candace",
+			"chevreuse",
 			"dehya",
 			"dori",
 			"kirara",
@@ -1287,7 +1347,7 @@
 			"nilou",
 			"tighnari"
 		],
-		"水": [
+		"ELEMENT_HYDRO": [
 			"barbara",
 			"candace",
 			"furina",
@@ -1374,7 +1434,7 @@
 			"xingqiu",
 			"yelan"
 		],
-		"雷": [
+		"ELEMENT_ELECTRO": [
 			"beidou",
 			"cyno",
 			"dori",
@@ -1387,7 +1447,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"雷元素伤害加成": [
+		"FIGHT_PROP_ELEC_ADD_HURT": [
 			"beidou"
 		],
 		"最胜紫晶碎屑": [
@@ -1483,7 +1543,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"元素充能效率": [
+		"FIGHT_PROP_CHARGE_EFFICIENCY": [
 			"bennett",
 			"kaeya",
 			"mona",
@@ -1491,8 +1551,9 @@
 			"venti",
 			"yunjin"
 		],
-		"长柄武器": [
+		"WEAPON_POLE": [
 			"candace",
+			"chevreuse",
 			"cyno",
 			"hutao",
 			"mika",
@@ -1524,10 +1585,18 @@
 		],
 		"枫丹": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"freminet",
 			"furina",
 			"lynette",
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1536,6 +1605,10 @@
 		],
 		"啮合齿轮": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -1545,14 +1618,41 @@
 		],
 		"机关正齿轮": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"奇械机芯齿轮": [
 			"charlotte",
+<<<<<<< HEAD
 			"lynette",
 			"wriothesley"
 		],
+=======
+			"chevreuse",
+			"lynette",
+			"wriothesley"
+		],
+		"一月": [
+			"chevreuse",
+			"diona",
+			"kirara",
+			"rosaria",
+			"thoma",
+			"wanderer"
+		],
+		"柔灯铃": [
+			"chevreuse",
+			"lynette"
+		],
+		"原海麟角": [
+			"chevreuse",
+			"neuvillette"
+		],
+>>>>>>> upstream/main
 		"石珀": [
 			"chongyun",
 			"keqing",
@@ -1574,7 +1674,7 @@
 			"collei",
 			"tighnari"
 		],
-		"暴击伤害": [
+		"FIGHT_PROP_CRITICAL_HURT": [
 			"cyno",
 			"eula",
 			"ganyu",
@@ -1582,6 +1682,10 @@
 			"kamisatoayaka",
 			"kamisatoayato",
 			"keqing",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1619,13 +1723,6 @@
 			"tartaglia",
 			"yelan"
 		],
-		"一月": [
-			"diona",
-			"kirara",
-			"rosaria",
-			"thoma",
-			"wanderer"
-		],
 		"嘟嘟莲": [
 			"diona",
 			"kaeya"
@@ -1656,7 +1753,7 @@
 			"eula",
 			"jean"
 		],
-		"风": [
+		"ELEMENT_ANEMO": [
 			"faruzan",
 			"jean",
 			"kaedeharakazuha",
@@ -1721,17 +1818,30 @@
 		],
 		"异海凝珠": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"奇械发条备件·科培琉司": [
-			"freminet"
+			"freminet",
+			"navia"
 		],
 		"异海之块": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"异色结晶石": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"湖光铃兰": [
@@ -1792,7 +1902,7 @@
 			"xiao",
 			"yanfei"
 		],
-		"治疗加成": [
+		"FIGHT_PROP_HEAL_ADD": [
 			"jean",
 			"qiqi"
 		],
@@ -1809,7 +1919,7 @@
 			"sucrose",
 			"venti"
 		],
-		"元素精通": [
+		"FIGHT_PROP_ELEMENT_MASTERY": [
 			"kaedeharakazuha",
 			"kaveh",
 			"lisa",
@@ -1873,7 +1983,7 @@
 			"kirara",
 			"raidenshogun"
 		],
-		"火元素伤害加成": [
+		"FIGHT_PROP_FIRE_ADD_HURT": [
 			"klee",
 			"yanfei"
 		],
@@ -1907,14 +2017,17 @@
 			"noelle",
 			"rosaria"
 		],
-		"风元素伤害加成": [
+		"FIGHT_PROP_WIND_ADD_HURT": [
 			"lynette",
 			"shikanoinheizou",
 			"sucrose"
 		],
+<<<<<<< HEAD
 		"柔灯铃": [
 			"lynette"
 		],
+=======
+>>>>>>> upstream/main
 		"奇械发条备件·歌裴莉娅": [
 			"lynette"
 		],
@@ -1928,12 +2041,21 @@
 			"mika",
 			"razor"
 		],
+<<<<<<< HEAD
 		"幽光星星": [
 			"neuvillette"
 		],
 		"原海麟角": [
 			"neuvillette"
 		],
+=======
+		"初露之源": [
+			"navia"
+		],
+		"幽光星星": [
+			"neuvillette"
+		],
+>>>>>>> upstream/main
 		"帕蒂沙兰": [
 			"nilou"
 		],
@@ -1941,13 +2063,13 @@
 			"ningguang",
 			"yunjin"
 		],
-		"防御力": [
+		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"noelle"
 		],
-		"物理伤害加成": [
+		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
 			"razor"
 		],
-		"水元素伤害加成": [
+		"FIGHT_PROP_WATER_ADD_HURT": [
 			"sangonomiyakokomi",
 			"tartaglia"
 		],
@@ -1979,43 +2101,43 @@
 	},
 	"properties": {
 		"rarity": [
-			"5",
-			"4"
+			5,
+			4
 		],
-		"element": [
-			"无",
-			"岩",
-			"草",
-			"冰",
-			"火",
-			"水",
-			"雷",
-			"风"
+		"elementType": [
+			"ELEMENT_NONE",
+			"ELEMENT_GEO",
+			"ELEMENT_DENDRO",
+			"ELEMENT_CRYO",
+			"ELEMENT_PYRO",
+			"ELEMENT_HYDRO",
+			"ELEMENT_ELECTRO",
+			"ELEMENT_ANEMO"
 		],
-		"weapontype": [
-			"单手剑",
-			"弓",
-			"双手剑",
-			"法器",
-			"长柄武器"
+		"weaponType": [
+			"WEAPON_SWORD_ONE_HAND",
+			"WEAPON_BOW",
+			"WEAPON_CLAYMORE",
+			"WEAPON_CATALYST",
+			"WEAPON_POLE"
 		],
-		"substat": [
-			"攻击力",
-			"岩元素伤害加成",
-			"草元素伤害加成",
-			"冰元素伤害加成",
-			"暴击率",
-			"生命值",
-			"雷元素伤害加成",
-			"元素充能效率",
-			"暴击伤害",
-			"治疗加成",
-			"元素精通",
-			"火元素伤害加成",
-			"风元素伤害加成",
-			"防御力",
-			"物理伤害加成",
-			"水元素伤害加成"
+		"substatType": [
+			"FIGHT_PROP_ATTACK_PERCENT",
+			"FIGHT_PROP_ROCK_ADD_HURT",
+			"FIGHT_PROP_GRASS_ADD_HURT",
+			"FIGHT_PROP_ICE_ADD_HURT",
+			"FIGHT_PROP_CRITICAL",
+			"FIGHT_PROP_HP_PERCENT",
+			"FIGHT_PROP_ELEC_ADD_HURT",
+			"FIGHT_PROP_CHARGE_EFFICIENCY",
+			"FIGHT_PROP_CRITICAL_HURT",
+			"FIGHT_PROP_HEAL_ADD",
+			"FIGHT_PROP_ELEMENT_MASTERY",
+			"FIGHT_PROP_FIRE_ADD_HURT",
+			"FIGHT_PROP_WIND_ADD_HURT",
+			"FIGHT_PROP_DEFENSE_PERCENT",
+			"FIGHT_PROP_PHYSICAL_ADD_HURT",
+			"FIGHT_PROP_WATER_ADD_HURT"
 		],
 		"gender": [
 			"男",
@@ -2099,6 +2221,11 @@
 			"「图比昂装置」",
 			"机关正齿轮",
 			"奇械机芯齿轮",
+<<<<<<< HEAD
+=======
+			"柔灯铃",
+			"原海麟角",
+>>>>>>> upstream/main
 			"石珀",
 			"极寒之核",
 			"树王圣体菇",
@@ -2148,13 +2275,21 @@
 			"月莲",
 			"永续机芯",
 			"落落莓",
+<<<<<<< HEAD
 			"柔灯铃",
+=======
+>>>>>>> upstream/main
 			"奇械发条备件·歌裴莉娅",
 			"虹彩蔷薇",
 			"帝皇的决断",
 			"钩钩果",
+<<<<<<< HEAD
 			"幽光星星",
 			"原海麟角",
+=======
+			"初露之源",
+			"幽光星星",
+>>>>>>> upstream/main
 			"帕蒂沙兰",
 			"琉璃百合",
 			"龙嗣伪鳍",

@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Haggis",
 	"rarity": "4",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Phòng Ngự",
 	"foodcategory": "Def_Add",
+=======
+	"id": 4402,
+	"name": "Haggis",
+	"rarity": 4,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Món Dạng Phòng Ngự",
+>>>>>>> upstream/main
 	"effect": "Tăng 215-308 điểm phòng ngự cho toàn đội, hiệu quả trị liệu tăng 6%-10%, kéo dài 300s.\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Món ăn có hương vị nồng nàn. Cắt nhuyễn nội tạng dê cho cùng với yến mạch nhồi vào trong bao tử dê, rồi cho thêm các loại gia vị, làm thành dạng túi. Khi cho ra đĩa thường sẽ bỏ đi phần túi bao tử, chỉ lấy các món bên trong ăn chung với củ cải, khoai tây nghiền. Là món ăn đậm đà hương vị địa phương, người Fontaine thường dùng nó làm món ăn chiêu đãi khách quý.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Thịt Rừng",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100080,
+>>>>>>> upstream/main
 			"name": "Khoai Tây",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100014,
+>>>>>>> upstream/main
 			"name": "Củ Cải Trắng",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 2
 		}

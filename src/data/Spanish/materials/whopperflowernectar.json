@@ -1,9 +1,21 @@
 {
+	"id": 112038,
 	"name": "Néctar de Megaflora",
+	"rarity": 1,
+	"sortRank": 10113,
 	"description": "Néctar extraído del pistilo de una Megaflora. Contiene pequeñas cantidades de algunos elementos.\nEl sabor del néctar recuerda un poco al de la flor dulce.",
+<<<<<<< HEAD
 	"sortorder": 3071,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de mejora de personaje y arma",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de mejora de personaje y arma",
+	"sources": [
+		"Obtenido de Megafloras",
+		"Canjear Polvo estelar"
+	]
+>>>>>>> upstream/main
 }

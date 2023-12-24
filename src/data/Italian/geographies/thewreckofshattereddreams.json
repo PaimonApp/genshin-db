@@ -1,8 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Il relitto dei sogni infranti",
 	"area": "Rovine del Laboratorio centrale",
 	"description": "Quando un'ideale viene distrutto, la sua responsabilità più importante è mantenere la pace.\nTuttavia, alcuni sembrano credere che questa energia bruciante abbia un altro scopo...",
 	"region": "Fontaine",
 	"showonlyunlocked": true,
 	"sortorder": 402
+=======
+	"id": 70500002,
+	"name": "Il relitto dei sogni infranti",
+	"areaId": 50501,
+	"areaName": "Rovine del Laboratorio centrale",
+	"description": "Quando un'ideale viene distrutto, la sua responsabilità più importante è mantenere la pace.\nTuttavia, alcuni sembrano credere che questa energia bruciante abbia un altro scopo...",
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"showOnlyUnlocked": true,
+	"sortOrder": 402
+>>>>>>> upstream/main
 }

@@ -1,9 +1,10 @@
 {
+	"id": 1402,
 	"name": "杏仁鱒魚",
-	"rarity": "1",
+	"rarity": 1,
 	"foodtype": "NORMAL",
-	"foodfilter": "恢復類料理",
-	"foodcategory": "Recovery_HpAddAll",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "恢復類料理",
 	"effect": "為選中的角色恢復生命值上限的8%-10%。\n並在之後的30秒內，每5秒恢復210-300點生命值。",
 	"description": "油煎而成的大塊魚肉。先用奶油將魚排煎熟，再將杏仁煎脆後一起擺盤。傳統的做法是整條鱒魚處理好後直接下油鍋，但近期也流行起了選用魚排煎製的做法。",
 	"suspicious": {
@@ -20,10 +21,12 @@
 	},
 	"ingredients": [
 		{
+			"id": 100084,
 			"name": "魚肉",
 			"count": 1
 		},
 		{
+			"id": 100089,
 			"name": "杏仁",
 			"count": 1
 		}

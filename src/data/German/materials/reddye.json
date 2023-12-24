@@ -1,8 +1,13 @@
 {
+	"id": 101402,
 	"name": "Rote Farbe",
+	"sortRank": 331,
 	"description": "Roter Farbstoff. Er wird sicherlich bei der Herstellung von Dekorationen verwendet werden.",
+<<<<<<< HEAD
 	"sortorder": 2983,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

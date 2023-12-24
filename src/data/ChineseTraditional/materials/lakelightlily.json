@@ -1,10 +1,11 @@
 {
+	"id": 101238,
 	"name": "湖光鈴蘭",
+	"sortRank": 315,
 	"description": "明澈而澄淨的蒼色花卉。生於水脈匯聚之處，其香清冷淡雅，辛涼柔婉。",
-	"sortorder": 2885,
 	"category": "EXCHANGE",
-	"materialtype": "楓丹區域特產",
-	"source": [
+	"typeText": "楓丹區域特產",
+	"sources": [
 		"野外採集",
 		"推薦：伊黎耶林區採集"
 	]

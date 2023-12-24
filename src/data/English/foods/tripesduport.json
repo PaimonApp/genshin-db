@@ -1,9 +1,10 @@
 {
+	"id": 3411,
 	"name": "Tripes du Port",
-	"rarity": "3",
+	"rarity": 3,
 	"foodtype": "NORMAL",
-	"foodfilter": "Recovery Dish",
-	"foodcategory": "Recovery_Revive",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Recovery Dish",
 	"effect": "Revives the selected character.\nRestores 900–1,500 HP.",
 	"description": "An offal dish. Cut the ingredients into pieces, put them in a pot, seal with dough, and bake. This recipe originated in a harbor town. The story of the town has long been swallowed by the rising seas, but this delicacy yet survives in Fontaine.",
 	"suspicious": {
@@ -20,18 +21,22 @@
 	},
 	"ingredients": [
 		{
+			"id": 100061,
 			"name": "Raw Meat",
 			"count": 3
 		},
 		{
+			"id": 100013,
 			"name": "Carrot",
 			"count": 3
 		},
 		{
+			"id": 100076,
 			"name": "Onion",
 			"count": 2
 		},
 		{
+			"id": 100099,
 			"name": "Fermented Juice",
 			"count": 1
 		}

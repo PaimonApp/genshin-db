@@ -1,9 +1,14 @@
 {
+	"id": 100938,
 	"name": "Key Sigil",
 	"dupealias": "Key Sigil 4",
+	"sortRank": 430041,
 	"description": "Key Sigil ที่สืบทอดกันมาในเกาะ Watatsumi และ Enkanomiya มันได้ซ่อนความลับบางอย่างเอาไว้",
+<<<<<<< HEAD
 	"sortorder": 4955,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "วัสดุใช้งาน",
-	"source": []
+	"typeText": "วัสดุใช้งาน",
+	"sources": []
 }

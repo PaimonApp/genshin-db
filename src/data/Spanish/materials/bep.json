@@ -1,9 +1,15 @@
 {
+	"id": 116001,
 	"name": "EXP PB",
+	"rarity": 3,
+	"sortRank": 430061,
 	"description": "Tu diario de viaje contiene todo lo que has experimentado en tu largo viaje. Estas experiencias algún día se convertirán en canciones.",
+<<<<<<< HEAD
 	"sortorder": 4959,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "EXP PB",
-	"source": []
+	"typeText": "EXP PB",
+	"sources": []
 }

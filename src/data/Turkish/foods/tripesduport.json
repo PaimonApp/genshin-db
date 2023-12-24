@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "İşkembe Kapama",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "İyileştirici Yemek",
 	"foodcategory": "Recovery_Revive",
+=======
+	"id": 3411,
+	"name": "İşkembe Kapama",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "İyileştirici Yemek",
+>>>>>>> upstream/main
 	"effect": "Seçili karakteri diriltir.\n900 ila 1.500 Can yeniler.",
 	"description": "Bir sakatat yemeği. Malzemeler küçük parçalar halinde doğrandıktan sonra bir tencereye eklenir, üzeri hamurla kapatılır ve pişirilir. Bu tarifin kökeni bir liman kasabasına dayanmaktadır. Çok uzun zaman önce o kasaba sular altında kaldı ama bu leziz yemeğin tarifi hâlâ Fontaine'de kullanılmaktadır.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Çiğ Et",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "Havuç",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "Soğan",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100099,
+>>>>>>> upstream/main
 			"name": "Fermente Meyve Suyu",
 			"count": 1
 		}

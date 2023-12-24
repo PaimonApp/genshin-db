@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Nergis Haçı Notları: Labirent",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1391,
+=======
+	"id": [
+		81407
+	],
+	"name": "Nergis Haçı Notları: Labirent",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1391,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Nergis Haçı Notları: Labirent",
 		"description": "\"Sizin için çizdiğim bu dünyayı nasıl buldunuz?\"",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

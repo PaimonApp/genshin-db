@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "„Liam“",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1419,
+=======
+	"id": [
+		81435
+	],
+	"name": "„Liam“",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1419,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "„Liam“",
 		"description": "Besiege die Lokallegende Liam.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

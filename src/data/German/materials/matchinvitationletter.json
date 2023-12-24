@@ -1,9 +1,15 @@
 {
+	"id": 107020,
 	"name": "Duelleinladung",
+	"rarity": 3,
+	"sortRank": 410021,
 	"description": "Interagiere mit der Duell-Einladungstafel in der Taverne zum Katzenschwanz und wähle jemanden aus der Kartenbeschwörerliste aus, den du zu einem Duell in der Taverne einladen möchtest. Mithilfe dieser Duelleinladung wird der eingeladene Kartenbeschwörer dann in der Taverne auf dich warten.",
+<<<<<<< HEAD
 	"sortorder": 4864,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Verbrauchsgegenstand",
-	"source": []
+	"typeText": "Verbrauchsgegenstand",
+	"sources": []
 }

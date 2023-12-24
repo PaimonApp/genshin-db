@@ -1,9 +1,21 @@
 {
+	"id": 112089,
 	"name": "隙間のコア",
+	"rarity": 2,
+	"sortRank": 10131,
 	"description": "ブリーチャープリムスが残した欠片。\n地上のどの生命体とも似た箇所がない。",
+<<<<<<< HEAD
 	"sortorder": 3125,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "キャラと武器育成素材",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "キャラと武器育成素材",
+	"sources": [
+		"ブリーチャープリムスがドロップ",
+		"スターダスト交換"
+	]
+>>>>>>> upstream/main
 }

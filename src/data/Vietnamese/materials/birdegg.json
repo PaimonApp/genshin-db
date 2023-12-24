@@ -1,10 +1,15 @@
 {
+	"id": 100062,
 	"name": "Trứng Chim",
+	"sortRank": 321,
 	"description": "Trứng gia cầm có thể bổ sung dinh dưỡng cho cả ngày dài.",
+<<<<<<< HEAD
 	"sortorder": 2913,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Nguyên Liệu Thực Phẩm",
-	"source": [
+	"typeText": "Nguyên Liệu Thực Phẩm",
+	"sources": [
 		"Thu Thập Bên Ngoài"
 	]
 }

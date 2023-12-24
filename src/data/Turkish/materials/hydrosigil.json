@@ -1,11 +1,17 @@
 {
+	"id": 302,
 	"name": "Su Mührü",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "Fontaine denizlerinin onayını gösteren bir mühür.\nKaynak sularının ödüllerini almak için Lucine Çeşmesine bu mührü sun.",
+<<<<<<< HEAD
 	"sortorder": 4928,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Şehir Devleti Mührü",
-	"source": [
+	"typeText": "Şehir Devleti Mührü",
+	"sources": [
 		"Fontaine Keşif Ödülü"
 	]
 }

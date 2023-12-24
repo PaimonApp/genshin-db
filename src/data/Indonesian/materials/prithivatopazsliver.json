@@ -1,11 +1,17 @@
 {
+	"id": 104171,
 	"name": "Prithiva Topaz Sliver",
+	"rarity": 2,
+	"sortRank": 12108,
 	"description": "Material Ascension Karakter.",
+<<<<<<< HEAD
 	"sortorder": 3216,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Material Ascension Karakter",
-	"source": [
+	"typeText": "Material Ascension Karakter",
+	"sources": [
 		"Dijatuhkan oleh Geo Hypostasis",
 		"Dijatuhkan oleh Golden Wolflord",
 		"Dijatuhkan oleh Ruin Serpent",

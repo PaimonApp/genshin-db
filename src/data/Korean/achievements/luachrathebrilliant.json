@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "「화려한 루어크라」",
 	"achievementgroup": "천지만물",
 	"ishidden": true,
 	"sortorder": 1377,
+=======
+	"id": [
+		81393
+	],
+	"name": "「화려한 루어크라」",
+	"achievementGroupName": "천지만물",
+	"isHidden": true,
+	"sortOrder": 1377,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "「화려한 루어크라」",
 		"description": "지방 전설·화려한 루어크라에게 승리하기",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "원석",
 			"count": 5
 		}

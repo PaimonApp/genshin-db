@@ -1,8 +1,20 @@
 {
+<<<<<<< HEAD
 	"name": "Torre de la Gestalt",
 	"area": "Condado Morte",
 	"description": "Antes era muchas cosas y muchos sueños.",
 	"region": "Fontaine",
 	"showonlyunlocked": true,
 	"sortorder": 409
+=======
+	"id": 70500009,
+	"name": "Torre de la Gestalt",
+	"areaId": 50700,
+	"areaName": "Condado Morte",
+	"description": "Antes era muchas cosas y muchos sueños.",
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"showOnlyUnlocked": true,
+	"sortOrder": 409
+>>>>>>> upstream/main
 }

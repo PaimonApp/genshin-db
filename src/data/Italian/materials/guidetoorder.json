@@ -1,17 +1,25 @@
 {
+	"id": 104345,
 	"name": "Guida all'ordine",
+<<<<<<< HEAD
 	"description": "Materiale per l'aumento di livello dei talenti.\nL'ordine è lo scudo della Nazione dell'Acqua.\nL'essenza della legge di Fontaine consiste nel mantenere un ordine stabile. Senza la garanzia dell'ordine, la giustizia degenererà in violenza illimitata, un'arma usata da tutti contro tutti.",
 	"sortorder": 3260,
 	"rarity": "3",
+=======
+	"rarity": 3,
+	"sortRank": 13115,
+	"description": "Materiale per l'aumento di livello dei talenti.\nL'ordine è lo scudo della Nazione dell'Acqua.\nL'essenza della legge di Fontaine consiste nel mantenere un ordine stabile. Senza la garanzia dell'ordine, la giustizia degenererà in violenza illimitata, un'arma usata da tutti contro tutti.",
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Materiale per talenti dei personaggi",
-	"dropdomain": "Dominio della maestria: Litania risonante",
-	"daysofweek": [
+	"typeText": "Materiale per talenti dei personaggi",
+	"dropDomainId": 4495,
+	"dropDomainName": "Dominio della maestria: Litania risonante",
+	"daysOfWeek": [
 		"Mercoledì",
 		"Sabato",
 		"Domenica"
 	],
-	"source": [
+	"sources": [
 		"Creato"
 	]
 }

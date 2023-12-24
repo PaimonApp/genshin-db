@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Новое вдохновение! Новые товары!",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 4095,
+=======
+	"id": [
+		84571
+	],
+	"name": "Новое вдохновение! Новые товары!",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4095,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Новое вдохновение! Новые товары!",
 		"description": "Помогите Айнри создать три новых вида Фонты и один раз попробуйте экспериментальный напиток.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

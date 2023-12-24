@@ -1,10 +1,15 @@
 {
+	"id": 100080,
 	"name": "Khoai Tây",
+	"sortRank": 321,
 	"description": "Rau củ có hình khối. Là quà tặng từ đất, thần kì đến nỗi cho dù làm món gì thì ăn cũng không ngán.",
+<<<<<<< HEAD
 	"sortorder": 2922,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Nguyên Liệu Thực Phẩm",
-	"source": [
+	"typeText": "Nguyên Liệu Thực Phẩm",
+	"sources": [
 		"Mua trong Tiệm Tạp Hóa"
 	]
 }

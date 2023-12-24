@@ -1,11 +1,17 @@
 {
+	"id": 104121,
 	"name": "Осколок лазурита Варунада",
+	"rarity": 2,
+	"sortRank": 12103,
 	"description": "Материал возвышения персонажа.",
+<<<<<<< HEAD
 	"sortorder": 3196,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Возвышение персонажей",
-	"source": [
+	"typeText": "Возвышение персонажей",
+	"sources": [
 		"Океаниды",
 		"Гидро гипостазис",
 		"Гидротульпа",

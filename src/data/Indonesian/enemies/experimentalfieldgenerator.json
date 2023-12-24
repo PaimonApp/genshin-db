@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "Experimental Field Generator",
 	"specialname": "Prototipe Cal. Breguet",
 	"enemytype": "BOSS",
+=======
+	"id": 24080101,
+	"name": "Experimental Field Generator",
+	"specialName": "Prototipe Cal. Breguet",
+	"enemyType": "BOSS",
+>>>>>>> upstream/main
 	"category": "Automaton",
 	"description": "Perangkat besar yang dirancang oleh almarhum Edwin Eastinghouse. Ia berkemampuan untuk \"melawan\" efek gravitasi. Menurut rancangan awal desain, ini adalah langkah pertama dalam rencana untuk menjadikan Fontaine sebagai kota di langit, sehingga orang tidak perlu lagi khawatir tentang ombak yang pernah menyapu daratan. Bahkan sekalipun ketujuh bangsa ditelan oleh laut dalam, Court of Fontaine yang elegan tetap akan mengapung di udara layaknya Celestia. Bahkan misteri alam semesta kini tidak lagi tampak begitu jauh dan tak terengkuh.\nArkhium yang terdapat pada inti perangkat memiliki karakteristik \"membelah\" atau \"mengendap\". Ia dapat memisahkan materi, ataupun hal-hal tertentu di luar materi. Dikatakan bahwa proses ini dapat ditukar urutannya, namun Institut Penelitian Fontaine hanya tergila-gila dengan efek fisika yang mampu dihasilkannya.",
 	"investigation": {
@@ -9,12 +16,19 @@
 		"category": "Boss",
 		"description": "Produk buatan Institut Penelitian Energi Kinetik Fontaine yang kehilangan kendali dikarenakan oleh suatu kecelakaan."
 	},
+<<<<<<< HEAD
 	"rewardpreview": [
 		{
+=======
+	"rewardPreview": [
+		{
+			"id": 102,
+>>>>>>> upstream/main
 			"name": "Adventure EXP",
 			"count": 200
 		},
 		{
+<<<<<<< HEAD
 			"name": "Mora"
 		},
 		{
@@ -33,10 +47,22 @@
 			"name": "Prithiva Topaz Gemstone"
 		},
 		{
+=======
+			"id": 202,
+			"name": "Mora"
+		},
+		{
+			"id": 105,
+			"name": "Companionship EXP"
+		},
+		{
+			"id": 113052,
+>>>>>>> upstream/main
 			"name": "\"Tourbillon Device\"",
 			"count": 2.5556
 		},
 		{
+<<<<<<< HEAD
 			"name": "Instructor",
 			"rarity": "3"
 		},
@@ -71,6 +97,67 @@
 		{
 			"name": "Wanderer's Troupe",
 			"rarity": "5"
+=======
+			"id": 104171,
+			"name": "Prithiva Topaz Sliver"
+		},
+		{
+			"id": 104172,
+			"name": "Prithiva Topaz Fragment"
+		},
+		{
+			"id": 104173,
+			"name": "Prithiva Topaz Chunk"
+		},
+		{
+			"id": 104174,
+			"name": "Prithiva Topaz Gemstone"
+		},
+		{
+			"id": 400032,
+			"name": "Instructor",
+			"rarity": 3
+		},
+		{
+			"id": 400042,
+			"name": "The Exile",
+			"rarity": 3
+		},
+		{
+			"id": 400062,
+			"name": "Traveling Doctor",
+			"rarity": 3
+		},
+		{
+			"id": 400088,
+			"name": "Gladiator's Finale",
+			"rarity": 4
+		},
+		{
+			"id": 400098,
+			"name": "Wanderer's Troupe",
+			"rarity": 4
+		},
+		{
+			"id": 400033,
+			"name": "Instructor",
+			"rarity": 4
+		},
+		{
+			"id": 400043,
+			"name": "The Exile",
+			"rarity": 4
+		},
+		{
+			"id": 400089,
+			"name": "Gladiator's Finale",
+			"rarity": 5
+		},
+		{
+			"id": 400099,
+			"name": "Wanderer's Troupe",
+			"rarity": 5
+>>>>>>> upstream/main
 		}
 	]
 }

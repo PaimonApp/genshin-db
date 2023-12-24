@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
 	"name": "Fontaine - เริงระบำในน้ำค้างขาว III",
 	"sortorder": 47,
 	"reward": {
+=======
+	"id": 46,
+	"name": "Fontaine - เริงระบำในน้ำค้างขาว III",
+	"sortOrder": 47,
+	"reward": {
+		"id": 210182,
+>>>>>>> upstream/main
 		"name": "Fontaine - สมบูรณ์"
 	}
 }

@@ -1,9 +1,10 @@
 {
+	"id": 2408,
 	"name": "苹果黑布丁",
-	"rarity": "2",
+	"rarity": 2,
 	"foodtype": "NORMAL",
-	"foodfilter": "冒险类料理",
-	"foodcategory": "Other_SPReduceConsume",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "冒险类料理",
 	"effect": "队伍中所有角色冲刺消耗的体力降低15%-25%，持续900秒。\n多人游戏时，仅对自己的角色生效。",
 	"description": "传统的枫丹菜肴。将苹果块与血肠片分别煎熟后摆盘，可以搭配酱汁食用。常有外国游客看到这道菜的名字误以为是甜点，但黑布丁其实是血肠的别称。",
 	"suspicious": {
@@ -20,14 +21,17 @@
 	},
 	"ingredients": [
 		{
+			"id": 100001,
 			"name": "苹果",
 			"count": 2
 		},
 		{
+			"id": 100061,
 			"name": "兽肉",
 			"count": 1
 		},
 		{
+			"id": 110004,
 			"name": "黄油",
 			"count": 1
 		}

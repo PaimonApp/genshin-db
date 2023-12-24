@@ -1,10 +1,15 @@
 {
+	"id": 100057,
 	"name": "Graines de pissenlit",
+	"sortRank": 311,
 	"description": "Des graines qui volent au gré du vent. Même dépourvues d'aigrettes, elles désirent être emportées très loin.",
+<<<<<<< HEAD
 	"sortorder": 2853,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Produit de Mondstadt",
-	"source": [
+	"typeText": "Produit de Mondstadt",
+	"sources": [
 		"Dans la nature",
 		"Zone conseillée : Portes de Mondstadt"
 	]

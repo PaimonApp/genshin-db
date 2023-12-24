@@ -1,10 +1,15 @@
 {
+	"id": 100079,
 	"name": "Domates",
+	"sortRank": 321,
 	"description": "Tatlı ekşi ve parlak kırmızı bir malzeme. Meyve mi yoksa sebze mi olduğu tartışması hâlâ devam ediyor.",
+<<<<<<< HEAD
 	"sortorder": 2921,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Yemek Malzemesi",
-	"source": [
+	"typeText": "Yemek Malzemesi",
+	"sources": [
 		"Gıda pazarlarında satılır."
 	]
 }

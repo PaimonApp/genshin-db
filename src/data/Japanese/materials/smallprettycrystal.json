@@ -1,10 +1,15 @@
 {
+	"id": 111020,
 	"name": "綺麗な結晶（小）",
+	"sortRank": 430051,
 	"description": "合成追加産物",
+<<<<<<< HEAD
 	"sortorder": 4956,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "合成産物",
-	"source": [
+	"typeText": "合成産物",
+	"sources": [
 		"合成で獲得"
 	]
 }

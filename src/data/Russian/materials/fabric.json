@@ -1,8 +1,13 @@
 {
+	"id": 101401,
 	"name": "Ткань",
+	"sortRank": 331,
 	"description": "Ткань хорошего качества. Безусловно пригодится для изготовления декора.",
+<<<<<<< HEAD
 	"sortorder": 2982,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Материал",
-	"source": []
+	"typeText": "Материал",
+	"sources": []
 }

@@ -1,9 +1,10 @@
 {
+	"id": 2407,
 	"name": "香烤肋排",
-	"rarity": "2",
+	"rarity": 2,
 	"foodtype": "NORMAL",
-	"foodfilter": "恢復類料理",
-	"foodcategory": "Recovery_HpAdd",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "恢復類料理",
 	"effect": "為選中的角色恢復生命值上限的20%-24%，並額外恢復900-1500點生命值。",
 	"description": "脆皮包裹的肉料理。先微微煎香肋排的表面，再刷醬裹上調製好的脆皮，最後用低溫慢烤。嚴格的火候控制使得表皮焦脆，同時肉嫩多汁。",
 	"suspicious": {
@@ -20,14 +21,17 @@
 	},
 	"ingredients": [
 		{
+			"id": 100061,
 			"name": "獸肉",
 			"count": 2
 		},
 		{
+			"id": 100077,
 			"name": "胡椒",
 			"count": 2
 		},
 		{
+			"id": 101231,
 			"name": "茉潔草",
 			"count": 1
 		}

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Vers les étoiles brillant dans les profondeurs",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 5086,
+=======
+	"id": [
+		84307
+	],
+	"name": "Vers les étoiles brillant dans les profondeurs",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 5086,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Vers les étoiles brillant dans les profondeurs",
 		"description": "Terminez « Vers les étoiles brillant dans les profondeurs ».",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 10
 		}

@@ -1,7 +1,13 @@
 {
+	"id": 24,
 	"name": "Inazuma: Die Inseln des Donners und der Ewigkeit – Teil 1",
+<<<<<<< HEAD
 	"sortorder": 34,
+=======
+	"sortOrder": 34,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210090,
 		"name": "Inazuma – Kujou-Wappen"
 	}
 }

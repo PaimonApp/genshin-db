@@ -1,10 +1,15 @@
 {
+	"id": 101009,
 	"name": "Cristal da Essência Condensada",
+	"sortRank": 301,
 	"description": "Um cristal brilhante e claro com um núcleo que é resistente e maleável.",
+<<<<<<< HEAD
 	"sortorder": 2827,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Minério de Forjamento",
-	"source": [
+	"typeText": "Minério de Forjamento",
+	"sources": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado em Elynas (Superfície)"
 	]

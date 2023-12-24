@@ -1,11 +1,17 @@
 {
+	"id": 104101,
 	"name": "輝くダイヤ·砕屑",
+	"rarity": 2,
+	"sortRank": 12101,
 	"description": "キャラクターの突破用アイテム。\n「世界へようこそ。」",
+<<<<<<< HEAD
 	"sortorder": 3188,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "キャラクター突破素材",
-	"source": [
+	"typeText": "キャラクター突破素材",
+	"sources": [
 		"冒険ランク報酬"
 	]
 }

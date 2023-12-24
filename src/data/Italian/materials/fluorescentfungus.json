@@ -1,10 +1,15 @@
 {
+	"id": 101209,
 	"name": "Fungo fluorescente",
+	"sortRank": 313,
 	"description": "Un fungo che splende come una luce notturna. Custodisce un potere misterioso.",
+<<<<<<< HEAD
 	"sortorder": 2870,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Specialità d'Inazuma",
-	"source": [
+	"typeText": "Specialità d'Inazuma",
+	"sources": [
 		"Presente in natura",
 		"Consiglio: si trova sull'Isola di Tsurumi"
 	]

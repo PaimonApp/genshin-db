@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Таймеры погружения и пухлефрукт",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1376,
+=======
+	"id": [
+		81392
+	],
+	"name": "Таймеры погружения и пухлефрукт",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1376,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Таймеры погружения и пухлефрукт",
 		"description": "Завершите продвинутую подводную подготовку.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

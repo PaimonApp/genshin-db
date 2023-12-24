@@ -1,17 +1,25 @@
 {
+	"id": 104339,
 	"name": "Guide de l'Équité",
+<<<<<<< HEAD
 	"description": "Matériau d'amélioration d'aptitude.\nL'équité est le rivage de la patrie de l'eau.\nL'équité est le fondement sur lequel Fontaine a été fondée. L'équité constitue la norme de la loi. Si la loi perd l'essence de l'équité, elle deviendra un échiquier joué pour le profit.",
 	"sortorder": 3254,
 	"rarity": "3",
+=======
+	"rarity": 3,
+	"sortRank": 13113,
+	"description": "Matériau d'amélioration d'aptitude.\nL'équité est le rivage de la patrie de l'eau.\nL'équité est le fondement sur lequel Fontaine a été fondée. L'équité constitue la norme de la loi. Si la loi perd l'essence de l'équité, elle deviendra un échiquier joué pour le profit.",
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Matériau d'aptitude de personnage",
-	"dropdomain": "Donjon de la maîtrise : Rime rythmique",
-	"daysofweek": [
+	"typeText": "Matériau d'aptitude de personnage",
+	"dropDomainId": 4461,
+	"dropDomainName": "Donjon de la maîtrise : Rime rythmique",
+	"daysOfWeek": [
 		"Lundi",
 		"Jeudi",
 		"Dimanche"
 	],
-	"source": [
+	"sources": [
 		"Synthèse"
 	]
 }

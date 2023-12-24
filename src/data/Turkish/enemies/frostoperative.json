@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"name": "Buz Ajanı",
 	"specialname": "Anna",
 	"enemytype": "ELITE",
+=======
+	"id": 23060101,
+	"name": "Buz Ajanı",
+	"specialName": "Anna",
+	"enemyType": "ELITE",
+>>>>>>> upstream/main
 	"category": "Fatui",
 	"description": "Seçkin bir Fatui tetikçisi.\nÇocukken seçilirler ve yıllar boyu süren eğitim, öğretim ve sayısız imtihanın sonucunda \"Ajan\" olurlar. Olağanüstü beceri ve sarsılmaz sadakatleriyle Fatui içinde en öne çıkan askerlerdir.",
 	"investigation": {
@@ -9,23 +16,42 @@
 		"category": "Seçkin Düşmanlar",
 		"description": "Olağanüstü beceriye ve sarsılmaz iradeye sahip seçkin bir Fatui tetikçisi."
 	},
+<<<<<<< HEAD
 	"rewardpreview": [
 		{
 			"name": "Mora"
 		},
 		{
+=======
+	"rewardPreview": [
+		{
+			"id": 202,
+			"name": "Mora"
+		},
+		{
+			"id": 112092,
+>>>>>>> upstream/main
 			"name": "Kıdemli Ajanın Cep Saati",
 			"count": 5.2526
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 112093,
+>>>>>>> upstream/main
 			"name": "Ajanın Klasik Cep Saati",
 			"count": 1.4006
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 112094,
+>>>>>>> upstream/main
 			"name": "Ajanın Vefası",
 			"count": 0.3502
 		},
 		{
+<<<<<<< HEAD
 			"name": "Vahşi Savaşçı",
 			"rarity": "3"
 		},
@@ -52,6 +78,41 @@
 		{
 			"name": "Sürgün",
 			"rarity": "4"
+=======
+			"id": 400022,
+			"name": "Vahşi Savaşçı",
+			"rarity": 3
+		},
+		{
+			"id": 400032,
+			"name": "Eğitmen",
+			"rarity": 3
+		},
+		{
+			"id": 400042,
+			"name": "Sürgün",
+			"rarity": 3
+		},
+		{
+			"id": 400062,
+			"name": "Gezgin Doktor",
+			"rarity": 3
+		},
+		{
+			"id": 400023,
+			"name": "Vahşi Savaşçı",
+			"rarity": 4
+		},
+		{
+			"id": 400033,
+			"name": "Eğitmen",
+			"rarity": 4
+		},
+		{
+			"id": 400043,
+			"name": "Sürgün",
+			"rarity": 4
+>>>>>>> upstream/main
 		}
 	]
 }

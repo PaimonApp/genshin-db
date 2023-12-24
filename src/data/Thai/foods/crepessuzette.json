@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Crepes Suzette",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "เมนูการผจญภัย",
 	"foodcategory": "Other_SPReduceConsume",
+=======
+	"id": 3415,
+	"name": "Crepes Suzette",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "เมนูการผจญภัย",
+>>>>>>> upstream/main
 	"effect": "ลดอัตราการเสียพลังกายจากการร่อนและการวิ่งให้กับสมาชิกทีมทั้งหมดลง 15%-25% เป็นเวลา 900 วินาที\nเมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
 	"description": "เครปมีไส้ เริ่มจากทอดแป้งเครปให้สุก แล้วทาแยม ครีม และผลไม้ลงไป ที่จริงแล้ววิธีทำเมนูนี้สามารถพลิกแพลงได้หลากหลาย ซึ่งจะให้รสชาติที่แตกต่างกันไปตามวัตถุดิบที่ใช้",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 101230,
+>>>>>>> upstream/main
 			"name": "Bulle Fruit",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Cream",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110008,
+>>>>>>> upstream/main
 			"name": "Jam",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Flour",
 			"count": 1
 		}

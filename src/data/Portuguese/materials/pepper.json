@@ -1,10 +1,15 @@
 {
+	"id": 100077,
 	"name": "Pimenta",
+	"sortRank": 321,
 	"description": "Picante. Ela pode tirar os sabores enjoativos e deixar tudo mais cheiroso. Combina bem com carnes.",
+<<<<<<< HEAD
 	"sortorder": 2919,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Vendido nas Tendas"
 	]
 }

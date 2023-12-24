@@ -1,10 +1,15 @@
 {
+	"id": 100019,
 	"name": "Lótus de Prata",
+	"sortRank": 321,
 	"description": "Uma planta rara que cresce em penhascos íngremes. Possui um brilho magnífico durante a noite.",
+<<<<<<< HEAD
 	"sortorder": 2908,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente",
-	"source": [
+	"typeText": "Ingrediente",
+	"sources": [
 		"Encontrado na natureza"
 	]
 }

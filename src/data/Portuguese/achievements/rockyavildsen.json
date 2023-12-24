@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Roger Averson",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1418,
+=======
+	"id": [
+		81434
+	],
+	"name": "Roger Averson",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1418,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Roger Averson",
 		"description": "Derrote a Lenda Local: Roger Averson",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

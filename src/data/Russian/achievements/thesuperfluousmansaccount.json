@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Рассказ выжившего",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1362,
+=======
+	"id": [
+		81378
+	],
+	"name": "Рассказ выжившего",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1362,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Рассказ выжившего",
 		"description": "Выслушайте Клайнса.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

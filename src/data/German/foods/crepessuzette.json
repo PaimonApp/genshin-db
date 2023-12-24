@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Crêpes Suzette",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gerichte für Abenteuer",
 	"foodcategory": "Other_SPReduceConsume",
+=======
+	"id": 3415,
+	"name": "Crêpes Suzette",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "Gerichte für Abenteuer",
+>>>>>>> upstream/main
 	"effect": "Verringert die beim Gleiten und Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 s lang um 15 bis 25 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Gefüllte Crêpes. Erst werden sie gebraten, dann mit Marmelade, Sahne und geschnittenem Obst serviert. Eigentlich gibt es keine einheitliche Zubereitungsart, und der Geschmack variiert je nach den hinzugefügten Zutaten.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 101230,
+>>>>>>> upstream/main
 			"name": "Blasenmandarine",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Sahne",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110008,
+>>>>>>> upstream/main
 			"name": "Konfitüre",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Mehl",
 			"count": 1
 		}

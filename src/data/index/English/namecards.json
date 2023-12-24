@@ -59,6 +59,10 @@
 		"celebrationvastness": "Celebration: Vastness",
 		"celebrationwondrouscalculation": "Celebration: Wondrous Calculation",
 		"charlotteexclusive": "Charlotte: Exclusive",
+<<<<<<< HEAD
+=======
+		"chevreusetypeii": "Chevreuse: Type II",
+>>>>>>> upstream/main
 		"childefoullegacy": "Childe: Foul Legacy",
 		"chongyunspiritblade": "Chongyun: Spirit Blade",
 		"colleigoodvirtue": "Collei: Good Virtue",
@@ -115,6 +119,10 @@
 		"mondstadtherosfame": "Mondstadt: Hero's Fame",
 		"mondstadtwhistlingwind": "Mondstadt: Whistling Wind",
 		"nahidacrescent": "Nahida: Crescent",
+<<<<<<< HEAD
+=======
+		"naviarosula": "Navia: Rosula",
+>>>>>>> upstream/main
 		"neuvillettesurge": "Neuvillette: Surge",
 		"niloulotusdance": "Nilou: Lotus Dance",
 		"ningguangphoenix": "Ningguang: Phoenix",
@@ -161,6 +169,7 @@
 		"travelnotessecrets": "Travel Notes: Secrets",
 		"travelnotesstellarrivers": "Travel Notes: Stellar Rivers",
 		"travelnotessubspacerecreation": "Travel Notes: Sub-Space Recreation",
+		"travelnotestimeinscribed": "Travel Notes: Time Inscribed",
 		"travelnotesvividillumination": "Travel Notes: Vivid Illumination",
 		"travelnoteswhirlingwaltz": "Travel Notes: Whirling Waltz",
 		"travelnoteswindblume": "Travel Notes: Windblume",
@@ -240,6 +249,10 @@
 		"Celebration: Vastness": "celebrationvastness",
 		"Celebration: Wondrous Calculation": "celebrationwondrouscalculation",
 		"Charlotte: Exclusive": "charlotteexclusive",
+<<<<<<< HEAD
+=======
+		"Chevreuse: Type II": "chevreusetypeii",
+>>>>>>> upstream/main
 		"Childe: Foul Legacy": "childefoullegacy",
 		"Chongyun: Spirit Blade": "chongyunspiritblade",
 		"Collei: Good Virtue": "colleigoodvirtue",
@@ -296,6 +309,10 @@
 		"Mondstadt: Hero's Fame": "mondstadtherosfame",
 		"Mondstadt: Whistling Wind": "mondstadtwhistlingwind",
 		"Nahida: Crescent": "nahidacrescent",
+<<<<<<< HEAD
+=======
+		"Navia: Rosula": "naviarosula",
+>>>>>>> upstream/main
 		"Neuvillette: Surge": "neuvillettesurge",
 		"Nilou: Lotus Dance": "niloulotusdance",
 		"Ningguang: Phoenix": "ningguangphoenix",
@@ -342,6 +359,7 @@
 		"Travel Notes: Secrets": "travelnotessecrets",
 		"Travel Notes: Stellar Rivers": "travelnotesstellarrivers",
 		"Travel Notes: Sub-Space Recreation": "travelnotessubspacerecreation",
+		"Travel Notes: Time Inscribed": "travelnotestimeinscribed",
 		"Travel Notes: Vivid Illumination": "travelnotesvividillumination",
 		"Travel Notes: Whirling Waltz": "travelnoteswhirlingwaltz",
 		"Travel Notes: Windblume": "travelnoteswindblume",

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Wriothesley",
 	"fullname": "Wriothesley",
 	"title": "Sứ Giả Tội Danh Ẩn Mật",
@@ -14,6 +15,27 @@
 	"affiliation": "Pháo Đài Meropide",
 	"birthdaymmdd": "11/23",
 	"birthday": "23 tháng 11",
+=======
+	"id": 10000086,
+	"name": "Wriothesley",
+	"title": "Sứ Giả Tội Danh Ẩn Mật",
+	"description": "Công tước của Pháo Đài Meropide, là vị chúa tể ẩn mình trong biển tối.",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "Pháp Khí",
+	"bodyType": "BODY_MALE",
+	"gender": "nam",
+	"qualityType": "QUALITY_ORANGE",
+	"rarity": 5,
+	"birthdaymmdd": "11/23",
+	"birthday": "23 tháng 11",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "Băng",
+	"affiliation": "Pháo Đài Meropide",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "Fontaine",
+	"substatType": "FIGHT_PROP_CRITICAL_HURT",
+	"substatText": "ST Bạo Kích",
+>>>>>>> upstream/main
 	"constellation": "Cung Thủ Ngục Khuyển",
 	"cv": {
 		"english": "Joe Zieja",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "Mảnh Ngọc Băng Vụn",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Đơn Vị Thăm Dò Phụ Trợ",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Liên Kết",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Đơn Vị Thăm Dò Phụ Trợ",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Liên Kết",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Đơn Vị Thăm Dò Phụ Trợ",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Chính",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Miếng Ngọc Băng",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Đơn Vị Thăm Dò Phụ Trợ",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Chính",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "Miếng Ngọc Băng",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Đơn Vị Thăm Dò Phụ Trợ",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Lõi Trung Tâm",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "Ngọc Băng",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "\"Thiết Bị Tourbillon\"",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "Đơn Vị Thăm Dò Phụ Trợ",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "Bánh Răng Lõi Trung Tâm",
 				"count": 24
 			}

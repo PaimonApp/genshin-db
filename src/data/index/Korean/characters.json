@@ -12,6 +12,10 @@
 		"bennett": "베넷",
 		"candace": "캔디스",
 		"charlotte": "샤를로트",
+<<<<<<< HEAD
+=======
+		"chevreuse": "슈브르즈",
+>>>>>>> upstream/main
 		"chongyun": "중운",
 		"collei": "콜레이",
 		"cyno": "사이노",
@@ -46,6 +50,10 @@
 		"mika": "미카",
 		"mona": "모나",
 		"nahida": "나히다",
+<<<<<<< HEAD
+=======
+		"navia": "나비아",
+>>>>>>> upstream/main
 		"neuvillette": "느비예트",
 		"nilou": "닐루",
 		"ningguang": "응광",
@@ -90,6 +98,10 @@
 		"베넷": "bennett",
 		"캔디스": "candace",
 		"샤를로트": "charlotte",
+<<<<<<< HEAD
+=======
+		"슈브르즈": "chevreuse",
+>>>>>>> upstream/main
 		"중운": "chongyun",
 		"콜레이": "collei",
 		"사이노": "cyno",
@@ -124,6 +136,10 @@
 		"미카": "mika",
 		"모나": "mona",
 		"나히다": "nahida",
+<<<<<<< HEAD
+=======
+		"나비아": "navia",
+>>>>>>> upstream/main
 		"느비예트": "neuvillette",
 		"닐루": "nilou",
 		"응광": "ningguang",
@@ -179,6 +195,11 @@
 		"화살방패자리": "candace",
 		"진실을 쫓는 렌즈": "charlotte",
 		"진실의 렌즈자리": "charlotte",
+<<<<<<< HEAD
+=======
+		"엄정한 법의 집행자": "chevreuse",
+		"총검자리": "chevreuse",
+>>>>>>> upstream/main
 		"얼어붙은 열정": "chongyun",
 		"건곤봉자리": "chongyun",
 		"다시 움튼 새싹": "collei",
@@ -245,6 +266,11 @@
 		"영천자리": "mona",
 		"정화의 하얀 풀": "nahida",
 		"지혜의 주인자리": "nahida",
+<<<<<<< HEAD
+=======
+		"빛나는 장미의 타륜": "navia",
+		"들장미자리": "navia",
+>>>>>>> upstream/main
 		"훈시의 파도 소리": "neuvillette",
 		"???": "neuvillette",
 		"무대에 내려앉은 연꽃": "nilou",
@@ -314,6 +340,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"diona",
@@ -370,6 +400,10 @@
 			"lyney",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"qiqi",
@@ -387,11 +421,11 @@
 			"yoimiya",
 			"zhongli"
 		],
-		"없음": [
+		"ELEMENT_NONE": [
 			"aether",
 			"lumine"
 		],
-		"한손검": [
+		"WEAPON_SWORD_ONE_HAND": [
 			"aether",
 			"albedo",
 			"alhaitham",
@@ -412,7 +446,7 @@
 			"qiqi",
 			"xingqiu"
 		],
-		"공격력": [
+		"FIGHT_PROP_ATTACK_PERCENT": [
 			"aether",
 			"amber",
 			"charlotte",
@@ -473,6 +507,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -507,6 +545,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -596,16 +638,17 @@
 			"aether",
 			"lumine"
 		],
-		"바위": [
+		"ELEMENT_GEO": [
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"바위 원소 피해 보너스": [
+		"FIGHT_PROP_ROCK_ADD_HURT": [
 			"albedo",
 			"gorou",
 			"ningguang",
@@ -643,6 +686,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -665,6 +709,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -689,6 +734,7 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -707,12 +753,13 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
+			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"풀": [
+		"ELEMENT_DENDRO": [
 			"alhaitham",
 			"baizhu",
 			"collei",
@@ -722,7 +769,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"풀 원소 피해 보너스": [
+		"FIGHT_PROP_GRASS_ADD_HURT": [
 			"alhaitham",
 			"tighnari"
 		],
@@ -818,7 +865,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"얼음": [
+		"ELEMENT_CRYO": [
 			"aloy",
 			"charlotte",
 			"chongyun",
@@ -835,7 +882,7 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"활": [
+		"WEAPON_BOW": [
 			"aloy",
 			"amber",
 			"collei",
@@ -852,7 +899,7 @@
 			"yelan",
 			"yoimiya"
 		],
-		"얼음 원소 피해 보너스": [
+		"FIGHT_PROP_ICE_ADD_HURT": [
 			"aloy",
 			"diona"
 		],
@@ -863,6 +910,10 @@
 			"beidou",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"collei",
 			"dehya",
 			"diona",
@@ -886,6 +937,7 @@
 			"lynette",
 			"mona",
 			"nahida",
+			"navia",
 			"nilou",
 			"ningguang",
 			"noelle",
@@ -1011,9 +1063,10 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"불": [
+		"ELEMENT_PYRO": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1030,11 +1083,13 @@
 			"faruzan",
 			"mika",
 			"mona",
+			"navia",
 			"ningguang"
 		],
 		"불타오르는 마노 가루": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1060,6 +1115,7 @@
 		"불타오르는 마노 조각": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1088,6 +1144,7 @@
 		"불타오르는 마노 덩이": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1108,6 +1165,7 @@
 		"불타오르는 마노": [
 			"amber",
 			"bennett",
+			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1119,7 +1177,7 @@
 			"yanfei",
 			"yoimiya"
 		],
-		"양손검": [
+		"WEAPON_CLAYMORE": [
 			"aratakiitto",
 			"beidou",
 			"chongyun",
@@ -1129,12 +1187,13 @@
 			"eula",
 			"freminet",
 			"kaveh",
+			"navia",
 			"noelle",
 			"razor",
 			"sayu",
 			"xinyan"
 		],
-		"치명타 확률": [
+		"FIGHT_PROP_CRITICAL": [
 			"aratakiitto",
 			"diluc",
 			"furina",
@@ -1206,7 +1265,7 @@
 			"yaoyao",
 			"zhongli"
 		],
-		"법구": [
+		"WEAPON_CATALYST": [
 			"baizhu",
 			"barbara",
 			"charlotte",
@@ -1224,10 +1283,11 @@
 			"yaemiko",
 			"yanfei"
 		],
-		"HP": [
+		"FIGHT_PROP_HP_PERCENT": [
 			"baizhu",
 			"barbara",
 			"candace",
+			"chevreuse",
 			"dehya",
 			"dori",
 			"kirara",
@@ -1287,7 +1347,7 @@
 			"nilou",
 			"tighnari"
 		],
-		"물": [
+		"ELEMENT_HYDRO": [
 			"barbara",
 			"candace",
 			"furina",
@@ -1374,7 +1434,7 @@
 			"xingqiu",
 			"yelan"
 		],
-		"번개": [
+		"ELEMENT_ELECTRO": [
 			"beidou",
 			"cyno",
 			"dori",
@@ -1387,7 +1447,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"번개 원소 피해 보너스": [
+		"FIGHT_PROP_ELEC_ADD_HURT": [
 			"beidou"
 		],
 		"승리의 자수정 가루": [
@@ -1483,7 +1543,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"원소 충전 효율": [
+		"FIGHT_PROP_CHARGE_EFFICIENCY": [
 			"bennett",
 			"kaeya",
 			"mona",
@@ -1491,8 +1551,9 @@
 			"venti",
 			"yunjin"
 		],
-		"장병기": [
+		"WEAPON_POLE": [
 			"candace",
+			"chevreuse",
 			"cyno",
 			"hutao",
 			"mika",
@@ -1524,10 +1585,18 @@
 		],
 		"폰타인": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"freminet",
 			"furina",
 			"lynette",
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1536,6 +1605,10 @@
 		],
 		"맞물림 톱니바퀴": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -1545,14 +1618,41 @@
 		],
 		"평톱니바퀴": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"오토마톤 코어 톱니바퀴": [
 			"charlotte",
+<<<<<<< HEAD
 			"lynette",
 			"wriothesley"
 		],
+=======
+			"chevreuse",
+			"lynette",
+			"wriothesley"
+		],
+		"1월": [
+			"chevreuse",
+			"diona",
+			"kirara",
+			"rosaria",
+			"thoma",
+			"wanderer"
+		],
+		"등방울꽃": [
+			"chevreuse",
+			"lynette"
+		],
+		"원류바다의 기린 뿔": [
+			"chevreuse",
+			"neuvillette"
+		],
+>>>>>>> upstream/main
 		"콜 라피스": [
 			"chongyun",
 			"keqing",
@@ -1574,7 +1674,7 @@
 			"collei",
 			"tighnari"
 		],
-		"치명타 피해": [
+		"FIGHT_PROP_CRITICAL_HURT": [
 			"cyno",
 			"eula",
 			"ganyu",
@@ -1582,6 +1682,10 @@
 			"kamisatoayaka",
 			"kamisatoayato",
 			"keqing",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1619,13 +1723,6 @@
 			"tartaglia",
 			"yelan"
 		],
-		"1월": [
-			"diona",
-			"kirara",
-			"rosaria",
-			"thoma",
-			"wanderer"
-		],
 		"통통 연꽃": [
 			"diona",
 			"kaeya"
@@ -1656,7 +1753,7 @@
 			"eula",
 			"jean"
 		],
-		"바람": [
+		"ELEMENT_ANEMO": [
 			"faruzan",
 			"jean",
 			"kaedeharakazuha",
@@ -1721,17 +1818,30 @@
 		],
 		"기이한 바다의 방울": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"오토마톤 태엽 감개·코펠리우스": [
-			"freminet"
+			"freminet",
+			"navia"
 		],
 		"기이한 바다의 결정": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"이색 결정석": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette"
 		],
 		"호숫빛 은방울꽃": [
@@ -1792,7 +1902,7 @@
 			"xiao",
 			"yanfei"
 		],
-		"치유 보너스": [
+		"FIGHT_PROP_HEAL_ADD": [
 			"jean",
 			"qiqi"
 		],
@@ -1809,7 +1919,7 @@
 			"sucrose",
 			"venti"
 		],
-		"원소 마스터리": [
+		"FIGHT_PROP_ELEMENT_MASTERY": [
 			"kaedeharakazuha",
 			"kaveh",
 			"lisa",
@@ -1873,7 +1983,7 @@
 			"kirara",
 			"raidenshogun"
 		],
-		"불 원소 피해 보너스": [
+		"FIGHT_PROP_FIRE_ADD_HURT": [
 			"klee",
 			"yanfei"
 		],
@@ -1907,14 +2017,17 @@
 			"noelle",
 			"rosaria"
 		],
-		"바람 원소 피해 보너스": [
+		"FIGHT_PROP_WIND_ADD_HURT": [
 			"lynette",
 			"shikanoinheizou",
 			"sucrose"
 		],
+<<<<<<< HEAD
 		"등방울꽃": [
 			"lynette"
 		],
+=======
+>>>>>>> upstream/main
 		"오토마톤 태엽 감개·코펠리아": [
 			"lynette"
 		],
@@ -1928,12 +2041,21 @@
 			"mika",
 			"razor"
 		],
+<<<<<<< HEAD
 		"형광별": [
 			"neuvillette"
 		],
 		"원류바다의 기린 뿔": [
 			"neuvillette"
 		],
+=======
+		"첫 이슬의 근원": [
+			"navia"
+		],
+		"형광별": [
+			"neuvillette"
+		],
+>>>>>>> upstream/main
 		"파디사라": [
 			"nilou"
 		],
@@ -1941,13 +2063,13 @@
 			"ningguang",
 			"yunjin"
 		],
-		"방어력": [
+		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"noelle"
 		],
-		"물리 피해 보너스": [
+		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
 			"razor"
 		],
-		"물 원소 피해 보너스": [
+		"FIGHT_PROP_WATER_ADD_HURT": [
 			"sangonomiyakokomi",
 			"tartaglia"
 		],
@@ -1979,43 +2101,43 @@
 	},
 	"properties": {
 		"rarity": [
-			"5",
-			"4"
+			5,
+			4
 		],
-		"element": [
-			"없음",
-			"바위",
-			"풀",
-			"얼음",
-			"불",
-			"물",
-			"번개",
-			"바람"
+		"elementType": [
+			"ELEMENT_NONE",
+			"ELEMENT_GEO",
+			"ELEMENT_DENDRO",
+			"ELEMENT_CRYO",
+			"ELEMENT_PYRO",
+			"ELEMENT_HYDRO",
+			"ELEMENT_ELECTRO",
+			"ELEMENT_ANEMO"
 		],
-		"weapontype": [
-			"한손검",
-			"활",
-			"양손검",
-			"법구",
-			"장병기"
+		"weaponType": [
+			"WEAPON_SWORD_ONE_HAND",
+			"WEAPON_BOW",
+			"WEAPON_CLAYMORE",
+			"WEAPON_CATALYST",
+			"WEAPON_POLE"
 		],
-		"substat": [
-			"공격력",
-			"바위 원소 피해 보너스",
-			"풀 원소 피해 보너스",
-			"얼음 원소 피해 보너스",
-			"치명타 확률",
-			"HP",
-			"번개 원소 피해 보너스",
-			"원소 충전 효율",
-			"치명타 피해",
-			"치유 보너스",
-			"원소 마스터리",
-			"불 원소 피해 보너스",
-			"바람 원소 피해 보너스",
-			"방어력",
-			"물리 피해 보너스",
-			"물 원소 피해 보너스"
+		"substatType": [
+			"FIGHT_PROP_ATTACK_PERCENT",
+			"FIGHT_PROP_ROCK_ADD_HURT",
+			"FIGHT_PROP_GRASS_ADD_HURT",
+			"FIGHT_PROP_ICE_ADD_HURT",
+			"FIGHT_PROP_CRITICAL",
+			"FIGHT_PROP_HP_PERCENT",
+			"FIGHT_PROP_ELEC_ADD_HURT",
+			"FIGHT_PROP_CHARGE_EFFICIENCY",
+			"FIGHT_PROP_CRITICAL_HURT",
+			"FIGHT_PROP_HEAL_ADD",
+			"FIGHT_PROP_ELEMENT_MASTERY",
+			"FIGHT_PROP_FIRE_ADD_HURT",
+			"FIGHT_PROP_WIND_ADD_HURT",
+			"FIGHT_PROP_DEFENSE_PERCENT",
+			"FIGHT_PROP_PHYSICAL_ADD_HURT",
+			"FIGHT_PROP_WATER_ADD_HURT"
 		],
 		"gender": [
 			"남성",
@@ -2099,6 +2221,11 @@
 			"「투르비용 장치」",
 			"평톱니바퀴",
 			"오토마톤 코어 톱니바퀴",
+<<<<<<< HEAD
+=======
+			"등방울꽃",
+			"원류바다의 기린 뿔",
+>>>>>>> upstream/main
 			"콜 라피스",
 			"서리의 핵",
 			"룩카데바타 성체 버섯",
@@ -2148,13 +2275,21 @@
 			"달 연꽃",
 			"영구동력 코어",
 			"낙락베리",
+<<<<<<< HEAD
 			"등방울꽃",
+=======
+>>>>>>> upstream/main
 			"오토마톤 태엽 감개·코펠리아",
 			"무지개 장미",
 			"제왕의 결단",
 			"고리고리 열매",
+<<<<<<< HEAD
 			"형광별",
 			"원류바다의 기린 뿔",
+=======
+			"첫 이슬의 근원",
+			"형광별",
+>>>>>>> upstream/main
 			"파디사라",
 			"유리백합",
 			"용 자손의 가짜 지느러미",

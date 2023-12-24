@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Fruchtige Schläge und Streiche",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1363,
+=======
+	"id": [
+		81379
+	],
+	"name": "Fruchtige Schläge und Streiche",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1363,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Fruchtige Schläge und Streiche",
 		"description": "Schließ die Geschichte von Blanche und der „Fruchtigen Ordnung“ ab.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

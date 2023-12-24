@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "\"Yseut\"",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1389,
+=======
+	"id": [
+		81405
+	],
+	"name": "\"Yseut\"",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1389,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"Yseut\"",
 		"description": "เอาชนะตำนานท้องถิ่น - Yseut",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

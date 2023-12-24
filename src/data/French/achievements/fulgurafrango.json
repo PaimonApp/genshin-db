@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Fulgura Frango",
 	"achievementgroup": "Au défi ! - Partie VIII",
 	"sortorder": 2185,
+=======
+	"id": [
+		82186
+	],
+	"name": "Fulgura Frango",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Au défi ! - Partie VIII",
+	"sortOrder": 2185,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Fulgura Frango",
 		"description": "Battez l'Hippocampe perlé millénaire alors qu'il tente de reconstruire une perle xénomare.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

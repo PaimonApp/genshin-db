@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Verso le stelle che brillano in profondità",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 5086,
+=======
+	"id": [
+		84307
+	],
+	"name": "Verso le stelle che brillano in profondità",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 5086,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Verso le stelle che brillano in profondità",
 		"description": "Completa Verso le stelle che brillano in profondità.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 10
 		}

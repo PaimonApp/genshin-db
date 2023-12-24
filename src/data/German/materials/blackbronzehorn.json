@@ -1,11 +1,24 @@
 {
+	"id": 112015,
 	"name": "Kupferhorn",
+	"rarity": 3,
+	"sortRank": 10105,
 	"description": "Ein aus Eisen gefertigtes Monsterhorn. Normalerweise findet man es nur bei starken Hilichurlen, weil das Blasen eines solchen Horns einiges an Kraft beansprucht.",
+<<<<<<< HEAD
 	"sortorder": 3049,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": [
 		"Kann hergestellt werden"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren und Waffen",
+	"sources": [
+		"Kann hergestellt werden",
+		"Beute von Mitachurlen ab Stufe 40",
+		"Beute von Lawachurlen ab Stufe 40",
+		"Mit Sternenstaub kaufen"
+>>>>>>> upstream/main
 	]
 }

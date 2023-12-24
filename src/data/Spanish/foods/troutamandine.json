@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Trucha con almendras",
 	"rarity": "1",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que regeneran Vida",
 	"foodcategory": "Recovery_HpAddAll",
+=======
+	"id": 1402,
+	"name": "Trucha con almendras",
+	"rarity": 1,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Platos que regeneran Vida",
+>>>>>>> upstream/main
 	"effect": "Restaura un 8%-10% de Vida Máx. al personaje seleccionado.\nRegenera 210-300 pts. de Vida cada 5 s durante 30 s.",
 	"description": "Un gran trozo de pescado frito en aceite. Primero, se dora el pescado en mantequilla, luego se fríen las almendras y se sirven en una fuente. La forma tradicional de cocinar este plato era procesar el filete de trucha entero y luego ponerlo directamente en la sartén, pero últimamente se ha popularizado freír el pescado.",
 	"suspicious": {
@@ -20,10 +29,18 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100084,
+>>>>>>> upstream/main
 			"name": "Pescado",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Almendra",
 			"count": 1
 		}

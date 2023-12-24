@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
 	"name": "Fontaine - Danse de la rosée blanche (2)",
 	"sortorder": 46,
 	"reward": {
+=======
+	"id": 45,
+	"name": "Fontaine - Danse de la rosée blanche (2)",
+	"sortOrder": 46,
+	"reward": {
+		"id": 210179,
+>>>>>>> upstream/main
 		"name": "Fontaine - Expiation"
 	}
 }

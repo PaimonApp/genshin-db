@@ -1,10 +1,15 @@
 {
+	"id": 100085,
 	"name": "Кристальное ядро",
+	"sortRank": 320,
 	"description": "Ядро кристальной бабочки. Поглощает элементальную энергию из воздуха.",
+<<<<<<< HEAD
 	"sortorder": 2896,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Материал",
-	"source": [
+	"typeText": "Материал",
+	"sources": [
 		"Ловля кристальных бабочек"
 	]
 }

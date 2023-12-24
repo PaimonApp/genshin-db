@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "กฎสังคมมุมตึก",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 5085,
+=======
+	"id": [
+		84306
+	],
+	"name": "กฎสังคมมุมตึก",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 5085,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "กฎสังคมมุมตึก",
 		"description": "สืบสวน \"กฎลับ\" สองอย่างในคุก",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

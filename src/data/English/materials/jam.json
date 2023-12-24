@@ -1,10 +1,15 @@
 {
+	"id": 110008,
 	"name": "Jam",
+	"sortRank": 322,
 	"description": "A gelatinous substance made from fruit and sugar. Even a little bit can easily wake up tired taste buds.",
+<<<<<<< HEAD
 	"sortorder": 2953,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Cooking Ingredient",
-	"source": [
+	"typeText": "Cooking Ingredient",
+	"sources": [
 		"Processed"
 	]
 }

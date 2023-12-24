@@ -1,9 +1,15 @@
 {
+	"id": 200112,
 	"name": "Feder des wechselnden Windes",
+	"rarity": 4,
+	"sortRank": 90,
 	"description": "Objekt zur Verfeinerung von „Spitze der klingenden Winde“.\nEin aus Türkis geschnitzter antiker Federkiel, der anscheinend einst als Schmuck oder eine Art Zeichen verwendet wurde.",
+<<<<<<< HEAD
 	"sortorder": 2763,
 	"rarity": "4",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Verfeinerungsmaterial",
-	"source": []
+	"typeText": "Verfeinerungsmaterial",
+	"sources": []
 }

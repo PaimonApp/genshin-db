@@ -1,9 +1,15 @@
 {
+	"id": 101692,
 	"name": "Selo do Reino da Luz",
+	"rarity": 3,
+	"sortRank": 430041,
 	"description": "Uma insígnia simbolizando o reconhecimento de Tokoyo Ookami de Enkanomiya.\nOfereça-a na estátua do Vassalo de Watatsumi para aumentar o nível da Caixa de Bokuso.",
+<<<<<<< HEAD
 	"sortorder": 4950,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Consumível",
-	"source": []
+	"typeText": "Consumível",
+	"sources": []
 }

@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "“Para Foçalors”",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que mejoran la defensa",
 	"foodcategory": "Def_Add",
+=======
+	"id": 3416,
+	"name": "“Para Foçalors”",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Platos que mejoran la defensa",
+>>>>>>> upstream/main
 	"effect": "Aumenta la Vida Máx. de todos los miembros del equipo en un 20%-25% durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Un pastel pequeño y de forma alargada. Se dice que hace mucho, mucho tiempo, un maestro pastelero creó este postre inspirado en el amor de la gente de Fontaine por la Arconte Hydro. Las múltiples capas apiladas unas sobre otras son una verdadera prueba de las habilidades del chef, y cada aspecto de este pastel demuestra la influencia de la gran Arconte Hydro.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Huevo de pájaro",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Harina",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "Granos de café",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Almendra",
 			"count": 2
 		}

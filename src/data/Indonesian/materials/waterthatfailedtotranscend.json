@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Water That Failed To Transcend",
 	"description": "Satu-satunya yang tersisa setelah Hydro Tulpa tercerai-berai.\nObjek ini sangat mirip dengan kristal yang diekstrak dari tubuh Fontemer Aberrant. Tapi yang ini mengandung banyak ketidakmurnian kecil, layaknya gelembung-gelembung kaca yang dibentuk oleh pengrajin yang kaku.",
 	"sortorder": 3184,
@@ -6,4 +7,16 @@
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Karakter",
 	"source": []
+=======
+	"id": 113057,
+	"name": "Water That Failed To Transcend",
+	"rarity": 4,
+	"sortRank": 11101,
+	"description": "Satu-satunya yang tersisa setelah Hydro Tulpa tercerai-berai.\nObjek ini sangat mirip dengan kristal yang diekstrak dari tubuh Fontemer Aberrant. Tapi yang ini mengandung banyak ketidakmurnian kecil, layaknya gelembung-gelembung kaca yang dibentuk oleh pengrajin yang kaku.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Penguatan Karakter",
+	"sources": [
+		"Dijatuhkan oleh Hydro Tulpa Lv. 30+"
+	]
+>>>>>>> upstream/main
 }

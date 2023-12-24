@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Записи о Нарциссенкрейце: Лабиринт",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1391,
+=======
+	"id": [
+		81407
+	],
+	"name": "Записи о Нарциссенкрейце: Лабиринт",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1391,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Записи о Нарциссенкрейце: Лабиринт",
 		"description": "«Итак, что ты думаешь о мире, который я тебе описал?»",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

@@ -1,8 +1,17 @@
 {
+<<<<<<< HEAD
 	"name": "Furina",
 	"combat1": {
 		"name": "Normal Attack: Soloist's Solicitation",
 		"info": "**Normal Attack**\nPerforms up to 4 consecutive strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or Singer of Many Waters summoned by her Elemental Skill \"Salon Solitaire\" are present, their lineup will switch in response.\n\n**Arkhe: Seats Sacred and Secular**\nAt intervals, when Furina's Normal Attacks hit, a Spiritbreath Thorn or a Surging Blade will descend based on her current alignment, dealing Hydro DMG based on her current alignment.\nWhen Furina takes the field, her starting Arkhe will be Ousia.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+=======
+	"id": 8901,
+	"name": "Furina",
+	"combat1": {
+		"name": "Normal Attack: Soloist's Solicitation",
+		"descriptionRaw": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 4 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or the Singer of Many Waters summoned by her Elemental Skill \"Salon Solitaire\" is present, their lineup will switch in response.\n\n<color=#FFD780FF>Arkhe: Seats Sacred and Secular</color>\nAt intervals, when Furina's Normal Attacks hit, a Spiritbreath Thorn or a Surging Blade will descend based on her current Arkhe alignment, dealing Pneuma- or Ousia-aligned <color=#80C0FFFF>Hydro DMG</color>.\nWhen Furina takes the field, her starting Arkhe alignment will be Ousia.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+		"description": "Normal Attack\nPerforms up to 4 consecutive strikes.\n\nCharged Attack\nConsumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or the Singer of Many Waters summoned by her Elemental Skill \"Salon Solitaire\" is present, their lineup will switch in response.\n\nArkhe: Seats Sacred and Secular\nAt intervals, when Furina's Normal Attacks hit, a Spiritbreath Thorn or a Surging Blade will descend based on her current Arkhe alignment, dealing Pneuma- or Ousia-aligned Hydro DMG.\nWhen Furina takes the field, her starting Arkhe alignment will be Ousia.\n\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+>>>>>>> upstream/main
 		"attributes": {
 			"labels": [
 				"1-Hit DMG|{param1:F1P}",
@@ -20,8 +29,14 @@
 	},
 	"combat2": {
 		"name": "Salon Solitaire",
+<<<<<<< HEAD
 		"info": "Invites the guests of the Salon Solitaire to come forth and abet in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current **Arkhe alignment**.\n\n**Ousia**\nFoaming bubbles like celebrants shall dance, dealing AoE Hydro DMG based on Furina's Max HP and summoning 3 Salon Members: the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin, and the Armored Crab-shaped Mademoiselle Crabaletta.\nThey will attack nearby opponents at intervals, prioritizing the target of the active character, dealing Hydro DMG based on Max HP.\nWhen they attack, if character(s) with more than 50% HP are nearby, the Members will increase their current attack's power based on the number of such characters, and consume said characters' HP. If the characters who meet these requirements are 1/2/3/4 (or more), the Members' attacks will deal 110%/120%/130%/140% of their original DMG.\n\n**Pneuma**\nSummons the Singer of Many Waters, who will heal nearby active character(s) based on Max HP at intervals.\n\nThe Salon Members and Singer of Many Waters share a duration, and when Furina uses her Charged Attack to change the guest type, the new guests will inherit the initial duration.\nWhile the Salon Members and the Singer of Many Waters are on the field, Furina can move on the water's surface.",
 		"description": "A fixed roster of regulars frequent Furina's Salon Solitaire. At other times, Mademoiselle Crabaletta, Surintendante Chevalmarin, and Gentilhomme Usher shall visit, and on gloomy Wednesdays, it is the singer who comes by.",
+=======
+		"descriptionRaw": "Invites the guests of the Salon Solitaire to come forth and aid in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current <color=#FFD780FF>Arkhe alignment</color>.\n\n<color=#FFD780FF>Ousia</color>\nFoaming bubbles like celebrants shall dance, dealing <color=#80C0FFFF>AoE Hydro DMG</color> based on Furina's Max HP and summoning 3 Salon Members: the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin, and the Armored Crab-shaped Mademoiselle Crabaletta.\nThey will attack nearby opponents at intervals, prioritizing the target of the active character, dealing <color=#80C0FFFF>Hydro</color> DMG based on Max HP.\nWhen they attack, if character(s) with more than 50% HP are nearby, the Members will increase their current attack's power based on the number of such characters, and consume said characters' HP. If 1/2/3/4 (or more) characters meet these requirements, the Members' attacks will deal 110%/120%/130%/140% of their original DMG.\n\n<color=#FFD780FF>Pneuma</color>\nSummons the Singer of Many Waters, who will heal nearby active character(s) based on Max HP at intervals.\n\nThe Salon Members and Singer of Many Waters share a duration, and when Furina uses her Charged Attack to change the guest type, the new guests will inherit the remaining duration.\nWhile the Salon Members or the Singer of Many Waters is on the field, Furina can move on the water's surface.\n\n<i>A fixed roster of regulars frequent Furina's Salon Solitaire. At other times, Mademoiselle Crabaletta, Surintendante Chevalmarin, and Gentilhomme Usher shall visit, and on gloomy Wednesdays, it is the singer who comes by.</i>",
+		"description": "Invites the guests of the Salon Solitaire to come forth and aid in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current Arkhe alignment.\n\nOusia\nFoaming bubbles like celebrants shall dance, dealing AoE Hydro DMG based on Furina's Max HP and summoning 3 Salon Members: the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin, and the Armored Crab-shaped Mademoiselle Crabaletta.\nThey will attack nearby opponents at intervals, prioritizing the target of the active character, dealing Hydro DMG based on Max HP.\nWhen they attack, if character(s) with more than 50% HP are nearby, the Members will increase their current attack's power based on the number of such characters, and consume said characters' HP. If 1/2/3/4 (or more) characters meet these requirements, the Members' attacks will deal 110%/120%/130%/140% of their original DMG.\n\nPneuma\nSummons the Singer of Many Waters, who will heal nearby active character(s) based on Max HP at intervals.\n\nThe Salon Members and Singer of Many Waters share a duration, and when Furina uses her Charged Attack to change the guest type, the new guests will inherit the remaining duration.\nWhile the Salon Members or the Singer of Many Waters is on the field, Furina can move on the water's surface.",
+		"flavorText": "A fixed roster of regulars frequent Furina's Salon Solitaire. At other times, Mademoiselle Crabaletta, Surintendante Chevalmarin, and Gentilhomme Usher shall visit, and on gloomy Wednesdays, it is the singer who comes by.",
+>>>>>>> upstream/main
 		"attributes": {
 			"labels": [
 				"Ousia Bubble DMG|{param1:F1P} Max HP",
@@ -39,8 +54,14 @@
 	},
 	"combat3": {
 		"name": "Let the People Rejoice",
+<<<<<<< HEAD
 		"info": "Rouses the impulse to revel, creating a stage of foam that will deal AoE Hydro DMG based on Furina's Max HP and cause nearby party members to enter the Universal Revelry state: During this time, when nearby party members' HP increases or decreases, 1 Fanfare point will be granted to Furina for each percentage point of their Max HP by which their HP changes.\nAt the same time, Furina will increase the DMG dealt by and Incoming Healing Bonus of all nearby party members based on the amount of Fanfare she has.\nWhen the duration ends, Furina's Fanfare points will be cleared.",
 		"description": "\"Cheer! Give praise! Be awed! Raise your glasses! Every night bereft of banqueting is a sordid squandering of sore, sober daylight... And, uh, those who are not yet of age may have grape juice instead!\"",
+=======
+		"descriptionRaw": "Rouses the impulse to revel, creating a stage of foam that will deal <color=#80C0FFFF>AoE Hydro DMG</color> based on Furina's Max HP and cause nearby party members to enter the Universal Revelry state: During this time, when nearby party members' HP increases or decreases, 1 Fanfare point will be granted to Furina for each percentage point of their Max HP by which their HP changes.\nAt the same time, Furina will increase the DMG dealt by and Incoming Healing Bonus of all nearby party members based on the amount of Fanfare she has.\nWhen the duration ends, Furina's Fanfare points will be cleared.\n\n<i>\"Cheer! Give praise! Be awed! Raise your glasses! Every night bereft of banqueting is a sordid squandering of sore, sober daylight... And, uh, those who are not yet of age may have grape juice instead!\"</i>",
+		"description": "Rouses the impulse to revel, creating a stage of foam that will deal AoE Hydro DMG based on Furina's Max HP and cause nearby party members to enter the Universal Revelry state: During this time, when nearby party members' HP increases or decreases, 1 Fanfare point will be granted to Furina for each percentage point of their Max HP by which their HP changes.\nAt the same time, Furina will increase the DMG dealt by and Incoming Healing Bonus of all nearby party members based on the amount of Fanfare she has.\nWhen the duration ends, Furina's Fanfare points will be cleared.",
+		"flavorText": "\"Cheer! Give praise! Be awed! Raise your glasses! Every night bereft of banqueting is a sordid squandering of sore, sober daylight... And, uh, those who are not yet of age may have grape juice instead!\"",
+>>>>>>> upstream/main
 		"attributes": {
 			"labels": [
 				"Skill DMG|{param1:F1P} Max HP",
@@ -55,6 +76,7 @@
 	},
 	"passive1": {
 		"name": "Endless Waltz",
+<<<<<<< HEAD
 		"info": "When the active character in your party receives healing, if the source of the healing is not Furina herself and the healing overflows, then Furina will heal a nearby party member for 2% of their Max HP once every 2s within the next 4s."
 	},
 	"passive2": {
@@ -64,150 +86,292 @@
 	"passive3": {
 		"name": "The Sea Is My Stage",
 		"info": "Xenochromatic Fontemer Aberrant ability CD decreased by 30%."
+=======
+		"descriptionRaw": "When the active character in your party receives healing, if the source of the healing is not Furina herself and the healing overflows, then Furina will heal nearby party members for 2% of their Max HP once every 2s for the next 4s.",
+		"description": "When the active character in your party receives healing, if the source of the healing is not Furina herself and the healing overflows, then Furina will heal nearby party members for 2% of their Max HP once every 2s for the next 4s."
+	},
+	"passive2": {
+		"name": "Unheard Confession",
+		"descriptionRaw": "Every 1,000 points of Furina's Max HP can buff the different Arkhe-aligned <color=#FFD780FF>Salon Solitaire</color> in the following ways:\nWill increase Salon Members' DMG dealt by 0.7%, up to a maximum of 28%.\nWill decrease the Singer of Many Waters' healing interval for nearby active characters by 0.4%, up to a maximum of 16%.",
+		"description": "Every 1,000 points of Furina's Max HP can buff the different Arkhe-aligned Salon Solitaire in the following ways:\nWill increase Salon Members' DMG dealt by 0.7%, up to a maximum of 28%.\nWill decrease the Singer of Many Waters' healing interval for nearby active characters by 0.4%, up to a maximum of 16%."
+	},
+	"passive3": {
+		"name": "The Sea Is My Stage",
+		"descriptionRaw": "Xenochromatic Fontemer Aberrant ability CD decreased by 30%.",
+		"description": "Xenochromatic Fontemer Aberrant ability CD decreased by 30%."
+>>>>>>> upstream/main
 	},
 	"costs": {
 		"lvl2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 12500
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104341,
+>>>>>>> upstream/main
 				"name": "Teachings of Justice",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112038,
+>>>>>>> upstream/main
 				"name": "Whopperflower Nectar",
 				"count": 6
 			}
 		],
 		"lvl3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 17500
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104342,
+>>>>>>> upstream/main
 				"name": "Guide to Justice",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112039,
+>>>>>>> upstream/main
 				"name": "Shimmering Nectar",
 				"count": 3
 			}
 		],
 		"lvl4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 25000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104342,
+>>>>>>> upstream/main
 				"name": "Guide to Justice",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112039,
+>>>>>>> upstream/main
 				"name": "Shimmering Nectar",
 				"count": 4
 			}
 		],
 		"lvl5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 30000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104342,
+>>>>>>> upstream/main
 				"name": "Guide to Justice",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112039,
+>>>>>>> upstream/main
 				"name": "Shimmering Nectar",
 				"count": 6
 			}
 		],
 		"lvl6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 37500
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104342,
+>>>>>>> upstream/main
 				"name": "Guide to Justice",
 				"count": 9
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112039,
+>>>>>>> upstream/main
 				"name": "Shimmering Nectar",
 				"count": 9
 			}
 		],
 		"lvl7": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104343,
+>>>>>>> upstream/main
 				"name": "Philosophies of Justice",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112040,
+>>>>>>> upstream/main
 				"name": "Energy Nectar",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113056,
+>>>>>>> upstream/main
 				"name": "Lightless Mass",
 				"count": 1
 			}
 		],
 		"lvl8": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 260000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104343,
+>>>>>>> upstream/main
 				"name": "Philosophies of Justice",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112040,
+>>>>>>> upstream/main
 				"name": "Energy Nectar",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113056,
+>>>>>>> upstream/main
 				"name": "Lightless Mass",
 				"count": 1
 			}
 		],
 		"lvl9": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 450000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104343,
+>>>>>>> upstream/main
 				"name": "Philosophies of Justice",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112040,
+>>>>>>> upstream/main
 				"name": "Energy Nectar",
 				"count": 9
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113056,
+>>>>>>> upstream/main
 				"name": "Lightless Mass",
 				"count": 2
 			}
 		],
 		"lvl10": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 700000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104343,
+>>>>>>> upstream/main
 				"name": "Philosophies of Justice",
 				"count": 16
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112040,
+>>>>>>> upstream/main
 				"name": "Energy Nectar",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113056,
+>>>>>>> upstream/main
 				"name": "Lightless Mass",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104319,
+>>>>>>> upstream/main
 				"name": "Crown of Insight",
 				"count": 1
 			}

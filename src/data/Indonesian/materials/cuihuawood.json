@@ -1,13 +1,20 @@
 {
+	"id": 101302,
 	"name": "Cuihua Wood",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Kayu dari Pohon Cuihua. Dengan warna dan teksturnya yang unik, kayu ini bisa diolah menjadi berbagai jenis benda di tangan pengrajin yang handal.\nDapat digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2961,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditebang dari Starfell Valley",
-		"Rekomendasi: Ditebang dari Bishui Plain"
+		"Rekomendasi: Ditebang dari Bishui Plain",
+		"Konversi Kayu"
 	]
 }

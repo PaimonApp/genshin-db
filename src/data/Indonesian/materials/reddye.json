@@ -1,8 +1,13 @@
 {
+	"id": 101402,
 	"name": "Red Dye",
+	"sortRank": 331,
 	"description": "Cat berwarna merah. Pasti bisa digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2983,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

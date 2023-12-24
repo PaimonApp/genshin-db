@@ -1,8 +1,13 @@
 {
+	"id": 101402,
 	"name": "สีย้อมสีแดง",
+	"sortRank": 331,
 	"description": "สีย้อมสีแดง เมื่อสร้างเฟอร์นิเจอร์ สามารถนำไปใช้ในการตกแต่งได้",
+<<<<<<< HEAD
 	"sortorder": 2983,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "วัสดุ",
-	"source": []
+	"typeText": "วัสดุ",
+	"sources": []
 }

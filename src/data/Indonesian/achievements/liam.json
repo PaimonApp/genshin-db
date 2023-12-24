@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Liam",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1419,
+=======
+	"id": [
+		81435
+	],
+	"name": "Liam",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1419,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Liam",
 		"description": "Kalahkan Legenda Lokal: Liam",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

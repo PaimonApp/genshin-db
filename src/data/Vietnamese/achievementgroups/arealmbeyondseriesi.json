@@ -1,7 +1,13 @@
 {
+	"id": 18,
 	"name": "Thế Ngoại Đào Viên - Phần I",
+<<<<<<< HEAD
 	"sortorder": 31,
+=======
+	"sortOrder": 31,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210072,
 		"name": "Thành Tựu - Ấm Trần Ca"
 	}
 }

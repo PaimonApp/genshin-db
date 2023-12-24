@@ -1,12 +1,19 @@
 {
+	"id": 101313,
 	"name": "Sarmal Ağacı Kütüğü",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Sarmal Ağacından elde edilen kütük. Sıradan bir kütükten farklı özelliklere sahiptir. Yumuşak olmasına karşın çok dayanıklıdır, boyaması kolaydır ve özel amaçlar doğrultusunda kullanılabilir. \nDekorasyon yapmak için kullanılabilir.",
+<<<<<<< HEAD
 	"sortorder": 2972,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Malzeme",
-	"source": [
+	"typeText": "Malzeme",
+	"sources": [
 		"Doğada bulunur.",
-		"Öneri: Sumeru ormanlarında kesilir."
+		"Öneri: Sumeru ormanlarında kesilir.",
+		"Kütüğü Dönüştür"
 	]
 }

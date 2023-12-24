@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Furo Exclusivo: Coluna Gourmet",
 	"rarity": "3",
 	"foodtype": "SPECIALTY",
@@ -10,18 +11,47 @@
 	"character": "Charlotte",
 	"ingredients": [
 		{
+=======
+	"id": 10000088,
+	"name": "Furo Exclusivo: Coluna Gourmet",
+	"rarity": 3,
+	"foodtype": "SPECIALTY",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "Pratos de Aventura",
+	"effect": "Restaura 130 de Stamina.",
+	"description": "Especialidade de Charlotte. São lanches que ela leva consigo na sua busca incessável por furos exclusivos. Ela olha para os lados, e o ritmo excitado de seus passos lentamente se sobrepõe com o som do peixe frito crocante na sua boca... Apesar dessa notícia de última hora ainda ter que virar uma história finalizada, a alegria no seu coração já chegou ao limite.",
+	"baseDishId": 3402,
+	"baseDishName": "Peixe e Batatas Fritas",
+	"characterId": 10000088,
+	"characterName": "Charlotte",
+	"ingredients": [
+		{
+			"id": 100084,
+>>>>>>> upstream/main
 			"name": "Peixe",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100080,
+>>>>>>> upstream/main
 			"name": "Batata",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Farinha",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100075,
+>>>>>>> upstream/main
 			"name": "Sal",
 			"count": 1
 		}

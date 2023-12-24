@@ -1,8 +1,13 @@
 {
+	"id": 101404,
 	"name": "Blue Dye",
+	"sortRank": 331,
 	"description": "Cat berwarna biru. Pasti bisa digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2985,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

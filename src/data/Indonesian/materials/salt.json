@@ -1,10 +1,15 @@
 {
+	"id": 100075,
 	"name": "Salt",
+	"sortRank": 321,
 	"description": "Bumbu dengan rasa asin. Selama jumlah yang tepat dimasukkan ke dalam makanan, kualitas hidangan dapat ditingkatkan.",
+<<<<<<< HEAD
 	"sortorder": 2917,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Dijual di toko barang kebutuhan"
 	]
 }

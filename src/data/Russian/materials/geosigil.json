@@ -1,11 +1,17 @@
 {
+	"id": 307,
 	"name": "Печать Гео",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "Символ признания скалистыми горами гавани Ли Юэ.\nМожно обменять на особые предметы в Ли Юэ.",
+<<<<<<< HEAD
 	"sortorder": 4933,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Символ города",
-	"source": [
+	"typeText": "Символ города",
+	"sources": [
 		"Исследование Ли Юэ"
 	]
 }

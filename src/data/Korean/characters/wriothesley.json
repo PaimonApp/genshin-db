@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "라이오슬리",
 	"fullname": "라이오슬리",
 	"title": "고요한 죄의 밀사",
@@ -14,6 +15,27 @@
 	"affiliation": "메로피드 요새",
 	"birthdaymmdd": "11/23",
 	"birthday": "11월 23일",
+=======
+	"id": 10000086,
+	"name": "라이오슬리",
+	"title": "고요한 죄의 밀사",
+	"description": "메로피드 요새의 공작. 칠흑 같은 해저의 통치자다",
+	"weaponType": "WEAPON_CATALYST",
+	"weaponText": "법구",
+	"bodyType": "BODY_MALE",
+	"gender": "남성",
+	"qualityType": "QUALITY_ORANGE",
+	"rarity": 5,
+	"birthdaymmdd": "11/23",
+	"birthday": "11월 23일",
+	"elementType": "ELEMENT_CRYO",
+	"elementText": "얼음",
+	"affiliation": "메로피드 요새",
+	"associationType": "ASSOC_FONTAINE",
+	"region": "폰타인",
+	"substatType": "FIGHT_PROP_CRITICAL_HURT",
+	"substatText": "치명타 피해",
+>>>>>>> upstream/main
 	"constellation": "케르베로스자리",
 	"cv": {
 		"english": "Joe Zieja",
@@ -24,128 +46,244 @@
 	"costs": {
 		"ascend1": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104161,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 가루",
 				"count": 1
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "서브 탐측 유닛",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "맞물림 톱니바퀴",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 40000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 조각",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 2
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "서브 탐측 유닛",
 				"count": 10
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112083,
+>>>>>>> upstream/main
 				"name": "맞물림 톱니바퀴",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 60000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104162,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 조각",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "서브 탐측 유닛",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "평톱니바퀴",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 80000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 덩이",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 8
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "서브 탐측 유닛",
 				"count": 30
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112084,
+>>>>>>> upstream/main
 				"name": "평톱니바퀴",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 100000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104163,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥 덩이",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "서브 탐측 유닛",
 				"count": 45
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "오토마톤 코어 톱니바퀴",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "모라",
 				"count": 120000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 104164,
+>>>>>>> upstream/main
 				"name": "서늘한 빙옥",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 113052,
+>>>>>>> upstream/main
 				"name": "「투르비용 장치」",
 				"count": 20
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 101239,
+>>>>>>> upstream/main
 				"name": "서브 탐측 유닛",
 				"count": 60
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112085,
+>>>>>>> upstream/main
 				"name": "오토마톤 코어 톱니바퀴",
 				"count": 24
 			}

@@ -1,10 +1,15 @@
 {
+	"id": 100018,
 	"name": "キャベツ",
+	"sortRank": 321,
 	"description": "何層にも重なった野菜。かつては鑑賞用植物だったそうだが、今では鍋に入れた姿も素晴らしいものになっている。",
+<<<<<<< HEAD
 	"sortorder": 2907,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "食材",
-	"source": [
+	"typeText": "食材",
+	"sources": [
 		"野外で採集",
 		"雑貨屋で購入"
 	]

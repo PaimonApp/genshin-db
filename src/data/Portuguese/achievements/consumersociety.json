@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Sociedade do Consumo",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1359,
+=======
+	"id": [
+		81375
+	],
+	"name": "Sociedade do Consumo",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1359,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Sociedade do Consumo",
 		"description": "Compre o quanto quiser na Loja Osso Duro de Roer.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

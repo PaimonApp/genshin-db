@@ -1,10 +1,15 @@
 {
+	"id": 100083,
 	"name": "Kertenkele Kuyruğu",
+	"sortRank": 320,
 	"description": "Sahibini kaybettikten sonra bile kıvrılmaya devam eden bir kertenkelenin kuyruğu. Cildi sertleştiren güçlü tıbbi özelliklere sahiptir. Tadı çok acıdır.",
+<<<<<<< HEAD
 	"sortorder": 2895,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Malzeme",
-	"source": [
+	"typeText": "Malzeme",
+	"sources": [
 		"Kertenkele avlayarak toplanır."
 	]
 }

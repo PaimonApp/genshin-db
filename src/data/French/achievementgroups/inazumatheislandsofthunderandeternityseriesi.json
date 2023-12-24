@@ -1,7 +1,13 @@
 {
+	"id": 24,
 	"name": "Inazuma : Archipel de la foudre éternelle - I",
+<<<<<<< HEAD
 	"sortorder": 34,
+=======
+	"sortOrder": 34,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210090,
 		"name": "Inazuma - Insigne de Kujou"
 	}
 }

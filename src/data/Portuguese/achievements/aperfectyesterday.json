@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Um Ontem Perfeito",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1385,
+=======
+	"id": [
+		81401
+	],
+	"name": "Um Ontem Perfeito",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1385,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Um Ontem Perfeito",
 		"description": "O dia que passou não pode ficar...",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

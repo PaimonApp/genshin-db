@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Panduan Menumpang ke Galaksi",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 2187,
+=======
+	"id": [
+		82188
+	],
+	"name": "Panduan Menumpang ke Galaksi",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 2187,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Panduan Menumpang ke Galaksi",
 		"description": "Masuki perut paus raksasa dua kali dalam satu tantangan.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

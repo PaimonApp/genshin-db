@@ -1,7 +1,14 @@
 {
+	"id": 70400061,
 	"name": "La corte del rocío y las fuentes",
+<<<<<<< HEAD
 	"area": "Galería Vasari",
+=======
+	"areaId": 50320,
+	"areaName": "Galería Vasari",
+>>>>>>> upstream/main
 	"description": "“Por encima de todas las aguas solo se encuentra esta ciudad”.",
-	"region": "Fontaine",
-	"sortorder": 361
+	"regionId": 5,
+	"regionName": "Fontaine",
+	"sortOrder": 361
 }

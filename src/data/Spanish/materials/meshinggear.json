@@ -1,9 +1,21 @@
 {
+	"id": 112083,
 	"name": "Engranaje de malla",
+	"rarity": 1,
+	"sortRank": 10129,
 	"description": "El engranaje de un Mecabot.\nUn componente necesario para el sistema motriz. En cuanto se pierde, las funciones a las que da uso se inhabilitan por completo.",
+<<<<<<< HEAD
 	"sortorder": 3119,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de mejora de personaje y arma",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de mejora de personaje y arma",
+	"sources": [
+		"Obtenido de Mecabots",
+		"Canjear Polvo estelar"
+	]
+>>>>>>> upstream/main
 }

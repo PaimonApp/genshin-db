@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Ngôi Sao Tỏa Sáng Dưới Biển Sâu",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 5086,
+=======
+	"id": [
+		84307
+	],
+	"name": "Ngôi Sao Tỏa Sáng Dưới Biển Sâu",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 5086,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Ngôi Sao Tỏa Sáng Dưới Biển Sâu",
 		"description": "Hoàn thành \"Ngôi Sao Tỏa Sáng Dưới Biển Sâu\".",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 10
 		}

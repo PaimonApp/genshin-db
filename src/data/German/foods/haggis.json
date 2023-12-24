@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Haggis",
 	"rarity": "4",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gerichte für Verteidigung",
 	"foodcategory": "Def_Add",
+=======
+	"id": 4402,
+	"name": "Haggis",
+	"rarity": 4,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Gerichte für Verteidigung",
+>>>>>>> upstream/main
 	"effect": "Erhöht die VTD aller Truppenmitglieder 300 s lang um 215 bis 308 Punkte und den Heileffekt um 6 bis 10 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Ein üppig gewürztes Gericht. Man zerkleinere die Innereien eines Schafes und fülle sie gemeinsam mit Haferflocken in dessen Magen, gebe dann verschiedene Gewürze hinzu und forme daraus einen Beutel. Dieser wird für gewöhnlich beim Servieren entfernt. Verzehren wird man lediglich den Inhalt, gemeinsam mit pürierten Möhren und Kartoffeln. Eine lokale Delikatesse, die in Fontaine oft vornehmen Gästen serviert wird.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Rohes Fleisch",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100080,
+>>>>>>> upstream/main
 			"name": "Kartoffel",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100014,
+>>>>>>> upstream/main
 			"name": "Rettich",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 2
 		}

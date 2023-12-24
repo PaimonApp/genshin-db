@@ -1,17 +1,25 @@
 {
+	"id": 104339,
 	"name": "Guide to Equity",
+<<<<<<< HEAD
 	"description": "Material Penguatan Talenta.\nTepian Bangsa Air adalah keadilan.\nKeadilan merupakan fondasi yang membangun Fontaine. Keadilan merupakan dasar dari hukum. Jika hukum kehilangan sifat keadilannya, maka ia pasti akan jatuh menjadi papan catur yang dimainkan serta-merta hanya untuk keuntungan saja.",
 	"sortorder": 3254,
 	"rarity": "3",
+=======
+	"rarity": 3,
+	"sortRank": 13113,
+	"description": "Material Penguatan Talenta.\nTepian Bangsa Air adalah keadilan.\nKeadilan merupakan fondasi yang membangun Fontaine. Keadilan merupakan dasar dari hukum. Jika hukum kehilangan sifat keadilannya, maka ia pasti akan jatuh menjadi papan catur yang dimainkan serta-merta hanya untuk keuntungan saja.",
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Material Talenta Karakter",
-	"dropdomain": "Domain of Mastery: Ritme Irama",
-	"daysofweek": [
+	"typeText": "Material Talenta Karakter",
+	"dropDomainId": 4461,
+	"dropDomainName": "Domain of Mastery: Ritme Irama",
+	"daysOfWeek": [
 		"Senin",
 		"Kamis",
 		"Minggu"
 	],
-	"source": [
+	"sources": [
 		"Didapatkan melalui Craft"
 	]
 }

@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "เส้นทางอันศักดิ์สิทธิ์ - ดินแดนน้ำพุผูกสัมพันธ์ II",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว II",
 	"sortorder": 250,
+=======
+	"id": [
+		80274
+	],
+	"name": "เส้นทางอันศักดิ์สิทธิ์ - ดินแดนน้ำพุผูกสัมพันธ์ II",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว II",
+	"sortOrder": 250,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "เส้นทางอันศักดิ์สิทธิ์ - ดินแดนน้ำพุผูกสัมพันธ์ II",
 		"description": "ปลดผนึกวิหารแห่งห้วงลึกทั้งหมดใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region ในพื้นที่ Fontaine",
 		"progress": 2,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

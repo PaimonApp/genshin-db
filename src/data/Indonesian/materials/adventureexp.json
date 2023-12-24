@@ -1,9 +1,15 @@
 {
+	"id": 102,
 	"name": "Adventure EXP",
+	"rarity": 3,
+	"sortRank": 13,
 	"description": "Adventure EXP, digunakan untuk meningkatkan Rank Adventure.",
+<<<<<<< HEAD
 	"sortorder": 2670,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"materialtype": "Pembukaan fitur",
-	"source": []
+	"typeText": "Pembukaan fitur",
+	"sources": []
 }

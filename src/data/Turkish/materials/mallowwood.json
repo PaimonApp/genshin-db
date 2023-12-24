@@ -1,12 +1,19 @@
 {
+	"id": 101318,
 	"name": "Çınar Kütüğü",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Çınar Ağacından elde edilen kütük. Ev temeli ve iskeleti yapmak için uygundur. İşlemesi ve kullanımı kolay olduğundan göze hoş gelen mobilyalar yapmak çok fazla el işçiliği gerektirmez.\nDekorasyon yapmak için kullanılabilir.",
+<<<<<<< HEAD
 	"sortorder": 2977,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Malzeme",
-	"source": [
+	"typeText": "Malzeme",
+	"sources": [
 		"Doğada bulunur.",
-		"Öneri: Fontaine doğasında kesilir."
+		"Öneri: Fontaine doğasında kesilir.",
+		"Kütüğü Dönüştür"
 	]
 }

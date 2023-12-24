@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Marcador de Página de Dandelion",
 	"description": "Material de Refinamento para Canção do Vasto Azul.\nEm muitos poemas e contos, Dandelions são um símbolo de liberdade irrestrita, viajando para terras distantes. Colocar um marca-página com a imagem de um Dandelion nas páginas de um livro não é uma forma de restrição, mas sim permitir que ele vague orgulhosamente em um mundo muito maior e brilhante que o nosso.",
 	"sortorder": 2768,
@@ -6,4 +7,14 @@
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Refinamento",
 	"source": []
+=======
+	"id": 200117,
+	"name": "Marcador de Página de Dandelion",
+	"rarity": 4,
+	"sortRank": 90,
+	"description": "Material de Refinamento para Canção do Vasto Azul.\nEm muitos poemas e contos, Dandelions são um símbolo de liberdade irrestrita, viajando para terras distantes. Colocar um marca-página com a imagem de um Dandelion nas páginas de um livro não é uma forma de restrição, mas sim permitir que ele vague orgulhosamente em um mundo muito maior e brilhante que o nosso.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de Refinamento",
+	"sources": []
+>>>>>>> upstream/main
 }

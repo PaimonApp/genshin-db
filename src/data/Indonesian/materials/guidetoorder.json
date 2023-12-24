@@ -1,17 +1,25 @@
 {
+	"id": 104345,
 	"name": "Guide to Order",
+<<<<<<< HEAD
 	"description": "Material Penguatan Talenta.\nTameng dari Bangsa Air adalah tatanan.\nSeluruh hukum di Fontaine pada akhirnya melayani tatanan yang stabil. Tanpa adanya jaminan dari tatanan, kebenaran juga akan jatuh menjadi kekerasan yang tak berujung, senjata yang digunakan bagi semua orang untuk semua orang.",
 	"sortorder": 3260,
 	"rarity": "3",
+=======
+	"rarity": 3,
+	"sortRank": 13115,
+	"description": "Material Penguatan Talenta.\nTameng dari Bangsa Air adalah tatanan.\nSeluruh hukum di Fontaine pada akhirnya melayani tatanan yang stabil. Tanpa adanya jaminan dari tatanan, kebenaran juga akan jatuh menjadi kekerasan yang tak berujung, senjata yang digunakan bagi semua orang untuk semua orang.",
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Material Talenta Karakter",
-	"dropdomain": "Domain of Mastery：Bacaan Berdentang",
-	"daysofweek": [
+	"typeText": "Material Talenta Karakter",
+	"dropDomainId": 4495,
+	"dropDomainName": "Domain of Mastery：Bacaan Berdentang",
+	"daysOfWeek": [
 		"Rabu",
 		"Sabtu",
 		"Minggu"
 	],
-	"source": [
+	"sources": [
 		"Didapatkan melalui Craft"
 	]
 }

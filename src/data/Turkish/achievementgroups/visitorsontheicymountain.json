@@ -1,7 +1,13 @@
 {
+	"id": 16,
 	"name": "Buzlu Dağın Ziyaretçileri",
+<<<<<<< HEAD
 	"sortorder": 30,
+=======
+	"sortOrder": 30,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210052,
 		"name": "Başarım: Karlı Zirve"
 	}
 }

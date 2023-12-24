@@ -1,10 +1,15 @@
 {
+	"id": 101213,
 	"name": "Rukkhashava Mantarları",
+	"sortRank": 314,
 	"description": "Yağmur ormanının derinliklerindeki ağaçlarda bulut denizini andıran bir şekilde katman katman büyüyen bir mantar.",
+<<<<<<< HEAD
 	"sortorder": 2871,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Sumeru Yöresel Ürünü",
-	"source": [
+	"typeText": "Sumeru Yöresel Ürünü",
+	"sources": [
 		"Doğada bulunur.",
 		"Öneri: Ashavan Diyarı'nda bulunur.",
 		"Öneri: Lokapala Ormanı'nda bulunur."

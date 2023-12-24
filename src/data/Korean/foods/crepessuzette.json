@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "크레프 쉬제트",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "모험류 요리",
 	"foodcategory": "Other_SPReduceConsume",
+=======
+	"id": 3415,
+	"name": "크레프 쉬제트",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "모험류 요리",
+>>>>>>> upstream/main
 	"effect": "파티 내 모든 캐릭터의 활강/대시 시 소모하는 스태미나가 15%-25% 감소한다. 지속 시간: 900초\n다인 모드 시 자신의 캐릭터에만 적용된다",
 	"description": "속 재료가 들어간 얇은 크레프. 먼저 크레프를 굽고 과일잼, 크림, 과일 조각을 넣는다. 사실 조리법은 꼭 정해진 게 아니기 때문에 들어간 재료에 따라 다양한 맛을 즐길 수 있다",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 101230,
+>>>>>>> upstream/main
 			"name": "풍선귤",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "크림",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110008,
+>>>>>>> upstream/main
 			"name": "과일잼",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "밀가루",
 			"count": 1
 		}

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Vì Nguyện Vọng Của Mọi Người",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1408,
+=======
+	"id": [
+		81424
+	],
+	"name": "Vì Nguyện Vọng Của Mọi Người",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1408,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Vì Nguyện Vọng Của Mọi Người",
 		"description": "Nhận lời hứa của Tường Vi Cầu Vồng.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

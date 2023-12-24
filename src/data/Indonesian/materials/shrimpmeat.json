@@ -1,10 +1,15 @@
 {
+	"id": 100093,
 	"name": "Shrimp Meat",
+	"sortRank": 321,
 	"description": "Sepotong daging utuh udang laut yang segar, penuh nutrisi dan rasa yang lezat.",
+<<<<<<< HEAD
 	"sortorder": 2930,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Dijual di toko barang kebutuhan di Liyue",
 		"Dijual di toko barang kebutuhan Inazuma",
 		"Dijual di toko barang kebutuhan di Sumeru"

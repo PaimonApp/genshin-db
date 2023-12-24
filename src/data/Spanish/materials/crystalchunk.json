@@ -1,10 +1,15 @@
 {
+	"id": 101003,
 	"name": "Pedazo de cristal",
+	"sortRank": 301,
 	"description": "Cristal bruto. Solo un profesional podrá sacar su auténtico valor.",
+<<<<<<< HEAD
 	"sortorder": 2823,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Mineral de forja",
-	"source": [
+	"typeText": "Mineral de forja",
+	"sources": [
 		"Recolectar en la naturaleza",
 		"Recolectar en la Guarida de Stormterror"
 	]

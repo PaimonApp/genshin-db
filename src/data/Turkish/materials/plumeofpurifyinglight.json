@@ -1,8 +1,13 @@
 {
+	"id": 107022,
 	"name": "Arındıran Işık Tüyü",
+	"sortRank": 420021,
 	"description": "Khvarena'nın bıraktığı parça. Geçmiş anıları taşır.",
+<<<<<<< HEAD
 	"sortorder": 4890,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Sarf Malzemesi",
-	"source": []
+	"typeText": "Sarf Malzemesi",
+	"sources": []
 }

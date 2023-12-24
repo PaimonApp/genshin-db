@@ -11,6 +11,10 @@
 		"bennett": "베넷",
 		"candace": "캔디스",
 		"charlotte": "샤를로트",
+<<<<<<< HEAD
+=======
+		"chevreuse": "슈브르즈",
+>>>>>>> upstream/main
 		"chongyun": "중운",
 		"collei": "콜레이",
 		"cyno": "사이노",
@@ -44,6 +48,10 @@
 		"mika": "미카",
 		"mona": "모나",
 		"nahida": "나히다",
+<<<<<<< HEAD
+=======
+		"navia": "나비아",
+>>>>>>> upstream/main
 		"neuvillette": "느비예트",
 		"nilou": "닐루",
 		"ningguang": "응광",
@@ -92,6 +100,10 @@
 		"베넷": "bennett",
 		"캔디스": "candace",
 		"샤를로트": "charlotte",
+<<<<<<< HEAD
+=======
+		"슈브르즈": "chevreuse",
+>>>>>>> upstream/main
 		"중운": "chongyun",
 		"콜레이": "collei",
 		"사이노": "cyno",
@@ -125,6 +137,10 @@
 		"미카": "mika",
 		"모나": "mona",
 		"나히다": "nahida",
+<<<<<<< HEAD
+=======
+		"나비아": "navia",
+>>>>>>> upstream/main
 		"느비예트": "neuvillette",
 		"닐루": "nilou",
 		"응광": "ningguang",
@@ -175,6 +191,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -208,6 +228,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -320,6 +344,10 @@
 			"bennett",
 			"candace",
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -353,6 +381,10 @@
 			"mika",
 			"mona",
 			"nahida",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -735,6 +767,10 @@
 		],
 		"맞물림 톱니바퀴": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -746,6 +782,10 @@
 		],
 		"평톱니바퀴": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -757,11 +797,40 @@
 		],
 		"오토마톤 코어 톱니바퀴": [
 			"charlotte",
+<<<<<<< HEAD
+=======
+			"chevreuse",
+>>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"빛 없는 실": [
+<<<<<<< HEAD
 			"charlotte"
+=======
+			"charlotte",
+			"navia"
+		],
+		"「질서」의 가르침": [
+			"chevreuse",
+			"lynette",
+			"wriothesley"
+		],
+		"「질서」의 인도": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"「질서」의 철학": [
+			"chevreuse",
+			"lynette",
+			"travelerhydro",
+			"wriothesley"
+		],
+		"빛 없는 소용돌이 눈": [
+			"chevreuse"
+>>>>>>> upstream/main
 		],
 		"「근면」의 가르침": [
 			"chongyun",
@@ -902,16 +971,28 @@
 		],
 		"기이한 바다의 방울": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"기이한 바다의 결정": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"이색 결정석": [
 			"freminet",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1069,6 +1150,7 @@
 			"razor",
 			"xiangling"
 		],
+<<<<<<< HEAD
 		"「질서」의 가르침": [
 			"lynette",
 			"wriothesley"
@@ -1085,16 +1167,29 @@
 		],
 		"「공평」의 가르침": [
 			"lyney",
+=======
+		"「공평」의 가르침": [
+			"lyney",
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"「공평」의 인도": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"「공평」의 철학": [
 			"lyney",
+<<<<<<< HEAD
+=======
+			"navia",
+>>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1181,6 +1276,13 @@
 			"「정의」의 철학",
 			"오토마톤 코어 톱니바퀴",
 			"빛 없는 실",
+<<<<<<< HEAD
+=======
+			"「질서」의 가르침",
+			"「질서」의 인도",
+			"「질서」의 철학",
+			"빛 없는 소용돌이 눈",
+>>>>>>> upstream/main
 			"「근면」의 가르침",
 			"부서진 가면",
 			"「근면」의 인도",
@@ -1223,9 +1325,12 @@
 			"「부세」의 철학",
 			"고대 숲의 응고된 찰나",
 			"동풍의 발톱",
+<<<<<<< HEAD
 			"「질서」의 가르침",
 			"「질서」의 인도",
 			"「질서」의 철학",
+=======
+>>>>>>> upstream/main
 			"「공평」의 가르침",
 			"「공평」의 인도",
 			"「공평」의 철학",

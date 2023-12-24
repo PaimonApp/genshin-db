@@ -1,10 +1,15 @@
 {
+	"id": 100064,
 	"name": "Carne de ave",
+	"sortRank": 321,
 	"description": "Carne de ave fresca. Si se prepara correctamente, puede ser una buena comida para mejorar el estado de ánimo.",
+<<<<<<< HEAD
 	"sortorder": 2915,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente culinario",
-	"source": [
+	"typeText": "Ingrediente culinario",
+	"sources": [
 		"Recolectado de animales"
 	]
 }

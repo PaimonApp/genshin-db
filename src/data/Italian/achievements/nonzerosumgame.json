@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Gioco a somma nulla",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1361,
+=======
+	"id": [
+		81377
+	],
+	"name": "Gioco a somma nulla",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1361,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Gioco a somma nulla",
 		"description": "Completa il questionario di soddisfazione del refettorio dei Coupon.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

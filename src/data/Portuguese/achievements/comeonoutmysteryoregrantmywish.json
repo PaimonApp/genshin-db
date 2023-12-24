@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Pode sair, Minério Misterioso!",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1365,
+=======
+	"id": [
+		81381
+	],
+	"name": "Pode sair, Minério Misterioso!",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1365,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Pode sair, Minério Misterioso!",
 		"description": "Reúna todos os sete minérios amarelos-esverdeados misteriosos.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

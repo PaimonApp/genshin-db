@@ -1,7 +1,13 @@
 {
+	"id": [
+		80292,
+		80293,
+		80294
+	],
 	"name": "滄浪的尋寶者·其三",
-	"achievementgroup": "楓丹·白露澈明的泉舞·其之三",
-	"sortorder": 268,
+	"achievementGroupId": 46,
+	"achievementGroupName": "楓丹·白露澈明的泉舞·其之三",
+	"sortOrder": 268,
 	"stages": 3,
 	"stage1": {
 		"title": "滄浪的尋寶者·其三",
@@ -9,6 +15,7 @@
 		"description": "在莫爾泰區、伊黎耶林區開啟{param0}個寶箱。",
 		"progress": 40,
 		"reward": {
+			"id": 201,
 			"name": "原石",
 			"count": 5
 		}
@@ -19,6 +26,7 @@
 		"description": "在莫爾泰區、伊黎耶林區開啟{param0}個寶箱。",
 		"progress": 80,
 		"reward": {
+			"id": 201,
 			"name": "原石",
 			"count": 10
 		}
@@ -29,6 +37,7 @@
 		"description": "在莫爾泰區、伊黎耶林區開啟{param0}個寶箱。",
 		"progress": 160,
 		"reward": {
+			"id": 201,
 			"name": "原石",
 			"count": 20
 		}

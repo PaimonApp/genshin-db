@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "「魔剣クルージュ」",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1417,
+=======
+	"id": [
+		81433
+	],
+	"name": "「魔剣クルージュ」",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1417,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "「魔剣クルージュ」",
 		"description": "地方伝説·魔剣クルージュを倒す。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

@@ -1,7 +1,19 @@
 {
+<<<<<<< HEAD
 	"name": "Chasse aux trésors sur les terres aquatiques (3)",
 	"achievementgroup": "Fontaine - Danse de la rosée blanche (3)",
 	"sortorder": 268,
+=======
+	"id": [
+		80292,
+		80293,
+		80294
+	],
+	"name": "Chasse aux trésors sur les terres aquatiques (3)",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine - Danse de la rosée blanche (3)",
+	"sortOrder": 268,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Chasse aux trésors sur les terres aquatiques (3)",
@@ -9,6 +21,10 @@
 		"description": "Ouvrez {param0} coffres dans la Région mortée et la Forêt d'Erinnyes.",
 		"progress": 40,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -19,6 +35,10 @@
 		"description": "Ouvrez {param0} coffres dans la Région mortée et la Forêt d'Erinnyes.",
 		"progress": 80,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -29,6 +49,10 @@
 		"description": "Ouvrez {param0} coffres dans la Région mortée et la Forêt d'Erinnyes.",
 		"progress": 160,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 20
 		}

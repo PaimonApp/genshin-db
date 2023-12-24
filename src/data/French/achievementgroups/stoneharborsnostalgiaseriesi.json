@@ -1,7 +1,13 @@
 {
+	"id": 12,
 	"name": "Nostalgie du Port de pierre - Partie I",
+<<<<<<< HEAD
 	"sortorder": 25,
+=======
+	"sortOrder": 25,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210032,
 		"name": "Succès - Suspense"
 	}
 }

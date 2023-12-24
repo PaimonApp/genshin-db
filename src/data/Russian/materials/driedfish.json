@@ -1,10 +1,15 @@
 {
+	"id": 110013,
 	"name": "Сушёная рыба",
+	"sortRank": 322,
 	"description": "",
+<<<<<<< HEAD
 	"sortorder": 2958,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Кухонный ингредиент",
-	"source": [
+	"typeText": "Кухонный ингредиент",
+	"sources": [
 		"Заготовка ингредиентов"
 	]
 }

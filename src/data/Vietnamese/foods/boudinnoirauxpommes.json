@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Boudin Noir aux Pommes",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Mạo Hiểm",
 	"foodcategory": "Other_SPReduceConsume",
+=======
+	"id": 2408,
+	"name": "Boudin Noir aux Pommes",
+	"rarity": 2,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "Món Dạng Mạo Hiểm",
+>>>>>>> upstream/main
 	"effect": "Giảm 15%-25% tiêu hao thể lực cho toàn thành viên đội khi xung kích, kéo dài 900s\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Món ăn truyền thống của Fontaine. Táo cắt miếng và xúc xích máu đem chiên riêng rồi đặt ra đĩa, có thể ăn chung với sốt. Thường có du khách nước ngoài nhìn thấy tên món ăn này thì tưởng là món ngọt, nhưng đây thực ra là tên gọi khác của xúc xích máu.",
 	"suspicious": {
@@ -20,14 +29,26 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100001,
+>>>>>>> upstream/main
 			"name": "Táo",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Thịt Rừng",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110004,
+>>>>>>> upstream/main
 			"name": "Bơ",
 			"count": 1
 		}

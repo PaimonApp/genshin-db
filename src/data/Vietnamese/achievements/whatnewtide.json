@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "\"...Trào Lưu Gì Mới?\"",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1384,
+=======
+	"id": [
+		81400
+	],
+	"name": "\"...Trào Lưu Gì Mới?\"",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1384,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"...Trào Lưu Gì Mới?\"",
 		"description": "Xem toàn bộ sách thời trang.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

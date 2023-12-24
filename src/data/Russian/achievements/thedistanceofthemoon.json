@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Один шаг для путешественника",
 	"achievementgroup": "Победитель VIII",
 	"sortorder": 2180,
+=======
+	"id": [
+		82181
+	],
+	"name": "Один шаг для путешественника",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Победитель VIII",
+	"sortOrder": 2180,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Один шаг для путешественника",
 		"description": "Выполните 11 атак в падении в одном поле снижения гравитации, попадая в Экспериментальный генератор поля.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

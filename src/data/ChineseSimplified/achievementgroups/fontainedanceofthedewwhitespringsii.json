@@ -1,7 +1,9 @@
 {
+	"id": 45,
 	"name": "枫丹·白露澈明的泉舞·其之二",
-	"sortorder": 46,
+	"sortOrder": 46,
 	"reward": {
+		"id": 210179,
 		"name": "枫丹·罚赎"
 	}
 }

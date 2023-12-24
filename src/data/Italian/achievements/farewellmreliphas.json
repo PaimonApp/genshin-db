@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Addio, Monsieur Éliphas",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1395,
+=======
+	"id": [
+		81411
+	],
+	"name": "Addio, Monsieur Éliphas",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1395,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Addio, Monsieur Éliphas",
 		"description": "Sconfiggi Éliphas.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

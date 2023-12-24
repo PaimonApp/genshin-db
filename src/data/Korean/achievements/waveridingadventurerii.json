@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "푸른 바다의 모험가·두 번째",
 	"achievementgroup": "폰타인·춤추는 샘의 흰 이슬·두 번째",
 	"sortorder": 257,
+=======
+	"id": [
+		80281,
+		80282,
+		80283
+	],
+	"name": "푸른 바다의 모험가·두 번째",
+	"achievementGroupId": 45,
+	"achievementGroupName": "폰타인·춤추는 샘의 흰 이슬·두 번째",
+	"sortOrder": 257,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "푸른 바다의 모험가·두 번째",
 		"description": "리피 구역, 폰타인 운동 에너지 공학 연구원 구역에서 월드 타임어택 도전 {param0}개 클리어하기",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "원석",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "리피 구역, 폰타인 운동 에너지 공학 연구원 구역에서 월드 타임어택 도전 {param0}개 클리어하기",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "원석",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "리피 구역, 폰타인 운동 에너지 공학 연구원 구역에서 월드 타임어택 도전 {param0}개 클리어하기",
 		"progress": 12,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "원석",
 			"count": 20
 		}

@@ -1,7 +1,13 @@
 {
+	"id": 41,
 	"name": "Благословенная хамада",
+<<<<<<< HEAD
 	"sortorder": 44,
+=======
+	"sortOrder": 44,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210157,
 		"name": "Бесконечность"
 	}
 }

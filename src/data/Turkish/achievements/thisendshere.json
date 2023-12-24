@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Bu İş Burada Biter",
 	"achievementgroup": "Fontaine: Çiy Beyazı Pınarların Dansı (II)",
 	"sortorder": 261,
+=======
+	"id": [
+		80285
+	],
+	"name": "Bu İş Burada Biter",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (II)",
+	"sortOrder": 261,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Bu İş Burada Biter",
 		"description": "Fontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsünün hikayesine tanıklık et.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 10
 		}

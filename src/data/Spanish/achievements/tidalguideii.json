@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "Guía del reflujo (II)",
 	"achievementgroup": "Fontaine: Un espectáculo de aguas cristalinas (II)",
 	"sortorder": 251,
+=======
+	"id": [
+		80275,
+		80276,
+		80277
+	],
+	"name": "Guía del reflujo (II)",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine: Un espectáculo de aguas cristalinas (II)",
+	"sortOrder": 251,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Guía del reflujo (II)",
 		"description": "Persigue {param0} Seelies en el Condado Liffey y el Condado del Instituto de Ciencias de Fontaine.",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "Persigue {param0} Seelies en el Condado Liffey y el Condado del Instituto de Ciencias de Fontaine.",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "Persigue {param0} Seelies en el Condado Liffey y el Condado del Instituto de Ciencias de Fontaine.",
 		"progress": 9,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 20
 		}

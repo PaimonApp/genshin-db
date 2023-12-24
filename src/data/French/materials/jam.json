@@ -1,10 +1,15 @@
 {
+	"id": 110008,
 	"name": "Confiture",
+	"sortRank": 322,
 	"description": "Un mélange de purée de fruits et de sucre. Une cuillerée suffit pour réveiller vos papilles.",
+<<<<<<< HEAD
 	"sortorder": 2953,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrédient",
-	"source": [
+	"typeText": "Ingrédient",
+	"sources": [
 		"Cuisine (préparation)"
 	]
 }

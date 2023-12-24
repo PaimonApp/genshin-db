@@ -1,7 +1,13 @@
 {
+	"id": 16,
 	"name": "Гости ледяной горы",
+<<<<<<< HEAD
 	"sortorder": 30,
+=======
+	"sortOrder": 30,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210052,
 		"name": "Снежный пик"
 	}
 }

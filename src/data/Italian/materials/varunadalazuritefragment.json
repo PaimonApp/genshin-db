@@ -1,11 +1,17 @@
 {
+	"id": 104122,
 	"name": "Frammento di lazurite Varunada",
+	"rarity": 3,
+	"sortRank": 12103,
 	"description": "Materiale d'ascensione dei personaggi.\n\"I miei ideali sono senza macchia.\"",
+<<<<<<< HEAD
 	"sortorder": 3195,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Materiale d'ascensione personaggi",
-	"source": [
+	"typeText": "Materiale d'ascensione personaggi",
+	"sources": [
 		"Ottenibile dalle Oceanidi di liv. 40+",
 		"Ottenibile dalle Ipostasi di Hydro di liv. 40+",
 		"Ottenibile dai Tulpa di Hydro di liv. 40+",

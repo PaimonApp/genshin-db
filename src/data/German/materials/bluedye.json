@@ -1,8 +1,13 @@
 {
+	"id": 101404,
 	"name": "Blaue Farbe",
+	"sortRank": 331,
 	"description": "Blauer Farbstoff. Er wird sicher bei der Herstellung von Möbeln verwendet.",
+<<<<<<< HEAD
 	"sortorder": 2985,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

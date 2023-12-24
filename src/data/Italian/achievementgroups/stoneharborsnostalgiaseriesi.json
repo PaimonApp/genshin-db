@@ -1,7 +1,13 @@
 {
+	"id": 12,
 	"name": "Nostalgia del Porto di pietra: Serie I",
+<<<<<<< HEAD
 	"sortorder": 25,
+=======
+	"sortOrder": 25,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210032,
 		"name": "Obiettivo: Suspense"
 	}
 }

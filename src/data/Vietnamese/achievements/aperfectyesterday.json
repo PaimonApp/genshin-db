@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Ngày Hôm Qua Tươi Đẹp",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1385,
+=======
+	"id": [
+		81401
+	],
+	"name": "Ngày Hôm Qua Tươi Đẹp",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1385,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Ngày Hôm Qua Tươi Đẹp",
 		"description": "Không thể níu giữ ngày đã qua...",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

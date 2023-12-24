@@ -1,12 +1,19 @@
 {
+	"id": 101309,
 	"name": "Gỗ Mơ Mộng",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Gỗ lấy từ Cây Anh Đào, nhẵn mịn, ngậm nước, nghe nói có thể mang đến cho người ta giấc mơ đẹp tựa mùa xuân về.\nCó thể dùng để chế tạo đồ trang trí.",
+<<<<<<< HEAD
 	"sortorder": 2968,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Nguyên Liệu",
-	"source": [
+	"typeText": "Nguyên Liệu",
+	"sources": [
 		"Thu Thập Bên Ngoài",
-		"Kiến nghị: Đốn ở Đảo Narukami"
+		"Kiến nghị: Đốn ở Đảo Narukami",
+		"Chuyển Hóa Gỗ"
 	]
 }

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Sword of Narzissenkreuz",
 	"description": "Pedang yang kehilangan kekuatan di akhir kisahnya. Kini pedang ini akan memulai perjalanan barunya dengan sisa kekuatan yang ada di dalamnya, terus memperingati sebuah mimpi yang agung mu.",
 	"weapontype": "Sword",
@@ -28,108 +29,250 @@
 	"costs": {
 		"ascend1": [
 			{
+=======
+	"id": 11428,
+	"name": "Sword of Narzissenkreuz",
+	"description": "Pedang yang kehilangan kekuatan di akhir kisahnya. Kini pedang ini akan memulai perjalanan barunya dengan sisa kekuatan yang ada di dalamnya, terus memperingati sebuah mimpi yang agung mulia.",
+	"descriptionRaw": "Pedang yang kehilangan kekuatan di akhir kisahnya. Kini pedang ini akan memulai perjalanan barunya dengan sisa kekuatan yang ada di dalamnya, terus memperingati sebuah mimpi yang agung mulia.",
+	"weaponType": "WEAPON_SWORD_ONE_HAND",
+	"weaponText": "Sword",
+	"rarity": 4,
+	"story": "Perjalanan penuh dengan perjumpaan dan perpisahan.\nRekan yang selalu setia menemani seorang Pengembara,\nadalah pedang di genggaman tangan dan mimpi di dalam hati.\n\nSebelum menjadi tua, Pengembara yang abadi singgah di berbagai dunia.\nTanpa meninggalkan sesuatu apa pun selain cerita yang tak habis-habis dan masa depan yang sedikit lebih cerah.",
+	"baseAtkValue": 42.4010009765625,
+	"mainStatType": "FIGHT_PROP_ATTACK_PERCENT",
+	"mainStatText": "ATK",
+	"baseStatText": "9%",
+	"effectName": "Hero's Blade",
+	"effectTemplateRaw": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar <color=#99FFFFFF>{0}</color> ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+	"r1": {
+		"description": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 160% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+		"values": [
+			"160%"
+		]
+	},
+	"r2": {
+		"description": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 200% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+		"values": [
+			"200%"
+		]
+	},
+	"r3": {
+		"description": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 240% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+		"values": [
+			"240%"
+		]
+	},
+	"r4": {
+		"description": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 280% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+		"values": [
+			"280%"
+		]
+	},
+	"r5": {
+		"description": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 320% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+		"values": [
+			"320%"
+		]
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 5000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 114049,
+>>>>>>> upstream/main
 				"name": "Fragment of an Ancient Chord",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112092,
+>>>>>>> upstream/main
 				"name": "Old Operative's Pocket Watch",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112080,
+>>>>>>> upstream/main
 				"name": "Transoceanic Pearl",
 				"count": 2
 			}
 		],
 		"ascend2": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 15000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 114050,
+>>>>>>> upstream/main
 				"name": "Chapter of an Ancient Chord",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112092,
+>>>>>>> upstream/main
 				"name": "Old Operative's Pocket Watch",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112080,
+>>>>>>> upstream/main
 				"name": "Transoceanic Pearl",
 				"count": 8
 			}
 		],
 		"ascend3": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 114050,
+>>>>>>> upstream/main
 				"name": "Chapter of an Ancient Chord",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112093,
+>>>>>>> upstream/main
 				"name": "Operative's Standard Pocket Watch",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112081,
+>>>>>>> upstream/main
 				"name": "Transoceanic Chunk",
 				"count": 6
 			}
 		],
 		"ascend4": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 30000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 114051,
+>>>>>>> upstream/main
 				"name": "Movement of an Ancient Chord",
 				"count": 3
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112093,
+>>>>>>> upstream/main
 				"name": "Operative's Standard Pocket Watch",
 				"count": 12
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112081,
+>>>>>>> upstream/main
 				"name": "Transoceanic Chunk",
 				"count": 9
 			}
 		],
 		"ascend5": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 35000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 114051,
+>>>>>>> upstream/main
 				"name": "Movement of an Ancient Chord",
 				"count": 6
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112094,
+>>>>>>> upstream/main
 				"name": "Operative's Constancy",
 				"count": 9
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112082,
+>>>>>>> upstream/main
 				"name": "Xenochromatic Crystal",
 				"count": 6
 			}
 		],
 		"ascend6": [
 			{
+<<<<<<< HEAD
+=======
+				"id": 202,
+>>>>>>> upstream/main
 				"name": "Mora",
 				"count": 45000
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 114052,
+>>>>>>> upstream/main
 				"name": "Echo of Ancient Chord",
 				"count": 4
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112094,
+>>>>>>> upstream/main
 				"name": "Operative's Constancy",
 				"count": 18
 			},
 			{
+<<<<<<< HEAD
+=======
+				"id": 112082,
+>>>>>>> upstream/main
 				"name": "Xenochromatic Crystal",
 				"count": 12
 			}

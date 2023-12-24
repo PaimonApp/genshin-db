@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "การเดิมพันที่ไม่เท่ากับศูนย์",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1361,
+=======
+	"id": [
+		81377
+	],
+	"name": "การเดิมพันที่ไม่เท่ากับศูนย์",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1361,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "การเดิมพันที่ไม่เท่ากับศูนย์",
 		"description": "สำเร็จการสำรวจความพึงพอใจภายในโรงอาหารสวัสดิการพิเศษ",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

@@ -1,9 +1,10 @@
 {
+	"id": 3415,
 	"name": "Crepes Suzette",
-	"rarity": "3",
+	"rarity": 3,
 	"foodtype": "NORMAL",
-	"foodfilter": "Adventurer's Dish",
-	"foodcategory": "Other_SPReduceConsume",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "Adventurer's Dish",
 	"effect": "Decreases Stamina depleted by gliding and sprinting for all party members by 15–25% for 900s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "Crepes with fillings. Fry the crepes first, then serve them with jam, cream, and fruit slices. In fact, the recipe has quite a few variants. The dish's taste differs according to the different ingredients used.",
 	"suspicious": {
@@ -20,18 +21,22 @@
 	},
 	"ingredients": [
 		{
+			"id": 101230,
 			"name": "Bulle Fruit",
 			"count": 2
 		},
 		{
+			"id": 110002,
 			"name": "Cream",
 			"count": 1
 		},
 		{
+			"id": 110008,
 			"name": "Jam",
 			"count": 1
 		},
 		{
+			"id": 110001,
 			"name": "Flour",
 			"count": 1
 		}

@@ -1,11 +1,17 @@
 {
+	"id": 202,
 	"name": "Mora",
+	"rarity": 3,
+	"sortRank": 10,
 	"description": "Moneda común. El lenguaje que todo el mundo entiende.",
+<<<<<<< HEAD
 	"sortorder": 482,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"materialtype": "Moneda común",
-	"source": [
+	"typeText": "Moneda común",
+	"sources": [
 		"Recompensa de Flores de riqueza"
 	]
 }

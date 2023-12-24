@@ -1279,7 +1279,7 @@
 		]
 	},
 	"properties": {
-		"filter": [
+		"filterText": [
 			"Matériau d'amélioration de personnage et d'arme",
 			"Matériau d'élévation de personnage",
 			"Consommable",

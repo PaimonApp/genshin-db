@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "« Ils sont Spartacus ! »",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1374,
+=======
+	"id": [
+		81390
+	],
+	"name": "« Ils sont Spartacus ! »",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1374,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "« Ils sont Spartacus ! »",
 		"description": "Guidez Poiret et Geneviève vers la victoire dans le tournoi amical de pancrace.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

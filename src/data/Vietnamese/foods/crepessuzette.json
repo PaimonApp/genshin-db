@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Crepes Suzette",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Mạo Hiểm",
 	"foodcategory": "Other_SPReduceConsume",
+=======
+	"id": 3415,
+	"name": "Crepes Suzette",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_FUNCTION",
+	"filterText": "Món Dạng Mạo Hiểm",
+>>>>>>> upstream/main
 	"effect": "Giảm 15%-25% tiêu hao thể lực cho toàn thành viên đội khi xung kích và bay lượn, kéo dài 900s.\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Bánh kếp có nhân. Chiên phần vỏ bánh trước, rồi cho mứt, kem và trái cây cắt miếng vào đó. Thực ra cách làm khá đa dạng, tùy theo nguyên liệu khác nhau mà khẩu vị cũng rất đa dạng.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 101230,
+>>>>>>> upstream/main
 			"name": "Trái Bulle",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Kem",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110008,
+>>>>>>> upstream/main
 			"name": "Mứt",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Bột Mì",
 			"count": 1
 		}

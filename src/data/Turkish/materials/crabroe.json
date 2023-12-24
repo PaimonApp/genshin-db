@@ -1,10 +1,15 @@
 {
+	"id": 100074,
 	"name": "Yengeç Yumurtası",
+	"sortRank": 322,
 	"description": "Dişi yengeçlere özgü bir lezzet. Bu nadir ve değerli malzeme herkesin damak zevkine uygun değildir.",
+<<<<<<< HEAD
 	"sortorder": 2945,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Yemek Malzemesi",
-	"source": [
+	"typeText": "Yemek Malzemesi",
+	"sources": [
 		"İşlenerek elde edilir."
 	]
 }

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Beehr uns bald wieder!",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1386,
+=======
+	"id": [
+		81402
+	],
+	"name": "Beehr uns bald wieder!",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1386,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Beehr uns bald wieder!",
 		"description": "Ziehe ein Los des Schicksals, das ein doppeltes Glück bringt.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

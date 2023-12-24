@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Penjelajah Benua: Dataran Mata Air Selaras (II)",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
 	"sortorder": 248,
+=======
+	"id": [
+		80272
+	],
+	"name": "Penjelajah Benua: Dataran Mata Air Selaras (II)",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
+	"sortOrder": 248,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Penjelajah Benua: Dataran Mata Air Selaras (II)",
 		"description": "Buka seluruh peta di area Fontaine berikut: Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

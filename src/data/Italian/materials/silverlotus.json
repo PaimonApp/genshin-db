@@ -1,10 +1,15 @@
 {
+	"id": 100019,
 	"name": "Loto argentato",
+	"sortRank": 321,
 	"description": "Una pianta rara che cresce in luoghi impervi. Splende magnificamente di notte.",
+<<<<<<< HEAD
 	"sortorder": 2908,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Ingrediente culinario",
-	"source": [
+	"typeText": "Ingrediente culinario",
+	"sources": [
 		"Presente in natura"
 	]
 }

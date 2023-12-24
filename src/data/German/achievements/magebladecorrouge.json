@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "„Magisches Schwert Corrouge“",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1417,
+=======
+	"id": [
+		81433
+	],
+	"name": "„Magisches Schwert Corrouge“",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1417,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "„Magisches Schwert Corrouge“",
 		"description": "Besiege die Lokallegende Magisches Schwert Corrouge.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

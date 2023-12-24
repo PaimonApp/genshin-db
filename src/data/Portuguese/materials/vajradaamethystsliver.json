@@ -1,11 +1,17 @@
 {
+	"id": 104141,
 	"name": "Lasca de Ametista Vajrada",
+	"rarity": 2,
+	"sortRank": 12105,
 	"description": "Material de Ascensão de Personagem.",
+<<<<<<< HEAD
 	"sortorder": 3204,
 	"rarity": "2",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Material de Ascensão de Personagem",
-	"source": [
+	"typeText": "Material de Ascensão de Personagem",
+	"sources": [
 		"Dropado pelo Hypostasis Electro",
 		"Dropado por Manifestação Trovejante",
 		"Dropado por Regisvine Electro",

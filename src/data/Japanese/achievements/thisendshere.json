@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "ここでお終い。",
 	"achievementgroup": "フォンテーヌ·澄み渡った白露の泉舞·2",
 	"sortorder": 261,
+=======
+	"id": [
+		80285
+	],
+	"name": "ここでお終い。",
+	"achievementGroupId": 45,
+	"achievementGroupName": "フォンテーヌ·澄み渡った白露の泉舞·2",
+	"sortOrder": 261,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "ここでお終い。",
 		"description": "フォンテーヌ運動エネルギー工学科学研究院の物語を見届ける。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 10
 		}

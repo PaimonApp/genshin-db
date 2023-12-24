@@ -1,11 +1,17 @@
 {
+	"id": 305,
 	"name": "Insignia Anemo",
+	"rarity": 3,
+	"sortRank": 430001,
 	"description": "Una insignia que muestra el reconocimiento de los vientos de Mondstadt.\nPuede ser intercambiada por objetos especiales en Mondstadt.",
+<<<<<<< HEAD
 	"sortorder": 4931,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Insignia Elemental",
-	"source": [
+	"typeText": "Insignia Elemental",
+	"sources": [
 		"Recompensa de expedición en Mondstadt"
 	]
 }

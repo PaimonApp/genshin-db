@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Yengeç Kral Çok Yaşa",
 	"achievementgroup": "Mücadeleci: VIII. Seri",
 	"sortorder": 2183,
+=======
+	"id": [
+		82184
+	],
+	"name": "Yengeç Kral Çok Yaşa",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Mücadeleci: VIII. Seri",
+	"sortOrder": 2183,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Yengeç Kral Çok Yaşa",
 		"description": "Ateş ve Demir İmparatorunu zayıflamış haldeyken yen.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

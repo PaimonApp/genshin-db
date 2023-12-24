@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "เมื่อวานที่สวยงาม",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1385,
+=======
+	"id": [
+		81401
+	],
+	"name": "เมื่อวานที่สวยงาม",
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1385,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "เมื่อวานที่สวยงาม",
 		"description": "ไม่มีวันที่เมื่อวานจะคงอยู่...",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

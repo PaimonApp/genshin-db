@@ -1,12 +1,19 @@
 {
+	"id": 101301,
 	"name": "Birch Wood",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Kayu dari Pohon Birch. Mudah diolah dan menghasilkan potongan yang halus. Perabot yang dibuat dengan jenis kayu ini akan menjadi indah dan tahan lama.\nDapat digunakan untuk membuat perabotan.",
+<<<<<<< HEAD
 	"sortorder": 2960,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Ditemukan di alam liar",
-		"Rekomendasi: Ditebang dari Windwail Highland"
+		"Rekomendasi: Ditebang dari Windwail Highland",
+		"Konversi Kayu"
 	]
 }

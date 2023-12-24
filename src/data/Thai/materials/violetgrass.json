@@ -1,10 +1,15 @@
 {
+	"id": 100034,
 	"name": "Violetgrass",
+	"sortRank": 312,
 	"description": "ดอกไม้เล็ก ๆ ที่มีพลังชีวิตอันแข็งแกร่ง ว่ากันว่ามันคว่ำดอกที่บานไว้เพื่อไม่ให้กลิ่นหอมฟุ้งออกไป",
+<<<<<<< HEAD
 	"sortorder": 2860,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "ของพิเศษเฉพาะใน Liyue",
-	"source": [
+	"typeText": "ของพิเศษเฉพาะใน Liyue",
+	"sources": [
 		"หาได้ที่บริเวณหน้าผาของ Liyue"
 	]
 }

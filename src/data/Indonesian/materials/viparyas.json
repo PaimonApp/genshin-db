@@ -1,10 +1,15 @@
 {
+	"id": 101228,
 	"name": "Viparyas",
+	"sortRank": 320,
 	"description": "Bunga tanpa bibit.\nSaat tanah mengingat, Viparyas akan mekar.",
+<<<<<<< HEAD
 	"sortorder": 2898,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Vanarana"
 	]

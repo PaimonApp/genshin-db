@@ -1,9 +1,15 @@
 {
+	"id": 201,
 	"name": "Камень Истока",
+	"rarity": 5,
+	"sortRank": 30,
 	"description": "Древний драгоценный кристалл из-за пределов обычного мира. Источает блеск несбывшихся надежд и желаний вселенной.",
+<<<<<<< HEAD
 	"sortorder": 2714,
 	"rarity": "5",
+=======
+>>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"materialtype": "Особая валюта",
-	"source": []
+	"typeText": "Особая валюта",
+	"sources": []
 }

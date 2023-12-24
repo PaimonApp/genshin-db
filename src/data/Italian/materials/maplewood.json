@@ -1,12 +1,19 @@
 {
+	"id": 101310,
 	"name": "Legno d'acero",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Legno d'acero pregiato e di alta qualità, piacevole al tatto e dal colore raffinato.\nPuoi usarlo per creare mobili.",
+<<<<<<< HEAD
 	"sortorder": 2969,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Materiale",
-	"source": [
+	"typeText": "Materiale",
+	"sources": [
 		"Presente in natura",
-		"Consiglio: si taglia sull'Isola di Narukami"
+		"Consiglio: si taglia sull'Isola di Narukami",
+		"Converti legno"
 	]
 }

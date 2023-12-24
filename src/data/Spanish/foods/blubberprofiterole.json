@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Burbiteroles",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que mejoran ataques",
 	"foodcategory": "Atk_Add",
+=======
+	"id": 3417,
+	"name": "Burbiteroles",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Platos que mejoran ataques",
+>>>>>>> upstream/main
 	"effect": "Aumenta el Daño Físico de todos los miembros del equipo en un 20-40% durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Un postre relleno de crema. La esponjosa corteza de hojaldre envuelve una rica crema. Redondo e hinchado, es tan adorable como la barriga de una Foca Abotargada. Pocos corazones pueden escapar de ser atrapados por la espesa y suave crema de su interior.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Huevo de pájaro",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100078,
+>>>>>>> upstream/main
 			"name": "Leche",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Harina",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110002,
+>>>>>>> upstream/main
 			"name": "Crema batida",
 			"count": 2
 		}

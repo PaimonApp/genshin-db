@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "流謫の海",
 	"area": "リフィー地区",
 	"description": "「どんな罪であっても、最後にはいつも砂のように、ひっそりと潮水に流されていく。」",
 	"region": "フォンテーヌ",
 	"sortorder": 403
+=======
+	"id": 70500003,
+	"name": "流謫の海",
+	"areaId": 50400,
+	"areaName": "リフィー地区",
+	"description": "「どんな罪であっても、最後にはいつも砂のように、ひっそりと潮水に流されていく。」",
+	"regionId": 5,
+	"regionName": "フォンテーヌ",
+	"sortOrder": 403
+>>>>>>> upstream/main
 }

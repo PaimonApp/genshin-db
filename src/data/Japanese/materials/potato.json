@@ -1,10 +1,15 @@
 {
+	"id": 100080,
 	"name": "ジャガイモ",
+	"sortRank": 321,
 	"description": "塊状の草本植物。大地からの贈り物。どのように加工しても、永遠に食べ飽きることのない不思議な食材。",
+<<<<<<< HEAD
 	"sortorder": 2922,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "食材",
-	"source": [
+	"typeText": "食材",
+	"sources": [
 		"雑貨屋で購入"
 	]
 }

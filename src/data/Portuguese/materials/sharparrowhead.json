@@ -1,11 +1,23 @@
 {
+	"id": 112012,
 	"name": "Ponta de Flecha Afiada",
+	"rarity": 2,
+	"sortRank": 10104,
 	"description": "Ponta de flecha bem feita, capaz de penetrar facilmente na armadura do inimigo como se fosse uma pedra atirada na superfície da água.",
+<<<<<<< HEAD
 	"sortorder": 3046,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Fortalecimento de Arma e Personagem",
 	"source": [
 		"Obtido na síntese"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de Fortalecimento de Arma e Personagem",
+	"sources": [
+		"Obtido na síntese",
+		"Dropado por Hilichurls Arqueiros Nv.40+",
+		"Resgate de Poeira Estrelar"
+>>>>>>> upstream/main
 	]
 }

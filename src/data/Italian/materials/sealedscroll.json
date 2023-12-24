@@ -1,11 +1,23 @@
 {
+	"id": 112009,
 	"name": "Pergamena sigillata",
+	"rarity": 2,
+	"sortRank": 10103,
 	"description": "Una vecchia pergamena priva di dettagli e poco chiara. Seguendo le immagini su di essa, alcune creature magiche possono riprodurre parte della sua magia.",
+<<<<<<< HEAD
 	"sortorder": 3043,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Materiale di potenziamento armi e personaggi",
 	"source": [
 		"Creato"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale di potenziamento armi e personaggi",
+	"sources": [
+		"Creato",
+		"Ottenibile dagli Sciamachurl di liv. 40+",
+		"Scambio di Polvere stellare"
+>>>>>>> upstream/main
 	]
 }

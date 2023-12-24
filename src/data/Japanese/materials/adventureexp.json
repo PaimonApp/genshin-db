@@ -1,9 +1,15 @@
 {
+	"id": 102,
 	"name": "冒険経験",
+	"rarity": 3,
+	"sortRank": 13,
 	"description": "冒険の経験値。冒険ランクのアップに使用できる。",
+<<<<<<< HEAD
 	"sortorder": 2670,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"materialtype": "システム開放",
-	"source": []
+	"typeText": "システム開放",
+	"sources": []
 }

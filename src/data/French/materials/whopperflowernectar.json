@@ -1,9 +1,21 @@
 {
+	"id": 112038,
 	"name": "Nectar de Fleur mensongère",
+	"rarity": 1,
+	"sortRank": 10113,
 	"description": "Nectar extrait du pistil d'une Fleur mensongère. Il contient des traces d'éléments.\nSon goût rappelle celui de la fleur sucrante.",
+<<<<<<< HEAD
 	"sortorder": 3071,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Matériau d'amélioration de personnage et d'arme",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Matériau d'amélioration de personnage et d'arme",
+	"sources": [
+		"Butin de Fleur mensongère",
+		"Échange Astrions"
+	]
+>>>>>>> upstream/main
 }

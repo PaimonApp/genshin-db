@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "深海に煌めく星たちへ",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 5086,
+=======
+	"id": [
+		84307
+	],
+	"name": "深海に煌めく星たちへ",
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 5086,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "深海に煌めく星たちへ",
 		"description": "「深海に煌めく星たちへ」をクリアする。",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 10
 		}

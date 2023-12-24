@@ -1,12 +1,19 @@
 {
+	"id": 101316,
 	"name": "Madeira de Palmeira",
+	"rarity": 1,
+	"sortRank": 330,
 	"description": "Madeira da \"Árvore de Palmeira\". Apesar de não ter texturas e padrões excelentes, retém bem a água e é de fácil manutenção. \nPode ser usada para fazer Decorações.",
+<<<<<<< HEAD
 	"sortorder": 2975,
 	"rarity": "1",
+=======
+>>>>>>> upstream/main
 	"category": "WOOD",
-	"materialtype": "Material",
-	"source": [
+	"typeText": "Material",
+	"sources": [
 		"Encontrado na natureza",
-		"Recomendação: Cortado nos Desertos de Sumeru"
+		"Recomendação: Cortado nos Desertos de Sumeru",
+		"Converter Madeira"
 	]
 }

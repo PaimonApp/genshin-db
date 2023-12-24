@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "「プル·ラ·ジャスティス」",
 	"rarity": "3",
 	"foodtype": "SPECIALTY",
@@ -10,18 +11,47 @@
 	"character": "フリーナ",
 	"ingredients": [
 		{
+=======
+	"id": 10000089,
+	"name": "「プル·ラ·ジャスティス」",
+	"rarity": 3,
+	"foodtype": "SPECIALTY",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "防御系料理",
+	"effect": "チーム全員のHP上限+30%、継続時間300秒。マルチプレイ中、自分のキャラクターにのみ有効。",
+	"description": "フリーナのオリジナル料理。フォンテーヌで「プル·ラ·ジャスティス」とは「正義のために」を意味する。彼女はかつて大きな舞台の上で、最も崇高な正義が誕生する瞬間を目の当たりにした。この重層的な風味、起伏に富んだ波乱万丈…最終的に重荷から解放される安堵感。彼女自身の経験から着想を得たんだろうか？",
+	"baseDishId": 3416,
+	"baseDishName": "フォカロルスのために",
+	"characterId": 10000089,
+	"characterName": "フリーナ",
+	"ingredients": [
+		{
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "鳥の卵",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "小麦粉",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "コーヒー豆",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "杏仁",
 			"count": 2
 		}

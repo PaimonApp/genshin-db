@@ -1,7 +1,9 @@
 {
-	"name": "Liyue - Bến cảng của đá và khế ước",
-	"sortorder": 10,
+	"id": 5,
+	"name": "Liyue - Bến Cảng Của Đá Và Khế Ước",
+	"sortOrder": 10,
 	"reward": {
+		"id": 210025,
 		"name": "Liyue - Sự cô đơn của đá"
 	}
 }

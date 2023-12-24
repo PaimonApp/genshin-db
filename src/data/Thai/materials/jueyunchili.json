@@ -1,10 +1,15 @@
 {
+	"id": 100027,
 	"name": "Jueyun Chili",
+	"sortRank": 312,
 	"description": "พริกที่ขึ้นเฉพาะใน Liyue เพียงแค่ได้กลิ่นของมันก็ทำให้คุณร้อนและกระหายได้",
+<<<<<<< HEAD
 	"sortorder": 2854,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "ของพิเศษเฉพาะใน Liyue",
-	"source": [
+	"typeText": "ของพิเศษเฉพาะใน Liyue",
+	"sources": [
 		"พบได้ในโลกกว้าง",
 		"คำแนะนำ: หาได้ที่หมู่บ้าน Qingce"
 	]

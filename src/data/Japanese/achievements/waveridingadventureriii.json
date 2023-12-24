@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "蒼波の冒険者·3",
 	"achievementgroup": "フォンテーヌ·澄み渡った白露の泉舞·3",
 	"sortorder": 271,
+=======
+	"id": [
+		80295,
+		80296,
+		80297
+	],
+	"name": "蒼波の冒険者·3",
+	"achievementGroupId": 46,
+	"achievementGroupName": "フォンテーヌ·澄み渡った白露の泉舞·3",
+	"sortOrder": 271,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "蒼波の冒険者·3",
 		"description": "モルテ地区、エリニュス山林地区での時間制限挑戦を{param0}個クリアする。",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "モルテ地区、エリニュス山林地区での時間制限挑戦を{param0}個クリアする。",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "モルテ地区、エリニュス山林地区での時間制限挑戦を{param0}個クリアする。",
 		"progress": 9,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "原石",
 			"count": 20
 		}

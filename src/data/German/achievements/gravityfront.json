@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Die Schwerkraftfront",
 	"achievementgroup": "Herausforderer – Reihe 8",
 	"sortorder": 2181,
+=======
+	"id": [
+		82182
+	],
+	"name": "Die Schwerkraftfront",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Herausforderer – Reihe 8",
+	"sortOrder": 2181,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Die Schwerkraftfront",
 		"description": "Besiege den Experimentellen Feldgenerator, ohne von einer „Gravitationswelle“ getroffen zu werden.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

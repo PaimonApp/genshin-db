@@ -1,11 +1,17 @@
 {
+	"id": 104132,
 	"name": "Nagadus-Smaragd-Bruchstück",
+	"rarity": 3,
+	"sortRank": 12104,
 	"description": "Material für den Figurenaufstieg.\n„Ich hatte einen sehr, sehr langen Traum ...“",
+<<<<<<< HEAD
 	"sortorder": 3199,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Material für den Figurenaufstieg",
-	"source": [
+	"typeText": "Material für den Figurenaufstieg",
+	"sources": [
 		"Beute von gefiederten Pilzbestien ab Stufe 40",
 		"Beute von Dendro-Hypostasen ab Stufe 40",
 		"Kann hergestellt werden"

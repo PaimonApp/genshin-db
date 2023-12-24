@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Peregrinaje al santuario: Los manantiales de la justicia (III)",
 	"achievementgroup": "Fontaine: Un espectáculo de aguas cristalinas (III)",
 	"sortorder": 264,
+=======
+	"id": [
+		80288
+	],
+	"name": "Peregrinaje al santuario: Los manantiales de la justicia (III)",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine: Un espectáculo de aguas cristalinas (III)",
+	"sortOrder": 264,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Peregrinaje al santuario: Los manantiales de la justicia (III)",
 		"description": "Desbloquea todos los Santuarios de las Profundidades de Fontaine (Condado Morte y Floresta Erinias).",
 		"progress": 2,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 10
 		}

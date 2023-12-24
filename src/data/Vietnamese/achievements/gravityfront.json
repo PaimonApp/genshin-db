@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Trận Tuyến Trọng Lực",
 	"achievementgroup": "Kẻ Khiêu Chiến - Phần VIII",
 	"sortorder": 2181,
+=======
+	"id": [
+		82182
+	],
+	"name": "Trận Tuyến Trọng Lực",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Kẻ Khiêu Chiến - Phần VIII",
+	"sortOrder": 2181,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Trận Tuyến Trọng Lực",
 		"description": "Đánh bại Máy Tạo Trường Lực Thí Nghiệm trong tình trạng không bị \"Sóng Dẫn\" đánh trúng.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

@@ -1,11 +1,23 @@
 {
+	"id": 112051,
 	"name": "Crystal Prism",
+	"rarity": 3,
+	"sortRank": 10117,
 	"description": "ปริซึมที่สามารถหักเหแสงได้\nเมื่อใช้ปริซึมชนิดนี้จะสามารถสร้างภาพลวงตาได้ ในอีกแง่หนึ่ง มันยังมีพลังที่สามารถครอบงำจิตใจคนได้อีกด้วย",
+<<<<<<< HEAD
 	"sortorder": 3082,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "วัสดุยกระดับตัวละครและอาวุธ",
 	"source": [
 		"ได้รับจากการสรรสร้าง"
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "วัสดุยกระดับตัวละครและอาวุธ",
+	"sources": [
+		"ได้รับจากการสรรสร้าง",
+		"ดรอปจาก Fatui - Snezhnayan Maiden Lv.40 ขึ้นไป",
+		"แลกเปลี่ยนด้วย Stardust"
+>>>>>>> upstream/main
 	]
 }

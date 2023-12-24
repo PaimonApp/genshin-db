@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Я верю в фей",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1411,
+=======
+	"id": [
+		81427
+	],
+	"name": "Я верю в фей",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1411,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Я верю в фей",
 		"description": "Помогите Пенни разобраться с её внутренним смятением.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

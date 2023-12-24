@@ -1,10 +1,15 @@
 {
+	"id": 101236,
 	"name": "Regenbogenrose",
+	"sortRank": 315,
 	"description": "Eine grazile und sanfte rosa Blume. Auch wenn sie Rose genannt wird, gehört sie eigentlich zu den Lilien.",
+<<<<<<< HEAD
 	"sortorder": 2883,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Regionale Besonderheit aus Fontaine",
-	"source": [
+	"typeText": "Regionale Besonderheit aus Fontaine",
+	"sources": [
 		"In der freien Natur zu finden",
 		"Empfohlen: Im Bezirk Béryl zu finden"
 	]

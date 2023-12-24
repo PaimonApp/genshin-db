@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Impelagato in nastro rosso",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1379,
+=======
+	"id": [
+		81395
+	],
+	"name": "Impelagato in nastro rosso",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1379,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Impelagato in nastro rosso",
 		"description": "Completa l'esame finale dell'Istituto di ricerca di Fontaine.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

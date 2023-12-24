@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "La cinta olvidada",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1370,
+=======
+	"id": [
+		81386
+	],
+	"name": "La cinta olvidada",
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1370,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "La cinta olvidada",
 		"description": "Ayuda a Broglie a recuperar y reorganizar todas los datos de observación hidrológica.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

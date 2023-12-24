@@ -1,7 +1,13 @@
 {
+	"id": 21,
 	"name": "Encontros Fora Deste Mundo - Série II",
+<<<<<<< HEAD
 	"sortorder": 27,
+=======
+	"sortOrder": 27,
+>>>>>>> upstream/main
 	"reward": {
+		"id": 210086,
 		"name": "Conquista: Portão"
 	}
 }

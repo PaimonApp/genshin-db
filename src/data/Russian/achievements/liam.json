@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Лиям",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1419,
+=======
+	"id": [
+		81435
+	],
+	"name": "Лиям",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1419,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Лиям",
 		"description": "Победите местную легенду, Лияма.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

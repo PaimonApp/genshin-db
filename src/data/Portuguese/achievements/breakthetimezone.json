@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Quebre a Parede do Tempo",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1369,
+=======
+	"id": [
+		81385
+	],
+	"name": "Quebre a Parede do Tempo",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1369,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Quebre a Parede do Tempo",
 		"description": "Destrua o Cisto Espinhoso e purifique as águas.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

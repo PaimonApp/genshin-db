@@ -1,11 +1,24 @@
 {
+	"id": 112061,
 	"name": "Kristal Toz Kutusu",
+	"rarity": 3,
+	"sortRank": 10121,
 	"description": "Yapısı tamamlanan bir spor kesesinden toplanan spor tozu yığını. Uygun bir ortama koyduğunda bir süre sonra o ortam çok sayıda Uçan Mantarla dolup taşabilir.",
+<<<<<<< HEAD
 	"sortorder": 3093,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Karakter ve Silah Geliştirme Malzemesi",
 	"source": [
 		"Üretilir."
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Karakter ve Silah Geliştirme Malzemesi",
+	"sources": [
+		"Üretilir.",
+		"Sv. 60 ve üzeri Mantarlardan düşer.",
+		"Nadiren Sv. 60 ve üzeri Mantarlardan düşer (etkin).",
+		"Nadiren Sv. 60 ve üzeri Mantarlardan düşer (yanık)."
+>>>>>>> upstream/main
 	]
 }

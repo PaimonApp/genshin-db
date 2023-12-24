@@ -1,10 +1,15 @@
 {
+	"id": 110010,
 	"name": "ベーコン",
+	"sortRank": 322,
 	"description": "燻製にした獣肉のリブ。グラデーションがあり、脂がのっていてもクドくないのが幅広く好まれている理由。",
+<<<<<<< HEAD
 	"sortorder": 2955,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "食材",
-	"source": [
+	"typeText": "食材",
+	"sources": [
 		"食材加工で獲得"
 	]
 }

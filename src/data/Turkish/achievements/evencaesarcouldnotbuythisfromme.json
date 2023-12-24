@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Sezar Bile Gelse Satın Alamaz Bunu Benden",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1415,
+=======
+	"id": [
+		81431
+	],
+	"name": "Sezar Bile Gelse Satın Alamaz Bunu Benden",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1415,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Sezar Bile Gelse Satın Alamaz Bunu Benden",
 		"description": "Bu dünyadaki en iyi sanat eserini edin.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

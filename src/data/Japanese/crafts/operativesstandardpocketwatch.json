@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "従者の制式懐中時計",
 	"filter": "キャラと武器育成素材",
 	"sortorder": 140180,
@@ -7,6 +8,18 @@
 	"moracost": 50,
 	"recipe": [
 		{
+=======
+	"id": 11059,
+	"name": "従者の制式懐中時計",
+	"filterText": "キャラと武器育成素材",
+	"sortOrder": 140180,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112092,
+>>>>>>> upstream/main
 			"name": "古びた従者の懐中時計",
 			"count": 3
 		}

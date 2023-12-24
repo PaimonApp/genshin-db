@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Au bout de l'arc-en-ciel",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1364,
+=======
+	"id": [
+		81380
+	],
+	"name": "Au bout de l'arc-en-ciel",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1364,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Au bout de l'arc-en-ciel",
 		"description": "Suivez la lumière jusqu'à sa destination finale.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

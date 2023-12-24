@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Ra Đây! Khoáng Thạch Thần Bí!",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1365,
+=======
+	"id": [
+		81381
+	],
+	"name": "Ra Đây! Khoáng Thạch Thần Bí!",
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1365,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Ra Đây! Khoáng Thạch Thần Bí!",
 		"description": "Thu thập đủ bảy viên khoáng thạch màu vàng xanh thần bí.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

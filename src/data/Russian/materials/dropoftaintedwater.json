@@ -1,9 +1,21 @@
 {
+	"id": 112086,
 	"name": "Мутная капля",
+	"rarity": 2,
+	"sortRank": 10130,
 	"description": "Капля, полученная после победы над фантазмом мутных вод.\nПохоже, в ней ещё теплится жизненная сила.",
+<<<<<<< HEAD
 	"sortorder": 3122,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Улучшение персонажей/оружия",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Улучшение персонажей/оружия",
+	"sources": [
+		"Фантазм мутных вод",
+		"Звёздная пыль"
+	]
+>>>>>>> upstream/main
 }

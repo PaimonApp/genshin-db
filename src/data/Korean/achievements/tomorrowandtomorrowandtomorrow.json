@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "내일과 교환하는 내일",
 	"achievementgroup": "천지만물",
 	"ishidden": true,
 	"sortorder": 1390,
+=======
+	"id": [
+		81406
+	],
+	"name": "내일과 교환하는 내일",
+	"achievementGroupName": "천지만물",
+	"isHidden": true,
+	"sortOrder": 1390,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "내일과 교환하는 내일",
 		"description": "프샤비에게 작별 인사 하는 법 알려주기",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "원석",
 			"count": 5
 		}

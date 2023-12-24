@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Aussage eines Überflüssigen",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1362,
+=======
+	"id": [
+		81378
+	],
+	"name": "Aussage eines Überflüssigen",
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1362,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Aussage eines Überflüssigen",
 		"description": "Hör dir Clynes’ Schilderungen vergangener Ereignisse an.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

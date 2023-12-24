@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Шассанион",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1416,
+=======
+	"id": [
+		81432
+	],
+	"name": "Шассанион",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1416,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Шассанион",
 		"description": "Победите местную легенду, Шассаниона.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Haggis",
 	"rarity": "4",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que mejoran la defensa",
 	"foodcategory": "Def_Add",
+=======
+	"id": 4402,
+	"name": "Haggis",
+	"rarity": 4,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Platos que mejoran la defensa",
+>>>>>>> upstream/main
 	"effect": "Aumenta la DEF 215-308 pts. y la Curación en un 6%-10% de todos los miembros del equipo durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Un plato de sabor intenso. Las vísceras de la oveja se trituran, se mezclan con la avena, se agregan los condimentos y se introducen en el estómago de la oveja para formar saquitos. Los saquitos a menudo se retiran cuando se sirven los platos, y solo se come el contenido junto con puré de rábano y papas. Se trata de un manjar local que a menudo se sirve para agasajar a los invitados de honor en Fontaine.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Carne cruda",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100080,
+>>>>>>> upstream/main
 			"name": "Papa",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100014,
+>>>>>>> upstream/main
 			"name": "Rábano",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Jazmimpoluto",
 			"count": 2
 		}

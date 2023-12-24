@@ -1,10 +1,15 @@
 {
+	"id": 101009,
 	"name": "Kondessenz-Kristall",
+	"sortRank": 301,
 	"description": "Ein klarer und reiner Kristall mit einem Kern von hoher Härte und Formbarkeit.",
+<<<<<<< HEAD
 	"sortorder": 2827,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Zum Schmieden geeignetes Erz",
-	"source": [
+	"typeText": "Zum Schmieden geeignetes Erz",
+	"sources": [
 		"In der freien Natur zu finden",
 		"Empfohlen: Auf der Oberfläche von Elynas zu finden"
 	]

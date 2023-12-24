@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "\"Yseut\"",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1389,
+=======
+	"id": [
+		81405
+	],
+	"name": "\"Yseut\"",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1389,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"Yseut\"",
 		"description": "Sconfiggi la leggenda locale, Yseut.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

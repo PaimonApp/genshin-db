@@ -1,8 +1,13 @@
 {
+	"id": 107002,
 	"name": "Элементальная пыль",
+	"sortRank": 406,
 	"description": "Осколки Кристалла Окулуса. Показывают скрытые сокровища.",
+<<<<<<< HEAD
 	"sortorder": 3033,
+=======
+>>>>>>> upstream/main
 	"category": "CONSUME",
-	"materialtype": "Предмет приключения",
-	"source": []
+	"typeText": "Предмет приключения",
+	"sources": []
 }

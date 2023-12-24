@@ -1,8 +1,13 @@
 {
+	"id": 101402,
 	"name": "Red Dye",
+	"sortRank": 331,
 	"description": "Red dye. It will surely be of use in making furnishings.",
+<<<<<<< HEAD
 	"sortorder": 2983,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

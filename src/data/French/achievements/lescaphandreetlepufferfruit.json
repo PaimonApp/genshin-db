@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Le scaphandre et le boudifruit",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1376,
+=======
+	"id": [
+		81392
+	],
+	"name": "Le scaphandre et le boudifruit",
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1376,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Le scaphandre et le boudifruit",
 		"description": "Terminez l'entraînement avancé sous l'eau.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

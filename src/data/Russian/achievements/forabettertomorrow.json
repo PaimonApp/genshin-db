@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Во имя светлого будущего",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 5094,
+=======
+	"id": [
+		84315
+	],
+	"name": "Во имя светлого будущего",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5094,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Во имя светлого будущего",
 		"description": "Люди восстанавливают свой дом.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

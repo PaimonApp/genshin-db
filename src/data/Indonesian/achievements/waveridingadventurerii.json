@@ -1,13 +1,29 @@
 {
+<<<<<<< HEAD
 	"name": "Petualang Ombak Biru (II)",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
 	"sortorder": 257,
+=======
+	"id": [
+		80281,
+		80282,
+		80283
+	],
+	"name": "Petualang Ombak Biru (II)",
+	"achievementGroupId": 45,
+	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
+	"sortOrder": 257,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Petualang Ombak Biru (II)",
 		"description": "Selesaikan {param0} Tantangan Time Trial Open World di Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 3,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -17,6 +33,10 @@
 		"description": "Selesaikan {param0} Tantangan Time Trial Open World di Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 6,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -26,6 +46,10 @@
 		"description": "Selesaikan {param0} Tantangan Time Trial Open World di Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 12,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

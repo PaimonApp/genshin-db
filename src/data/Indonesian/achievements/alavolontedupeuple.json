@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "À la volonté du peuple",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1408,
+=======
+	"id": [
+		81424
+	],
+	"name": "À la volonté du peuple",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1408,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "À la volonté du peuple",
 		"description": "Dapatkan janji Rainbow Rose.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

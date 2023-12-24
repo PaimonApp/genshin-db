@@ -167,6 +167,8 @@
 		"travelershandysword": "Espada del Viajero",
 		"tulaytullahsremembrance": "Reminiscencia de Tulaytulah",
 		"twinnephrite": "Nefrita Gemela",
+		"ultimateoverlordsmegamagicsword": "Superespada Mágica Suprema",
+		"verdict": "Sentenciadora",
 		"vortexvanquisher": "Lanza Perforanubes",
 		"wanderingevenstar": "Estrella Errabunda",
 		"wastergreatsword": "Gran Espada del Guerrero",
@@ -346,6 +348,8 @@
 		"Espada del Viajero": "travelershandysword",
 		"Reminiscencia de Tulaytulah": "tulaytullahsremembrance",
 		"Nefrita Gemela": "twinnephrite",
+		"Superespada Mágica Suprema": "ultimateoverlordsmegamagicsword",
+		"Sentenciadora": "verdict",
 		"Lanza Perforanubes": "vortexvanquisher",
 		"Estrella Errabunda": "wanderingevenstar",
 		"Gran Espada del Guerrero": "wastergreatsword",
@@ -503,6 +507,7 @@
 			"thewidsith",
 			"tidalshadow",
 			"toukaboushigure",
+			"ultimateoverlordsmegamagicsword",
 			"wanderingevenstar",
 			"wavebreakersfin",
 			"whiteblind",
@@ -551,10 +556,11 @@
 			"thunderingpulse",
 			"tomeoftheeternalflow",
 			"tulaytullahsremembrance",
+			"verdict",
 			"vortexvanquisher",
 			"wolfsgravestone"
 		],
-		"Mandoble": [
+		"WEAPON_CLAYMORE": [
 			"akuoumaru",
 			"beaconofthereedsea",
 			"blackcliffslasher",
@@ -584,12 +590,14 @@
 			"thebell",
 			"theunforged",
 			"tidalshadow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict",
 			"wastergreatsword",
 			"whiteblind",
 			"whiteirongreatsword",
 			"wolfsgravestone"
 		],
-		"ATQ": [
+		"FIGHT_PROP_ATTACK_PERCENT": [
 			"akuoumaru",
 			"alleyhunter",
 			"amenomakageuchi",
@@ -810,6 +818,8 @@
 			"travelershandysword",
 			"tulaytullahsremembrance",
 			"twinnephrite",
+			"ultimateoverlordsmegamagicsword",
+			"verdict",
 			"vortexvanquisher",
 			"wanderingevenstar",
 			"wastergreatsword",
@@ -915,7 +925,7 @@
 			"mistsplitterreforged",
 			"oathsworneye"
 		],
-		"Arco": [
+		"WEAPON_BOW": [
 			"alleyhunter",
 			"amosbow",
 			"aquasimulacra",
@@ -1192,7 +1202,7 @@
 			"windblumeode",
 			"wolfsgravestone"
 		],
-		"Espada ligera": [
+		"WEAPON_SWORD_ONE_HAND": [
 			"amenomakageuchi",
 			"aquilafavonia",
 			"blackclifflongsword",
@@ -1262,7 +1272,7 @@
 			"mistsplitterreforged",
 			"thecatch"
 		],
-		"Catalizador": [
+		"WEAPON_CATALYST": [
 			"apprenticesnotes",
 			"athousandfloatingdreams",
 			"balladoftheboundlessblue",
@@ -1460,7 +1470,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"Daño CRIT": [
+		"FIGHT_PROP_CRITICAL_HURT": [
 			"aquasimulacra",
 			"blackcliffagate",
 			"blackclifflongsword",
@@ -1616,7 +1626,7 @@
 			"whiteblind",
 			"whitetassel"
 		],
-		"Bono de Daño Físico": [
+		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
 			"aquilafavonia",
 			"compoundbow",
 			"crescentpike",
@@ -1737,7 +1747,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"Maestría Elemental": [
+		"FIGHT_PROP_ELEMENT_MASTERY": [
 			"athousandfloatingdreams",
 			"bloodtaintedgreatsword",
 			"darkironsword",
@@ -1841,7 +1851,11 @@
 			"talkingstick",
 			"wanderingevenstar"
 		],
+<<<<<<< HEAD
 		"Recarga de Energía": [
+=======
+		"FIGHT_PROP_CHARGE_EFFICIENCY": [
+>>>>>>> upstream/main
 			"balladoftheboundlessblue",
 			"elegyfortheend",
 			"endoftheline",
@@ -1869,6 +1883,10 @@
 			"skywardpride",
 			"skywardspine",
 			"thecatch",
+<<<<<<< HEAD
+=======
+			"ultimateoverlordsmegamagicsword",
+>>>>>>> upstream/main
 			"wineandsong"
 		],
 		"Diente de leche de lobo boreal": [
@@ -2087,7 +2105,11 @@
 			"thrillingtalesofdragonslayers",
 			"wineandsong"
 		],
+<<<<<<< HEAD
 		"Lanza": [
+=======
+		"WEAPON_POLE": [
+>>>>>>> upstream/main
 			"balladofthefjords",
 			"beginnersprotector",
 			"blackcliffpole",
@@ -2118,7 +2140,7 @@
 			"wavebreakersfin",
 			"whitetassel"
 		],
-		"Prob. CRIT": [
+		"FIGHT_PROP_CRITICAL": [
 			"balladofthefjords",
 			"beaconofthereedsea",
 			"cashflowsupervision",
@@ -2140,6 +2162,7 @@
 			"theblacksword",
 			"theviridescenthunt",
 			"twinnephrite",
+			"verdict",
 			"whitetassel",
 			"wolffang"
 		],
@@ -2148,7 +2171,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Flor encapullada de origen desconocido": [
 			"balladofthefjords",
@@ -2176,7 +2200,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Flor velada": [
 			"balladofthefjords",
@@ -2204,7 +2229,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Flor floreciente del trashumante": [
 			"balladofthefjords",
@@ -2232,7 +2258,8 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow"
+			"tidalshadow",
+			"ultimateoverlordsmegamagicsword"
 		],
 		"Eco del poder del sol": [
 			"beaconofthereedsea",
@@ -2620,7 +2647,7 @@
 			"theunforged",
 			"twinnephrite"
 		],
-		"Vida": [
+		"FIGHT_PROP_HP_PERCENT": [
 			"blacktassel",
 			"everlastingmoonglow",
 			"ferrousshadow",
@@ -2777,6 +2804,7 @@
 			"cashflowsupervision",
 			"prospectorsdrill",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thedockhandsassistant"
 		],
 		"Condensado extramarino": [
@@ -2820,8 +2848,56 @@
 			"swordofnarzissenkreuz",
 			"thedockhandsassistant",
 			"thefirstgreatmagic"
+=======
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+>>>>>>> upstream/main
 		],
-		"DEF": [
+		"Condensado extramarino": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"Reloj de bolsillo estándar de Senescal": [
+			"cashflowsupervision",
+			"prospectorsdrill",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+		],
+		"Fragmento extramarino": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"Asiduidad de Senescal": [
+			"cashflowsupervision",
+			"prospectorsdrill",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"ultimateoverlordsmegamagicsword"
+		],
+		"Cristalización cromática": [
+			"cashflowsupervision",
+			"fleuvecendreferryman",
+			"flowingpurity",
+			"rangegauge",
+			"splendoroftranquilwaters",
+			"swordofnarzissenkreuz",
+			"thedockhandsassistant",
+			"thefirstgreatmagic"
+		],
+		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"cinnabarspindle",
 			"travelershandysword",
 			"whiteblind",
@@ -2984,7 +3060,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Pieza de serenata arcaica": [
 			"fleuvecendreferryman",
@@ -2992,7 +3073,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Movimiento de serenata arcaica": [
 			"fleuvecendreferryman",
@@ -3000,7 +3086,12 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Reverberación de serenata arcaica": [
 			"fleuvecendreferryman",
@@ -3008,28 +3099,48 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
+<<<<<<< HEAD
 			"thefirstgreatmagic"
+=======
+			"thefirstgreatmagic",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Núcleo de la fisura": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Sinapsis extrínseca": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Núcleo vital de otro mundo": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Talismán de bronce del rocío": [
 			"forestregalia",
@@ -3129,38 +3240,57 @@
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Mecaengranaje recto": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		],
 		"Engranaje mecadinámico": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
+<<<<<<< HEAD
 			"tomeoftheeternalflow"
+=======
+			"tomeoftheeternalflow",
+			"ultimateoverlordsmegamagicsword",
+			"verdict"
+>>>>>>> upstream/main
 		]
 	},
 	"properties": {
-		"weapontype": [
-			"Mandoble",
-			"Arco",
-			"Espada ligera",
-			"Catalizador",
-			"Lanza"
+		"weaponType": [
+			"WEAPON_CLAYMORE",
+			"WEAPON_BOW",
+			"WEAPON_SWORD_ONE_HAND",
+			"WEAPON_CATALYST",
+			"WEAPON_POLE"
 		],
 		"rarity": [
-			"4",
-			"5",
-			"1",
-			"3",
-			"2"
+			4,
+			5,
+			1,
+			3,
+			2
 		],
+<<<<<<< HEAD
 		"substat": [
 			"ATQ",
 			"Daño CRIT",
@@ -3170,6 +3300,17 @@
 			"Prob. CRIT",
 			"Vida",
 			"DEF"
+=======
+		"mainStatType": [
+			"FIGHT_PROP_ATTACK_PERCENT",
+			"FIGHT_PROP_CRITICAL_HURT",
+			"FIGHT_PROP_PHYSICAL_ADD_HURT",
+			"FIGHT_PROP_ELEMENT_MASTERY",
+			"FIGHT_PROP_CHARGE_EFFICIENCY",
+			"FIGHT_PROP_CRITICAL",
+			"FIGHT_PROP_HP_PERCENT",
+			"FIGHT_PROP_DEFENSE_PERCENT"
+>>>>>>> upstream/main
 		],
 		"costs": [
 			"Mora",

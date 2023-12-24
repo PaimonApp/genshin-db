@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Korktum Rüzgarımın Öfkesinden",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1403,
+=======
+	"id": [
+		81419
+	],
+	"name": "Korktum Rüzgarımın Öfkesinden",
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1403,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Korktum Rüzgarımın Öfkesinden",
 		"description": "... Tüm O Güzel Çiçekleri Koparıp Savurur Diye.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

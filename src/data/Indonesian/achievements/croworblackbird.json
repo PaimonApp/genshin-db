@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Gagak atau Burung Hitam?",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1409,
+=======
+	"id": [
+		81425
+	],
+	"name": "Gagak atau Burung Hitam?",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1409,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Gagak atau Burung Hitam?",
 		"description": "Ternyata burung pelikan!",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

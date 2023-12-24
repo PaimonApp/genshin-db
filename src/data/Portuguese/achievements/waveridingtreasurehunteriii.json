@@ -1,7 +1,19 @@
 {
+<<<<<<< HEAD
 	"name": "Caçador de Tesouro das Ondas III",
 	"achievementgroup": "Fontaine: Dança das Fontes Brancas de Orvalho III",
 	"sortorder": 268,
+=======
+	"id": [
+		80292,
+		80293,
+		80294
+	],
+	"name": "Caçador de Tesouro das Ondas III",
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho III",
+	"sortOrder": 268,
+>>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Caçador de Tesouro das Ondas III",
@@ -9,6 +21,10 @@
 		"description": "Abra {param0} Baús na Região Mortaine e Floresta de Erinnyes.",
 		"progress": 40,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}
@@ -19,6 +35,10 @@
 		"description": "Abra {param0} Baús na Região Mortaine e Floresta de Erinnyes.",
 		"progress": 80,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 10
 		}
@@ -29,6 +49,10 @@
 		"description": "Abra {param0} Baús na Região Mortaine e Floresta de Erinnyes.",
 		"progress": 160,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 20
 		}

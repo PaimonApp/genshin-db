@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "Montre à gousset d'opérateur",
 	"filter": "Matériau d'amélioration de personnage et d'arme",
 	"sortorder": 140180,
@@ -7,6 +8,18 @@
 	"moracost": 50,
 	"recipe": [
 		{
+=======
+	"id": 11059,
+	"name": "Montre à gousset d'opérateur",
+	"filterText": "Matériau d'amélioration de personnage et d'arme",
+	"sortOrder": 140180,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112092,
+>>>>>>> upstream/main
 			"name": "Vieille montre à gousset d'opérateur",
 			"count": 3
 		}

@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Les Quatre Coups",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1363,
+=======
+	"id": [
+		81379
+	],
+	"name": "Les Quatre Coups",
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1363,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Les Quatre Coups",
 		"description": "Completa la storia dell'Ordine dei Frutti e di Blanche.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

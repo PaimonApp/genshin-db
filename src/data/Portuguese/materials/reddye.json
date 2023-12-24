@@ -1,8 +1,13 @@
 {
+	"id": 101402,
 	"name": "Tinta Vermelha",
+	"sortRank": 331,
 	"description": "Tinta vermelha. Certamente será útil para fazer Decorações.",
+<<<<<<< HEAD
 	"sortorder": 2983,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Material",
-	"source": []
+	"typeText": "Material",
+	"sources": []
 }

@@ -1,11 +1,17 @@
 {
+	"id": 104152,
 	"name": "Vayuda Turkuazı Kırıntısı",
+	"rarity": 3,
+	"sortRank": 12106,
 	"description": "Karakter Yükseltme malzemesi.\n\"Rüzgarlar yön değiştirmeye devam ediyor.\"",
+<<<<<<< HEAD
 	"sortorder": 3207,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"materialtype": "Karakter Yükseltme Malzemesi",
-	"source": [
+	"typeText": "Karakter Yükseltme Malzemesi",
+	"sources": [
 		"Sv. 40 ve üzeri Rüzgar Hipostazlarından düşer.",
 		"Sv. 40 ve üzeri Setekh Solucanından düşer.",
 		"Üretilir."

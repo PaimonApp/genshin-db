@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Consommé",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gericht für Angriff",
 	"foodcategory": "Atk_CritRate",
+=======
+	"id": 3413,
+	"name": "Consommé",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Gericht für Angriff",
+>>>>>>> upstream/main
 	"effect": "Erhöht die KT aller Truppenmitglieder 300 s lang um 10 bis 20 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Eine Suppe, die viel Arbeit verlangt. Die Zutaten werden püriert und mit Brühe gekocht. Anschließend wird die Brühe abgeseiht und serviert. Auf den Straßen Fontaines kursiert ein mysteriöses Gerücht, das besagt, dass nur ein einziger Schluck dieser Suppe die Schreibsäfte uninspirierter Schriftsteller wieder zum Fließen zu bringen vermag ... aber es würde wohl nicht verwundern, wenn solch besagte Wunderwirkung eine Erfindung windiger Geschäftsleute wäre.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100064,
+>>>>>>> upstream/main
 			"name": "Rohes Geflügel",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Vogelei",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100013,
+>>>>>>> upstream/main
 			"name": "Möhre",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101231,
+>>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

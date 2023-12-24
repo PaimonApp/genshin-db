@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Dipermainkan Regulasi",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1379,
+=======
+	"id": [
+		81395
+	],
+	"name": "Dipermainkan Regulasi",
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1379,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Dipermainkan Regulasi",
 		"description": "Selesaikan \"peninjauan akhir\" Institut Penelitian Fontaine",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

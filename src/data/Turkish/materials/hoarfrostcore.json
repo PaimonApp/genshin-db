@@ -1,9 +1,20 @@
 {
+	"id": 113010,
 	"name": "Kırağı Çekirdeği",
+	"rarity": 4,
+	"sortRank": 11101,
 	"description": "Yenilmiş bir Yalancı Buz Ağacından düşen çekirdek. Saf Buz enerjisi içerir.\nDünyanın derinliklerindeki enerji ve düşünceler bir gün yüzeye çıkacaktır. Ölümcül sessizliğe sahip buzullar, yeryüzündeki canlılara yapışacak ve sarmaşık kadar sıradan bir bitkiyi bile devasa, korkunç yırtıcılara dönüştürecektir.",
+<<<<<<< HEAD
 	"sortorder": 3159,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Karakter Seviyesi Yükseltme Malzemesi",
 	"source": []
+=======
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Karakter Seviyesi Yükseltme Malzemesi",
+	"sources": [
+		"Sv. 30 ve üzeri Yalancı Buz Ağaçlarından düşer."
+	]
+>>>>>>> upstream/main
 }

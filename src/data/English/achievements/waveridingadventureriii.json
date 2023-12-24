@@ -1,13 +1,20 @@
 {
+	"id": [
+		80295,
+		80296,
+		80297
+	],
 	"name": "Waveriding Adventurer (III)",
-	"achievementgroup": "Fontaine: Dance of the Dew-White Springs (III)",
-	"sortorder": 271,
+	"achievementGroupId": 46,
+	"achievementGroupName": "Fontaine: Dance of the Dew-White Springs (III)",
+	"sortOrder": 271,
 	"stages": 3,
 	"stage1": {
 		"title": "Waveriding Adventurer (III)",
 		"description": "Complete a total of {param0} Open World Time Trial Challenges in the Morte Region and Erinnyes Forest.",
 		"progress": 3,
 		"reward": {
+			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -17,6 +24,7 @@
 		"description": "Complete a total of {param0} Open World Time Trial Challenges in the Morte Region and Erinnyes Forest.",
 		"progress": 6,
 		"reward": {
+			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -26,6 +34,7 @@
 		"description": "Complete a total of {param0} Open World Time Trial Challenges in the Morte Region and Erinnyes Forest.",
 		"progress": 9,
 		"reward": {
+			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

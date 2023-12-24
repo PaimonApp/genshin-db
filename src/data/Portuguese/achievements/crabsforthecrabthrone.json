@@ -1,13 +1,27 @@
 {
+<<<<<<< HEAD
 	"name": "Caranguejo Fresco no Trono",
 	"achievementgroup": "Desafiante - Série VIII",
 	"sortorder": 2183,
+=======
+	"id": [
+		82184
+	],
+	"name": "Caranguejo Fresco no Trono",
+	"achievementGroupId": 40,
+	"achievementGroupName": "Desafiante - Série VIII",
+	"sortOrder": 2183,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Caranguejo Fresco no Trono",
 		"description": "Derrote o Imperador do Fogo e Ferro enquanto enfraquecido.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,13 +1,26 @@
 {
+<<<<<<< HEAD
 	"name": "Uma Porta Nem Tão Estreita",
 	"achievementgroup": "Maravilhas do Mundo",
 	"sortorder": 1366,
+=======
+	"id": [
+		81382
+	],
+	"name": "Uma Porta Nem Tão Estreita",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"sortOrder": 1366,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Uma Porta Nem Tão Estreita",
 		"description": "Abriu a porta para uma certa biblioteca secreta.",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

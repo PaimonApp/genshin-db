@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "Tomates narbonnaises",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gericht für Angriff",
 	"foodcategory": "Atk_Add",
+=======
+	"id": 3412,
+	"name": "Tomates narbonnaises",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_ATTACK",
+	"filterText": "Gericht für Angriff",
+>>>>>>> upstream/main
 	"effect": "Erhöht den ANG aller Truppenmitglieder 300 s lang um 160 bis 228 Punkte.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Dieses Gericht besteht aus Fleisch und Gemüse. Die Tomaten werden ausgehöhlt, mit gleichmäßig gehacktem Fleisch gefüllt und anschließend gebacken. Das fertige Gericht besticht durch seine süß-säuerliche und weiche Konsistenz, die es zu einem gern gesehenen Gast an Tischen Fontaines macht.",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100061,
+>>>>>>> upstream/main
 			"name": "Rohes Fleisch",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100079,
+>>>>>>> upstream/main
 			"name": "Tomate",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110010,
+>>>>>>> upstream/main
 			"name": "Speck",
 			"count": 1
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100076,
+>>>>>>> upstream/main
 			"name": "Zwiebel",
 			"count": 1
 		}

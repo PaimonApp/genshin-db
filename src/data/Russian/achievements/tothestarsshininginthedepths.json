@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "К сиянию звёзд в глубине",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 5086,
+=======
+	"id": [
+		84307
+	],
+	"name": "К сиянию звёзд в глубине",
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5086,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "К сиянию звёзд в глубине",
 		"description": "Завершите главу «К сиянию звёзд в глубине».",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 10
 		}

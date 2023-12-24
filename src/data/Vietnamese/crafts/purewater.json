@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "\"Nước Tinh Khiết\"",
 	"filter": "Thực Phẩm",
 	"sortorder": 220000,
@@ -7,14 +8,34 @@
 	"moracost": 100,
 	"recipe": [
 		{
+=======
+	"id": 14101,
+	"name": "\"Nước Tinh Khiết\"",
+	"filterText": "Thực Phẩm",
+	"sortOrder": 220000,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 100,
+	"recipe": [
+		{
+			"id": 100017,
+>>>>>>> upstream/main
 			"name": "Tiểu Mạch",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100020,
+>>>>>>> upstream/main
 			"name": "Quả Thông",
 			"count": 2
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 101234,
+>>>>>>> upstream/main
 			"name": "Tidalga",
 			"count": 1
 		}

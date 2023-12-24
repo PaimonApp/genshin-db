@@ -1,9 +1,10 @@
 {
+	"id": 3411,
 	"name": "港灣牛肚",
-	"rarity": "3",
+	"rarity": 3,
 	"foodtype": "NORMAL",
-	"foodfilter": "恢復類料理",
-	"foodcategory": "Recovery_Revive",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "恢復類料理",
 	"effect": "復甦選中的角色。\n為其恢復900-1500點生命值。",
 	"description": "以內臟為主的菜餚。將食材切成塊，放入鍋中再用麵團封口，烤製而成。做法起源於某個港灣小鎮，小鎮的故事早已被漲起的海水吞沒，但美味卻一直在楓丹流傳。",
 	"suspicious": {
@@ -20,18 +21,22 @@
 	},
 	"ingredients": [
 		{
+			"id": 100061,
 			"name": "獸肉",
 			"count": 3
 		},
 		{
+			"id": 100013,
 			"name": "胡蘿蔔",
 			"count": 3
 		},
 		{
+			"id": 100076,
 			"name": "洋蔥",
 			"count": 2
 		},
 		{
+			"id": 100099,
 			"name": "發酵果實汁",
 			"count": 1
 		}

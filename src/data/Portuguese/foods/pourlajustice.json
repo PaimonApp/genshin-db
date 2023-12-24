@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "\"Proustis\"",
 	"rarity": "3",
 	"foodtype": "SPECIALTY",
@@ -10,18 +11,47 @@
 	"character": "Furina",
 	"ingredients": [
 		{
+=======
+	"id": 10000089,
+	"name": "\"Proustis\"",
+	"rarity": 3,
+	"foodtype": "SPECIALTY",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "Pratos de DEF",
+	"effect": "Aumenta a Vida Máxima de todos os membros da Equipe em 30% por 300s. No modo multijogador, terá efeito apenas em si mesmo.",
+	"description": "Especialidade de Furina. \"Proustis\" significa \"veneração da justiça\" em Fontaine, e ela, que uma vez performou no maior dos palcos, testemunhou o nascimento da justiça sublime. Seu sabor em camadas parece oscilar como as ondas do mar, até finalmente relaxar como se estivesse se desfazendo de um pesado fardo. Talvez reflita algo que ela pessoalmente passou?",
+	"baseDishId": 3416,
+	"baseDishName": "La Lettre a Focalors",
+	"characterId": 10000089,
+	"characterName": "Furina",
+	"ingredients": [
+		{
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "Ovo de Pássaro",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "Farinha",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "Grão de Café",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "Amêndoa",
 			"count": 2
 		}

@@ -1,9 +1,18 @@
 {
+<<<<<<< HEAD
 	"name": "フォカロルスのために",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "防御系料理",
 	"foodcategory": "Def_Add",
+=======
+	"id": 3416,
+	"name": "フォカロルスのために",
+	"rarity": 3,
+	"foodtype": "NORMAL",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "防御系料理",
+>>>>>>> upstream/main
 	"effect": "チーム全員のHP上限+20%~25%、継続時間300秒。\nマルチプレイ中、自分のキャラクターにのみ有効。",
 	"description": "長方形の小さなケーキ。遥か昔、あるパティシエが、フォンテーヌの人々が水神を深く敬愛していたことからインスピレーションを受け、このデザートを作ったという。技術力を要する手順や、いくつも重なった層は、水神の影響力を如実に示している。",
 	"suspicious": {
@@ -20,18 +29,34 @@
 	},
 	"ingredients": [
 		{
+<<<<<<< HEAD
+=======
+			"id": 100062,
+>>>>>>> upstream/main
 			"name": "鳥の卵",
 			"count": 4
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 110001,
+>>>>>>> upstream/main
 			"name": "小麦粉",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100098,
+>>>>>>> upstream/main
 			"name": "コーヒー豆",
 			"count": 3
 		},
 		{
+<<<<<<< HEAD
+=======
+			"id": 100089,
+>>>>>>> upstream/main
 			"name": "杏仁",
 			"count": 2
 		}

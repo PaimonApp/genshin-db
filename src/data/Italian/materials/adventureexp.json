@@ -1,9 +1,15 @@
 {
+	"id": 102,
 	"name": "ESP avventura",
+	"rarity": 3,
+	"sortRank": 13,
 	"description": "L'ESP avventura serve per migliorare il grado avventura.",
+<<<<<<< HEAD
 	"sortorder": 2670,
 	"rarity": "3",
+=======
+>>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"materialtype": "Accesso di sistema",
-	"source": []
+	"typeText": "Accesso di sistema",
+	"sources": []
 }

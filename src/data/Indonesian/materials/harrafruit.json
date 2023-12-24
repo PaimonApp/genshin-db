@@ -1,10 +1,15 @@
 {
+	"id": 101216,
 	"name": "Harra Fruit",
+	"sortRank": 321,
 	"description": "Tumbuh di hutan hujan lembap yang panas, buah ini memiliki aroma pedas yang istimewa. Saat digiling menjadi bubuk, maka bisa dibuat jadi bumbu. Ini adalah tanaman rempah yang paling berharga di Sumeru.",
+<<<<<<< HEAD
 	"sortorder": 2939,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Ditemukan di alam liar"
 	]
 }

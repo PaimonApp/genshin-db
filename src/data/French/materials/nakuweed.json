@@ -1,10 +1,15 @@
 {
+	"id": 101205,
 	"name": "Herbe à sanglots",
+	"sortRank": 313,
 	"description": "Même les jours sans vent, cette plante frissonnera au son du tonnerre. La partie qui ressemble à des pétales est en fait une extension de ses feuilles, destinée à protéger cette fleur si fragile.",
+<<<<<<< HEAD
 	"sortorder": 2866,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Produit d'Inazuma",
-	"source": [
+	"typeText": "Produit d'Inazuma",
+	"sources": [
 		"Dans la nature",
 		"Zone conseillée : Tatarasuna"
 	]

@@ -1,8 +1,13 @@
 {
+	"id": 101401,
 	"name": "Stoffa",
+	"sortRank": 331,
 	"description": "Una stoffa pregiata. Puoi sicuramente usarla per creare dei mobili.",
+<<<<<<< HEAD
 	"sortorder": 2982,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Materiale",
-	"source": []
+	"typeText": "Materiale",
+	"sources": []
 }

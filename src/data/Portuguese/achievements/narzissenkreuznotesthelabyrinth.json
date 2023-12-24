@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
 	"name": "Anotações da Cruz de Narcissus: Labirinto",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1391,
+=======
+	"id": [
+		81407
+	],
+	"name": "Anotações da Cruz de Narcissus: Labirinto",
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1391,
+>>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Anotações da Cruz de Narcissus: Labirinto",
 		"description": "\"O que você acha? Descrever para você esse mundo?\"",
 		"progress": 1,
 		"reward": {
+<<<<<<< HEAD
+=======
+			"id": 201,
+>>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

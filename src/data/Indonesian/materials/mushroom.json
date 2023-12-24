@@ -1,10 +1,15 @@
 {
+	"id": 100011,
 	"name": "Mushroom",
+	"sortRank": 321,
 	"description": "Jamur yang dapat ditemui di mana-mana, dapat tumbuh dengan mudah di tempat yang teduh dengan kelembapan yang tepat.",
+<<<<<<< HEAD
 	"sortorder": 2900,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Ditemukan di alam liar"
 	]
 }

@@ -1,10 +1,15 @@
 {
+	"id": 100013,
 	"name": "Carrot",
+	"sortRank": 321,
 	"description": "Sayuran yang kaya akan nutrisi dan bagus untuk mata. Mudah untuk ditanam dan dipanen.",
+<<<<<<< HEAD
 	"sortorder": 2902,
+=======
+>>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"materialtype": "Bahan Masak",
-	"source": [
+	"typeText": "Bahan Masak",
+	"sources": [
 		"Ditemukan di alam liar"
 	]
 }
