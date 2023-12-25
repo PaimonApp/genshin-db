@@ -1,8 +1,7 @@
 {
-	"id": 210014,
 	"name": "Noelle - Bảo Vệ",
 	"description": "Hoa văn danh thiếp.\nNoelle rất đặc biệt, sẽ không làm bạn bị thương.",
-	"sortOrder": 210014,
+	"sortorder": 210014,
 	"source": [
 		"Nhận được khi độ yêu thích của Noelle đạt hạng 10."
 	]

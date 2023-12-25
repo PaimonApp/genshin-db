@@ -1,15 +1,10 @@
 {
-	"id": 100083,
 	"name": "Queue de lézard",
-	"sortRank": 320,
 	"description": "Une queue de lézard enroulée sur elle-même. Possède un goût amer, mais favorise efficacement le durcissement cutané.",
-<<<<<<< HEAD
 	"sortorder": 2895,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Matériau",
-	"sources": [
+	"materialtype": "Matériau",
+	"source": [
 		"Butin de lézard"
 	]
 }

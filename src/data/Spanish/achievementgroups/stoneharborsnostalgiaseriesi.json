@@ -1,13 +1,7 @@
 {
-	"id": 12,
 	"name": "Nostalgias del puerto de piedra: Parte 1",
-<<<<<<< HEAD
 	"sortorder": 25,
-=======
-	"sortOrder": 25,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210032,
 		"name": "Logro - Suspenso"
 	}
 }

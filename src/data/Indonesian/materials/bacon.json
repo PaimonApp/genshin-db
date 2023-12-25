@@ -1,15 +1,10 @@
 {
-	"id": 110010,
 	"name": "Bacon",
-	"sortRank": 322,
 	"description": "Potongan daging iga asap. Kandungan lemaknya pas dan tidak terlalu berminyak. Sangat disukai banyak orang.",
-<<<<<<< HEAD
 	"sortorder": 2955,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Didapatkan saat proses cooking"
 	]
 }

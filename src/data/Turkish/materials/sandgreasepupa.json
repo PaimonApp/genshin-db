@@ -1,15 +1,10 @@
 {
-	"id": 101222,
 	"name": "Kum Yağı Pupası",
-	"sortRank": 314,
 	"description": "Bu türden kabukları yalnızca çölün derinliklerinde bulunan Bataklık Yılan Balıklarının ürediği yerlerde bulabilirsin. Sert kabuklu olmalarının sebebi, Bataklık Yılan Balıklarının larvamsı bedenlerini kuru çöle hazır olana kadar korumalarıdır.",
-<<<<<<< HEAD
 	"sortorder": 2876,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Sumeru Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Sumeru Yöresel Ürünü",
+	"source": [
 		"Sumeru'nun çöllerinde bulunur.",
 		"Öneri: Solucan Tünelleri'nde bulunur."
 	]

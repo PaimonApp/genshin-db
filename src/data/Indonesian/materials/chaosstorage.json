@@ -1,21 +1,9 @@
 {
-	"id": 112068,
 	"name": "Chaos Storage",
-	"rarity": 2,
-	"sortRank": 10124,
 	"description": "Berasal dari Ruin Drake kuno yang sekarang tidak aktif lagi.\nRuin Drake dapat menyerap Elemental Energy dari luar dan menyimpannya di komponen ini di dalam \"leher\" mereka.",
-<<<<<<< HEAD
 	"sortorder": 3104,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Penguatan Senjata dan Karakter",
-	"sources": [
-		"Dijatuhkan oleh Ruin Drake",
-		"Penukaran Stardust"
-	]
->>>>>>> upstream/main
 }

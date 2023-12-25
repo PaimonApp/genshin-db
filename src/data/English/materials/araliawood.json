@@ -1,14 +1,12 @@
 {
-	"id": 101311,
 	"name": "Aralia Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Wood from the Inazuman Cedar. It is soft, has straight veins, and gives off a light fragrance.\nCan be used to create furnishings.",
+	"sortorder": 2970,
+	"rarity": "1",
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
-		"Recommendation: Cut from Narukami Island",
-		"Convert Wood"
+		"Recommendation: Cut from Narukami Island"
 	]
 }

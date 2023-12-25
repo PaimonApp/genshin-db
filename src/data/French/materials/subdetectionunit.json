@@ -1,20 +1,10 @@
 {
-<<<<<<< HEAD
 	"name": "Unité de sous-détection",
 	"description": "Cette unité de détection, créée par l'Institut de recherche de Fontaine en utilisant de nouveaux modèles de composants artificiels, était à l'origine destinée au suivi des données environnementales.",
 	"sortorder": 2886,
 	"category": "EXCHANGE",
 	"materialtype": "Produit de Fontaine",
 	"source": [
-=======
-	"id": 101239,
-	"name": "Unité de sous-détection",
-	"sortRank": 315,
-	"description": "Cette unité de détection, créée par l'Institut de recherche de Fontaine en utilisant de nouveaux modèles de composants artificiels, était à l'origine destinée au suivi des données environnementales.",
-	"category": "EXCHANGE",
-	"typeText": "Produit de Fontaine",
-	"sources": [
->>>>>>> upstream/main
 		"Dans la nature",
 		"Zone conseillée : Région de l'Institut de recherche d'ingénierie cinétique de Fontaine"
 	]

@@ -1,15 +1,10 @@
 {
-	"id": 101221,
 	"name": "Dattel",
-	"sortRank": 321,
 	"description": "Früchte immergrüner Bäume, die in Wüstenoasen wachsen. Unter der harten Fruchtschale findet sich seidenweiches, üppiges, wohlschmeckend süßes Fruchtfleisch. Für die Bewohner des Sandmeeres ist diese Art von Frucht eine bedeutende Nahrungsquelle.",
-<<<<<<< HEAD
 	"sortorder": 2942,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In Wüstenoasen Sumerus zu finden"
 	]
 }

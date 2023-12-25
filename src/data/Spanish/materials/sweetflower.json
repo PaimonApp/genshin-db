@@ -1,15 +1,10 @@
 {
-	"id": 100012,
 	"name": "Flor dulce",
-	"sortRank": 321,
 	"description": "Flores particularmente aromáticas. Son fáciles de encontrar incluso en la oscuridad. ¡Cierra los ojos y huele su rastro hasta encontrarlas!",
-<<<<<<< HEAD
 	"sortorder": 2901,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en la naturaleza"
 	]
 }

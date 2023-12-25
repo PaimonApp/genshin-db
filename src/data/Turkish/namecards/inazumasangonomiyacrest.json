@@ -1,8 +1,7 @@
 {
-	"id": 210097,
 	"name": "Inazuma: Sangonomiya Arması",
 	"description": "İsim Kartı arka planı.\nWatatsumi halkının yöneticisi Sangonomiya Klanının amblemidir.",
-	"sortOrder": 210097,
+	"sortorder": 210097,
 	"source": [
 		"\"Inazuma: Yıldırımı ve Sonsuzluğu Kucaklayan Adalar - II. Seri\" altındaki tüm başarımları tamamlamanın ödülü."
 	]

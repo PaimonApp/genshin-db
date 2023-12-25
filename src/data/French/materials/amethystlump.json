@@ -1,15 +1,10 @@
 {
-	"id": 101008,
 	"name": "Morceau d'améthyste",
-	"sortRank": 301,
 	"description": "Un cristal non taillé qui ne peut être trouvé qu'à Inazuma. Un certain savoir-faire professionnel fera ressortir sa véritable valeur.",
-<<<<<<< HEAD
 	"sortorder": 2826,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Minerai de forge",
-	"sources": [
+	"materialtype": "Minerai de forge",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Île de Narukami"
 	]

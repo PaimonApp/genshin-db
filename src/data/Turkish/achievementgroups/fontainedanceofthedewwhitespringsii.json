@@ -1,15 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Fontaine: Çiy Beyazı Pınarların Dansı (II)",
 	"sortorder": 46,
 	"reward": {
-=======
-	"id": 45,
-	"name": "Fontaine: Çiy Beyazı Pınarların Dansı (II)",
-	"sortOrder": 46,
-	"reward": {
-		"id": 210179,
->>>>>>> upstream/main
 		"name": "Fontaine: Kefaret"
 	}
 }

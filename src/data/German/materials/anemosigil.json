@@ -1,17 +1,11 @@
 {
-	"id": 305,
 	"name": "Anemo-Siegel",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Ein Zeichen für die Anerkennung der Tausend Winde von Mondstadt.\nKann an bestimmten Orten in Mondstadt gegen besondere Objekte eingetauscht werden.",
-<<<<<<< HEAD
 	"sortorder": 4931,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Siegel der sieben Städte",
-	"sources": [
+	"materialtype": "Siegel der sieben Städte",
+	"source": [
 		"Erkundungsbelohnung für Mondstadt"
 	]
 }

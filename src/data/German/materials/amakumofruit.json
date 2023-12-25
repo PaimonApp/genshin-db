@@ -1,15 +1,10 @@
 {
-	"id": 101208,
 	"name": "Amakumo-Frucht",
-	"sortRank": 313,
 	"description": "Die Frucht des Amakumo-Grases, das auf Seirai wächst. Du kannst es mit einem winzigen Strom knistern hören, wenn du es an dein Ohr hältst.",
-<<<<<<< HEAD
 	"sortorder": 2869,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Inazuma",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Inazuma",
+	"source": [
 		"In der freien Natur zu finden",
 		"Empfohlen: Auf Seirai zu finden"
 	]

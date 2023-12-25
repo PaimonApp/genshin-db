@@ -1,19 +1,14 @@
 {
-	"id": [
-		80267
-	],
 	"name": "Pintura, Sonhos e Cachorro Mecânico",
-	"achievementGroupId": 42,
-	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho I",
-	"sortOrder": 247,
+	"achievementgroup": "Fontaine: Dança das Fontes Brancas de Orvalho I",
+	"sortorder": 247,
 	"stages": 1,
 	"stage1": {
 		"title": "Pintura, Sonhos e Cachorro Mecânico",
-		"ps5title": "Viagem: Pinturas, Sonhos e Cachorros Mecânicos",
+		"ps5title": "Pintura, Sonhos e Cachorro Mecânico",
 		"description": "Descubra o segredo encontrado em Elynas",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}

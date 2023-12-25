@@ -1,15 +1,10 @@
 {
-	"id": 100097,
 	"name": "Carne misteriosa",
-	"sortRank": 321,
 	"description": "Un pezzo di carne fresca che sembra emanare un'aura enigmatica. Che sapore avrà?",
-<<<<<<< HEAD
 	"sortorder": 2934,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Ottenibile dagli animali"
 	]
 }

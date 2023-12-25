@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "\"Máy Tạo Trường Lực Tự Động\"",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1373,
-=======
-	"id": [
-		81389
-	],
-	"name": "\"Máy Tạo Trường Lực Tự Động\"",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1373,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"Máy Tạo Trường Lực Tự Động\"",
 		"description": "Chiến thắng Huyền Thoại Địa Phương: Máy Tạo Trường Lực Tự Động",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

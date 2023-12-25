@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Lebewohl, Herr Eliphas",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1395,
-=======
-	"id": [
-		81411
-	],
-	"name": "Lebewohl, Herr Eliphas",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1395,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Lebewohl, Herr Eliphas",
 		"description": "Besiege Eliphas.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

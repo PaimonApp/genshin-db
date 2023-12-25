@@ -1,19 +1,12 @@
 {
-	"id": 101312,
 	"name": "Madera de murmurador",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madera obtenida de árboles murmuradores. Gracias a que contiene la cantidad exacta de humedad y grasa, se le da múltiples usos.\nPuede utilizarse para fabricar decoraciones.",
-<<<<<<< HEAD
 	"sortorder": 2971,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Recolectar en la naturaleza",
-		"Talando en la Isla Yashiori",
-		"Transformar madera"
+		"Talando en la Isla Yashiori"
 	]
 }

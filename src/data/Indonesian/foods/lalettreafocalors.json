@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "La Lettre a Focalors",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Makanan Pertahanan",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3416,
-	"name": "La Lettre a Focalors",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Makanan Pertahanan",
->>>>>>> upstream/main
 	"effect": "Meningkatkan 20-25% Max HP seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Kue kecil berbentuk balok. Dikatakan bahwa pada zaman dahulu kala, seorang pembuat kue mencurahkan segenap kasih sayang orang-orang Fontaine untuk Archon Hydro tercinta sebagai inspirasi dalam pembuatan kue ini. Lapisan yang bertumpuk-tumpuk adalah salah satu ujian untuk melihat kemampuan sang pembuat kue. dan setiap aspek dari kue ini adalah bukti dari pengaruh sang Archon Hydro itu sendiri.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Bird Egg",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Flour",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "Coffee Bean",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "Almond",
 			"count": 2
 		}

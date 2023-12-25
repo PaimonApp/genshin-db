@@ -1,9 +1,7 @@
 {
-	"id": 8,
 	"name": "挑战者·第一辑",
-	"sortOrder": 14,
+	"sortorder": 14,
 	"reward": {
-		"id": 210028,
 		"name": "成就·挑战"
 	}
 }

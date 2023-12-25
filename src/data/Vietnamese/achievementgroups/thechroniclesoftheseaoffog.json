@@ -1,13 +1,7 @@
 {
-	"id": 27,
 	"name": "Nhật Ký Hành Trình Của Biển Sương Mù",
-<<<<<<< HEAD
 	"sortorder": 36,
-=======
-	"sortOrder": 36,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210103,
 		"name": "Inazuma - Lông Đại Bàng"
 	}
 }

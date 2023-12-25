@@ -1,15 +1,10 @@
 {
-	"id": 100021,
 	"name": "ググプラム",
-	"sortRank": 311,
 	"description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
-<<<<<<< HEAD
 	"sortorder": 2846,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "モンド地域の特産",
-	"sources": [
+	"materialtype": "モンド地域の特産",
+	"source": [
 		"野外で採集",
 		"推奨：奔狼領で採集"
 	]

@@ -1,24 +1,17 @@
 {
-	"id": 114018,
 	"name": "霧海雲間の水銀",
-	"rarity": 3,
-	"sortRank": 15105,
 	"description": "武器に突破の力を付与する材料。\n呪符は仙人の力を符号という形で残すことができ、外景経は心像を使って宇宙を作ることができるが、錬丹術は今でも秘密に包まれている。なぜなら、これらの金丹を呑みこむことは死を意味するからである。",
-<<<<<<< HEAD
 	"sortorder": 3295,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "武器突破素材",
-	"dropDomainId": 5219,
-	"dropDomainName": "煉武秘境：雷鳴の廃墟",
-	"daysOfWeek": [
+	"materialtype": "武器突破素材",
+	"dropdomain": "煉武秘境：雷鳴の廃墟",
+	"daysofweek": [
 		"火曜",
 		"金曜",
 		"日曜"
 	],
-	"sources": [
+	"source": [
 		"合成で獲得"
 	]
 }

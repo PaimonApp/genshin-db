@@ -1,17 +1,11 @@
 {
-	"id": 222,
 	"name": "Polvo estelar sin dueño",
-	"rarity": 4,
-	"sortRank": 410002,
 	"description": "Intercambiable por artículos poco comunes en la Tienda.\nExcedente de Polvo estelar. Tal vez pueda crear nuevos destinos al reunir una cantidad suficiente.",
-<<<<<<< HEAD
 	"sortorder": 4849,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Cupón de Intercambio Normal",
-	"sources": [
+	"materialtype": "Cupón de Intercambio Normal",
+	"source": [
 		"Gachapón"
 	]
 }

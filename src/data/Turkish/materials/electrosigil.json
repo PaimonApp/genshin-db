@@ -1,17 +1,11 @@
 {
-	"id": 304,
 	"name": "Elektrik Mührü",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Inazuma'nın gök gürültülü adalarının onayını gösteren bir mühür.\nKutsal Kiraz Ağacının Lütuf seviyesini yükseltmek için bunları Büyük Narukami Tapınağının Kutsal Kiraz Ağacına ada.",
-<<<<<<< HEAD
 	"sortorder": 4930,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Şehir Devleti Mührü",
-	"sources": [
+	"materialtype": "Şehir Devleti Mührü",
+	"source": [
 		"Inazuma Keşif Ödülü"
 	]
 }

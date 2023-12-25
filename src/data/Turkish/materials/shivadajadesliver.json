@@ -1,17 +1,11 @@
 {
-	"id": 104161,
 	"name": "Shivada Yeşimi Tozu",
-	"rarity": 2,
-	"sortRank": 12107,
 	"description": "Karakter Yükseltme Malzemesi.",
-<<<<<<< HEAD
 	"sortorder": 3212,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yükseltme Malzemesi",
-	"sources": [
+	"materialtype": "Karakter Yükseltme Malzemesi",
+	"source": [
 		"Yalancı Buz Ağaçlarından düşer.",
 		"Buz Hipostazlarından düşer.",
 		"Hediyelik Eşya Dükkanından satın alınır."

@@ -1,13 +1,7 @@
 {
-	"id": [
-		80260,
-		80261,
-		80262
-	],
 	"name": "Chasse aux trésors sur les terres aquatiques (1)",
-	"achievementGroupId": 42,
-	"achievementGroupName": "Fontaine - Danse de la rosée blanche (1)",
-	"sortOrder": 240,
+	"achievementgroup": "Fontaine - Danse de la rosée blanche (1)",
+	"sortorder": 240,
 	"stages": 3,
 	"stage1": {
 		"title": "Chasse aux trésors sur les terres aquatiques (1)",
@@ -15,7 +9,6 @@
 		"description": "Ouvrez {param0} coffres dans la Région de la Cour de Fontaine, la Région Belleau et la Région Béryl.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Ouvrez {param0} coffres dans la Région de la Cour de Fontaine, la Région Belleau et la Région Béryl.",
 		"progress": 120,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Ouvrez {param0} coffres dans la Région de la Cour de Fontaine, la Région Belleau et la Région Béryl.",
 		"progress": 240,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

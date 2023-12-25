@@ -1,21 +1,9 @@
 {
-	"id": 112029,
 	"name": "Coltello sacrificale del cacciatore",
-	"rarity": 2,
-	"sortRank": 10110,
 	"description": "Un coltello d'acciaio affilato. Anche se il suo proprietario si è perso, riflette ancora un'inquietante luce fredda.",
-<<<<<<< HEAD
 	"sortorder": 3062,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Materiale di potenziamento armi e personaggi",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale di potenziamento armi e personaggi",
-	"sources": [
-		"Ottenibile dagli Agenti dei Fatui",
-		"Scambio di Polvere stellare"
-	]
->>>>>>> upstream/main
 }

@@ -1,11 +1,10 @@
 {
-	"id": 101208,
 	"name": "Amakumo Fruit",
-	"sortRank": 313,
 	"description": "The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it crackling with a tiny current if you hold it up to your ear.",
+	"sortorder": 2869,
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Inazuma)",
-	"sources": [
+	"materialtype": "Local Specialty (Inazuma)",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found on Seirai Island"
 	]

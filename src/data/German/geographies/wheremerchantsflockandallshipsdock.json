@@ -1,10 +1,7 @@
 {
-	"id": 70200013,
 	"name": "Sammelpunkt von Schiffen und Händlern",
-	"areaId": 2701,
-	"areaName": "Liyue",
+	"area": "Liyue",
 	"description": "Ein florierender Hafen, an dem Tausende Schiffe anlegen. Im Rahmen unzähliger Verträge werden von hier aus Waren verschifft, die in die Regionen aller sieben Städte gehen. Willkommen in Liyue, Reisender!",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 101
+	"region": "Liyue",
+	"sortorder": 101
 }

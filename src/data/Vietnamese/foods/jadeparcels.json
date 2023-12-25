@@ -1,10 +1,9 @@
 {
-	"id": 4101,
 	"name": "Túi Thập Cẩm Phỉ Ngọc",
-	"rarity": 4,
+	"rarity": "4",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Món Dạng Tấn Công",
+	"foodfilter": "Món Dạng Tấn Công",
+	"foodcategory": "Atk_Add",
 	"effect": "Tăng 224-320 điểm tấn công cho toàn đội, tỷ lệ bạo kích tăng 6%-10%, kéo dài 300s.\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Món ăn có tạo hình tinh tế. Lá rau giòn ngọt bao bọc lấy mùi vị thơm ngon của giăm bông, thêm vào nước sốt, vị ngon cay thơm, khiến người khác khó quên.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100026,
 			"name": "Đài Sen",
 			"count": 3
 		},
 		{
-			"id": 100027,
 			"name": "Ớt Tuyệt Vân",
 			"count": 2
 		},
 		{
-			"id": 100018,
 			"name": "Bắp Cải Cuộn",
 			"count": 2
 		},
 		{
-			"id": 110005,
 			"name": "Giăm Bông",
 			"count": 1
 		}

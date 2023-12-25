@@ -1,10 +1,9 @@
 {
-	"id": 2104,
 	"name": "松茸酿肉卷",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "恢复类料理",
+	"foodfilter": "恢复类料理",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "为选中的角色恢复生命值上限的20%-24%，并额外恢复900-1500点生命值。",
 	"description": "煎制而成的肉料理。肉泥裹上松茸细火慢煎，使松茸内吸满了香浓的肉汁，令人垂涎欲滴。",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100063,
 			"name": "松茸",
 			"count": 2
 		},
 		{
-			"id": 100061,
 			"name": "兽肉",
 			"count": 2
 		}

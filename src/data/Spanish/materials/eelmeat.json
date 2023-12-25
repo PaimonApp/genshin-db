@@ -1,15 +1,10 @@
 {
-	"id": 100095,
 	"name": "Anguila",
-	"sortRank": 321,
 	"description": "Carne de anguila fresca. Si se prepara correctamente, puede usarse para hacer un plato muy sabroso.",
-<<<<<<< HEAD
 	"sortorder": 2932,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en la naturaleza",
 		"Recolectar en la Isla Watatsumi"
 	]

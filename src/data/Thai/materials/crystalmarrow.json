@@ -1,15 +1,10 @@
 {
-	"id": 101203,
 	"name": "Crystal Marrow",
-	"sortRank": 313,
 	"description": "คริสตัลที่มีพลังของ \"Tatarigami\" เป็นส่วนประกอบ การเพิ่มสิ่งนี้ในระหว่างการหลอม จะสามารถปรับปรุงความแข็งแรง และความทนทานของเหล็กได้อย่างมาก",
-<<<<<<< HEAD
 	"sortorder": 2864,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "ของพิเศษเฉพาะใน Inazuma",
-	"sources": [
+	"materialtype": "ของพิเศษเฉพาะใน Inazuma",
+	"source": [
 		"พบได้ในโลกกว้าง",
 		"คำแนะนำ: หาได้ที่เกาะ Yashiori"
 	]

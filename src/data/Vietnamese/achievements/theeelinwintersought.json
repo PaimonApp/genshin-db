@@ -1,18 +1,14 @@
 {
-	"id": [
-		81188
-	],
 	"name": "\"Cá Chình Mùa Đông\"",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1174,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1174,
 	"stages": 1,
 	"stage1": {
 		"title": "\"Cá Chình Mùa Đông\"",
 		"description": "Được Jibashiri công nhận.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

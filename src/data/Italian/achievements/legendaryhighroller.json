@@ -1,20 +1,13 @@
 {
-	"id": [
-		80218,
-		80219,
-		80220
-	],
 	"name": "Giocatore d'azzardo leggendario",
-	"achievementGroupId": 37,
-	"achievementGroupName": "GCC Invokazione del genio",
-	"sortOrder": 196,
+	"achievementgroup": "GCC Invokazione del genio",
+	"sortorder": 196,
 	"stages": 3,
 	"stage1": {
 		"title": "Giocatore d'azzardo leggendario",
 		"description": "Ottieni un totale di {param0} Monete della fortuna.",
 		"progress": 10000,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Ottieni un totale di {param0} Monete della fortuna.",
 		"progress": 70000,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Ottieni un totale di {param0} Monete della fortuna.",
 		"progress": 150000,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 20
 		}

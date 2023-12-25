@@ -1,10 +1,7 @@
 {
-	"id": 70200016,
 	"name": "Feiyun Yamacı",
-	"areaId": 2701,
-	"areaName": "Liyue Limanı",
+	"area": "Liyue Limanı",
 	"description": "Burada, hayatta başarılı olan tüccarlar yaşıyor. Sakinleri zengin ve rahat. Parlak ışıklarıysa asla kararmıyor.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 102
+	"region": "Liyue",
+	"sortorder": 102
 }

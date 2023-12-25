@@ -1,15 +1,9 @@
 {
-	"id": 101692,
 	"name": "Ấn Ánh Sáng",
-	"rarity": 3,
-	"sortRank": 430041,
 	"description": "Dấu ấn tượng trưng cho sự công nhận của Tokoyo Ookami - Enkanomiya. \nHiến tế cho Tượng Ngự Sử để nâng cấp Hộp Bokuso.",
-<<<<<<< HEAD
 	"sortorder": 4950,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Vật Phẩm Tiêu Hao",
-	"sources": []
+	"materialtype": "Vật Phẩm Tiêu Hao",
+	"source": []
 }

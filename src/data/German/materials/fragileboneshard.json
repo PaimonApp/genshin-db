@@ -1,23 +1,9 @@
 {
-	"id": 112041,
 	"name": "Zerbrechliches Knochenstück",
-	"rarity": 2,
-	"sortRank": 10114,
 	"description": "Ein Knochenstück von Drachenechsen.\nObwohl sie äußerst zerbrechlich sind, beinhalten sie eine Art unerklärliche Kraft.",
-<<<<<<< HEAD
 	"sortorder": 3074,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material zur Verbesserung von Figuren und Waffen",
-	"sources": [
-		"Beute von jungen Geo-Drachenechsen",
-		"Beute von Geo-Drachenechsen",
-		"Beute von Tiefsee-Drachenechsen",
-		"Mit Sternenstaub kaufen"
-	]
->>>>>>> upstream/main
 }

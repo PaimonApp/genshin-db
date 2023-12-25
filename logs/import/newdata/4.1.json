@@ -7,20 +7,98 @@
 			"filename": "wriothesley"
 		}
 	],
-	"windgliders": [
+	"constellations": [
 		{
-			"dataid": 140013,
-			"filename": "wingsoftransientdreams"
-		}
-	],
-	"achievementgroups": [
-		{
-			"dataid": 45,
-			"filename": "fontainedanceofthedewwhitespringsii"
+			"filename": "neuvillette"
 		},
 		{
-			"dataid": 40,
-			"filename": "challengerseriesviii"
+			"filename": "wriothesley"
+		}
+	],
+	"talents": [
+		{
+			"filename": "neuvillette"
+		},
+		{
+			"filename": "wriothesley"
+		}
+	],
+	"weapons": [
+		{
+			"dataid": 13427,
+			"filename": "prospectorsdrill"
+		},
+		{
+			"dataid": 12427,
+			"filename": "portablepowersaw"
+		},
+		{
+			"dataid": 11427,
+			"filename": "thedockhandsassistant"
+		},
+		{
+			"dataid": 14426,
+			"filename": "balladoftheboundlessblue"
+		},
+		{
+			"dataid": 14513,
+			"filename": "cashflowsupervision"
+		},
+		{
+			"dataid": 14514,
+			"filename": "tomeoftheeternalflow"
+		},
+		{
+			"dataid": 15427,
+			"filename": "rangegauge"
+		}
+	],
+	"foods": [
+		{
+			"dataid": 3414,
+			"filename": "cassoulet"
+		},
+		{
+			"dataid": 3413,
+			"filename": "consomme"
+		},
+		{
+			"dataid": 2408,
+			"filename": "boudinnoirauxpommes"
+		},
+		{
+			"dataid": 2407,
+			"filename": "barbequeribs"
+		},
+		{
+			"dataid": 3410,
+			"filename": "coffeebavarois"
+		},
+		{
+			"filename": "consommepurete"
+		},
+		{
+			"dataid": 4402,
+			"filename": "haggis"
+		},
+		{
+			"filename": "secretsaucebbqribs"
+		},
+		{
+			"dataid": 3411,
+			"filename": "tripesduport"
+		},
+		{
+			"dataid": 1402,
+			"filename": "troutamandine"
+		},
+		{
+			"dataid": 3412,
+			"filename": "tomatesnarbonnaises"
+		},
+		{
+			"dataid": 3415,
+			"filename": "crepessuzette"
 		}
 	],
 	"materials": [
@@ -57,130 +135,6 @@
 			"filename": "tourbillondevice"
 		}
 	],
-	"foods": [
-		{
-			"dataid": 4402,
-			"filename": "haggis"
-		},
-		{
-			"dataid": 3414,
-			"filename": "cassoulet"
-		},
-		{
-			"dataid": 3413,
-			"filename": "consomme"
-		},
-		{
-			"dataid": 3411,
-			"filename": "tripesduport"
-		},
-		{
-			"dataid": 2408,
-			"filename": "boudinnoirauxpommes"
-		},
-		{
-			"dataid": 2407,
-			"filename": "barbequeribs"
-		},
-		{
-			"dataid": 1402,
-			"filename": "troutamandine"
-		},
-		{
-			"dataid": 10000086,
-			"filename": "secretsaucebbqribs"
-		},
-		{
-			"dataid": 3410,
-			"filename": "coffeebavarois"
-		},
-		{
-			"dataid": 3412,
-			"filename": "tomatesnarbonnaises"
-		},
-		{
-			"dataid": 10000087,
-			"filename": "consommepurete"
-		},
-		{
-			"dataid": 3415,
-			"filename": "crepessuzette"
-		}
-	],
-	"weapons": [
-		{
-			"dataid": 15427,
-			"filename": "rangegauge"
-		},
-		{
-			"dataid": 14513,
-			"filename": "cashflowsupervision"
-		},
-		{
-			"dataid": 13427,
-			"filename": "prospectorsdrill"
-		},
-		{
-			"dataid": 11427,
-			"filename": "thedockhandsassistant"
-		},
-		{
-			"dataid": 12427,
-			"filename": "portablepowersaw"
-		},
-		{
-			"dataid": 14426,
-			"filename": "balladoftheboundlessblue"
-		},
-		{
-			"dataid": 14514,
-			"filename": "tomeoftheeternalflow"
-		}
-	],
-	"crafts": [
-		{
-			"dataid": 14101,
-			"filename": "purewater"
-		},
-		{
-			"dataid": 11059,
-			"filename": "operativesstandardpocketwatch"
-		},
-		{
-			"dataid": 11060,
-			"filename": "operativesconstancy"
-		}
-	],
-	"constellations": [
-		{
-			"dataid": 8701,
-			"filename": "neuvillette"
-		},
-		{
-			"dataid": 8601,
-			"filename": "wriothesley"
-		}
-	],
-	"talents": [
-		{
-			"dataid": 8701,
-			"filename": "neuvillette"
-		},
-		{
-			"dataid": 8601,
-			"filename": "wriothesley"
-		}
-	],
-	"outfits": [
-		{
-			"dataid": 208700,
-			"filename": "clearadjudication"
-		},
-		{
-			"dataid": 208600,
-			"filename": "nightschillinghowl"
-		}
-	],
 	"enemies": [
 		{
 			"dataid": 26180101,
@@ -201,6 +155,22 @@
 		{
 			"dataid": 24080101,
 			"filename": "experimentalfieldgenerator"
+		}
+	],
+	"windgliders": [
+		{
+			"dataid": 140013,
+			"filename": "wingsoftransientdreams"
+		}
+	],
+	"outfits": [
+		{
+			"dataid": 208700,
+			"filename": "clearadjudication"
+		},
+		{
+			"dataid": 208600,
+			"filename": "nightschillinghowl"
 		}
 	],
 	"geographies": [
@@ -229,6 +199,56 @@
 		{
 			"dataid": 28050701,
 			"filename": "subdetectionunit"
+		}
+	],
+	"namecards": [
+		{
+			"dataid": 210179,
+			"filename": "fontaineredemption"
+		},
+		{
+			"dataid": 210177,
+			"filename": "celebrationeuphonia"
+		},
+		{
+			"dataid": 210175,
+			"filename": "wriothesleydetention"
+		},
+		{
+			"dataid": 210174,
+			"filename": "neuvillettesurge"
+		},
+		{
+			"dataid": 210176,
+			"filename": "travelnotesfallingstar"
+		},
+		{
+			"dataid": 210178,
+			"filename": "achievementperpetual"
+		}
+	],
+	"achievementgroups": [
+		{
+			"dataid": 45,
+			"filename": "fontainedanceofthedewwhitespringsii"
+		},
+		{
+			"dataid": 40,
+			"filename": "challengerseriesviii"
+		}
+	],
+	"crafts": [
+		{
+			"dataid": 14101,
+			"filename": "purewater"
+		},
+		{
+			"dataid": 11059,
+			"filename": "operativesstandardpocketwatch"
+		},
+		{
+			"dataid": 11060,
+			"filename": "operativesconstancy"
 		}
 	],
 	"achievements": [
@@ -539,226 +559,6 @@
 				84311
 			],
 			"filename": "cataclysmsquickening"
-		}
-	],
-	"namecards": [
-		{
-			"dataid": 210179,
-			"filename": "fontaineredemption"
-		},
-		{
-			"dataid": 210177,
-			"filename": "celebrationeuphonia"
-		},
-		{
-			"dataid": 210175,
-			"filename": "wriothesleydetention"
-		},
-		{
-			"dataid": 210174,
-			"filename": "neuvillettesurge"
-		},
-		{
-			"dataid": 210176,
-			"filename": "travelnotesfallingstar"
-		},
-		{
-			"dataid": 210178,
-			"filename": "achievementperpetual"
-		}
-	],
-	"tcgsummons": [
-		{
-			"dataid": 117042,
-			"filename": "yueguithrowingmode-01"
-		},
-		{
-			"dataid": 113093,
-			"filename": "fierysanctumfield"
-		},
-		{
-			"dataid": 117041,
-			"filename": "yueguithrowingmode"
-		}
-	],
-	"tcgcardbacks": [
-		{
-			"dataid": 126,
-			"filename": "dragonspinecrown"
-		},
-		{
-			"dataid": 124,
-			"filename": "thefortressofmeropide"
-		},
-		{
-			"dataid": 125,
-			"filename": "dragonspinetraces"
-		}
-	],
-	"tcgcharactercards": [
-		{
-			"dataid": 1704,
-			"filename": "yaoyao"
-		},
-		{
-			"dataid": 1309,
-			"filename": "dehya"
-		},
-		{
-			"dataid": 1506,
-			"filename": "wanderer"
-		}
-	],
-	"tcgactioncards": [
-		{
-			"dataid": 423031,
-			"filename": "masterytalismanbuttressedcombinedassault"
-		},
-		{
-			"dataid": 423028,
-			"filename": "masterytalismandontpushyourluck"
-		},
-		{
-			"dataid": 422028,
-			"filename": "leylinedisorderunitedposturegentlewar"
-		},
-		{
-			"dataid": 422026,
-			"filename": "leylinedisorderviciousposturebluntforce"
-		},
-		{
-			"dataid": 422024,
-			"filename": "leylinedisorderunitedpostureadvance"
-		},
-		{
-			"dataid": 422022,
-			"filename": "leylinedisorderviciouspostureferocity"
-		},
-		{
-			"dataid": 332023,
-			"filename": "pankration"
-		},
-		{
-			"dataid": 322020,
-			"filename": "yayoinanatsuki"
-		},
-		{
-			"dataid": 312015,
-			"filename": "crownofwatatsumi"
-		},
-		{
-			"dataid": 217041,
-			"filename": "beneficent"
-		},
-		{
-			"dataid": 213091,
-			"filename": "stalwartandtrue"
-		},
-		{
-			"dataid": 215061,
-			"filename": "galesofreverie"
-		},
-		{
-			"dataid": 311406,
-			"filename": "moonpiercer"
-		},
-		{
-			"dataid": 321014,
-			"filename": "gandharvaville"
-		},
-		{
-			"dataid": 330004,
-			"filename": "freshwindoffreedom"
-		},
-		{
-			"dataid": 422021,
-			"filename": "leylinedisorderdefensivepostureimpregnable"
-		},
-		{
-			"dataid": 422023,
-			"filename": "leylinedisorderattritionpostureinspiration"
-		},
-		{
-			"dataid": 422025,
-			"filename": "leylinedisorderdefensiveposturelightarmor"
-		},
-		{
-			"dataid": 422027,
-			"filename": "leylinedisorderattritionpostureencouragement"
-		},
-		{
-			"dataid": 423027,
-			"filename": "masterytalismanharmonictactics"
-		},
-		{
-			"dataid": 423030,
-			"filename": "masterytalismandauntlesspursuit"
-		}
-	],
-	"tcgstatuseffects": [
-		{
-			"dataid": 403018,
-			"filename": "indomitableshield"
-		},
-		{
-			"dataid": 303223,
-			"filename": "pankrationineffect"
-		},
-		{
-			"dataid": 312015,
-			"filename": "crownofwatatsumi"
-		},
-		{
-			"dataid": 311406,
-			"filename": "moonpiercer"
-		},
-		{
-			"dataid": 117043,
-			"filename": "adeptallegacy"
-		},
-		{
-			"dataid": 115062,
-			"filename": "descent"
-		},
-		{
-			"dataid": 213091,
-			"filename": "stalwartandtrue"
-		},
-		{
-			"dataid": 113092,
-			"filename": "blazinglionessincinerationdrive"
-		},
-		{
-			"dataid": 113091,
-			"filename": "blazinglionessflamemanesfist"
-		},
-		{
-			"dataid": 113094,
-			"filename": "fierysanctumsprotection"
-		},
-		{
-			"dataid": 115061,
-			"filename": "windfavored"
-		},
-		{
-			"dataid": 215061,
-			"filename": "galesofreverie"
-		},
-		{
-			"dataid": 217041,
-			"filename": "beneficent"
-		},
-		{
-			"dataid": 301104,
-			"filename": "moonpiercerineffect"
-		},
-		{
-			"dataid": 300002,
-			"filename": "freshwindoffreedomineffect"
-		},
-		{
-			"dataid": 403017,
-			"filename": "viciousedge"
 		}
 	]
 }

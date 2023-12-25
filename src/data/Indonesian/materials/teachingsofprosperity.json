@@ -1,22 +1,15 @@
 {
-	"id": 104310,
 	"name": "Teachings of \"Prosperity\"",
-	"rarity": 2,
-	"sortRank": 13104,
 	"description": "Material Penguatan Talenta.\nKemakmuran adalah hal yang dikejar tanah bumi.\nKemakmuran adalah berkah dari Liyue, kota megah yang dibangun oleh Dewa-Dewa dan rakyat Liyue, sumber perdamaian dan keamanan.",
-<<<<<<< HEAD
 	"sortorder": 3228,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Talenta Karakter",
-	"dropDomainId": 5254,
-	"dropDomainName": "Domain of Mastery: Altar Bara Api",
-	"daysOfWeek": [
+	"materialtype": "Material Talenta Karakter",
+	"dropdomain": "Domain of Mastery: Altar Bara Api",
+	"daysofweek": [
 		"Senin",
 		"Kamis",
 		"Minggu"
 	],
-	"sources": []
+	"source": []
 }

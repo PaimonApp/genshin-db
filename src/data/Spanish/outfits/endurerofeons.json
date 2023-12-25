@@ -1,8 +1,6 @@
 {
-	"id": 202600,
 	"name": "Superviviente milenario",
 	"description": "Modelo de vestimenta de Xiao. El traje de guerra que utilizó durante milenios para exterminar demonios.",
-	"isDefault": true,
-	"characterId": 10000026,
-	"characterName": "Xiao"
+	"isdefault": true,
+	"character": "Xiao"
 }

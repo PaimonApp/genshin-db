@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Tomates Narbonnaises",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de ATQ",
 	"foodcategory": "Atk_Add",
-=======
-	"id": 3412,
-	"name": "Tomates Narbonnaises",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Pratos de ATQ",
->>>>>>> upstream/main
 	"effect": "Aumenta o ATQ de todos os membros da Equipe em 160 - 228 por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Um prato com uma proporção balanceada de carnes e vegetais. Primeiro se tira o centro de um tomate e o preenche com carne moída, para então se assar tudo. Esse prato tem um sabor ácido e uma textura agradável. Dizem que é muito popular nas mesas de Fontaine.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Carne Crua",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100079,
->>>>>>> upstream/main
 			"name": "Tomate",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110010,
->>>>>>> upstream/main
 			"name": "Bacon",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "Cebola",
 			"count": 1
 		}

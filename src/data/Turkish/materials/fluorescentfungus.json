@@ -1,15 +1,10 @@
 {
-	"id": 101209,
 	"name": "Fosforlu Mantar",
-	"sortRank": 313,
 	"description": "Gece lambası gibi parlayan bir mantar. İçinde bazı tuhaf güçler gizlidir.",
-<<<<<<< HEAD
 	"sortorder": 2870,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Inazuma Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Inazuma Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Tsurumi Adası'nda bulunur."
 	]

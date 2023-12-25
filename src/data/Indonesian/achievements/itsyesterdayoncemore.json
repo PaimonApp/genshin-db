@@ -1,19 +1,13 @@
 {
-	"id": [
-		80142,
-		80143,
-		80144
-	],
 	"name": "Sepanjang Jalan Kenangan",
-	"achievementGroupName": "Keajaiban Dunia",
-	"sortOrder": 142,
+	"achievementgroup": "Keajaiban Dunia",
+	"sortorder": 142,
 	"stages": 3,
 	"stage1": {
 		"title": "Sepanjang Jalan Kenangan",
 		"description": "Putar 10 melodi menggunakan perabotan seri \"Paduan Suara Celestial\" di dalam Serenitea Pot.",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -23,7 +17,6 @@
 		"description": "Putar 30 melodi menggunakan perabotan seri \"Paduan Suara Celestial\" di dalam Serenitea Pot.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -33,7 +26,6 @@
 		"description": "Putar 60 melodi menggunakan perabotan seri \"Paduan Suara Celestial\" di dalam Serenitea Pot.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

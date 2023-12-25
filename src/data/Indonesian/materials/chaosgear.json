@@ -1,21 +1,9 @@
 {
-	"id": 112047,
 	"name": "Chaos Gear",
-	"rarity": 2,
-	"sortRank": 10116,
 	"description": "Berasal dari mesin Ruin kuno yang sekarang sudah tidak aktif.\nMesin ini adalah sumber energi dari mekanisme biomimetik tersebut.",
-<<<<<<< HEAD
 	"sortorder": 3080,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Penguatan Senjata dan Karakter",
-	"sources": [
-		"Dijatuhkan oleh Ruin Sentinel",
-		"Penukaran Stardust"
-	]
->>>>>>> upstream/main
 }

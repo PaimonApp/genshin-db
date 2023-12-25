@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "นาฬิกาจับเวลาดำน้ำกับผลจ้ำม่ำ",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1376,
-=======
-	"id": [
-		81392
-	],
-	"name": "นาฬิกาจับเวลาดำน้ำกับผลจ้ำม่ำ",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1376,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "นาฬิกาจับเวลาดำน้ำกับผลจ้ำม่ำ",
 		"description": "สำเร็จการฝึกซ้อมระดับสูงใต้น้ำ",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

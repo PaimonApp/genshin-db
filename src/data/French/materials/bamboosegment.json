@@ -1,19 +1,12 @@
 {
-	"id": 101305,
 	"name": "Tige de bambou",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Une tige de bambou qui est plus légère et solide que son apparence le suggère. Elle dégage un doux parfum.\nPeut être utilisé pour fabriquer des décorations.",
-<<<<<<< HEAD
 	"sortorder": 2964,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Matériau",
-	"sources": [
+	"materialtype": "Matériau",
+	"source": [
 		"Dans la nature",
-		"Zone conseillée : Sources de Jade",
-		"Conversion de bois"
+		"Zone conseillée : Sources de Jade"
 	]
 }

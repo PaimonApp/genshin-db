@@ -6,8 +6,6 @@
 		"crystalchunk": "Crystal Chunk",
 		"dandelionseed": "Dandelion Seed",
 		"dendrobium": "Dendrobium",
-		"dragonspinecrown": "Dragonspine - มงกุฎ",
-		"dragonspinetraces": "Dragonspine - สำรวจ",
 		"electrocrystal": "Electro Crystal",
 		"flamingflowerstamen": "Flaming Flower Stamen",
 		"fontaine": "Fontaine",
@@ -21,7 +19,6 @@
 		"mondstadt": "Mondstadt",
 		"origin": "แรกเริ่ม",
 		"sumeru": "Sumeru",
-		"thefortressofmeropide": "ป้อมปราการ Meropide",
 		"treasuresofthedeck": "สมบัติกลางหมู่การ์ด"
 	},
 	"names": {
@@ -31,8 +28,6 @@
 		"Crystal Chunk": "crystalchunk",
 		"Dandelion Seed": "dandelionseed",
 		"Dendrobium": "dendrobium",
-		"Dragonspine - มงกุฎ": "dragonspinecrown",
-		"Dragonspine - สำรวจ": "dragonspinetraces",
 		"Electro Crystal": "electrocrystal",
 		"Flaming Flower Stamen": "flamingflowerstamen",
 		"Fontaine": "fontaine",
@@ -46,7 +41,6 @@
 		"Mondstadt": "mondstadt",
 		"แรกเริ่ม": "origin",
 		"Sumeru": "sumeru",
-		"ป้อมปราการ Meropide": "thefortressofmeropide",
 		"สมบัติกลางหมู่การ์ด": "treasuresofthedeck"
 	},
 	"aliases": {},
@@ -58,8 +52,6 @@
 			"crystalchunk",
 			"dandelionseed",
 			"dendrobium",
-			"dragonspinecrown",
-			"dragonspinetraces",
 			"electrocrystal",
 			"flamingflowerstamen",
 			"fontaine",
@@ -73,7 +65,6 @@
 			"mondstadt",
 			"origin",
 			"sumeru",
-			"thefortressofmeropide",
 			"treasuresofthedeck"
 		]
 	},

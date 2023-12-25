@@ -1,10 +1,7 @@
 {
-	"id": 70100003,
 	"name": "Biblioteca dei Cavalieri di Favonius",
-	"areaId": 1102,
-	"areaName": "Mondstadt",
+	"area": "Mondstadt",
 	"description": "La biblioteca più fornita tra tutte quelle presenti nelle terre del nord. La gente comune può leggere tutti i libri custoditi qui, eccetto quelli contenuti nella sezione riservata.",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 7
+	"region": "Mondstadt",
+	"sortorder": 7
 }

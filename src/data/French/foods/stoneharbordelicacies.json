@@ -1,10 +1,9 @@
 {
-	"id": 2110,
 	"name": "Délicatesses du Port de pierre",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Attaque",
+	"foodfilter": "Attaque",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Augmente le taux CRIT de tous les personnages de l'équipe de 6 % à 12 % pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
 	"description": "Un plat végétarien sauté au wok qui combine trois ingrédients que l'on trouve en abondance dans la région de Liyue. Bien qu'il s'agisse d'une recette assez simple à réaliser, ce plat fait parfaitement ressortir le goût de chaque ingrédient et mérite de figurer aux côtés des plats les plus raffinés.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100080,
 			"name": "Pomme de terre",
 			"count": 2
 		},
 		{
-			"id": 100034,
 			"name": "Muguet bleu",
 			"count": 1
 		},
 		{
-			"id": 100063,
 			"name": "Matsutake",
 			"count": 1
 		}

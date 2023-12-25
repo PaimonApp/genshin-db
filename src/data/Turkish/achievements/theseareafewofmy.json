@@ -1,11 +1,8 @@
 {
-	"id": [
-		81355
-	],
 	"name": "Bunlar Benim Favorilerimden...",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1341,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1341,
 	"stages": 1,
 	"stage1": {
 		"title": "Bunlar Benim Favorilerimden...",
@@ -13,7 +10,6 @@
 		"description": "... Bazıları.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

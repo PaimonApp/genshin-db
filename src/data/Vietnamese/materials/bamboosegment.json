@@ -1,19 +1,12 @@
 {
-	"id": 101305,
 	"name": "Đốt Trúc",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Đoạn trúc xanh, nhẹ nhưng chắc, kiên cố hơn vẻ bề ngoài khiêm tốn, toát lên khí chất thanh tịnh độc đáo.\nCó thể dùng để chế tạo đồ trang trí.",
-<<<<<<< HEAD
 	"sortorder": 2964,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu Thập Bên Ngoài",
-		"Kiến nghị: Đốn ở Bích Thủy Nguyên",
-		"Chuyển Hóa Gỗ"
+		"Kiến nghị: Đốn ở Bích Thủy Nguyên"
 	]
 }

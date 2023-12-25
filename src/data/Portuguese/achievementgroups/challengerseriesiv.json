@@ -1,9 +1,7 @@
 {
-	"id": 20,
 	"name": "Desafiante - Série IV",
-	"sortOrder": 17,
+	"sortorder": 17,
 	"reward": {
-		"id": 210088,
 		"name": "Conquista: Dragão de Pedra"
 	}
 }

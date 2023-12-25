@@ -1,13 +1,7 @@
 {
-	"id": 25,
 	"name": "テイワット釣りガイド·1",
-<<<<<<< HEAD
 	"sortorder": 37,
-=======
-	"sortOrder": 37,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210098,
 		"name": "アチーブメント·針叩き"
 	}
 }

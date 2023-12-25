@@ -1,10 +1,9 @@
 {
-	"id": 4402,
 	"name": "羊杂哈吉斯",
-	"rarity": 4,
+	"rarity": "4",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "防御类料理",
+	"foodfilter": "防御类料理",
+	"foodcategory": "Def_Add",
 	"effect": "队伍中所有角色防御力提高215-308点，治疗效果提升6%-10%，持续300秒。\n多人游戏时，仅对自己的角色生效。",
 	"description": "风味浓郁的料理。将羊的内脏剁碎与燕麦一同塞入羊胃中，再加上各种调味香料，制成袋装，装盘时往往会去掉胃袋，仅取内容物和萝卜泥、土豆泥一并食用。是一道极具地方特色的佳肴，枫丹人常将其作为招待贵客的菜品。",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "兽肉",
 			"count": 4
 		},
 		{
-			"id": 100080,
 			"name": "土豆",
 			"count": 3
 		},
 		{
-			"id": 100014,
 			"name": "白萝卜",
 			"count": 3
 		},
 		{
-			"id": 101231,
 			"name": "茉洁草",
 			"count": 2
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 110012,
 	"name": "Räucherfisch",
-	"sortRank": 322,
 	"description": "",
-<<<<<<< HEAD
 	"sortorder": 2957,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beim Verarbeiten von Gerichten zu erhalten"
 	]
 }

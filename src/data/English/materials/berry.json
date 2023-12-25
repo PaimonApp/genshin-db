@@ -1,11 +1,10 @@
 {
-	"id": 100051,
 	"name": "Berry",
-	"sortRank": 321,
 	"description": "Small, brightly-colored fruit. They can be found everywhere, and the taste of them wipes the fatigue of a long journey away.",
+	"sortorder": 2911,
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Found in the wild"
 	]
 }

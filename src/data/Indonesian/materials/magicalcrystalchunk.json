@@ -1,15 +1,10 @@
 {
-	"id": 101004,
 	"name": "Magical Crystal Chunk",
-	"sortRank": 301,
 	"description": "Crystal Chunk dapat diforge menjadi material EXP Senjata dengan menggunakan Original Resin.\nCrystal dari tambang yang terkikis oleh energi Ley Line tidak bisa diproses dengan cara biasa.",
-<<<<<<< HEAD
 	"sortorder": 2824,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mineral untuk Forge",
-	"sources": [
+	"materialtype": "Mineral untuk Forge",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

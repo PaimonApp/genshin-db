@@ -1,11 +1,8 @@
 {
-	"id": [
-		81256
-	],
 	"name": "A Chuva Penetra na Terra",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1242,
+	"achievementgroup": "Maravilhas do Mundo",
+	"ishidden": true,
+	"sortorder": 1242,
 	"stages": 1,
 	"stage1": {
 		"title": "A Chuva Penetra na Terra",
@@ -13,7 +10,6 @@
 		"description": "Conclua \"Varuna Gatha\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}

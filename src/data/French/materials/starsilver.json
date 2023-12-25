@@ -1,15 +1,10 @@
 {
-	"id": 101006,
 	"name": "Minerai d'argétoile",
-	"sortRank": 301,
 	"description": "Ce minerai précieux est le produit des lignes énergétiques et de l'environnement particulier des Monts Dosdragon.",
-<<<<<<< HEAD
 	"sortorder": 2825,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Minerai de forge",
-	"sources": [
+	"materialtype": "Minerai de forge",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Monts Dosdragon"
 	]

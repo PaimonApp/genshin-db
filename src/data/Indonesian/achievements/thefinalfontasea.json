@@ -1,30 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "The Final Fonta Sea",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1383,
-=======
-	"id": [
-		81399,
-		81403,
-		81404
-	],
-	"name": "The Final Fonta Sea",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1383,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "The Final Fonta Sea",
 		"description": "Buat Duniamu jadi Fonta-stis!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -34,10 +18,6 @@
 		"description": "Buat Duniamu jadi Fonta-stis!",
 		"progress": 13,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -47,10 +27,6 @@
 		"description": "Buat Duniamu jadi Fonta-stis!",
 		"progress": 16,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

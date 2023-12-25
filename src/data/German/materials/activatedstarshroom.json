@@ -1,15 +1,10 @@
 {
-	"id": 101226,
 	"name": "Aktivierter Sternpilz",
-	"sortRank": 90000,
 	"description": "Ein Pilz mit einer an einen fünf-zackigen Stern erinnernden Kappe, in dem viel Lebensenergie steckt. Er sieht aus, als platze er fast vor Lebenskraft.",
-<<<<<<< HEAD
 	"sortorder": 3419,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Nahrung",
-	"sources": [
+	"materialtype": "Nahrung",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

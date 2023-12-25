@@ -1,21 +1,9 @@
 {
-	"id": 112050,
 	"name": "Prisme sombre",
-	"rarity": 2,
-	"sortRank": 10117,
 	"description": "Ce prisme pouvait autrefois polariser la lumière, mais il s'est assombri au fil des ans.",
-<<<<<<< HEAD
 	"sortorder": 3083,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Matériau d'amélioration de personnage et d'arme",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'amélioration de personnage et d'arme",
-	"sources": [
-		"Butin de Suivante des Fatui",
-		"Échange Astrions"
-	]
->>>>>>> upstream/main
 }

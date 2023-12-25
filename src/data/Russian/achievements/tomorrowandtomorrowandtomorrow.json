@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Завтра, завтра и ещё раз завтра",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1390,
-=======
-	"id": [
-		81406
-	],
-	"name": "Завтра, завтра и ещё раз завтра",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1390,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Завтра, завтра и ещё раз завтра",
 		"description": "Научите Пахсив правильно прощаться.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 100089,
 	"name": "Almendra",
-	"sortRank": 321,
 	"description": "Un fruto seco con un sabor muy intenso que puede dar un toque diferente a cualquier plato.",
-<<<<<<< HEAD
 	"sortorder": 2927,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Comprado en tiendas de Liyue",
 		"Comprado en tiendas de Fontaine"
 	]

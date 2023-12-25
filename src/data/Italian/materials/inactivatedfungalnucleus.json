@@ -1,22 +1,9 @@
 {
-	"id": 112062,
 	"name": "Nucleo di Miconoide inattivo",
-	"rarity": 2,
-	"sortRank": 10122,
 	"description": "Tessuto organico appartenuto a un Miconoide che è stato esposto a intensa stimolazione elementale.\nLa sua piacevole consistenza lo rende un toccasana per alleviare lo stress. Purtroppo, il suo uso frequente porta alla proliferazione dei Miconoidi, escludendone un eventuale utilizzo commerciale.",
-<<<<<<< HEAD
 	"sortorder": 3098,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Materiale di potenziamento armi e personaggi",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale di potenziamento armi e personaggi",
-	"sources": [
-		"Ottenibile dai Miconoidi (Attivazione)",
-		"Ottenibile dai Miconoidi (Scottatura)",
-		"Scambio di Polvere stellare"
-	]
->>>>>>> upstream/main
 }

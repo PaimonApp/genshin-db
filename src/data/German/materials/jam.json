@@ -1,15 +1,10 @@
 {
-	"id": 110008,
 	"name": "Konfitüre",
-	"sortRank": 322,
 	"description": "Eine eingekochte Masse aus Früchten und Zucker. Ein kleines Löffelchen voll befreit einen selbst von der größten Müdigkeit.",
-<<<<<<< HEAD
 	"sortorder": 2953,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beim Verarbeiten von Gerichten zu erhalten"
 	]
 }

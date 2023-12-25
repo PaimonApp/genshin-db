@@ -1,9 +1,7 @@
 {
-	"id": 31,
 	"name": "Sumeru: The Rainforest of Lore",
-	"sortOrder": 40,
+	"sortorder": 40,
 	"reward": {
-		"id": 210130,
 		"name": "Sumeru: Shimmering Woods"
 	}
 }

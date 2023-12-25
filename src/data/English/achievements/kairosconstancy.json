@@ -1,20 +1,13 @@
 {
-	"id": [
-		80138,
-		80139,
-		80140
-	],
 	"name": "Kairos' Constancy",
-	"achievementGroupId": 28,
-	"achievementGroupName": "The Light of Day",
-	"sortOrder": 138,
+	"achievementgroup": "The Light of Day",
+	"sortorder": 138,
 	"stages": 3,
 	"stage1": {
 		"title": "Kairos' Constancy",
 		"description": "Complete 3 Open World mechanism-activated Time Trial Challenges in Enkanomiya.",
 		"progress": 3,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Complete 6 Open World mechanism-activated Time Trial Challenges in Enkanomiya.",
 		"progress": 6,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Complete 12 Open World mechanism-activated Time Trial Challenges in Enkanomiya.",
 		"progress": 12,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

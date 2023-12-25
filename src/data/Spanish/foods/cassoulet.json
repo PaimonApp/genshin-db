@@ -1,27 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Cassoulet",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que mejoran la defensa",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3414,
-	"name": "Cassoulet",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Platos que mejoran la defensa",
->>>>>>> upstream/main
 	"effect": "Aumenta la Protección de Escudo de todos los miembros del equipo en un 20%-30% durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Un plato de la tierra, sencillo y fácil de preparar. Basta con cocinar en una cazuela todos los ingredientes. Lo más relevante de este plato es probablemente su nombre completo: estofado a la cazuela de patatas tiernas, carne de ave y salchichas ahumadas con base ajardinada de jazmimpolutos. Pero era demasiado largo, así que al final se quedó con Cassoulet.",
 	"suspicious": {
 		"effect": "Aumenta la Protección de Escudo de todos los miembros del equipo en un 20% durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes.",
-<<<<<<< HEAD
 		"description": "Un plato de la tierra, sencillo y fácil de preparar. La apariencia parece buena. Al comerlo, se aprecia un ligero olor a chamuscado que revela que los ingredientes del fondo se habían quemado y pegado a la cazuela. La próxima vez, convendría recordar darle una vuelta al cocinarlo..."
-=======
-		"description": "Un plato de la tierra, sencillo y fácil de preparar. La apariencia parece buena. Al comerlo, se aprecia un ligero olor a chamuscado que revela que los ingredientes del fondo se habían quemado y pegado a la cazuela. La próxima vez, convendría darle una vuelta al cocinarlo..."
->>>>>>> upstream/main
 	},
 	"normal": {
 		"effect": "Aumenta la Protección de Escudo de todos los miembros del equipo en un 25% durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes.",
@@ -33,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 110011,
->>>>>>> upstream/main
 			"name": "Salchicha",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100064,
->>>>>>> upstream/main
 			"name": "Carne de ave",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100096,
->>>>>>> upstream/main
 			"name": "Legumbres peladas",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Jazmimpoluto",
 			"count": 1
 		}

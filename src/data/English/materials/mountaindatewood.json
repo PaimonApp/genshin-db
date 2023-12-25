@@ -1,19 +1,12 @@
 {
-	"id": 101316,
 	"name": "Mountain Date Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Wood of the Mountain Date Tree. Although it neither feels special to touch nor possesses a special texture, it retains water exceedingly well and is thus easy to grow.\nCan be used to create furnishings.",
-<<<<<<< HEAD
 	"sortorder": 2975,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
-		"Recommendation: Cut from the deserts of Sumeru",
-		"Convert Wood"
+		"Recommendation: Cut from the deserts of Sumeru"
 	]
 }

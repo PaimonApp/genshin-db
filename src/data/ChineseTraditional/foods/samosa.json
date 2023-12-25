@@ -1,10 +1,9 @@
 {
-	"id": 2310,
 	"name": "薩巴桑炸角",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "恢復類料理",
+	"foodfilter": "恢復類料理",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "為選中的角色恢復生命值上限的20%-24%，並額外恢復900-1500點生命值。",
 	"description": "油炸而成的小吃。薄薄的麵皮捲上攪拌均勻的內餡，裹成三角狀，放入油鍋煎到金黃。肉餡與素餡兩種都很常見，因此也成為了素食派與肉食派「交戰時的必爭之地」。",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "獸肉",
 			"count": 2
 		},
 		{
-			"id": 110001,
 			"name": "麵粉",
 			"count": 1
 		},
 		{
-			"id": 110014,
 			"name": "香辛料",
 			"count": 1
 		}

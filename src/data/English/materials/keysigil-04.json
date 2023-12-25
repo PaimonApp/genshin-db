@@ -1,14 +1,9 @@
 {
-	"id": 100938,
 	"name": "Key Sigil",
 	"dupealias": "Key Sigil 4",
-	"sortRank": 430041,
 	"description": "A sigil passed down through Watatsumi Island and Enkanomiya. It conceals some secret.",
-<<<<<<< HEAD
 	"sortorder": 4955,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumable",
-	"sources": []
+	"materialtype": "Consumable",
+	"source": []
 }

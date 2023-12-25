@@ -1,19 +1,12 @@
 {
-	"id": 101310,
 	"name": "Gỗ Phong",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Gỗ lấy từ \"Phong Amur\", độ cứng vừa phải, chất lượng tuyệt vời, màu sắc và vân gỗ rất đẹp.\nCó thể dùng để chế tạo đồ trang trí.",
-<<<<<<< HEAD
 	"sortorder": 2969,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu Thập Bên Ngoài",
-		"Kiến nghị: Đốn ở Đảo Narukami",
-		"Chuyển Hóa Gỗ"
+		"Kiến nghị: Đốn ở Đảo Narukami"
 	]
 }

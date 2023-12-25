@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "เทปที่ถูกลืม",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1370,
-=======
-	"id": [
-		81386
-	],
-	"name": "เทปที่ถูกลืม",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1370,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "เทปที่ถูกลืม",
 		"description": "ช่วย Broglie เก็บกู้ และจัดเรียง \"ข้อมูลสังเกตการณ์ทางน้ำ\"",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

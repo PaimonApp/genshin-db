@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Tình Yêu Là Sự Hủy Diệt",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 5092,
-=======
-	"id": [
-		84313
-	],
-	"name": "Tình Yêu Là Sự Hủy Diệt",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 5092,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Tình Yêu Là Sự Hủy Diệt",
 		"description": "Navia sống sót trở về từ Nước Biển Khởi Nguyên.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

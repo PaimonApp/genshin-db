@@ -1,11 +1,8 @@
 {
-	"id": [
-		81352
-	],
 	"name": "Çirkinliğin Güzelliği",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1338,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1338,
 	"stages": 1,
 	"stage1": {
 		"title": "Çirkinliğin Güzelliği",
@@ -13,7 +10,6 @@
 		"description": "Böylece Fontaine, güzelliğe biraz daha yaklaştı.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

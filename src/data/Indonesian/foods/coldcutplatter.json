@@ -1,10 +1,9 @@
 {
-	"id": 3003,
 	"name": "Cold Cut Platter",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Makanan Penyerangan",
+	"foodfilter": "Makanan Penyerangan",
+	"foodcategory": "Atk_Add",
 	"effect": "Meningkatkan Physical DMG semua anggota party sebanyak 20-40% selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Sepiring daging yang disajikan dingin. Terdiri dari daging bacon, ham, dan sosis dengan jumlah seimbang, biasanya disantap sambil membandingkan daging mana yang lebih enak.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110005,
 			"name": "Ham",
 			"count": 1
 		},
 		{
-			"id": 110010,
 			"name": "Bacon",
 			"count": 1
 		},
 		{
-			"id": 110011,
 			"name": "Sausage",
 			"count": 1
 		},
 		{
-			"id": 100016,
 			"name": "Mint",
 			"count": 1
 		}

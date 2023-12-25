@@ -1,17 +1,11 @@
 {
-	"id": 104132,
 	"name": "Fragment d'émeraude nagadus",
-	"rarity": 3,
-	"sortRank": 12104,
 	"description": "Matériau d'élévation de personnage.\n« J'ai fait un très long rêve... »",
-<<<<<<< HEAD
 	"sortorder": 3199,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'élévation de personnage",
-	"sources": [
+	"materialtype": "Matériau d'élévation de personnage",
+	"source": [
 		"Butin de Champieffroi panaché (Niv.40+)",
 		"Butin d'Hypostase Dendro (Niv.40+)",
 		"Synthèse"

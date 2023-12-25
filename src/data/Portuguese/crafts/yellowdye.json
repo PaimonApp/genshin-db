@@ -1,13 +1,11 @@
 {
-	"id": 30005,
 	"name": "Tinta Amarela",
-	"filterText": "Materiais de Fabricação de Decorações",
-	"sortOrder": 170040,
-	"unlockRank": 28,
-	"resultCount": 1,
+	"filter": "Materiais de Fabricação de Decorações",
+	"sortorder": 170040,
+	"unlockrank": 28,
+	"resultcount": 1,
 	"recipe": [
 		{
-			"id": 100051,
 			"name": "Baga",
 			"count": 1
 		}
@@ -15,7 +13,6 @@
 	"altrecipes": [
 		[
 			{
-				"id": 100058,
 				"name": "Cor Lapis",
 				"count": 1
 			}

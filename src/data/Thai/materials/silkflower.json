@@ -1,15 +1,10 @@
 {
-	"id": 100029,
 	"name": "Silk Flower",
-	"sortRank": 312,
 	"description": "ดอกไม้สีแดงที่บานราวกับเมฆสีรุ้งใน Liyue สามารถนำมาทำเป็นเส้นใยที่มีความนุ่มลื่นได้",
-<<<<<<< HEAD
 	"sortorder": 2856,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "ของพิเศษเฉพาะใน Liyue",
-	"sources": [
+	"materialtype": "ของพิเศษเฉพาะใน Liyue",
+	"source": [
 		"รวบรวมได้บริเวณ Yujing Terrace ในท่าเรือ Liyue",
 		"รวบรวมได้บริเวณ Wangshu Inn",
 		"คำแนะนำ: รวบรวมได้บริเวณท่าเรือ Liyue"

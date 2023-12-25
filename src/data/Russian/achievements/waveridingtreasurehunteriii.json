@@ -1,19 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Охотник за морскими сокровищами III",
 	"achievementgroup": "Фонтейн: Танец источников белых рос III",
 	"sortorder": 268,
-=======
-	"id": [
-		80292,
-		80293,
-		80294
-	],
-	"name": "Охотник за морскими сокровищами III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Фонтейн: Танец источников белых рос III",
-	"sortOrder": 268,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Охотник за морскими сокровищами III",
@@ -21,10 +9,6 @@
 		"description": "Откройте сундуки в Морте и в лесу Эриний: {param0}.",
 		"progress": 40,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}
@@ -35,10 +19,6 @@
 		"description": "Откройте сундуки в Морте и в лесу Эриний: {param0}.",
 		"progress": 80,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 10
 		}
@@ -49,10 +29,6 @@
 		"description": "Откройте сундуки в Морте и в лесу Эриний: {param0}.",
 		"progress": 160,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 20
 		}

@@ -1,11 +1,8 @@
 {
-	"id": 70400055,
 	"name": "Пейзаж в сокровенных глубинах Элинаса",
-	"areaId": 50203,
-	"areaName": "«Очень тёплое место»",
+	"area": "«Очень тёплое место»",
 	"description": "«Приветствую тебя!»",
-	"regionId": 5,
-	"regionName": "Фонтейн",
-	"showOnlyUnlocked": true,
-	"sortOrder": 355
+	"region": "Фонтейн",
+	"showonlyunlocked": true,
+	"sortorder": 355
 }

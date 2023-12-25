@@ -1,17 +1,11 @@
 {
-	"id": 104001,
 	"name": "Gezginin Tavsiyesi",
-	"rarity": 2,
-	"sortRank": 100,
 	"description": "Karakter TP Malzemesi. 1.000 TP verir.\nBu tecrübeler Teyvat'ta yaşamayan kişiler için de faydalıdır.",
-<<<<<<< HEAD
 	"sortorder": 2775,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "EXP_FRUIT",
-	"typeText": "Karakter TP Malzemesi",
-	"sources": [
+	"materialtype": "Karakter TP Malzemesi",
+	"source": [
 		"Macera ve Keşif Ödülü",
 		"Çaydanlık Dükkanından takasla alınabilir."
 	]

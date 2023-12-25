@@ -1,15 +1,10 @@
 {
-	"id": 101227,
 	"name": "Scorched Starshroom",
-	"sortRank": 90000,
 	"description": "Jamur dengan topi yang menyerupai bintang segi lima. Tampaknya agak sedikit hangus.",
-<<<<<<< HEAD
 	"sortorder": 3420,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Makanan",
-	"sources": [
+	"materialtype": "Makanan",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

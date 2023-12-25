@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Осколок изумруда Нагадус",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Материал возвышения персонажа.",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Возвышение персонажей",
-	"sources": [
+	"materialtype": "Возвышение персонажей",
+	"source": [
 		"Пернатые плесенники",
 		"Дендро гипостазисы"
 	]

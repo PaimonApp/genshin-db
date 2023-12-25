@@ -1,15 +1,10 @@
 {
-	"id": 100053,
 	"name": "Flor Flamejante (Estame)",
-	"sortRank": 320,
 	"description": "O estame de uma flor ferozmente ardente. Mesmo depois de ser extinguida, ela ainda emite calor.",
-<<<<<<< HEAD
 	"sortorder": 2890,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado no Templo do Vento Milenar"
 	]

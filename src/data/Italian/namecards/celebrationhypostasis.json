@@ -1,8 +1,7 @@
 {
-	"id": 210057,
 	"name": "Celebrazione: Ipostasi",
 	"description": "Stile per la carta giocatore.\nIl mio avversario di oggi sembra avere un temperamento artistico.",
-	"sortOrder": 210057,
+	"sortorder": 210057,
 	"source": [
 		"Si ottiene nell'evento Sinfonia ipostatica"
 	]

@@ -1,19 +1,13 @@
 {
-	"id": [
-		80127,
-		80128,
-		80129
-	],
 	"name": "La zoo-zanie !",
-	"achievementGroupName": "Merveilles du monde",
-	"sortOrder": 127,
+	"achievementgroup": "Merveilles du monde",
+	"sortorder": 127,
 	"stages": 3,
 	"stage1": {
 		"title": "La zoo-zanie !",
 		"description": "Utilisez l'Omnifilet d'ubiquité pour capturer 1 animal sauvage.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -23,7 +17,6 @@
 		"description": "Utilisez l'Omnifilet d'ubiquité pour capturer 30 animaux sauvages.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -33,7 +26,6 @@
 		"description": "Utilisez l'Omnifilet d'ubiquité pour capturer 100 animaux sauvages.",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

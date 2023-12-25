@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "ต่อให้ Caesar มาเองก็ไม่ขาย",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1415,
-=======
-	"id": [
-		81431
-	],
-	"name": "ต่อให้ Caesar มาเองก็ไม่ขาย",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1415,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "ต่อให้ Caesar มาเองก็ไม่ขาย",
 		"description": "ได้รับผลงานศิลปะที่ยิ่งใหญ่ที่สุดในโลกนี้",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Novas Inspirações! Novos Produtos!",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 4095,
-=======
-	"id": [
-		84571
-	],
-	"name": "Novas Inspirações! Novos Produtos!",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 4095,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Novas Inspirações! Novos Produtos!",
 		"description": "Ajude Heinry a desenvolver 3 novos tipos de Fonta e prove a \"bebida experimental\" uma vez.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

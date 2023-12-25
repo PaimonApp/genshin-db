@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Vingança do Encrenqueiro Vermelho",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1382,
-=======
-	"id": [
-		81398
-	],
-	"name": "Vingança do Encrenqueiro Vermelho",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1382,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Vingança do Encrenqueiro Vermelho",
 		"description": "Removeu todos os Encrenqueiros Vermelhos e Pequenos Encrenqueiros da Imprensa de Bravais.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,13 +1,8 @@
 {
-	"id": 100619,
 	"name": "Nanh Rồng có sinh mệnh",
-	"sortRank": 200,
 	"description": "Chiếc Răng Rồng hấp thụ sức mạnh sinh mệnh. Dù là độ bóng hay kết cấu, cũng đều khiến người ta xao xuyến...",
-<<<<<<< HEAD
 	"sortorder": 2777,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": []
+	"materialtype": "Nguyên Liệu",
+	"source": []
 }

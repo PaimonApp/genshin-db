@@ -1,18 +1,14 @@
 {
-	"id": [
-		81180
-	],
 	"name": "Refugio Moshiri",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1166,
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1166,
 	"stages": 1,
 	"stage1": {
 		"title": "Refugio Moshiri",
 		"description": "Desbloquea el Refugio Moshiri.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}

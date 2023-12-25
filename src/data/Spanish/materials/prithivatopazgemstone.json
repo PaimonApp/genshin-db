@@ -1,17 +1,11 @@
 {
-	"id": 104174,
 	"name": "Topacio prithiva",
-	"rarity": 5,
-	"sortRank": 12108,
 	"description": "Material de ascensión de personaje.\n“La moneda que circula por este mundo es mi sangre y mi cuerpo”.\n“Protejo el trabajo duro, la sabiduría y el futuro de la gente”.\n“Esta es la confianza que deposito en ella. Si la defraudas, mancharás mi sangre”.",
-<<<<<<< HEAD
 	"sortorder": 3213,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de ascensión de personaje",
-	"sources": [
+	"materialtype": "Material de ascensión de personaje",
+	"source": [
 		"Obtenido de Hipóstasis Geo (Niv. 75+)",
 		"Obtenido del Rey Acechador Dorado (Niv. 75+)",
 		"Obtenido de Serpientes de las Ruinas (Niv. 75+)",

@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Dalgaların Hakimi Maceracı (II)",
 	"achievementgroup": "Fontaine: Çiy Beyazı Pınarların Dansı (II)",
 	"sortorder": 257,
-=======
-	"id": [
-		80281,
-		80282,
-		80283
-	],
-	"name": "Dalgaların Hakimi Maceracı (II)",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (II)",
-	"sortOrder": 257,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Dalgaların Hakimi Maceracı (II)",
 		"description": "Liffey Bölgesi ve Fontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsü Bölgesinde {param0} Açık Dünya Zamana Karşı Mücadele tamamla.",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Liffey Bölgesi ve Fontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsü Bölgesinde {param0} Açık Dünya Zamana Karşı Mücadele tamamla.",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Liffey Bölgesi ve Fontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsü Bölgesinde {param0} Açık Dünya Zamana Karşı Mücadele tamamla.",
 		"progress": 12,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 20
 		}

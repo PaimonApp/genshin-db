@@ -1,17 +1,11 @@
 {
-	"id": 131007,
 	"name": "Betta",
-	"rarity": 3,
-	"sortRank": 341,
 	"description": "Ikan yang lincah dan ganas dengan sirip berduri yang mulut runcingnya dapat menembus arus saat berenang dengan kecepatan penuh. Kemampuan tersebut membuatnya dijuluki sebagai \"Ikan Pembelah Arus\" dan \"Ikan Jagoan Kabur\".\nMereka memiliki gengsi tertinggi di antara stickleback lainnya. Terlebih selama musim kawin, gangguan sekecil apa pun berpotensi menyulut emosi mereka. Seorang penggemar pernah mengamati bahwa seekor stickleback sedang menyerang Seagrass yang bergoyang, seolah-olah tarian mencolok seperti itu adalah bentuk provokasi besar atau semacamnya terhadap mereka.\n \"Kalau kamu bertemu spesies ini di air, jangan coba-coba menatapnya secara langsung.\" — Angler's Atlas, Chapter Betta",
-<<<<<<< HEAD
 	"sortorder": 3001,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ikan",
-	"sources": [
+	"materialtype": "Ikan",
+	"source": [
 		"Didapatkan dari memancing ikan"
 	]
 }

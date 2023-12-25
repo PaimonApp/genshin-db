@@ -1,20 +1,8 @@
 {
-<<<<<<< HEAD
 	"name": "A Destruição de Sonhos Quebrados",
 	"area": "Ruínas do Laboratório Central",
 	"description": "Quando um ideal é destruído, sua responsabilidade mais importante é manter sua paz.\nEntretanto, alguns parecem acreditar que esta energia ardente serve outro propósito.",
 	"region": "Fontaine",
 	"showonlyunlocked": true,
 	"sortorder": 402
-=======
-	"id": 70500002,
-	"name": "A Destruição de Sonhos Quebrados",
-	"areaId": 50501,
-	"areaName": "Ruínas do Laboratório Central",
-	"description": "Quando um ideal é destruído, sua responsabilidade mais importante é manter sua paz.\nEntretanto, alguns parecem acreditar que esta energia ardente serve outro propósito.",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 402
->>>>>>> upstream/main
 }

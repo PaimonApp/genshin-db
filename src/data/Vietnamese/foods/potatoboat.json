@@ -1,10 +1,9 @@
 {
-	"id": 3304,
 	"name": "Thuyền Khoai Tây",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Món Dạng Hồi Phục",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Hồi sinh cho nhân vật được chọn.\nHồi 900-1500 điểm HP.",
 	"description": "Món nướng ăn vặt. Khoai tây được rửa sạch, cho thêm phô mai và Nấm Thánh Rukkhashava rồi đem nướng. Ăn lúc nóng là tuyệt nhất, do vậy rất được ưa chuộng tại Sumeru. Điều duy nhất cần phải chú ý đó là, lúc ăn phải cẩn thận đừng để bị bỏng miệng.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100080,
 			"name": "Khoai Tây",
 			"count": 4
 		},
 		{
-			"id": 101213,
 			"name": "Nấm Thánh Rukkhashava",
 			"count": 2
 		},
 		{
-			"id": 110009,
 			"name": "Phô Mai",
 			"count": 1
 		}

@@ -1,10 +1,9 @@
 {
-	"id": 3404,
 	"name": "Poissonchant-Tarte",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Gericht zur LP-Wiederherstellung",
+	"foodfilter": "Gericht zur LP-Wiederherstellung",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Belebt die gewählte Figur wieder.\nStellt 900 bis 1.500 LP wieder her.",
 	"description": "Eine Fischpastete. Mische erst die Füllung. Gib dann den Teig darauf und bilde die Form eines Pfannkuchens. Das wichtigste ist, die Form des Fischkopfs richtig hinzubekommen, bevor man sie bäckt. Wenn das Gericht aus dem Ofen kommt, blicken die Fischköpfe nach oben, als würden sie singen.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Fisch",
 			"count": 3
 		},
 		{
-			"id": 110001,
 			"name": "Mehl",
 			"count": 2
 		},
 		{
-			"id": 100062,
 			"name": "Vogelei",
 			"count": 1
 		},
 		{
-			"id": 110010,
 			"name": "Speck",
 			"count": 1
 		}

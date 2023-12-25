@@ -1,15 +1,10 @@
 {
-	"id": 101201,
 	"name": "Onikabuto",
-	"sortRank": 313,
 	"description": "Um escaravelho estranho que habita áreas ricas em energia Electro. Seu temperamento dócil e sedentário não poderia ser mais diferente da visão feroz e demoníaca exibida em sua casca blindada.",
-<<<<<<< HEAD
 	"sortorder": 2862,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Inazuma",
-	"sources": [
+	"materialtype": "Especialidade de Inazuma",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado na Ilha Narukami",
 		"Recomendação: Encontrado em Tatarasuna"

@@ -1,25 +1,17 @@
 {
-	"id": 104340,
 	"name": "Filosofía de la ecuanimidad",
-<<<<<<< HEAD
 	"description": "Material de mejora de talento.\nLa ecuanimidad es el dique de la Nación del Agua y los cimientos sobre los que se construyó Fontaine.\nEs un sistema de principios morales que debe consolidarse con la ayuda de la ley. Tanto dichos principios como dicha ley están basados en unos criterios invariables que, sin embargo, evolucionan sin cesar.",
 	"sortorder": 3253,
 	"rarity": "4",
-=======
-	"rarity": 4,
-	"sortRank": 13113,
-	"description": "Material de mejora de talento.\nLa ecuanimidad es el dique de la Nación del Agua y los cimientos sobre los que se construyó Fontaine.\nEs un sistema de principios morales que debe consolidarse con la ayuda de la ley. Tanto dichos principios como dicha ley están basados en unos criterios invariables que, sin embargo, evolucionan sin cesar.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de talento de personaje",
-	"dropDomainId": 4463,
-	"dropDomainName": "Dominio de la maestría: Revoloteo melodioso",
-	"daysOfWeek": [
+	"materialtype": "Material de talento de personaje",
+	"dropdomain": "Dominio de la maestría: Revoloteo melodioso",
+	"daysofweek": [
 		"Lunes",
 		"Jueves",
 		"Domingo"
 	],
-	"sources": [
+	"source": [
 		"Sintetizar"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 101004,
 	"name": "Büyülü Kristal Parçası",
-	"sortRank": 301,
 	"description": "Bu kristal parçalar, Orijinal Reçine kullanılarak saflaştırılmış Silah TP malzemelerine dönüştürülebilir.\nLey Hatlarının enerjisiyle aşınmış madenlerdeki kristaller sıradan yöntemlerle işlenemez.",
-<<<<<<< HEAD
 	"sortorder": 2824,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Dövmeye Uygun Cevher",
-	"sources": [
+	"materialtype": "Dövmeye Uygun Cevher",
+	"source": [
 		"Doğada bulunur."
 	]
 }

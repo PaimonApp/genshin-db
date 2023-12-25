@@ -1,15 +1,10 @@
 {
-	"id": 101203,
 	"name": "Moelle cristalline",
-	"sortRank": 313,
 	"description": "Un cristal qui contient une partie du pouvoir du Tatarigami. L'ajout de ce matériau lors de la fusion augmentera considérablement la résistance et la dureté des métaux.",
-<<<<<<< HEAD
 	"sortorder": 2864,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit d'Inazuma",
-	"sources": [
+	"materialtype": "Produit d'Inazuma",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Île de Yashiori"
 	]

@@ -1,18 +1,14 @@
 {
-	"id": [
-		84559
-	],
 	"name": "Sorun Nedir?",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 4083,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 4083,
 	"stages": 1,
 	"stage1": {
 		"title": "Sorun Nedir?",
 		"description": "Jafar'ın üç yemeğinin tadını çıkar.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

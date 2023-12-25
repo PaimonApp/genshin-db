@@ -1,13 +1,8 @@
 {
-	"id": 101401,
 	"name": "Kumaş",
-	"sortRank": 331,
 	"description": "Kaliteli bir kumaş parçası. Dekorasyon yapımında mutlaka işine yarayacak.",
-<<<<<<< HEAD
 	"sortorder": 2982,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": []
+	"materialtype": "Malzeme",
+	"source": []
 }

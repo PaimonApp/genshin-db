@@ -1,24 +1,17 @@
 {
-	"id": 114015,
 	"name": "Reliquie von Guyun",
-	"rarity": 4,
-	"sortRank": 15104,
 	"description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nDas Innere der steinernen Lanze gebiert ein Licht, das von der Kraft der besiegten Götter im Gestein kommt. Ihr Groll ist aber nicht auf Morax gerichtet, da sie schon längst ihr Selbst und somit ihre persönlichen Gedanken verloren haben.",
-<<<<<<< HEAD
 	"sortorder": 3290,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material zum Aufstieg von Waffen",
-	"dropDomainId": 5216,
-	"dropDomainName": "Sphäre der Kriegskunst: Altar der Gewitterwolken",
-	"daysOfWeek": [
+	"materialtype": "Material zum Aufstieg von Waffen",
+	"dropdomain": "Sphäre der Kriegskunst: Altar der Gewitterwolken",
+	"daysofweek": [
 		"Montag",
 		"Donnerstag",
 		"Sonntag"
 	],
-	"sources": [
+	"source": [
 		"Kann hergestellt werden"
 	]
 }

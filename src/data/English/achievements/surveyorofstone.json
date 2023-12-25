@@ -1,11 +1,7 @@
 {
-	"id": [
-		80044
-	],
 	"name": "Surveyor of Stone",
-	"achievementGroupId": 5,
-	"achievementGroupName": "Liyue: The Harbor of Stone and Contracts",
-	"sortOrder": 44,
+	"achievementgroup": "Liyue: The Harbor of Stone and Contracts",
+	"sortorder": 44,
 	"stages": 1,
 	"stage1": {
 		"title": "Surveyor of Stone",
@@ -13,7 +9,6 @@
 		"description": "Unlock all Teleport Waypoints in Liyue (The Chasm is counted separately).",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

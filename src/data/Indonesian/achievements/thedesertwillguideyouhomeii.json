@@ -1,20 +1,13 @@
 {
-	"id": [
-		80228,
-		80229,
-		80230
-	],
 	"name": "Padang Pasir Mengantarmu Kembali (II)",
-	"achievementGroupId": 38,
-	"achievementGroupName": "Sumeru: Lautan Pasir Emas (II)",
-	"sortOrder": 208,
+	"achievementgroup": "Sumeru: Lautan Pasir Emas (II)",
+	"sortorder": 208,
 	"stages": 3,
 	"stage1": {
 		"title": "Padang Pasir Mengantarmu Kembali (II)",
 		"description": "Ikuti {param0} Seelie di Desert of Hadramaveth ke Seelie Court mereka.",
 		"progress": 4,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Ikuti {param0} Seelie di Desert of Hadramaveth ke Seelie Court mereka.",
 		"progress": 8,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Ikuti {param0} Seelie di Desert of Hadramaveth ke Seelie Court mereka.",
 		"progress": 16,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

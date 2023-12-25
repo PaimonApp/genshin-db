@@ -1,22 +1,15 @@
 {
-	"id": 104320,
 	"name": "Ensinamentos do Mundo Mortal",
-	"rarity": 2,
-	"sortRank": 13107,
 	"description": "Material de Elevação de Talento.\nOs sonhos do país de raios são o mundo mortal.\nA glória do mundo mortal é a maior encarnação da beleza humana. A vida humana neste mundo não é similar como raios? Um instante como um brilhante sonho ou o estouro esplendoroso de um fogo de artifício, que deixa na noite eterna sua marca deslumbrante.",
-<<<<<<< HEAD
 	"sortorder": 3237,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Talento do Personagem",
-	"dropDomainId": 4400,
-	"dropDomainName": "Domínio da Proficiência: País Violeta",
-	"daysOfWeek": [
+	"materialtype": "Material de Talento do Personagem",
+	"dropdomain": "Domínio da Proficiência: País Violeta",
+	"daysofweek": [
 		"Segunda-feira",
 		"Quinta-feira",
 		"Domingo"
 	],
-	"sources": []
+	"source": []
 }

@@ -1,18 +1,14 @@
 {
-	"id": [
-		84519
-	],
 	"name": "Bác sĩ quái dị",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 4043,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4043,
 	"stages": 1,
 	"stage1": {
 		"title": "Bác sĩ quái dị",
 		"description": "Trị căn bệnh cho Anna.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 101225,
 	"name": "Scarabée",
-	"sortRank": 314,
 	"description": "Un coléoptère tenace qui trouve le repos dans le vaste océan de sable du désert. Le motif doré sur la coquille de ces coléoptères fait allusion à une relation profonde entre ces derniers et les ruines antiques qui parsèment le désert.",
-<<<<<<< HEAD
 	"sortorder": 2879,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Sumeru",
-	"sources": [
+	"materialtype": "Produit de Sumeru",
+	"source": [
 		"Ruines des déserts de Sumeru"
 	]
 }

@@ -1,68 +1,54 @@
 {
-	"id": 5105,
 	"name": "Sphäre des Segens: Frühjahr VI",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"entranceId": 48,
-	"entranceName": "Stätte der einsamen Wolken",
-	"domainType": "UI_ABYSSUS_RELIC",
-	"domainText": "Artefakt",
+	"region": "Liyue",
+	"domainentrance": "Stätte der einsamen Wolken",
+	"domaintype": "Artefakt",
 	"description": "In diesem antiken Altar des Segens haben sich viele Monster versammelt, deren Schwäche die Elektro-Kraft ist.\nWenn du die Prüfung darin bestehst, wirst du womöglich wertvolle Artefakte finden.",
-	"recommendedLevel": 90,
-	"recommendedElements": [
+	"recommendedlevel": 90,
+	"recommendedelements": [
 		"Elektro"
 	],
-	"unlockRank": 45,
-	"rewardPreview": [
+	"unlockrank": 45,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "Abenteuer-EP",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 2525
 		},
 		{
-			"id": 105,
 			"name": "Freundschafts-EP",
 			"count": 20
 		},
 		{
-			"id": 400007,
 			"name": "Wagemut",
-			"rarity": 3
+			"rarity": "3"
 		},
 		{
-			"id": 400052,
 			"name": "Glückspilz",
-			"rarity": 3
+			"rarity": "3"
 		},
 		{
-			"id": 400153,
 			"name": "Archaischer Fels",
-			"rarity": 4
+			"rarity": "4"
 		},
 		{
-			"id": 400158,
 			"name": "Umgekehrter Meteor",
-			"rarity": 4
+			"rarity": "4"
 		},
 		{
-			"id": 400008,
 			"name": "Wagemut",
-			"rarity": 4
+			"rarity": "4"
 		},
 		{
-			"id": 400154,
 			"name": "Archaischer Fels",
-			"rarity": 5
+			"rarity": "5"
 		},
 		{
-			"id": 400159,
 			"name": "Umgekehrter Meteor",
-			"rarity": 5
+			"rarity": "5"
 		}
 	],
 	"disorder": [
@@ -70,18 +56,9 @@
 		"Beim Auftreten der Reaktion Schmelzen erleidet die Figur einen hochenergetischen Schlag und somit Schaden.",
 		"Beim Auftreten der Reaktion Verdampfen erleidet die Figur einen hochenergetischen Schlag und somit Schaden."
 	],
-	"monsterList": [
-		{
-			"id": 21010201,
-			"name": "Hilichurl-Kämpfer"
-		},
-		{
-			"id": 22010201,
-			"name": "Kryo-Abgrundmagier"
-		},
-		{
-			"id": 24010201,
-			"name": "Ruinenjäger"
-		}
+	"monsterlist": [
+		"Hilichurl-Kämpfer",
+		"Kryo-Abgrundmagier",
+		"Ruinenjäger"
 	]
 }

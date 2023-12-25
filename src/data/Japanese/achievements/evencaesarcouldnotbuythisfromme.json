@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "たとえカイザーが来ても売らない",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1415,
-=======
-	"id": [
-		81431
-	],
-	"name": "たとえカイザーが来ても売らない",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1415,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "たとえカイザーが来ても売らない",
 		"description": "世界で最も偉大なアート作品を手に入れる。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

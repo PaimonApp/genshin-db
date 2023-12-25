@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "심해 속 샛별을 향해",
 	"achievementgroup": "천지만물",
 	"ishidden": true,
 	"sortorder": 5086,
-=======
-	"id": [
-		84307
-	],
-	"name": "심해 속 샛별을 향해",
-	"achievementGroupName": "천지만물",
-	"isHidden": true,
-	"sortOrder": 5086,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "심해 속 샛별을 향해",
 		"description": "「심해 속 샛별을 향해」 완료하기",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 10
 		}

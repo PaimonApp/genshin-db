@@ -1,10 +1,9 @@
 {
-	"id": 1003,
 	"name": "Teyvat Usulü Yumurta",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Seçili karakteri diriltir.\n50 ila 150 Can yeniler.",
 	"description": "Sahanda yumurta. Yerken sarısının yavaşça dağıldığını görmek çok keyif verici.",
 	"suspicious": {
@@ -21,7 +20,6 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Kuş Yumurtası",
 			"count": 1
 		}

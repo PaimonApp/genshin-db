@@ -1,15 +1,10 @@
 {
-	"id": 100099,
 	"name": "Fermented Juice",
-	"sortRank": 321,
 	"description": "Jus fermentasi dengan aroma buah yang unik. Biasanya digunakan sebagai bumbu untuk merendam daging sebelum dimasak.",
-<<<<<<< HEAD
 	"sortorder": 2936,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Dijual di toko barang kebutuhan di Fontaine"
 	]
 }

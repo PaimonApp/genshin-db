@@ -1,10 +1,9 @@
 {
-	"id": 3305,
 	"name": "Tè alle Vesprobacche",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Piatto ATT+",
+	"foodfilter": "Piatto ATT+",
+	"foodcategory": "Atk_Add",
 	"effect": "Aumenta di 160-228 l'ATT di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Una bevanda fruttata dal piacevole sapore acidulo. Il tè profumato emana un piacevole aroma di frutta fresca. Il sapore fresco e dissetante di ogni sorso tiene lontano il caldo soffocante.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100002,
 			"name": "Tramontino",
 			"count": 3
 		},
 		{
-			"id": 100051,
 			"name": "Bacca",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Zucchero",
 			"count": 2
 		}

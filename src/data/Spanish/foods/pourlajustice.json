@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Pour la justice",
 	"rarity": "3",
 	"foodtype": "SPECIALTY",
@@ -11,47 +10,18 @@
 	"character": "Furina",
 	"ingredients": [
 		{
-=======
-	"id": 10000089,
-	"name": "Pour la justice",
-	"rarity": 3,
-	"foodtype": "SPECIALTY",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Platos que mejoran la defensa",
-	"effect": "Aumenta la Vida Máx. de todos los miembros del equipo en un 30% durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes.",
-	"description": "La especialidad de Furina. “Pour la justice” significa “por la justicia” en Fontaine, donde la que una vez actuó en el mayor de los escenarios fue testigo del nacimiento de la más noble justicia. Sus sabores en capas parecen hincharse y desvanecerse como las olas del mar, antes de relajarse finalmente, como si dejara atrás una pesada carga. ¿Quizás sea el reflejo de alguna experiencia personal suya?",
-	"baseDishId": 3416,
-	"baseDishName": "“Para Foçalors”",
-	"characterId": 10000089,
-	"characterName": "Furina",
-	"ingredients": [
-		{
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Huevo de pájaro",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Harina",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "Granos de café",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "Almendra",
 			"count": 2
 		}

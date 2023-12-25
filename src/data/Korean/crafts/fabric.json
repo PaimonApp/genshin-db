@@ -1,13 +1,11 @@
 {
-	"id": 30001,
 	"name": "직물",
-	"filterText": "장식 제작 재료",
-	"sortOrder": 170000,
-	"unlockRank": 28,
-	"resultCount": 10,
+	"filter": "장식 제작 재료",
+	"sortorder": 170000,
+	"unlockrank": 28,
+	"resultcount": 10,
 	"recipe": [
 		{
-			"id": 100029,
 			"name": "예상꽃",
 			"count": 1
 		}

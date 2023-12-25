@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Non si vende nemmeno a Cesare",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1415,
-=======
-	"id": [
-		81431
-	],
-	"name": "Non si vende nemmeno a Cesare",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1415,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Non si vende nemmeno a Cesare",
 		"description": "Ottieni la più grande opera d'arte al mondo.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

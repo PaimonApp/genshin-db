@@ -1,11 +1,8 @@
 {
-	"id": 70300018,
 	"name": "Île de Tsurumi",
-	"areaId": 3600,
-	"areaName": "Île de Tsurumi",
+	"area": "Île de Tsurumi",
 	"description": "« Pirka chikappo ! Kapatcir kamuy ! »\n« Nous sommeillons ensemble dans un nid de brume en soie d'araignée. »",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"showOnlyUnlocked": true,
-	"sortOrder": 218
+	"region": "Inazuma",
+	"showonlyunlocked": true,
+	"sortorder": 218
 }

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Consumismo",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1359,
-=======
-	"id": [
-		81375
-	],
-	"name": "Consumismo",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1359,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Consumismo",
 		"description": "Acquista tutto quello che vuoi al Di Tutto un Po'.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

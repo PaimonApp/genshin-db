@@ -1,11 +1,8 @@
 {
-	"id": 70400070,
 	"name": "Paisaje costero-rural",
-	"areaId": 50200,
-	"areaName": "Condado Berilo",
+	"area": "Condado Berilo",
 	"description": "Sacha pintó algo desde aquí.\nUn hermoso pueblo costero cuya tranquilidad es inevitable anhelar.",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 370
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 370
 }

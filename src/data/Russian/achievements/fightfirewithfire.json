@@ -1,18 +1,14 @@
 {
-	"id": [
-		82106
-	],
 	"name": "Клин клином вышибают",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2107,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2107,
 	"stages": 1,
 	"stage1": {
 		"title": "Клин клином вышибают",
 		"description": "Победите кайраги: Огненная мощь, пока его оружие имеет статус Пиро.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

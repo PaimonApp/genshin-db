@@ -1,10 +1,9 @@
 {
-	"id": 2201,
 	"name": "Tuna Sushi",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Recovery Dish",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Restores 20–24% of Max HP and an additional 900-1,500 HP to the selected character.",
 	"description": "A traditional dish made with one's bare hands. The soft and lightly-vinegared rice is matched with the fresh fish. Locals consider this a slightly luxurious treat.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Fish",
 			"count": 3
 		},
 		{
-			"id": 100092,
 			"name": "Rice",
 			"count": 3
 		}

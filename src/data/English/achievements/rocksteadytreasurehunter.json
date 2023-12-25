@@ -1,13 +1,7 @@
 {
-	"id": [
-		80050,
-		80051,
-		80052
-	],
 	"name": "Rock-Steady Treasure Hunter",
-	"achievementGroupId": 5,
-	"achievementGroupName": "Liyue: The Harbor of Stone and Contracts",
-	"sortOrder": 50,
+	"achievementgroup": "Liyue: The Harbor of Stone and Contracts",
+	"sortorder": 50,
 	"stages": 3,
 	"stage1": {
 		"title": "Rock-Steady Treasure Hunter",
@@ -15,7 +9,6 @@
 		"description": "Open 200 chests in Liyue (The Chasm is counted separately).",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Open 400 chests in Liyue (The Chasm is counted separately).",
 		"progress": 400,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Open 800 chests in Liyue (The Chasm is counted separately).",
 		"progress": 800,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

@@ -1,33 +1,24 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface Domain {
-		id: number;
 		name: string;
 
-		regionId: number;
-		regionName: string;
-		entranceId: number;
-		entranceName: string;
-		domainType: 'UI_ABYSSUS_AVATAR_PROUD' | 'UI_ABYSSUS_RELIC' | 'UI_ABYSSUS_WEAPON_PROMOTE'; // enum
-		domainText: string; // translated
-
+		region: string;
+		domainentrance: string;
+		domaintype: string; // Artifacts, Weapon Ascension Materials, Talent Level-Up Material
 		description: string;
 
-		recommendedLevel: number;
-		recommendedElements: string[];
-
-		daysOfWeek?: string[]; // undefined for artifact domains
-		unlockRank: number; // adventure rank this domain unlocks at
-		rewardPreview: Rewards[];
+		recommendedlevel: number;
+		recommendedelements: string[];
+		daysofweek?: string[]; // undefined for artifact domains
+		unlockrank: number; // adventure rank this domain unlocks at
+		rewardpreview: Rewards[];
 		disorder: string[];
 
-		monsterList?: {
-			id: string;
-			name: string;
-		}[]; // I manually keep this updated. If I forget, it'll be undefined.
+		monsterlist?: string[]; // I manually keep this updated. If I forget, it'll be undefined.
 		// objectives?: string[]; // UNIMPLEMENTED TODO
 
 		images: {
-			filename_image: string;
+			namepic: string;
 		}
 	}
 

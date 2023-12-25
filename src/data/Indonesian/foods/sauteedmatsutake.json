@@ -1,10 +1,9 @@
 {
-	"id": 3002,
 	"name": "Sautéed Matsutake",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Makanan Penyerangan",
+	"foodfilter": "Makanan Penyerangan",
+	"foodcategory": "Atk_Add",
 	"effect": "Meningkatkan 160–228 ATK seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Tumis jamur matsutake. Dimasak di dalam mentega, bagian luarnya terasa kering, tetapi bagian dalamnya sangat lembut. Cepat santap sebelum dihabiskan orang lain!",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100063,
 			"name": "Matsutake",
 			"count": 3
 		},
 		{
-			"id": 110001,
 			"name": "Flour",
 			"count": 3
 		},
 		{
-			"id": 100020,
 			"name": "Pinecone",
 			"count": 2
 		},
 		{
-			"id": 110004,
 			"name": "Butter",
 			"count": 2
 		}

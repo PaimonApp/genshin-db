@@ -1,15 +1,10 @@
 {
-	"id": 101213,
 	"name": "ルッカデヴァータダケ",
-	"sortRank": 314,
 	"description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
-<<<<<<< HEAD
 	"sortorder": 2871,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "スメール地域の特産",
-	"sources": [
+	"materialtype": "スメール地域の特産",
+	"source": [
 		"野外で採集",
 		"推奨：アシャヴァンレルムで採集",
 		"推奨：ローカパーラ密林で採集"

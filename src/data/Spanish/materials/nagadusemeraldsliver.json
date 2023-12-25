@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Pedacito de esmeralda nagadus",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Material de ascensión de personaje.",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de ascensión de personaje",
-	"sources": [
+	"materialtype": "Material de ascensión de personaje",
+	"source": [
 		"Obtenido de Espantohongo Plumaverde",
 		"Obtenido de Hipóstasis Dendro"
 	]

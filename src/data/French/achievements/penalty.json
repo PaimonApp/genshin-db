@@ -1,18 +1,14 @@
 {
-	"id": [
-		82074
-	],
 	"name": "Pénalty",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 2074,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 2074,
 	"stages": 1,
 	"stage1": {
 		"title": "Pénalty",
 		"description": "Impossible de déterrer les Pyroblobs à certains endroits...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

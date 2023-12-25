@@ -1,20 +1,13 @@
 {
-	"id": 101302,
 	"name": "Madeira de Cuihua",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madeira obtida de Árvores Cuihua. Com sua cor adorável e estrutura única, ela certamente permitirá uma infinidade de usos após um acabamento adequado.\nPode ser usada para fabricar Decorações.",
-<<<<<<< HEAD
 	"sortorder": 2961,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Talhado no Vale das Estrelas Cadentes",
-		"Recomendação: Talhado nas Planícies Bishui",
-		"Converter Madeira"
+		"Recomendação: Talhado nas Planícies Bishui"
 	]
 }

@@ -1,14 +1,13 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface Namecard {
-		id: number;
 		name: string;
 		description: string;
-		sortOrder: number;
+		sortorder: number;
 		source: string[];
 		images: {
-			filename_icon: string;
-			filename_banner?: string; // the first namecard doesn't have this
-			filename_background: string;
+			nameicon: string;
+			namebanner?: string; // the first namecard doesn't have this
+			namebackground: string;
 		};
 		version: string;
 	}

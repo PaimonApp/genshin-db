@@ -1,20 +1,13 @@
 {
-	"id": [
-		80203,
-		80204,
-		80205
-	],
 	"name": "Vitória em Mãos",
-	"achievementGroupId": 37,
-	"achievementGroupName": "Chamado Sagrado dos Sete",
-	"sortOrder": 205,
+	"achievementgroup": "Chamado Sagrado dos Sete",
+	"sortorder": 205,
 	"stages": 3,
 	"stage1": {
 		"title": "Vitória em Mãos",
 		"description": "Jogue {param0} Cartas de Ação em uma partida vitoriosa.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Jogue {param0} Cartas de Ação em uma partida vitoriosa.",
 		"progress": 300,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Jogue {param0} Cartas de Ação em uma partida vitoriosa.",
 		"progress": 600,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 20
 		}

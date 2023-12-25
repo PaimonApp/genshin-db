@@ -1,17 +1,11 @@
 {
-	"id": 104174,
 	"name": "Prithiva Topaz Gemstone",
-	"rarity": 5,
-	"sortRank": 12108,
 	"description": "Material Ascension Karakter.\n\"Mata uang di tanah ini adalah darah.\"\n\"Aku adalah penjamin kerja keras, kebijaksanaan, dan masa depan rakyat.\"\n\"Ini adalah kepercayaan yang aku berikan kepada mereka. Khianat itu, berarti kamu menodai darahku.\"",
-<<<<<<< HEAD
 	"sortorder": 3213,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Karakter",
-	"sources": [
+	"materialtype": "Material Ascension Karakter",
+	"source": [
 		"Dijatuhkan oleh Geo Hypostasis Lv. 75+",
 		"Dijatuhkan oleh Golden Wolflord Lv. 75+",
 		"Dijatuhkan oleh Ruin Serpent Lv. 75+",

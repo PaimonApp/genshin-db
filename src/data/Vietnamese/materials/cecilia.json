@@ -1,15 +1,10 @@
 {
-	"id": 100023,
 	"name": "Hoa Cecilia",
-	"sortRank": 311,
 	"description": "Đóa hoa đẹp từ tên đến hình dáng, chỉ sinh trưởng trên nơi cao lộng gió và lạnh lẽo, cũng khó bắt gặp như hình bóng người lãng tử vậy.",
-<<<<<<< HEAD
 	"sortorder": 2848,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Đặc Sản Khu Vực Mondstadt",
-	"sources": [
+	"materialtype": "Đặc Sản Khu Vực Mondstadt",
+	"source": [
 		"Thu Thập Bên Ngoài",
 		"Kiến nghị: Thu thập ở Vực Hái Sao"
 	]

@@ -21,7 +21,6 @@
 		"ahawhatsonthehook": "Aha ... Was ist an der Angel?",
 		"ahollowsoul": "Eine leere Seele",
 		"ahouseillfounded": "Kein Berg ohne festes Grundgestein!",
-		"ahumandrama": "Das menschliche Drama",
 		"akashapulsesthekalpaflamerises": "Akasha pulsiert, die Kalpa-Flamme lodert",
 		"alavolontedupeuple": "À la volonté du peuple",
 		"aleisurelyjourney": "Gemächliche Reise",
@@ -976,7 +975,6 @@
 		"Aha ... Was ist an der Angel?": "ahawhatsonthehook",
 		"Eine leere Seele": "ahollowsoul",
 		"Kein Berg ohne festes Grundgestein!": "ahouseillfounded",
-		"Das menschliche Drama": "ahumandrama",
 		"Akasha pulsiert, die Kalpa-Flamme lodert": "akashapulsesthekalpaflamerises",
 		"À la volonté du peuple": "alavolontedupeuple",
 		"Gemächliche Reise": "aleisurelyjourney",
@@ -1927,7 +1925,6 @@
 			"ahawhatsonthehook",
 			"ahollowsoul",
 			"ahouseillfounded",
-			"ahumandrama",
 			"akashapulsesthekalpaflamerises",
 			"alavolontedupeuple",
 			"aleisurelyjourney",
@@ -2960,7 +2957,7 @@
 		]
 	},
 	"properties": {
-		"achievementGroupName": [
+		"achievementgroup": [
 			"Wunder der Welt",
 			"Sphären und Gewundener Abgrund – Reihe 1",
 			"Geniale Beschwörung",

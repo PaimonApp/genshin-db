@@ -1,10 +1,9 @@
 {
-	"id": 2304,
 	"name": "Mushroom Hodgepodge",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Makanan Pertahanan",
+	"foodfilter": "Makanan Pertahanan",
+	"foodcategory": "Def_Add",
 	"effect": "Meningkatkan 88–126 DEF seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Hidangan jamur panggang bergaya Aranara yang dikembangkan mati-matian oleh Paimon. Tapi sebenarnya ini hanya hidangan jamur biasa yang ditambah sedikit bumbu saja. Hidangan ini berisi tiga jenis jamur berbeda dan disiapkan dengan cara yang benar. Bisa dimasak dengan cara yang sederhana dan menghasilkan tekstur serta rasa yang lezat.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 101213,
 			"name": "Rukkhashava Mushroom",
 			"count": 1
 		},
 		{
-			"id": 100011,
 			"name": "Mushroom",
 			"count": 1
 		},
 		{
-			"id": 101212,
 			"name": "Starshroom",
 			"count": 1
 		}

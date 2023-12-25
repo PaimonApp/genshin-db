@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Pemburu Harta, Pengendara Ombak (II)",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
 	"sortorder": 254,
-=======
-	"id": [
-		80278,
-		80279,
-		80280
-	],
-	"name": "Pemburu Harta, Pengendara Ombak (II)",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
-	"sortOrder": 254,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Pemburu Harta, Pengendara Ombak (II)",
 		"description": "Buka {param0} peti harta di Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 60,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Buka {param0} peti harta di Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 120,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Buka {param0} peti harta di Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 200,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

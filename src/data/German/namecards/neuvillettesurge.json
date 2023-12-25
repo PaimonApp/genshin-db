@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Neuvillette – Welle",
 	"description": "Ein Motiv für Namenskärtchen.\nVielleicht mag der Grund für die juwelengleiche Makellosigkeit der Wasseroberfläche darin liegen, dass es eigentlich nur sehnlichst darauf wartet, sich zu kräuseln.",
 	"sortorder": 210174,
-=======
-	"id": 210174,
-	"name": "Neuvillette – Welle",
-	"description": "Ein Motiv für Namenskärtchen.\nVielleicht mag der Grund für die juwelengleiche Makellosigkeit der Wasseroberfläche darin liegen, dass es eigentlich nur sehnlichst darauf wartet, sich zu kräuseln.",
-	"sortOrder": 210174,
->>>>>>> upstream/main
 	"source": [
 		"Ab Freundschaftsstufe 10 mit Neuvillette zu erhalten"
 	]

@@ -1,10 +1,7 @@
 {
-	"id": 70400061,
 	"name": "Corte di rugiada e sorgenti",
-	"areaId": 50320,
-	"areaName": "Corte di Fontaine, Passage Vasari",
+	"area": "Corte di Fontaine, Passage Vasari",
 	"description": "\"Questa città si erge solitaria sull'acqua.\"",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"sortOrder": 361
+	"region": "Fontaine",
+	"sortorder": 361
 }

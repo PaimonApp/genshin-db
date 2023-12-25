@@ -1,10 +1,9 @@
 {
-	"id": 2109,
 	"name": "Abulón vegetariano",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Platos que regeneran Vida",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revive al personaje seleccionado.\nRestaura 250-550 pts. de Vida.",
 	"description": "Una comida vegetariana de sabor intenso. El matsutake se corta en láminas, se saltea hasta que esté dorado y se mete en la salsa. Debido a su carnosa textura, comer matsutake es como comer un abulón muy fresco. Así, al menos, podrás engañar un poco al estómago...",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100063,
 			"name": "Matsutake",
 			"count": 2
 		},
 		{
-			"id": 100015,
 			"name": "Flor dorada",
 			"count": 2
 		}

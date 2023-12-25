@@ -1,15 +1,10 @@
 {
-	"id": 100082,
 	"name": "発光髄",
-	"sortRank": 320,
 	"description": "ホタルの光を放つ部位。ホタルにとっては求婚のための器官でもある。人にとっては滋養強壮の良薬。",
-<<<<<<< HEAD
 	"sortorder": 2894,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "素材",
-	"sources": [
+	"materialtype": "素材",
+	"source": [
 		"野外で採集"
 	]
 }

@@ -1,15 +1,9 @@
 {
-	"id": 224,
 	"name": "Destino Familiar",
-	"rarity": 5,
-	"sortRank": 410004,
 	"description": "Uma semente que pode iluminar a noite.\nNão importa a distância, guiada pelo brilho da pedra, o desejo do destino será encontrado sob as estrelas.",
-<<<<<<< HEAD
 	"sortorder": 4851,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Item de Oração",
-	"sources": []
+	"materialtype": "Item de Oração",
+	"source": []
 }

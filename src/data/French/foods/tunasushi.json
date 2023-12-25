@@ -1,10 +1,9 @@
 {
-	"id": 2201,
 	"name": "Sushi au thon",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Récupération",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Restaure 20 % à 24 % des PV max du personnage sélectionné et 900 à 1 500 PV supplémentaires.",
 	"description": "Un plat traditionnel confectionné à mains nues. Le riz doux et légèrement vinaigré complémente à merveille le poisson frais. Les locaux considèrent presque ce mets comme un luxe.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Poisson",
 			"count": 3
 		},
 		{
-			"id": 100092,
 			"name": "Riz",
 			"count": 3
 		}

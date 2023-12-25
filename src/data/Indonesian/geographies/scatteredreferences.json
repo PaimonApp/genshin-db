@@ -1,18 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Referensi yang Tersebar",
 	"area": "Fontaine Research Institute of Kinetic Energy Engineering Region",
 	"description": "Efek dari kecelakaan itu tidak bisa menghancurkannya sepenuhnya, dan akan terus ada dalam bentuk yang sudah tidak seperti aslinya lagi. Mungkin ini juga bisa dibentuk sebagai sebuah wujud keberlangsungan.",
 	"region": "Fontaine",
 	"sortorder": 405
-=======
-	"id": 70500005,
-	"name": "Referensi yang Tersebar",
-	"areaId": 50500,
-	"areaName": "Fontaine Research Institute of Kinetic Energy Engineering Region",
-	"description": "Efek dari kecelakaan itu tidak bisa menghancurkannya sepenuhnya, dan akan terus ada dalam bentuk yang sudah tidak seperti aslinya lagi. Mungkin ini juga bisa dibentuk sebagai sebuah wujud keberlangsungan.",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"sortOrder": 405
->>>>>>> upstream/main
 }

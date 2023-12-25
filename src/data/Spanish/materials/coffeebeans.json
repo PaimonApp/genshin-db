@@ -1,15 +1,10 @@
 {
-	"id": 100098,
 	"name": "Granos de café",
-	"sortRank": 321,
 	"description": "Fruto de una planta común en Teyvat con un aroma especial. Si se muele, puede utilizarse para preparar bebidas.",
-<<<<<<< HEAD
 	"sortorder": 2935,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Comprando en cafés de Sumeru",
 		"Comprado en cafés de Fontaine"
 	]

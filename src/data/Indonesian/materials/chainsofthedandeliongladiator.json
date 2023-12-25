@@ -1,24 +1,17 @@
 {
-	"id": 114010,
 	"name": "Chains of Dandelion Gladiator",
-	"rarity": 3,
-	"sortRank": 15103,
 	"description": "Material Ascension Senjata.\nRantai yang dulunya membelenggu pahlawan Vennessa - dengan kata lain, siapa saja yang memakainya sebenarnya sama dengan semua budak lainnya di zaman itu.",
-<<<<<<< HEAD
 	"sortorder": 3287,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Senjata",
-	"dropDomainId": 4331,
-	"dropDomainName": "Domain of Forgery: Reruntuhan Kota Kemarau",
-	"daysOfWeek": [
+	"materialtype": "Material Ascension Senjata",
+	"dropdomain": "Domain of Forgery: Reruntuhan Kota Kemarau",
+	"daysofweek": [
 		"Rabu",
 		"Sabtu",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

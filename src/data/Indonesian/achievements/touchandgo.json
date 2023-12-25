@@ -1,18 +1,14 @@
 {
-	"id": [
-		82085
-	],
 	"name": "Tangkis Menangkis",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 2085,
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 2085,
 	"stages": 1,
 	"stage1": {
 		"title": "Tangkis Menangkis",
 		"description": "Gunakan sebuah perisai untuk membalas serangan terjangan Geovishap.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

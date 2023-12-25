@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Nagadus-Smaragd-Splitter",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Material für den Figurenaufstieg.",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für den Figurenaufstieg",
-	"sources": [
+	"materialtype": "Material für den Figurenaufstieg",
+	"source": [
 		"Beute von gefiederten Pilzbestien",
 		"Beute von Dendro-Hypostasen"
 	]

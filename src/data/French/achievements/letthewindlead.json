@@ -1,11 +1,7 @@
 {
-	"id": [
-		80032
-	],
 	"name": "Le vent siffle dans nos oreilles",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt : Cité du vent et de la chanson",
-	"sortOrder": 32,
+	"achievementgroup": "Mondstadt : Cité du vent et de la chanson",
+	"sortorder": 32,
 	"stages": 1,
 	"stage1": {
 		"title": "Le vent siffle dans nos oreilles",
@@ -13,7 +9,6 @@
 		"description": "Montez les Statues des Sept de Mondstadt au niveau maximum.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

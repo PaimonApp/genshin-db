@@ -1,8 +1,7 @@
 {
-	"id": 210074,
 	"name": "Passe de Batalha: Verão",
 	"description": "Estilo de Cartão de Visita.\nÉ hora da aventura!",
-	"sortOrder": 210074,
+	"sortorder": 210074,
 	"source": [
 		"Recompensa do Passe de Batalha"
 	]

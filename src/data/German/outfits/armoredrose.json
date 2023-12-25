@@ -1,8 +1,6 @@
 {
-	"id": 203400,
 	"name": "Gepanzerte Rose",
 	"description": "Noelles Kleidung. Schwere Kleidung aus dickem Samt und Metallplatte.",
-	"isDefault": true,
-	"characterId": 10000034,
-	"characterName": "Noelle"
+	"isdefault": true,
+	"character": "Noelle"
 }

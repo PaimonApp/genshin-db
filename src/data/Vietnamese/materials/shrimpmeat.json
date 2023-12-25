@@ -1,15 +1,10 @@
 {
-	"id": 100093,
 	"name": "Tôm Bóc Nõn",
-	"sortRank": 321,
 	"description": "Tôm nõn béo mọng được đánh bắt từ biển sâu. Loài hải sản giàu chất dinh dưỡng cùng hương vị khó quên.",
-<<<<<<< HEAD
 	"sortorder": 2930,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Mua ở Tiệm Tạp Hóa Liyue",
 		"Mua trong Tiệm Tạp Hóa Inazuma",
 		"Mua ở Tiệm Tạp Hóa Sumeru"

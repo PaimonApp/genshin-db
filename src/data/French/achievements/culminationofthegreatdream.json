@@ -1,11 +1,7 @@
 {
-	"id": [
-		80164
-	],
 	"name": "L'aboutissement du grand rêve",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru : Selve de connaissances",
-	"sortOrder": 164,
+	"achievementgroup": "Sumeru : Selve de connaissances",
+	"sortorder": 164,
 	"stages": 1,
 	"stage1": {
 		"title": "L'aboutissement du grand rêve",
@@ -13,7 +9,6 @@
 		"description": "Montez l'arbre des rêves de Vanarana au niveau maximum.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

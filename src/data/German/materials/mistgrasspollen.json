@@ -1,21 +1,9 @@
 {
-	"id": 112026,
 	"name": "Nebelgraspollen",
-	"rarity": 2,
-	"sortRank": 10109,
 	"description": "Diese Pollen entstehen in geschlossenen Behältnissen von Nebelgras und sind ein Leckerbissen für Cicine.",
-<<<<<<< HEAD
 	"sortorder": 3059,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material zur Verbesserung von Figuren und Waffen",
-	"sources": [
-		"Beute von Cicin-Zauberinnen der Fatui",
-		"Mit Sternenstaub kaufen"
-	]
->>>>>>> upstream/main
 }

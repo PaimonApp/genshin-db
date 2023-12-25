@@ -1,13 +1,7 @@
 {
-	"id": [
-		80037,
-		80038,
-		80039
-	],
 	"name": "逐風的尋寶者",
-	"achievementGroupId": 4,
-	"achievementGroupName": "蒙德·風與牧歌的城邦",
-	"sortOrder": 37,
+	"achievementgroup": "蒙德·風與牧歌的城邦",
+	"sortorder": 37,
 	"stages": 3,
 	"stage1": {
 		"title": "逐風的尋寶者",
@@ -15,7 +9,6 @@
 		"description": "在蒙德開啟100個寶箱（龍脊雪山地區除外）。",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "在蒙德開啟200個寶箱（龍脊雪山地區除外）。",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "在蒙德開啟400個寶箱（龍脊雪山地區除外）。",
 		"progress": 400,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 20
 		}

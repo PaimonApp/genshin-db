@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Fuuuuusiooooon !",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 2186,
-=======
-	"id": [
-		82187
-	],
-	"name": "Fuuuuusiooooon !",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 2186,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Fuuuuusiooooon !",
 		"description": "Empêchez le Tulpa Hydro d'absorber des Demi-tulpas deux fois en un seul défi.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

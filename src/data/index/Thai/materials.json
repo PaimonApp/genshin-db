@@ -47,7 +47,7 @@
 		"blackcrystalhorn": "Black Crystal Horn",
 		"blazingheartfeatherbass": "Blazing Heartfeather Bass",
 		"blessingofthewelkinmoonnewmoon": "พรแห่งดวงจันทร์-ดวงจันทร์ดวงใหม่",
-		"bloodjadebranch": "Bloodjade Branch",
+		"bloodjadebranch": "Bloodpearl Branch",
 		"bluedye": "สีย้อมสีฟ้า",
 		"borealwolfsbrokenfang": "Boreal Wolf's Broken Fang",
 		"borealwolfscrackedtooth": "Boreal Wolf's Cracked Tooth",
@@ -140,7 +140,7 @@
 		"drossofpuresacreddewdrop": "Dross of Pure Sacred Dewdrop",
 		"dustofazoth": "Dust of Azoth",
 		"dvalinsclaw": "Dvalin's Claw",
-		"dvalinsplume": "Dvalin's Plume",
+		"dvalinsplume": "Stormterror Tail Feather",
 		"dvalinssigh": "Dvalin's Sigh",
 		"echoofanancientchord": "Echo of an Ancient Chord",
 		"echoofscorchingmight": "Echo of Scorching Might",
@@ -492,14 +492,9 @@
 		"sumerurose": "Sumeru Rose",
 		"sunsetcloudangler": "Sunset Cloud Angler",
 		"sunsettia": "Sunsettia",
-<<<<<<< HEAD
-=======
-		"superduperinvincibleshiningsparklymagiccrystal": "Super-Duper Invincible Shining Sparkly Magic Crystal",
->>>>>>> upstream/main
 		"surgingsacredchalice": "จอกศักดิ์สิทธิ์แห่งการอุบัติ",
 		"sweetflower": "Sweet Flower",
 		"sweetflowermedaka": "Sweet-Flower Medaka",
-		"swirlingsceneinabottle": "\"ทิวทัศน์หมุนวนในขวด\"",
 		"tailofboreas": "Tail of Boreas",
 		"teachingsofadmonition": "Teachings of Admonition",
 		"teachingsofballad": "Teachings of Ballad",
@@ -526,11 +521,7 @@
 		"tofu": "Tofu",
 		"tomato": "Tomato",
 		"torchwood": "ไม้ Torch",
-<<<<<<< HEAD
 		"tourbillondevice": "\"Tubion Device\"",
-=======
-		"tourbillondevice": "\"Tourbillon Device\"",
->>>>>>> upstream/main
 		"transoceanicchunk": "Transoceanic Chunk",
 		"transoceanicpearl": "Transoceanic Pearl",
 		"treasuredflower": "Treasured Flower",
@@ -630,7 +621,7 @@
 		"Black Crystal Horn": "blackcrystalhorn",
 		"Blazing Heartfeather Bass": "blazingheartfeatherbass",
 		"พรแห่งดวงจันทร์-ดวงจันทร์ดวงใหม่": "blessingofthewelkinmoonnewmoon",
-		"Bloodjade Branch": "bloodjadebranch",
+		"Bloodpearl Branch": "bloodjadebranch",
 		"สีย้อมสีฟ้า": "bluedye",
 		"Boreal Wolf's Broken Fang": "borealwolfsbrokenfang",
 		"Boreal Wolf's Cracked Tooth": "borealwolfscrackedtooth",
@@ -720,7 +711,7 @@
 		"Dross of Pure Sacred Dewdrop": "drossofpuresacreddewdrop",
 		"Dust of Azoth": "dustofazoth",
 		"Dvalin's Claw": "dvalinsclaw",
-		"Dvalin's Plume": "dvalinsplume",
+		"Stormterror Tail Feather": "dvalinsplume",
 		"Dvalin's Sigh": "dvalinssigh",
 		"Echo of an Ancient Chord": "echoofanancientchord",
 		"Echo of Scorching Might": "echoofscorchingmight",
@@ -1068,14 +1059,9 @@
 		"Sumeru Rose": "sumerurose",
 		"Sunset Cloud Angler": "sunsetcloudangler",
 		"Sunsettia": "sunsettia",
-<<<<<<< HEAD
-=======
-		"Super-Duper Invincible Shining Sparkly Magic Crystal": "superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 		"จอกศักดิ์สิทธิ์แห่งการอุบัติ": "surgingsacredchalice",
 		"Sweet Flower": "sweetflower",
 		"Sweet-Flower Medaka": "sweetflowermedaka",
-		"\"ทิวทัศน์หมุนวนในขวด\"": "swirlingsceneinabottle",
 		"Tail of Boreas": "tailofboreas",
 		"Teachings of Admonition": "teachingsofadmonition",
 		"Teachings of Ballad": "teachingsofballad",
@@ -1102,11 +1088,7 @@
 		"Tofu": "tofu",
 		"Tomato": "tomato",
 		"ไม้ Torch": "torchwood",
-<<<<<<< HEAD
 		"\"Tubion Device\"": "tourbillondevice",
-=======
-		"\"Tourbillon Device\"": "tourbillondevice",
->>>>>>> upstream/main
 		"Transoceanic Chunk": "transoceanicchunk",
 		"Transoceanic Pearl": "transoceanicpearl",
 		"Treasured Flower": "treasuredflower",
@@ -1535,13 +1517,7 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
-<<<<<<< HEAD
 			"surgingsacredchalice",
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
-			"surgingsacredchalice",
-			"swirlingsceneinabottle",
->>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1873,7 +1849,6 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
-			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2240,10 +2215,6 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2497,10 +2468,6 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -2859,7 +2826,7 @@
 			"tileofdecarabianstower",
 			"winegobletofthepristinesea"
 		],
-		"วัสดุเปิดใช้งานฟังก์ชัน": [
+		"หลักฐานการเปิดใช้งาน": [
 			"blessingofthewelkinmoonnewmoon",
 			"gnostichymnoldnotes"
 		],
@@ -3071,7 +3038,6 @@
 			"matchinvitationletter",
 			"naturestruefruit",
 			"plumeofpurifyinglight",
-			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"ดันเจี้ยนแห่งการต่อสู้: เมฆามัวหมอง": [
@@ -3370,11 +3336,11 @@
 	},
 	"properties": {
 		"rarity": [
-			3,
-			5,
-			1,
-			2,
-			4
+			"3",
+			"5",
+			"1",
+			"2",
+			"4"
 		],
 		"category": [
 			"EXCHANGE",
@@ -3389,7 +3355,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"typeText": [
+		"materialtype": [
 			"ปลา",
 			"ไอเทมสำหรับอธิษฐาน",
 			"อาหาร",
@@ -3408,7 +3374,7 @@
 			"ของพิเศษเฉพาะใน Fontaine",
 			"ไอเทมจากการสร้าง",
 			"วัสดุเลื่อนขั้นอาวุธ",
-			"วัสดุเปิดใช้งานฟังก์ชัน",
+			"หลักฐานการเปิดใช้งาน",
 			"ไอเทมสุดล้ำค่า",
 			"ของพิเศษเฉพาะใน Mondstadt",
 			"เพิ่มความประทับใจ",
@@ -3431,7 +3397,7 @@
 			"ของใช้",
 			"ไอเทมขนาดเล็ก"
 		],
-		"dropDomainName": [
+		"dropdomain": [
 			"ดันเจี้ยนแห่งการต่อสู้: สนามทดลองไฟฟ้า",
 			"ดันเจี้ยนแห่งการต่อสู้: หุบเขาลึกใต้บาดาล",
 			"ดันเจี้ยนแห่งการต่อสู้: จักรกล",
@@ -3463,7 +3429,7 @@
 			"ดันเจี้ยนแห่งการต่อสู้: แท่นบูชาแห่งทราย",
 			"ดันเจี้ยนแห่งการต่อสู้: กิเลส"
 		],
-		"daysOfWeek": [
+		"daysofweek": [
 			"วันพุธ",
 			"วันเสาร์",
 			"วันอาทิตย์",

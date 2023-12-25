@@ -1,17 +1,11 @@
 {
-	"id": 104142,
 	"name": "Vajrada Amethyst Fragment",
-	"rarity": 3,
-	"sortRank": 12105,
 	"description": "Character Ascension material.\n\"This body is the noblest and most eminent of all in this world.\"",
-<<<<<<< HEAD
 	"sortorder": 3203,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character Ascension Material",
-	"sources": [
+	"materialtype": "Character Ascension Material",
+	"source": [
 		"Dropped by Lv. 40+ Electro Hypostases",
 		"Dropped by Lv. 40+ Thunder Manifestations",
 		"Dropped by Lv. 40+ Electro Regisvines",

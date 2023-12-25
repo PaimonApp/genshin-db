@@ -1,11 +1,7 @@
 {
-	"id": [
-		80268
-	],
 	"name": "Vùng Đất Suối Mơ",
-	"achievementGroupId": 43,
-	"achievementGroupName": "Tuần Du Trần Thế - Phần IV",
-	"sortOrder": 175,
+	"achievementgroup": "Tuần du trần thế - Phần IV",
+	"sortorder": 175,
 	"stages": 1,
 	"stage1": {
 		"title": "Vùng Đất Suối Mơ",
@@ -13,7 +9,6 @@
 		"description": "Nắm rõ sức mạnh nguyên tố \"Thủy\".",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

@@ -1,10 +1,7 @@
 {
-	"id": 70100009,
 	"name": "Ancient Thousand Winds Temple",
-	"areaId": 1107,
-	"areaName": "Thousand Winds Temple",
+	"area": "Thousand Winds Temple",
 	"description": "The ruins of an ancient amphitheater. A thousand melodious winds gather here, bringing with them countless tales, and carrying those tales far and wide.",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 8
+	"region": "Mondstadt",
+	"sortorder": 8
 }

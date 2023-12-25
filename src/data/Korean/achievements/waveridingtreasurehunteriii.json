@@ -1,19 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "푸른 바다의 트레저헌터·세 번째",
 	"achievementgroup": "폰타인·춤추는 샘의 흰 이슬·세 번째",
 	"sortorder": 268,
-=======
-	"id": [
-		80292,
-		80293,
-		80294
-	],
-	"name": "푸른 바다의 트레저헌터·세 번째",
-	"achievementGroupId": 46,
-	"achievementGroupName": "폰타인·춤추는 샘의 흰 이슬·세 번째",
-	"sortOrder": 268,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "푸른 바다의 트레저헌터·세 번째",
@@ -21,10 +9,6 @@
 		"description": "모르트 구역, 에리니에스 숲 구역에서 보물상자 {param0}개 열기",
 		"progress": 40,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 5
 		}
@@ -35,10 +19,6 @@
 		"description": "모르트 구역, 에리니에스 숲 구역에서 보물상자 {param0}개 열기",
 		"progress": 80,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 10
 		}
@@ -49,10 +29,6 @@
 		"description": "모르트 구역, 에리니에스 숲 구역에서 보물상자 {param0}개 열기",
 		"progress": 160,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 20
 		}

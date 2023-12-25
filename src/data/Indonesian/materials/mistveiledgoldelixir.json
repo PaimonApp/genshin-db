@@ -1,24 +1,17 @@
 {
-	"id": 114019,
 	"name": "Mist Veiled Gold Elixir",
-	"rarity": 4,
-	"sortRank": 15105,
 	"description": "Material Ascension Senjata.\nElixir sebenarnya adalah pil yang dibuat dari campuran logam. Mereka dibuat oleh para Adeptus, dan mampu memberikan kekuatan yang mampu melampaui senjata itu sendiri. Namun, mereka sangat jarang ditemukan karena para ahli bela diri yang lebih menghargai cara bertempur mereka dibandingkan dengan jalur Adeptus.",
-<<<<<<< HEAD
 	"sortorder": 3294,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Senjata",
-	"dropDomainId": 5220,
-	"dropDomainName": "Domain of Forgery: Reruntuhan Petir",
-	"daysOfWeek": [
+	"materialtype": "Material Ascension Senjata",
+	"dropdomain": "Domain of Forgery: Reruntuhan Petir",
+	"daysofweek": [
 		"Selasa",
 		"Jumat",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

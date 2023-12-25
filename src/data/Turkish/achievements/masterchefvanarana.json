@@ -1,18 +1,14 @@
 {
-	"id": [
-		81235
-	],
 	"name": "Usta Aşçı: Vanarana",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1221,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1221,
 	"stages": 1,
 	"stage1": {
 		"title": "Usta Aşçı: Vanarana",
 		"description": "Arapacati'nin kardeşlerine \"Üstün Lezzetleri\" tamamlamalarında yardım et.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

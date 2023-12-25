@@ -1,10 +1,7 @@
 {
-	"id": 70400034,
 	"name": "ウェネトトンネル",
-	"areaId": 5014,
-	"areaName": "ウェネトトンネル",
+	"area": "ウェネトトンネル",
 	"description": "人間の殿堂はとうに陥落した。ウェネトがここを占拠し、自らの宮殿と花園に造り変えた…",
-	"regionId": 4,
-	"regionName": "スメール",
-	"sortOrder": 334
+	"region": "スメール",
+	"sortorder": 334
 }

@@ -1,10 +1,9 @@
 {
-	"id": 2002,
 	"name": "Poulet mariné aux fleurs sucrantes",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Récupération",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Restaure 20 % à 24 % des PV max du personnage sélectionné et 900 à 1 500 PV supplémentaires.",
 	"description": "Poulet rôti au miel et aux fleurs sucrantes. Ces derniers complémentent la viande de volaille tendre à la perfection.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100064,
 			"name": "Volaille",
 			"count": 2
 		},
 		{
-			"id": 100012,
 			"name": "Fleur sucrante",
 			"count": 2
 		}

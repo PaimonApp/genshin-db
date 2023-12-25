@@ -1,15 +1,10 @@
 {
-	"id": 100051,
 	"name": "Berry",
-	"sortRank": 321,
 	"description": "Buah dengan warna yang terang, memberikan kontras warna yang indah di alam liar. Dapat ditemukan dengan mudah.",
-<<<<<<< HEAD
 	"sortorder": 2911,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

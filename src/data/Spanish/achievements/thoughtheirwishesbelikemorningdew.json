@@ -1,18 +1,14 @@
 {
-	"id": [
-		84048
-	],
 	"name": "Deseos fugaces",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 5027,
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 5027,
 	"stages": 1,
 	"stage1": {
 		"title": "Deseos fugaces",
 		"description": "Descubre quién está detrás de la distribución de Engaños.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}

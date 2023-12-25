@@ -1,9 +1,7 @@
 {
-	"id": 29,
 	"name": "挑戦者·5",
-	"sortOrder": 18,
+	"sortorder": 18,
 	"reward": {
-		"id": 210116,
 		"name": "アチーブメント·雷音"
 	}
 }

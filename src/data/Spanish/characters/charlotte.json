@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Charlotte",
 	"fullname": "Charlotte",
 	"title": "La Rastreadora de la Verdad",
@@ -15,27 +14,6 @@
 	"affiliation": "«El Pájaro de Vapor»",
 	"birthdaymmdd": "4/10",
 	"birthday": "10 de abril",
-=======
-	"id": 10000088,
-	"name": "Charlotte",
-	"title": "La Rastreadora de la Verdad",
-	"description": "La vivaracha reportera de «El Pájaro de Vapor», siempre en busca de la verdad.",
-	"weaponType": "WEAPON_CATALYST",
-	"weaponText": "Catalizador",
-	"bodyType": "BODY_GIRL",
-	"gender": "Femenino",
-	"qualityType": "QUALITY_PURPLE",
-	"rarity": 4,
-	"birthdaymmdd": "4/10",
-	"birthday": "10 de abril",
-	"elementType": "ELEMENT_CRYO",
-	"elementText": "Cryo",
-	"affiliation": "«El Pájaro de Vapor»",
-	"associationType": "ASSOC_FONTAINE",
-	"region": "Fontaine",
-	"substatType": "FIGHT_PROP_ATTACK_PERCENT",
-	"substatText": "ATQ",
->>>>>>> upstream/main
 	"constellation": "Hualina Veritas",
 	"cv": {
 		"english": "Maya Aoki Tuttle",
@@ -46,244 +24,128 @@
 	"costs": {
 		"ascend1": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104161,
->>>>>>> upstream/main
 				"name": "Pedacito de jade shivada",
 				"count": 1
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101232,
->>>>>>> upstream/main
 				"name": "Caracola azurescente",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112083,
->>>>>>> upstream/main
 				"name": "Engranaje de malla",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104162,
->>>>>>> upstream/main
 				"name": "Fragmento de jade shivada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 2
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101232,
->>>>>>> upstream/main
 				"name": "Caracola azurescente",
 				"count": 10
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112083,
->>>>>>> upstream/main
 				"name": "Engranaje de malla",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104162,
->>>>>>> upstream/main
 				"name": "Fragmento de jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101232,
->>>>>>> upstream/main
 				"name": "Caracola azurescente",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112084,
->>>>>>> upstream/main
 				"name": "Mecaengranaje recto",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104163,
->>>>>>> upstream/main
 				"name": "Trozo de jade shivada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 8
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101232,
->>>>>>> upstream/main
 				"name": "Caracola azurescente",
 				"count": 30
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112084,
->>>>>>> upstream/main
 				"name": "Mecaengranaje recto",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104163,
->>>>>>> upstream/main
 				"name": "Trozo de jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 12
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101232,
->>>>>>> upstream/main
 				"name": "Caracola azurescente",
 				"count": 45
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112085,
->>>>>>> upstream/main
 				"name": "Engranaje mecadinámico",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104164,
->>>>>>> upstream/main
 				"name": "Jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101232,
->>>>>>> upstream/main
 				"name": "Caracola azurescente",
 				"count": 60
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112085,
->>>>>>> upstream/main
 				"name": "Engranaje mecadinámico",
 				"count": 24
 			}

@@ -21,7 +21,6 @@
 		"ahawhatsonthehook": "A Ha... Cái Gì Mắc Câu Đây?",
 		"ahollowsoul": "Linh hồn tại nơi không có linh hồn",
 		"ahouseillfounded": "Nền tảng không vững, đất động núi lay!",
-		"ahumandrama": "Vở Kịch Nhân Gian",
 		"akashapulsesthekalpaflamerises": "Akasha Rung Động, Kiếp Hỏa Dâng Trào",
 		"alavolontedupeuple": "Vì Nguyện Vọng Của Mọi Người",
 		"aleisurelyjourney": "Tận Hưởng Chuyến Đi",
@@ -976,7 +975,6 @@
 		"A Ha... Cái Gì Mắc Câu Đây?": "ahawhatsonthehook",
 		"Linh hồn tại nơi không có linh hồn": "ahollowsoul",
 		"Nền tảng không vững, đất động núi lay!": "ahouseillfounded",
-		"Vở Kịch Nhân Gian": "ahumandrama",
 		"Akasha Rung Động, Kiếp Hỏa Dâng Trào": "akashapulsesthekalpaflamerises",
 		"Vì Nguyện Vọng Của Mọi Người": "alavolontedupeuple",
 		"Tận Hưởng Chuyến Đi": "aleisurelyjourney",
@@ -1911,7 +1909,7 @@
 	},
 	"aliases": {},
 	"categories": {
-		"Thế Giới Muôn Màu": [
+		"Thế giới muôn màu": [
 			"abandonallhopeyewhoenterhere",
 			"acatsgift",
 			"aconversationwiththetreasurechestowner",
@@ -1927,7 +1925,6 @@
 			"ahawhatsonthehook",
 			"ahollowsoul",
 			"ahouseillfounded",
-			"ahumandrama",
 			"akashapulsesthekalpaflamerises",
 			"alavolontedupeuple",
 			"aleisurelyjourney",
@@ -2531,7 +2528,7 @@
 			"grassyblastysparksnsplash",
 			"hyperbloomingcircus"
 		],
-		"Gặp Ở Thế Giới Khác - Phần II": [
+		"Gặp ở thế giới khác - Phần II": [
 			"adelusionsabilitiesdontdecideabattlesoutcome",
 			"blastfromthepast",
 			"movingmountains",
@@ -2551,7 +2548,7 @@
 			"treasurehunteroftheshimmeringwoods",
 			"woodlandguide"
 		],
-		"Gặp Ở Thế Giới Khác - Phần I": [
+		"Gặp ở thế giới khác - Phần I": [
 			"afishcalledrhodeia",
 			"andstillsmiling",
 			"icameisawiconquered",
@@ -2637,7 +2634,7 @@
 			"khvarenaofgoodandevil",
 			"sanctuarypilgrimblessedhamada"
 		],
-		"Hướng Dẫn Câu Cá Teyvat - Phần I": [
+		"Hướng dẫn câu cá Teyvat - Phần I": [
 			"amateurshammernailsintohooks",
 			"arightproperangler",
 			"callmeishmael",
@@ -2688,7 +2685,7 @@
 			"thehardertheyfall",
 			"turnover"
 		],
-		"Gặp Ở Thế Giới Khác - Phần IV": [
+		"Gặp ở thế giới khác - Phần IV": [
 			"asuccessfulhunt",
 			"dancelikeyouwanttowin",
 			"desertdwellersriteofpassage",
@@ -2735,7 +2732,7 @@
 			"reminiscenceofgurabad",
 			"theessenceofflora"
 		],
-		"Mondstadt - Thành Phố Của Gió Và Những Bài Ca Du Mục": [
+		"Mondstadt - Thành phố của gió và những bài ca du mục": [
 			"brushofathousandwinds",
 			"continentalexplorermondstadt",
 			"guidingwind",
@@ -2763,7 +2760,7 @@
 			"realmsansfrontieres",
 			"ttttimberhochwandi"
 		],
-		"Tuần Du Trần Thế - Phần IV": [
+		"Tuần du trần thế - Phần IV": [
 			"compendiumofmisery",
 			"landoffairsprings",
 			"renartthedeceiver",
@@ -2841,7 +2838,7 @@
 			"thesamemoonlight",
 			"thunderboltingacrossthelandii"
 		],
-		"Liyue - Bến Cảng Của Đá Và Khế Ước": [
+		"Liyue - Bến cảng của đá và khế ước": [
 			"continentalexplorerliyue",
 			"lithicguide",
 			"rocksteadyadventurer",
@@ -2906,7 +2903,7 @@
 			"viciouscircle",
 			"wellthatwasstrange"
 		],
-		"Tuần Du Trần Thế - Phần II": [
+		"Tuần du trần thế - Phần II": [
 			"eternalyouth",
 			"hilichurlianstudiesexpert",
 			"landofdandelions",
@@ -2926,7 +2923,7 @@
 			"giftsallaround",
 			"honoredguestoftherealm"
 		],
-		"Chuyện Kể Nơi Cảng Đá - Phần I": [
+		"Chuyện kể nơi cảng đá - Phần I": [
 			"friendstravelerslendmeyourears",
 			"geoarchonanecdotes",
 			"onceuponatime"
@@ -2941,7 +2938,7 @@
 			"odomu",
 			"yodala"
 		],
-		"Tuần Du Trần Thế - Phần I": [
+		"Tuần du trần thế - Phần I": [
 			"ofmountainshigh",
 			"springwhitehorseandmoonlight",
 			"thedivinehalberdmockstheheavens",
@@ -2949,46 +2946,42 @@
 			"thevoiceofflowingwater",
 			"thewindandthestartraveler"
 		],
-		"Snezhnaya Không Tin Vào Nước Mắt - Phần I": [
+		"Snezhnaya không tin vào nước mắt - Phần I": [
 			"perfectionist",
 			"tellingithowitis"
 		],
-		"Nghệ Thuật Phiêu Lưu": [
+		"Nghệ thuật phiêu lưu": [
 			"starchef",
 			"survivalexpert",
 			"takingshape"
 		]
 	},
 	"properties": {
-		"achievementGroupName": [
-			"Thế Giới Muôn Màu",
+		"achievementgroup": [
+			"Thế giới muôn màu",
 			"Bí Cảnh và La Hoàn Thâm Cảnh - Phần I",
 			"Thất Thánh Triệu Hồi",
 			"Chuyên Gia Nguyên Tố - Phần II",
-			"Gặp Ở Thế Giới Khác - Phần II",
+			"Gặp ở thế giới khác - Phần II",
 			"Sumeru - Rừng Mưa Huyền Bí",
-			"Gặp Ở Thế Giới Khác - Phần I",
+			"Gặp ở thế giới khác - Phần I",
 			"Ký Ức Về Trái Tim",
 			"Chuyên Gia Nguyên Tố - Phần I",
 			"Phước Lành Hamada",
-			"Hướng Dẫn Câu Cá Teyvat - Phần I",
+			"Hướng dẫn câu cá Teyvat - Phần I",
 			"Fontaine - Dòng Suối Trong Như Sương (I)",
 			"Hầm Mỏ Lưu Minh",
 			"Kẻ Khiêu Chiến - Phần I",
 			"Kẻ Khiêu Chiến - Phần III",
-			"Gặp Ở Thế Giới Khác - Phần IV",
+			"Gặp ở thế giới khác - Phần IV",
 			"Kẻ Khiêu Chiến - Phần VII",
 			"Hành Trình Anh Hùng",
 			"Gặp Ở Thế Giới Khác - Phần III",
 			"Tuần Du Trần Thế - Phần III",
-<<<<<<< HEAD
 			"Mondstadt - Thành phố của gió và những bài ca du mục",
-=======
-			"Mondstadt - Thành Phố Của Gió Và Những Bài Ca Du Mục",
->>>>>>> upstream/main
 			"Kẻ Khiêu Chiến - Phần VIII",
 			"Thế Ngoại Đào Viên - Phần I",
-			"Tuần Du Trần Thế - Phần IV",
+			"Tuần du trần thế - Phần IV",
 			"Khách Trên Tuyết Sơn",
 			"Sumeru - Sa Mạc Dát Vàng (I)",
 			"Sumeru - Sa Mạc Dát Vàng (II)",
@@ -2996,22 +2989,22 @@
 			"Fontaine - Dòng Suối Trong Như Sương (III)",
 			"Inazuma - Quần Đảo Sét Và Vĩnh Hằng (I)",
 			"Inazuma - Quần Đảo Sét Và Vĩnh Hằng (II)",
-			"Liyue - Bến Cảng Của Đá Và Khế Ước",
+			"Liyue - Bến cảng của đá và khế ước",
 			"Nhật Ký Hành Trình Của Biển Sương Mù",
 			"Kẻ Khiêu Chiến - Phần VI",
 			"Kẻ Khiêu Chiến - Phần V",
 			"Xạ Thủ Thần",
 			"Kẻ Khiêu Chiến - Phần IV",
 			"Kẻ Khiêu Chiến - Phần II",
-			"Tuần Du Trần Thế - Phần II",
+			"Tuần du trần thế - Phần II",
 			"Ánh Sáng Ban Trưa",
 			"Thế Ngoại Đào Viên - Phần II",
-			"Chuyện Kể Nơi Cảng Đá - Phần I",
+			"Chuyện kể nơi cảng đá - Phần I",
 			"Thế Ngoại Đào Viên - Phần III",
 			"Olah! - Phần I",
-			"Tuần Du Trần Thế - Phần I",
-			"Snezhnaya Không Tin Vào Nước Mắt - Phần I",
-			"Nghệ Thuật Phiêu Lưu"
+			"Tuần du trần thế - Phần I",
+			"Snezhnaya không tin vào nước mắt - Phần I",
+			"Nghệ thuật phiêu lưu"
 		]
 	}
 }

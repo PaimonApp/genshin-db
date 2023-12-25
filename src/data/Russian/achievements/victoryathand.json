@@ -1,20 +1,13 @@
 {
-	"id": [
-		80203,
-		80204,
-		80205
-	],
 	"name": "Победа в руках",
-	"achievementGroupId": 37,
-	"achievementGroupName": "Священный призыв семерых",
-	"sortOrder": 205,
+	"achievementgroup": "Священный призыв семерых",
+	"sortorder": 205,
 	"stages": 3,
 	"stage1": {
 		"title": "Победа в руках",
 		"description": "В победной игре разыграйте карты действий ×{param0}.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "В победной игре разыграйте карты действий ×{param0}.",
 		"progress": 300,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "В победной игре разыграйте карты действий ×{param0}.",
 		"progress": 600,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 20
 		}

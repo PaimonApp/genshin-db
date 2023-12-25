@@ -492,14 +492,9 @@
 		"sumerurose": "Sumeru Gülü",
 		"sunsetcloudangler": "Gün Batımı Gölgesi Balığı",
 		"sunsettia": "Güneriği",
-<<<<<<< HEAD
-=======
-		"superduperinvincibleshiningsparklymagiccrystal": "Süper Ölümsüz Pasparlak Büyülü Kristal",
->>>>>>> upstream/main
 		"surgingsacredchalice": "Yükselen Kutsal Kadeh",
 		"sweetflower": "Tatlı Çiçek",
 		"sweetflowermedaka": "Sevimli Lepistes",
-		"swirlingsceneinabottle": "\"Şişedeki Çalkantılar\"",
 		"tailofboreas": "Poyraz'ın Kuyruğu",
 		"teachingsofadmonition": "Nasihat Öğretisi",
 		"teachingsofballad": "Şiir Öğretisi",
@@ -1064,14 +1059,9 @@
 		"Sumeru Gülü": "sumerurose",
 		"Gün Batımı Gölgesi Balığı": "sunsetcloudangler",
 		"Güneriği": "sunsettia",
-<<<<<<< HEAD
-=======
-		"Süper Ölümsüz Pasparlak Büyülü Kristal": "superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 		"Yükselen Kutsal Kadeh": "surgingsacredchalice",
 		"Tatlı Çiçek": "sweetflower",
 		"Sevimli Lepistes": "sweetflowermedaka",
-		"\"Şişedeki Çalkantılar\"": "swirlingsceneinabottle",
 		"Poyraz'ın Kuyruğu": "tailofboreas",
 		"Nasihat Öğretisi": "teachingsofadmonition",
 		"Şiir Öğretisi": "teachingsofballad",
@@ -1527,13 +1517,7 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
-<<<<<<< HEAD
 			"surgingsacredchalice",
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
-			"surgingsacredchalice",
-			"swirlingsceneinabottle",
->>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1865,7 +1849,6 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
-			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2232,10 +2215,6 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2489,10 +2468,6 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3062,7 +3037,6 @@
 			"naturestruefruit",
 			"plumeofpurifyinglight",
 			"silkenprint",
-			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"Döküm Zindanı: Lekeli Bulutlar": [
@@ -3362,11 +3336,11 @@
 	},
 	"properties": {
 		"rarity": [
-			3,
-			5,
-			1,
-			2,
-			4
+			"3",
+			"5",
+			"1",
+			"2",
+			"4"
 		],
 		"category": [
 			"EXCHANGE",
@@ -3381,7 +3355,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"typeText": [
+		"materialtype": [
 			"Balık",
 			"Dilek Eşyası",
 			"Yiyecek",
@@ -3423,7 +3397,7 @@
 			"Ejdersırtı Malzemesi",
 			"Aygıt"
 		],
-		"dropDomainName": [
+		"dropdomain": [
 			"Döküm Zindanı: Yıldırım İmtihanı Alanı",
 			"Döküm Zindanı: Batık Vadi",
 			"Döküm Zindanı: Tuhaf Mekanizmalar",
@@ -3455,7 +3429,7 @@
 			"Döküm Zindanı: Kum Sunağı",
 			"Döküm Zindanı: Takıntı"
 		],
-		"daysOfWeek": [
+		"daysofweek": [
 			"Çarşamba",
 			"Cumartesi",
 			"Pazar",

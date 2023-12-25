@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "\"Yseult\"",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1389,
-=======
-	"id": [
-		81405
-	],
-	"name": "\"Yseult\"",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1389,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "\"Yseult\"",
 		"description": "Derrote a Lenda Local, Yseut",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

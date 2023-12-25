@@ -1,11 +1,8 @@
 {
-	"id": 70400038,
 	"name": "Cortile delle Sorgenti riarse",
-	"areaId": 5016,
-	"areaName": "Bayt Al-Sukr",
+	"area": "Bayt Al-Sukr",
 	"description": "Gli antichi abitanti di Gurabad commemoravano la fioritura dei giardini con vino, canti e danze. Ma l'oblio ridusse la loro felicità in polvere sparsa dal vento...",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 338
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 338
 }

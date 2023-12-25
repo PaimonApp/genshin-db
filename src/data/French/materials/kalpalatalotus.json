@@ -1,15 +1,10 @@
 {
-	"id": 101217,
 	"name": "Kalpalotus",
-	"sortRank": 314,
 	"description": "La fleur produite par une liane poussant sur les falaises. On l'appelle lotus uniquement parce qu'elle en a l'apparence, mais en dehors de cela, ces deux plantes ne partagent aucune similitude.",
-<<<<<<< HEAD
 	"sortorder": 2874,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Sumeru",
-	"sources": [
+	"materialtype": "Produit de Sumeru",
+	"source": [
 		"Montagnes de Sumeru"
 	]
 }

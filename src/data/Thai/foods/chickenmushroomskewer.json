@@ -1,10 +1,9 @@
 {
-	"id": 1001,
 	"name": "Chicken-Mushroom Skewer",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "เมนูฟื้นฟูพลังชีวิต",
+	"foodfilter": "เมนูฟื้นฟูพลังชีวิต",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "ฟื้นฟูพลังชีวิตให้ตัวละครที่เลือก 8%-10% และฟื้นฟูพิเศษอีก 800-1200 หน่วย",
 	"description": "เห็ดกับเนื้อไก่เสียบไม้ย่าง เนื้อไก่สดนุ่มพร้อมกลิ่นหอมจากเห็ด อย่ามัวแต่อมสิ เคี้ยวไปเถอะน่า!",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100011,
 			"name": "Mushroom",
 			"count": 1
 		},
 		{
-			"id": 100064,
 			"name": "Fowl",
 			"count": 1
 		}

@@ -1,17 +1,11 @@
 {
-	"id": 104003,
 	"name": "Kinh Nghiệm Anh Hùng",
-	"rarity": 4,
-	"sortRank": 100,
 	"description": "Nguyên liệu EXP nhân vật, có 20000 điểm EXP.\nNhững EXP này là vật quý báu trên đường du hành ở đại lục và hướng về Đảo Thiên Không.",
-<<<<<<< HEAD
 	"sortorder": 2770,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "EXP_FRUIT",
-	"typeText": "Nguyên Liệu EXP Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu EXP Nhân Vật",
+	"source": [
 		"Thù Lao Giải Quyết Công Việc",
 		"Thưởng Kích Hoạt Hoa Chỉ Thị",
 		"Đổi Động Tiên Bách Bảo"

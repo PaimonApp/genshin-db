@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "슬램 뱅 웨스턴 스타일 레슬링",
 	"achievementgroup": "천지만물",
 	"ishidden": true,
 	"sortorder": 1374,
-=======
-	"id": [
-		81390
-	],
-	"name": "슬램 뱅 웨스턴 스타일 레슬링",
-	"achievementGroupName": "천지만물",
-	"isHidden": true,
-	"sortOrder": 1374,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "슬램 뱅 웨스턴 스타일 레슬링",
 		"description": "제네비브와 포와레가 친선 대회에서 우승할 수 있게 코칭하기",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 5
 		}

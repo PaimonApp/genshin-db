@@ -1,15 +1,9 @@
 {
-	"id": 200112,
 	"name": "Plume of the Changing Winds",
-	"rarity": 4,
-	"sortRank": 90,
 	"description": "Specialized refinement material for \"Missive Windspear.\"\nAn ancient feather carved from turquoise. It was once used as an ornament or a token of sorts.",
-<<<<<<< HEAD
 	"sortorder": 2763,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Refinement Material",
-	"sources": []
+	"materialtype": "Refinement Material",
+	"source": []
 }

@@ -1,9 +1,7 @@
 {
-	"id": 39,
 	"name": "Mücadeleci: VII. Seri",
-	"sortOrder": 20,
+	"sortorder": 20,
 	"reward": {
-		"id": 210158,
 		"name": "Başarım: Gelip Geçici Alacakaranlık"
 	}
 }

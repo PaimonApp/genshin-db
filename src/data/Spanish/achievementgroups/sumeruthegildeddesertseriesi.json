@@ -1,13 +1,7 @@
 {
-	"id": 35,
 	"name": "Sumeru: Las arenas doradas (I)",
-<<<<<<< HEAD
 	"sortorder": 41,
-=======
-	"sortOrder": 41,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210138,
 		"name": "Sumeru - Caminante del desierto"
 	}
 }

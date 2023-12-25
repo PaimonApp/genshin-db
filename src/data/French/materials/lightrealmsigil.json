@@ -1,15 +1,9 @@
 {
-	"id": 101692,
 	"name": "Sceau du Royaume de la lumière",
-	"rarity": 3,
-	"sortRank": 430041,
 	"description": "Une marque qui symbolise la reconnaissance d'Ookami Tokoyo à Enkanomiya.\nOn peut les donner en offrande à la statue de vassal pour améliorer la Boîte de Bokuso.",
-<<<<<<< HEAD
 	"sortorder": 4950,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consommable",
-	"sources": []
+	"materialtype": "Consommable",
+	"source": []
 }

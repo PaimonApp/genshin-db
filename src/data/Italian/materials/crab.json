@@ -1,15 +1,10 @@
 {
-	"id": 100073,
 	"name": "Granchio",
-	"sortRank": 321,
 	"description": "Un crostaceo che vive accanto all'oceano. La sua deliziosa carne friabile può essere utilizzata per preparare dei piatti appetitosi.",
-<<<<<<< HEAD
 	"sortorder": 2916,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Si trova vicino a laghi, rive dei fiumi e spiagge"
 	]
 }

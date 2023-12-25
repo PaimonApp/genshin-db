@@ -1,11 +1,7 @@
 {
-	"id": [
-		80075
-	],
 	"name": "Monde de tonnerre (1)",
-	"achievementGroupId": 24,
-	"achievementGroupName": "Inazuma : Archipel de la foudre éternelle - I",
-	"sortOrder": 75,
+	"achievementgroup": "Inazuma : Archipel de la foudre éternelle - I",
+	"sortorder": 75,
 	"stages": 1,
 	"stage1": {
 		"title": "Monde de tonnerre (1)",
@@ -13,7 +9,6 @@
 		"description": "Activez tous les points de téléportation de l'Île de Narukami, de Kannazuka et de l'Île de Yashiori dans la région d'Inazuma.",
 		"progress": 26,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

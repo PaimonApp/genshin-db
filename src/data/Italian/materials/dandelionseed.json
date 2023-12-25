@@ -1,15 +1,10 @@
 {
-	"id": 100057,
 	"name": "Semi di dente di leone",
-	"sortRank": 311,
 	"description": "Un seme minuscolo che si lascia trasportare dal vento. Anche se privo delle sue ali piumate, custodisce ancora la speranza di luoghi lontani.",
-<<<<<<< HEAD
 	"sortorder": 2853,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Specialità di Mondstadt",
-	"sources": [
+	"materialtype": "Specialità di Mondstadt",
+	"source": [
 		"Presente in natura",
 		"Consiglio: si trova alle porte di Mondstadt"
 	]

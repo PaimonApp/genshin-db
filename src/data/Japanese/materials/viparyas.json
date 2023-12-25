@@ -1,15 +1,10 @@
 {
-	"id": 101228,
 	"name": "ヴィパリャス",
-	"sortRank": 320,
 	"description": "種子のない花。\n大地が再び思い出したとき、ヴィパリャスは必ず咲く。",
-<<<<<<< HEAD
 	"sortorder": 2898,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "素材",
-	"sources": [
+	"materialtype": "素材",
+	"source": [
 		"野外で採集",
 		"推奨：ヴァナラーナで採集"
 	]

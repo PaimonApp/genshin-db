@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Barbeque Ribs",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "เมนูฟื้นฟูพลังชีวิต",
 	"foodcategory": "Recovery_HpAdd",
-=======
-	"id": 2407,
-	"name": "Barbeque Ribs",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "เมนูฟื้นฟูพลังชีวิต",
->>>>>>> upstream/main
 	"effect": "ฟื้นฟูพลังชีวิตให้ตัวละครที่เลือก 20%-24% และฟื้นฟูพิเศษอีก 900-1500 หน่วย",
 	"description": "เมนูเนื้อที่ห่อด้วยหนังกรอบ ทอดผิวซี่โครงเล็กน้อยจนหอม จากนั้นทาซอสเคลือบผิวที่เตรียมไว้ แล้วค่อย ๆ อบด้วยอุณหภูมิต่ำ การควบคุมไฟอย่างเข้มงวดจะทำให้หนังกรุบกรอบ ในขณะที่เนื้อนุ่มและชุ่มฉ่ำ",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Raw Meat",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100077,
->>>>>>> upstream/main
 			"name": "Pepper",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

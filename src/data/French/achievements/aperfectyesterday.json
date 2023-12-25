@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Un hier merveilleux",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1385,
-=======
-	"id": [
-		81401
-	],
-	"name": "Un hier merveilleux",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1385,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Un hier merveilleux",
 		"description": "Le jour qui s'est écoulé ne peut rester...",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

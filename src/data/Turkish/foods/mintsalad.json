@@ -1,10 +1,9 @@
 {
-	"id": 2111,
 	"name": "Nane Salatası",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Saldırı Artırıcı Yemek",
+	"foodfilter": "Saldırı Artırıcı Yemek",
+	"foodcategory": "Atk_Add",
 	"effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 66 ila 95 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Hoş kokulu bir salata. İnce ince doğranan Jueyun Biberleri bir sos ile karıştırılıp Nane yapraklarına eklenmiş. Ahım şahım bir tarafı yokmuş gibi görünse de şaşırtıcı biçimde ferahlatıcı ve enerji verici bir etkiye sahip. Ayrıca yağlı ve ağır bir öğünün tadını ağızdan almaya birebirdir.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100016,
 			"name": "Nane",
 			"count": 4
 		},
 		{
-			"id": 100027,
 			"name": "Jueyun Biberi",
 			"count": 1
 		}

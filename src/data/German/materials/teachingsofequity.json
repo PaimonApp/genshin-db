@@ -1,23 +1,15 @@
 {
-	"id": 104338,
 	"name": "Lehren der „Fairness“",
-<<<<<<< HEAD
 	"description": "Material zur Verbesserung von Talenten.\nDenn der Damm des Reichs des Wassers ist Fairness.\nFairness setzt den Rechten ihre Grenzen, und ohne Fairness würden die vom Gesetz gewährten Rechte missbräuchlich als Instrument der Untergrabung guter Sitten genutzt werden.",
 	"sortorder": 3255,
 	"rarity": "2",
-=======
-	"rarity": 2,
-	"sortRank": 13113,
-	"description": "Material zur Verbesserung von Talenten.\nDenn der Damm des Reichs des Wassers ist Fairness.\nFairness setzt den Rechten ihre Grenzen, und ohne Fairness würden die vom Gesetz gewährten Rechte missbräuchlich als Instrument der Untergrabung guter Sitten genutzt werden.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für Figurentalente",
-	"dropDomainId": 4460,
-	"dropDomainName": "Sphäre des Verständnisses: Reimender Rhythmus",
-	"daysOfWeek": [
+	"materialtype": "Material für Figurentalente",
+	"dropdomain": "Sphäre des Verständnisses: Reimender Rhythmus",
+	"daysofweek": [
 		"Montag",
 		"Donnerstag",
 		"Sonntag"
 	],
-	"sources": []
+	"source": []
 }

@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Tripes du Port",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "เมนูฟื้นฟูพลังชีวิต",
 	"foodcategory": "Recovery_Revive",
-=======
-	"id": 3411,
-	"name": "Tripes du Port",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "เมนูฟื้นฟูพลังชีวิต",
->>>>>>> upstream/main
 	"effect": "ฟื้นชีวิตให้แก่ตัวละครที่เลือก\nฟื้นฟูพลังชีวิต 900-1500 หน่วย",
 	"description": "อาหารที่ใช้เครื่องในเป็นวัตถุดิบหลัก โดยหั่นวัตถุดิบเป็นชิ้น ๆ นำไปใส่ลงในกระทะ ปิดด้วยแป้งโดว์ แล้วนำไปอบ วิธีทำมีแหล่งกำเนิดมาจากเมืองเล็ก ๆ ที่ท่าเรือแห่งหนึ่ง ซึ่งเรื่องราวของเมืองนั้นถูกน้ำทะเลที่เพิ่มสูงขึ้นกลืนหายไปนานแล้ว แต่รสชาติแสนอร่อยกลับยังคงแพร่หลายอยู่ใน Fontaine",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Raw Meat",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100013,
->>>>>>> upstream/main
 			"name": "Carrot",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "Onion",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100099,
->>>>>>> upstream/main
 			"name": "Fermented Juice",
 			"count": 1
 		}

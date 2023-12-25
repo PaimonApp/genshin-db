@@ -1,9 +1,7 @@
 {
-	"id": 39,
 	"name": "Au défi ! - Partie VII",
-	"sortOrder": 20,
+	"sortorder": 20,
 	"reward": {
-		"id": 210158,
 		"name": "Succès - Crépuscule éphémère"
 	}
 }

@@ -1,17 +1,11 @@
 {
-	"id": 104162,
 	"name": "Mảnh Ngọc Băng Vỡ",
-	"rarity": 3,
-	"sortRank": 12107,
 	"description": "Nguyên liệu đột phá nhân vật.\n\"...xin lỗi...\"",
-<<<<<<< HEAD
 	"sortorder": 3211,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
+	"source": [
 		"Cây Cấp Đông cấp 40 trở lên rơi",
 		"Băng Nguyên Bản cấp 40 trở lên rơi",
 		"Ghép Nhận"

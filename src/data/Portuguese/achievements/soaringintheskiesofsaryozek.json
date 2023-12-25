@@ -1,18 +1,14 @@
 {
-	"id": [
-		81336
-	],
 	"name": "Voando nos Céus de Sary-Ozek",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1323,
+	"achievementgroup": "Maravilhas do Mundo",
+	"ishidden": true,
+	"sortorder": 1323,
 	"stages": 1,
 	"stage1": {
 		"title": "Voando nos Céus de Sary-Ozek",
 		"description": "Use Sorush para se manter voando por um tempo.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,13 +1,8 @@
 {
-	"id": 101402,
 	"name": "Thuốc Nhuộm Đỏ",
-	"sortRank": 331,
 	"description": "Thuốc nhuộm đỏ, có thể dùng để chế tạo đồ trang trí.",
-<<<<<<< HEAD
 	"sortorder": 2983,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": []
+	"materialtype": "Nguyên Liệu",
+	"source": []
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100025,
 	"name": "Seta filanemo",
-	"sortRank": 311,
 	"description": "Un hongo que crece bajo las cálidas caricias del viento. Es tan eterno y nutritivo para la vida como el viento.",
-<<<<<<< HEAD
 	"sortorder": 2850,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Mondstadt",
-	"sources": [
+	"materialtype": "Objeto típico de Mondstadt",
+	"source": [
 		"Recolectar en las paredes y tejados de las casas"
 	]
 }

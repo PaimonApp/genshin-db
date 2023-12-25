@@ -1,15 +1,9 @@
 {
-	"id": 101692,
 	"name": "Sigillo del Regno della luce",
-	"rarity": 3,
-	"sortRank": 430041,
 	"description": "Un marchio che simboleggia il riconoscimento del Tokoyo Ookami di Enkanomiya.\nTali sigilli possono essere offerti alla Statua dei Vassalli di Watatsumi per potenziare il livello della Scatola Bokuso.",
-<<<<<<< HEAD
 	"sortorder": 4950,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumabile",
-	"sources": []
+	"materialtype": "Consumabile",
+	"source": []
 }

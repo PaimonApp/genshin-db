@@ -1,13 +1,7 @@
 {
-	"id": [
-		80061,
-		80062,
-		80063
-	],
 	"name": "นักล่าสมบัติแห่งภูเขาหิมะ",
-	"achievementGroupId": 16,
-	"achievementGroupName": "แขกผู้มาเยือนภูเขาหิมะ",
-	"sortOrder": 61,
+	"achievementgroup": "แขกผู้มาเยือนภูเขาหิมะ",
+	"sortorder": 61,
 	"stages": 3,
 	"stage1": {
 		"title": "นักล่าสมบัติแห่งภูเขาหิมะ",
@@ -15,7 +9,6 @@
 		"description": "เปิดหีบสมบัติใน Dragonspine 40 หีบ",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "เปิดหีบสมบัติใน Dragonspine 80 หีบ",
 		"progress": 80,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "เปิดหีบสมบัติใน Dragonspine 160 หีบ",
 		"progress": 160,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

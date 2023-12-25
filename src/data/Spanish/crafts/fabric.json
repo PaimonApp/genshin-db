@@ -1,13 +1,11 @@
 {
-	"id": 30001,
 	"name": "Tela",
-	"filterText": "Material para fabricar decoración",
-	"sortOrder": 170000,
-	"unlockRank": 28,
-	"resultCount": 10,
+	"filter": "Material para fabricar decoración",
+	"sortorder": 170000,
+	"unlockrank": 28,
+	"resultcount": 10,
 	"recipe": [
 		{
-			"id": 100029,
 			"name": "Flor de seda",
 			"count": 1
 		}

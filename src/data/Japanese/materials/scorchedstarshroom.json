@@ -1,15 +1,10 @@
 {
-	"id": 101227,
 	"name": "ひからびた星茸",
-	"sortRank": 90000,
 	"description": "カサが五芒星のような形をしているキノコ。強靭な生命力を持っている。焦げているみたいに見える…",
-<<<<<<< HEAD
 	"sortorder": 3420,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "食べ物",
-	"sources": [
+	"materialtype": "食べ物",
+	"source": [
 		"野外で採集"
 	]
 }

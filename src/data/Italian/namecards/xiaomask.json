@@ -1,8 +1,7 @@
 {
-	"id": 210058,
 	"name": "Xiao: Maschera",
 	"description": "Stile per la carta giocatore.\nBrama ardentemente il giorno in cui potrà mettersi la maschera e danzare, non per vincere i demoni, ma per seguire la melodia di quel flauto in mezzo a un mare di fiori.",
-	"sortOrder": 210058,
+	"sortorder": 210058,
 	"source": [
 		"Ricompensa per aver raggiunto il liv. amicizia 10 con Xiao"
 	]

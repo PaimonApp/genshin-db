@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Quạ Đen Hay Hoét Đen?",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1409,
-=======
-	"id": [
-		81425
-	],
-	"name": "Quạ Đen Hay Hoét Đen?",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1409,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Quạ Đen Hay Hoét Đen?",
 		"description": "Là Chim Bồ Nông!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

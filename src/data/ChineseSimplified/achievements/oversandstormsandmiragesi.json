@@ -1,11 +1,7 @@
 {
-	"id": [
-		80180
-	],
 	"name": "越过沙暴与蜃气楼·其一",
-	"achievementGroupId": 35,
-	"achievementGroupName": "须弥·饰金砂原·其之一",
-	"sortOrder": 180,
+	"achievementgroup": "须弥·饰金砂原·其之一",
+	"sortorder": 180,
 	"stages": 1,
 	"stage1": {
 		"title": "越过沙暴与蜃气楼·其一",
@@ -13,7 +9,6 @@
 		"description": "解锁须弥区域中，列柱沙原 、上风蚀地、下风蚀地所有传送锚点。",
 		"progress": 27,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}

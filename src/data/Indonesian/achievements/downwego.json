@@ -1,13 +1,7 @@
 {
-	"id": [
-		82044,
-		82045,
-		82046
-	],
 	"name": "Penjelajah Kedalaman",
-	"achievementGroupId": 9,
-	"achievementGroupName": "Domain dan Spiral Abyss: Seri I",
-	"sortOrder": 2044,
+	"achievementgroup": "Domain dan Spiral Abyss: Seri I",
+	"sortorder": 2044,
 	"stages": 3,
 	"stage1": {
 		"title": "Penjelajah Kedalaman",
@@ -15,7 +9,6 @@
 		"description": "Selesaikan Spiral Abyss Lt. 4.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Selesaikan Spiral Abyss Lt. 8.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Selesaikan Spiral Abyss Lt. 12.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

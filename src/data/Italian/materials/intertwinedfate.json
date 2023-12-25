@@ -1,15 +1,9 @@
 {
-	"id": 223,
 	"name": "Destino intrecciato",
-	"rarity": 5,
-	"sortRank": 410003,
 	"description": "Un pietra del destino che collega i sogni.\nLa luce che emana riesce a intrecciare i destini, a mettere in comunicazione i sogni e a unire le stelle dando forma ai desideri del cuore.",
-<<<<<<< HEAD
 	"sortorder": 4850,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Oggetto del desiderio limitato",
-	"sources": []
+	"materialtype": "Oggetto del desiderio limitato",
+	"source": []
 }

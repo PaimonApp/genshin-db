@@ -1,18 +1,14 @@
 {
-	"id": [
-		84553
-	],
 	"name": "Der Himmel ist hoch und die Erde ...",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 4077,
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 4077,
 	"stages": 1,
 	"stage1": {
 		"title": "Der Himmel ist hoch und die Erde ...",
 		"description": "Hilf Farghani bei der Messungsarbeit.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}

@@ -1,11 +1,8 @@
 {
-	"id": [
-		81121
-	],
 	"name": "İkinci Bahar",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1117,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1117,
 	"stages": 1,
 	"stage1": {
 		"title": "İkinci Bahar",
@@ -13,7 +10,6 @@
 		"description": "Hanayama Kaoru'nun hediyesini al.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

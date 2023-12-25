@@ -1,13 +1,8 @@
 {
-	"id": 100619,
 	"name": "生命力を吸収した龍牙",
-	"sortRank": 200,
 	"description": "生命力を吸収した龍牙。その光沢と質感は、人の心を不安にさせる…",
-<<<<<<< HEAD
 	"sortorder": 2777,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "素材",
-	"sources": []
+	"materialtype": "素材",
+	"source": []
 }

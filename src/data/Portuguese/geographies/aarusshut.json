@@ -1,11 +1,8 @@
 {
-	"id": 70400025,
 	"name": "Reflexão de Aaru",
-	"areaId": 4801,
-	"areaName": "Mausoléu do Rei Deshret",
+	"area": "Mausoléu do Rei Deshret",
 	"description": "No topo do Mausoléu do Rei Deshret não há um tesouro cobiçado, nem câmaras cobertas com gemas, apenas a desolação e decadência que não diferem do deserto, apenas fagulhas de um sonho ambicioso.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 325
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 325
 }

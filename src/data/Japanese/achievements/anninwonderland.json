@@ -1,11 +1,7 @@
 {
-	"id": [
-		80266
-	],
 	"name": "不思議の国のアン",
-	"achievementGroupId": 42,
-	"achievementGroupName": "フォンテーヌ·澄み渡った白露の泉舞·1",
-	"sortOrder": 246,
+	"achievementgroup": "フォンテーヌ·澄み渡った白露の泉舞·1",
+	"sortorder": 246,
 	"stages": 1,
 	"stage1": {
 		"title": "不思議の国のアン",
@@ -13,7 +9,6 @@
 		"description": "水仙十字冒険団のストーリーをクリアする。",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 10
 		}

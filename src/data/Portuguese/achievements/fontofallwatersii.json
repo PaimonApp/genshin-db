@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Fonte de Todas as Águas II",
 	"achievementgroup": "Fontaine: Dança das Fontes Brancas de Orvalho II",
 	"sortorder": 249,
-=======
-	"id": [
-		80273
-	],
-	"name": "Fonte de Todas as Águas II",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho II",
-	"sortOrder": 249,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Fonte de Todas as Águas II",
 		"description": "Desbloqueie os Pontos de Teleporte nas seguintes áreas em Fontaine: Região Liffey e Área do Instituto de Pesquisas de Engenharia de Energia Cinética de Fontaine.",
 		"progress": 22,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

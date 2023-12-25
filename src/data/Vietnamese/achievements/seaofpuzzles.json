@@ -1,18 +1,14 @@
 {
-	"id": [
-		81164
-	],
 	"name": "Vùng Biển Trí Tuệ",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1150,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1150,
 	"stages": 1,
 	"stage1": {
 		"title": "Vùng Biển Trí Tuệ",
 		"description": "Mở một loạt cơ quan trên Đảo Seirai.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

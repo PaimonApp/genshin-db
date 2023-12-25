@@ -59,10 +59,6 @@
 		"celebrationvastness": "Feierlichkeit – Unermesslichkeit",
 		"celebrationwondrouscalculation": "Feierlichkeit – Erstaunliche Voraussicht",
 		"charlotteexclusive": "Charlotte – Exklusiv",
-<<<<<<< HEAD
-=======
-		"chevreusetypeii": "Chevreuse – Typ II",
->>>>>>> upstream/main
 		"childefoullegacy": "Graf – Dämonengewand",
 		"chongyunspiritblade": "Chongyun – Seelenklinge",
 		"colleigoodvirtue": "Collei – Tugend",
@@ -119,10 +115,6 @@
 		"mondstadtherosfame": "Mondstadt – Heldenruhm",
 		"mondstadtwhistlingwind": "Mondstadt – Rauschen des Windes",
 		"nahidacrescent": "Nahida – Sichelmond",
-<<<<<<< HEAD
-=======
-		"naviarosula": "Navia – Rosula",
->>>>>>> upstream/main
 		"neuvillettesurge": "Neuvillette – Welle",
 		"niloulotusdance": "Nilou – Lotostanz",
 		"ningguangphoenix": "Ningguang – Phönix",
@@ -169,7 +161,6 @@
 		"travelnotessecrets": "Erlebnispass – Kodex",
 		"travelnotesstellarrivers": "Erlebnispass – Milchstraße",
 		"travelnotessubspacerecreation": "Erlebnispass – Raumschaffung",
-		"travelnotestimeinscribed": "Erlebnispass – Zeitgravur",
 		"travelnotesvividillumination": "Erlebnispass – Farbenquell",
 		"travelnoteswhirlingwaltz": "Erlebnispass – Wirbeltanz",
 		"travelnoteswindblume": "Erlebnispass – Windblumen",
@@ -249,10 +240,6 @@
 		"Feierlichkeit – Unermesslichkeit": "celebrationvastness",
 		"Feierlichkeit – Erstaunliche Voraussicht": "celebrationwondrouscalculation",
 		"Charlotte – Exklusiv": "charlotteexclusive",
-<<<<<<< HEAD
-=======
-		"Chevreuse – Typ II": "chevreusetypeii",
->>>>>>> upstream/main
 		"Graf – Dämonengewand": "childefoullegacy",
 		"Chongyun – Seelenklinge": "chongyunspiritblade",
 		"Collei – Tugend": "colleigoodvirtue",
@@ -309,10 +296,6 @@
 		"Mondstadt – Heldenruhm": "mondstadtherosfame",
 		"Mondstadt – Rauschen des Windes": "mondstadtwhistlingwind",
 		"Nahida – Sichelmond": "nahidacrescent",
-<<<<<<< HEAD
-=======
-		"Navia – Rosula": "naviarosula",
->>>>>>> upstream/main
 		"Neuvillette – Welle": "neuvillettesurge",
 		"Nilou – Lotostanz": "niloulotusdance",
 		"Ningguang – Phönix": "ningguangphoenix",
@@ -359,7 +342,6 @@
 		"Erlebnispass – Kodex": "travelnotessecrets",
 		"Erlebnispass – Milchstraße": "travelnotesstellarrivers",
 		"Erlebnispass – Raumschaffung": "travelnotessubspacerecreation",
-		"Erlebnispass – Zeitgravur": "travelnotestimeinscribed",
 		"Erlebnispass – Farbenquell": "travelnotesvividillumination",
 		"Erlebnispass – Wirbeltanz": "travelnoteswhirlingwaltz",
 		"Erlebnispass – Windblumen": "travelnoteswindblume",

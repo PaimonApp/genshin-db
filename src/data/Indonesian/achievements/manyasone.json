@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Bersatu Kita Teguh",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 2186,
-=======
-	"id": [
-		82187
-	],
-	"name": "Bersatu Kita Teguh",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 2186,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Bersatu Kita Teguh",
 		"description": "Hentikan Hydro Tulpa menyerap Half-Tulpa 2 kali dalam satu tantangan.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

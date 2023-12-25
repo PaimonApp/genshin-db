@@ -1,22 +1,15 @@
 {
-	"id": 104316,
 	"name": "Teachings of Gold",
-	"rarity": 2,
-	"sortRank": 13106,
 	"description": "Talent Level-Up material.\nGold is the symbol of the land of Geo.\nGold is the blood that flows deep within Liyue's veins, the muscle that makes up Liyue's beating heart, and the bones that make Liyue stand proud.",
-<<<<<<< HEAD
 	"sortorder": 3234,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character Talent Material",
-	"dropDomainId": 5262,
-	"dropDomainName": "Domain of Mastery: Circle of Embers",
-	"daysOfWeek": [
+	"materialtype": "Character Talent Material",
+	"dropdomain": "Domain of Mastery: Circle of Embers",
+	"daysofweek": [
 		"Wednesday",
 		"Saturday",
 		"Sunday"
 	],
-	"sources": []
+	"source": []
 }

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Visitante do Aquário",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 5083,
-=======
-	"id": [
-		84304
-	],
-	"name": "Visitante do Aquário",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 5083,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Visitante do Aquário",
 		"description": "Após concluir toda a papelada, vá à Fortaleza Meropide.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

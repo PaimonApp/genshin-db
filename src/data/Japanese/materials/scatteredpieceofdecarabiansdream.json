@@ -1,24 +1,17 @@
 {
-	"id": 114004,
 	"name": "高塔の王の砕けた夢",
-	"rarity": 5,
-	"sortRank": 15101,
 	"description": "武器に突破の力を付与する材料。\n衆人が高塔の王に対する拝礼は崇拝のためではなく、その烈風に吹かれて立ち上がることができなかったのである。これはバルバトスが頭角を現す前に、風神の一柱の野心と砕けた夢である。\n全力で夢を見たからか、夢の欠片にも強い力がある。",
-<<<<<<< HEAD
 	"sortorder": 3277,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "武器突破素材",
-	"dropDomainId": 4313,
-	"dropDomainName": "煉武秘境：水光の城",
-	"daysOfWeek": [
+	"materialtype": "武器突破素材",
+	"dropdomain": "煉武秘境：水光の城",
+	"daysofweek": [
 		"月曜",
 		"木曜",
 		"日曜"
 	],
-	"sources": [
+	"source": [
 		"合成で獲得"
 	]
 }

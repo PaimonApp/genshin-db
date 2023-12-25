@@ -1,11 +1,7 @@
 {
-	"id": [
-		80067
-	],
 	"name": "寒天の釘",
-	"achievementGroupId": 16,
-	"achievementGroupName": "雪山の来客",
-	"sortOrder": 67,
+	"achievementgroup": "雪山の来客",
+	"sortorder": 67,
 	"stages": 1,
 	"stage1": {
 		"title": "寒天の釘",
@@ -13,7 +9,6 @@
 		"description": "「奇妙な柱」を立てる。",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 10
 		}

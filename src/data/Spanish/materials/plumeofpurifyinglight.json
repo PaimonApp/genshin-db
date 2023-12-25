@@ -1,13 +1,8 @@
 {
-	"id": 107022,
 	"name": "Pluma lumiprístina",
-	"sortRank": 420021,
 	"description": "Un fragmento de la jvarena que contiene recuerdos de antaño.",
-<<<<<<< HEAD
 	"sortorder": 4890,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumible",
-	"sources": []
+	"materialtype": "Consumible",
+	"source": []
 }

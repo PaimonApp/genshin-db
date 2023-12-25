@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Cassoulet",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gerichte für Verteidigung",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3414,
-	"name": "Cassoulet",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Gerichte für Verteidigung",
->>>>>>> upstream/main
 	"effect": "Erhöht die Schildeffizienz aller Truppenmitglieder 300 s lang um 20 bis 30 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Ein einfacher Bauerneintopf. Alle Zutaten einfach in eine Kasserolle rein, kochen und guten Appetit! Bemerkenswert ist der vollständige Name dieses Gerichts: Cassoulet-Topf aus kahlen Bohnen mit Confit-Geflügel-Auflauf und geräucherter Wurst mit Marcotte. Nicht gerade der griffigste Name, also nennt man es einfach Cassoulet.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 110011,
->>>>>>> upstream/main
 			"name": "Wurst",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100064,
->>>>>>> upstream/main
 			"name": "Rohes Geflügel",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100096,
->>>>>>> upstream/main
 			"name": "Kahle Bohnen",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

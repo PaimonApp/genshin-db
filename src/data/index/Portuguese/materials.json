@@ -492,14 +492,9 @@
 		"sumerurose": "Rosa de Sumeru",
 		"sunsetcloudangler": "Peixe Bola das Nuvens Crepusculares",
 		"sunsettia": "Fruto do Pôr do Sol",
-<<<<<<< HEAD
-=======
-		"superduperinvincibleshiningsparklymagiccrystal": "Cristal Mágico Super-Ultra Brilhante Reluzente Imbatível",
->>>>>>> upstream/main
 		"surgingsacredchalice": "Cálice da Surgente Sagrada",
 		"sweetflower": "Flor Doce",
 		"sweetflowermedaka": "Flor Doce Medaka",
-		"swirlingsceneinabottle": "Paisagem no Frasco Giratório",
 		"tailofboreas": "Cauda do Vento do Norte",
 		"teachingsofadmonition": "Ensinamentos de Admoestações",
 		"teachingsofballad": "Ensinamentos de Poemas",
@@ -1065,14 +1060,9 @@
 		"Rosa de Sumeru": "sumerurose",
 		"Peixe Bola das Nuvens Crepusculares": "sunsetcloudangler",
 		"Fruto do Pôr do Sol": "sunsettia",
-<<<<<<< HEAD
-=======
-		"Cristal Mágico Super-Ultra Brilhante Reluzente Imbatível": "superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 		"Cálice da Surgente Sagrada": "surgingsacredchalice",
 		"Flor Doce": "sweetflower",
 		"Flor Doce Medaka": "sweetflowermedaka",
-		"Paisagem no Frasco Giratório": "swirlingsceneinabottle",
 		"Cauda do Vento do Norte": "tailofboreas",
 		"Ensinamentos de Admoestações": "teachingsofadmonition",
 		"Ensinamentos de Poemas": "teachingsofballad",
@@ -1527,13 +1517,7 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
-<<<<<<< HEAD
 			"surgingsacredchalice",
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
-			"surgingsacredchalice",
-			"swirlingsceneinabottle",
->>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1865,7 +1849,6 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
-			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2232,10 +2215,6 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2489,10 +2468,6 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3060,8 +3035,7 @@
 			"lightrealmsigil",
 			"naturestruefruit",
 			"plumeofpurifyinglight",
-			"silkenprint",
-			"swirlingsceneinabottle"
+			"silkenprint"
 		],
 		"Domínio da Forja: Nuvens Contaminadas": [
 			"coppertalismanoftheforestdew",
@@ -3362,11 +3336,11 @@
 	},
 	"properties": {
 		"rarity": [
-			3,
-			5,
-			1,
-			2,
-			4
+			"3",
+			"5",
+			"1",
+			"2",
+			"4"
 		],
 		"category": [
 			"EXCHANGE",
@@ -3381,7 +3355,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"typeText": [
+		"materialtype": [
 			"Peixe",
 			"Item de Oração",
 			"Alimento",
@@ -3423,7 +3397,7 @@
 			"Material da Montanha Nevada",
 			"Item"
 		],
-		"dropDomainName": [
+		"dropdomain": [
 			"Domínio da Forja: Campo de Julgamento dos Trovões",
 			"Domínio da Forja: Vale Submerso",
 			"Domínio da Forja: Mecanismos Engenhosos",
@@ -3455,7 +3429,7 @@
 			"Domínio da Forja: Altar da Areia",
 			"Domínio da Forja: Obsessão"
 		],
-		"daysOfWeek": [
+		"daysofweek": [
 			"Quarta-feira",
 			"Sábado",
 			"Domingo",

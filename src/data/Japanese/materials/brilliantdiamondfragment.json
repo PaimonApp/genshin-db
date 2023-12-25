@@ -1,17 +1,11 @@
 {
-	"id": 104102,
 	"name": "輝くダイヤ·欠片",
-	"rarity": 3,
-	"sortRank": 12101,
 	"description": "キャラクターの突破用アイテム。\n「世界へようこそ。」",
-<<<<<<< HEAD
 	"sortorder": 3187,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "キャラクター突破素材",
-	"sources": [
+	"materialtype": "キャラクター突破素材",
+	"source": [
 		"冒険ランク報酬"
 	]
 }

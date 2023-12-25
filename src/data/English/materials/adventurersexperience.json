@@ -1,12 +1,11 @@
 {
-	"id": 104002,
 	"name": "Adventurer's Experience",
-	"rarity": 3,
-	"sortRank": 100,
 	"description": "Character EXP material. Gives 5000 EXP.\nThese experiences are very beneficial for journeys into the unknown.",
+	"sortorder": 2771,
+	"rarity": "3",
 	"category": "EXP_FRUIT",
-	"typeText": "Character EXP Material",
-	"sources": [
+	"materialtype": "Character EXP Material",
+	"source": [
 		"Adventure and Exploration Reward",
 		"Blossom of Revelation Revitalization Reward"
 	]

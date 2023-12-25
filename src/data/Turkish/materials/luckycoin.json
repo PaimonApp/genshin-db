@@ -1,15 +1,9 @@
 {
-	"id": 107021,
 	"name": "Şans Parası",
-	"rarity": 3,
-	"sortRank": 410021,
 	"description": "Dehanın Yakarışı Kart Oyunu Oyuncular Birliği tarafından tanınan ve kullanılan para birimi. Dehanın Yakarışı Kart Oyunuyla ilgili çeşitli eşyalar satın almak için kullanılabilir. İlk başta, taşıyana şans getirsin diye böyle bir isim verildiği söylenir. Belki de ona sahip olabilenler zaten yeterince şanslı olanlardır...",
-<<<<<<< HEAD
 	"sortorder": 4865,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sarf Malzemeleri",
-	"sources": []
+	"materialtype": "Sarf Malzemeleri",
+	"source": []
 }

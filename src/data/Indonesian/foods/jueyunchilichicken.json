@@ -1,10 +1,9 @@
 {
-	"id": 2102,
 	"name": "Jueyun Chili Chicken",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Makanan Penyerangan",
+	"foodfilter": "Makanan Penyerangan",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Meningkatkan 6%-12% CRIT Rate seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Ayam dingin dicampur dengan saus. Teknik mahir yang digunakan untuk mencampur hidangannya mempertahankan kesegaran ayamnya. Kulit ayamnya yang keemasan menyembunyikan rasa yang agak pedas di dalamnya.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100064,
 			"name": "Fowl",
 			"count": 2
 		},
 		{
-			"id": 100027,
 			"name": "Jueyun Chili",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "Pepper",
 			"count": 1
 		}

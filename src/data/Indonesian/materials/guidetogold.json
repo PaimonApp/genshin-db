@@ -1,24 +1,17 @@
 {
-	"id": 104317,
 	"name": "Guide to \"Gold\"",
-	"rarity": 3,
-	"sortRank": 13106,
 	"description": "Material Penguatan Talenta.\nEmas adalah simbol tanah bumi.\nEmas melambangkan konversi. Kepahaman yang tidak perlu diucapkan antara gunung, tanah, kota, dan rakyat Liyue. Di Liyue, ketekunan diubah menjadi emas, dan emas diubah menjadi kemakmuran.",
-<<<<<<< HEAD
 	"sortorder": 3233,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Talenta Karakter",
-	"dropDomainId": 5263,
-	"dropDomainName": "Domain of Mastery: Lingkaran Bara Api",
-	"daysOfWeek": [
+	"materialtype": "Material Talenta Karakter",
+	"dropdomain": "Domain of Mastery: Lingkaran Bara Api",
+	"daysofweek": [
 		"Rabu",
 		"Sabtu",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

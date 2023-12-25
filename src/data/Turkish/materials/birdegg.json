@@ -1,15 +1,10 @@
 {
-	"id": 100062,
 	"name": "Kuş Yumurtası",
-	"sortRank": 321,
 	"description": "Günlük tüm protein ihtiyacını karşılayabilecek çok yönlü muhteşem bir malzeme.",
-<<<<<<< HEAD
 	"sortorder": 2913,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Doğada bulunur."
 	]
 }

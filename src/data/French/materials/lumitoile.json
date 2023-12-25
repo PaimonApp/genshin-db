@@ -1,20 +1,10 @@
 {
-<<<<<<< HEAD
 	"name": "Sombrétoile",
 	"description": "Un animal au corps mou qui émet une faible lumière. On en trouve souvent en train d'escalader les murs des bâtiments près de l'eau ou sous l'eau.",
 	"sortorder": 2884,
 	"category": "EXCHANGE",
 	"materialtype": "Produit de Fontaine",
 	"source": [
-=======
-	"id": 101237,
-	"name": "Sombrétoile",
-	"sortRank": 315,
-	"description": "Un animal au corps mou qui émet une faible lumière. On en trouve souvent en train d'escalader les murs des bâtiments près de l'eau ou sous l'eau.",
-	"category": "EXCHANGE",
-	"typeText": "Produit de Fontaine",
-	"sources": [
->>>>>>> upstream/main
 		"Dans la nature",
 		"Zone conseillée : Région de Liffey"
 	]

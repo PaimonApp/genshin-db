@@ -1,10 +1,7 @@
 {
-	"id": 70400010,
 	"name": "The Rain's End",
-	"areaId": 4406,
 	"description": "\"There is no rain here, and yet it is the birthplace of rain. The purification of Vana rains begins — and ends — here.\"",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 310
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 310
 }

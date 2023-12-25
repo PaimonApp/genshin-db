@@ -1,11 +1,8 @@
 {
-	"id": [
-		81005
-	],
 	"name": "Любимец Анемо Архонта",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1005,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1005,
 	"stages": 1,
 	"stage1": {
 		"title": "Любимец Анемо Архонта",
@@ -13,7 +10,6 @@
 		"description": "Присядьте на руках статуи Барбатоса в Мондштадте.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

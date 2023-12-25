@@ -1,13 +1,7 @@
 {
-	"id": [
-		82044,
-		82045,
-		82046
-	],
 	"name": "Vers les profondeurs et au-delà",
-	"achievementGroupId": 9,
-	"achievementGroupName": "Donjons et Profondeurs spiralées - Partie I",
-	"sortOrder": 2044,
+	"achievementgroup": "Donjons et Profondeurs spiralées - Partie I",
+	"sortorder": 2044,
 	"stages": 3,
 	"stage1": {
 		"title": "Vers les profondeurs et au-delà",
@@ -15,7 +9,6 @@
 		"description": "Terminez 4 étages des Profondeurs spiralées.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Terminez 8 étages des Profondeurs spiralées.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Terminez 12 étages des Profondeurs spiralées.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

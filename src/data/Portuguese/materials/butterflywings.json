@@ -1,15 +1,10 @@
 {
-	"id": 100072,
 	"name": "Asas de Borboleta",
-	"sortRank": 320,
 	"description": "Asas coloridas. O pó que cai deles brilha um pouco. Talvez seja isso que lhes permita voar?",
-<<<<<<< HEAD
 	"sortorder": 2892,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza"
 	]
 }

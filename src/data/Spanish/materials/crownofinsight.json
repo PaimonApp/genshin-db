@@ -1,17 +1,11 @@
 {
-	"id": 104319,
 	"name": "Corona de la sabiduría",
-	"rarity": 5,
-	"sortRank": 14101,
 	"description": "Un valioso material para mejorar los talentos.\nEste objeto guarda y transmite los conocimientos de la antigüedad. Aunque en la actualidad estos se encuentran en los textos antiguos y en las propias personas, esta Corona de la sabiduría aún es capaz de otorgar a su portador un gran poder y sabiduría.",
-<<<<<<< HEAD
 	"sortorder": 3262,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de talento de personaje",
-	"sources": [
+	"materialtype": "Material de talento de personaje",
+	"source": [
 		"Recompensa de evento de tiempo limitado"
 	]
 }

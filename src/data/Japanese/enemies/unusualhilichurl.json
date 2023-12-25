@@ -1,21 +1,17 @@
 {
-	"id": 21011501,
 	"name": "変わったヒルチャール",
-	"specialName": "別荘の災い",
-	"enemyType": "COMMON",
+	"specialname": "別荘の災い",
+	"enemytype": "COMMON",
 	"category": "ヒルチャール部族",
 	"description": "「Homu, Homu, mimi domu!」",
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "冒険経験"
 		},
 		{
-			"id": 202,
 			"name": "モラ"
 		},
 		{
-			"id": 100018,
 			"name": "キャベツ"
 		}
 	]

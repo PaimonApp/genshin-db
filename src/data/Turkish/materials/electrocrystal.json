@@ -1,15 +1,10 @@
 {
-	"id": 100054,
 	"name": "Elektrik Kristali",
-	"sortRank": 320,
 	"description": "Etrafındaki havadan elektrik çeken, elektrik gücü açısından zengin bir kristal. Dokunmak elini uyuşturur.",
-<<<<<<< HEAD
 	"sortorder": 2891,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Uçurumların altında bulunur.",
 		"Öneri: Yemin Burnu'nda bulunur."
 	]

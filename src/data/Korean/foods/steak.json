@@ -1,10 +1,9 @@
 {
-	"id": 1004,
 	"name": "스테이크",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "회복류 요리",
+	"foodfilter": "회복류 요리",
+	"foodcategory": "Recovery_Revive",
 	"effect": "선택한 캐릭터를 부활시킨다\nHP를 50-150pt 회복한다",
 	"description": "구워진 스테이크. 레스팅을 거쳐 풍부한 육즙을 머금고 있다. 썰면 육즙이 흐를 것 같다",
 	"suspicious": {
@@ -21,7 +20,6 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "짐승고기",
 			"count": 2
 		}

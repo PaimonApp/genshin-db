@@ -1,19 +1,12 @@
 {
-	"id": 101318,
 	"name": "Mallow Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Wood from the Mallow Tree. With a tough core, it is suitable for building the foundations and frames of houses. It is easy to craft and process, so it takes relatively less manual labor to produce beautiful furniture.\nCan be used to create furnishings.",
-<<<<<<< HEAD
 	"sortorder": 2977,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
-		"Recommendation: Cut from the wilds of Fontaine",
-		"Convert Wood"
+		"Recommendation: Cut from the wilds of Fontaine"
 	]
 }

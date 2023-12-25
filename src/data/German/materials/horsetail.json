@@ -1,15 +1,10 @@
 {
-	"id": 100032,
 	"name": "Pferdeschwanz",
-	"sortRank": 320,
 	"description": "Eine violette Pflanze, die hin und wieder zwischen Schilf wächst und sich von diesem groß und aufrecht abhebt, als wollte sie ihre Erhabenheit demonstrieren.",
-<<<<<<< HEAD
 	"sortorder": 2888,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Auf Schilffeldern und in Feuchtgebieten zu finden",
 		"Empfohlen: Im Dihua-Moor zu finden"
 	]

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Recuerdos del ayer",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1385,
-=======
-	"id": [
-		81401
-	],
-	"name": "Recuerdos del ayer",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1385,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Recuerdos del ayer",
 		"description": "Los días pasados pertenecen al pasado...",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

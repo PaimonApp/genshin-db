@@ -1,15 +1,10 @@
 {
-	"id": 101233,
 	"name": "Fiore di Romaritime",
-	"sortRank": 315,
 	"description": "Un fiore blu etereo e raffinato. I suoi petali teneri, elastici e in grado di assorbire l'acqua lo rendono un materiale ideale per svariate necessità quotidiane.",
-<<<<<<< HEAD
 	"sortorder": 2881,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Specialità di Fontaine",
-	"sources": [
+	"materialtype": "Specialità di Fontaine",
+	"source": [
 		"Presente in natura",
 		"Consiglio: si trova sulla Pianura di Salacia"
 	]

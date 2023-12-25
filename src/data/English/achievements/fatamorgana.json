@@ -1,11 +1,8 @@
 {
-	"id": [
-		81267
-	],
 	"name": "Fata Morgana",
-	"achievementGroupName": "Wonders of the World",
-	"isHidden": true,
-	"sortOrder": 1253,
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1253,
 	"stages": 1,
 	"stage1": {
 		"title": "Fata Morgana",
@@ -13,7 +10,6 @@
 		"description": "The way to the throne has finally been revealed.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

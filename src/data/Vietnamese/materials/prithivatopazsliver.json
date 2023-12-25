@@ -1,17 +1,11 @@
 {
-	"id": 104171,
 	"name": "Vụn Hoàng Ngọc Cứng",
-	"rarity": 2,
-	"sortRank": 12108,
 	"description": "Nguyên Liệu Đột Phá Nhân Vật",
-<<<<<<< HEAD
 	"sortorder": 3216,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
+	"source": [
 		"Nham Nguyên Bản rơi",
 		"Vua Thú Hoàng Kim rơi",
 		"Mãng Xà Di Tích rơi",

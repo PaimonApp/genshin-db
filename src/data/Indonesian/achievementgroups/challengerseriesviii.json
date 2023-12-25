@@ -1,15 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Penantang: Seri VIII",
 	"sortorder": 21,
 	"reward": {
-=======
-	"id": 40,
-	"name": "Penantang: Seri VIII",
-	"sortOrder": 21,
-	"reward": {
-		"id": 210178,
->>>>>>> upstream/main
 		"name": "Achievement: Perpetual"
 	}
 }

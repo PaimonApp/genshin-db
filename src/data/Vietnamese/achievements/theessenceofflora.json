@@ -1,11 +1,7 @@
 {
-	"id": [
-		80175
-	],
 	"name": "Tinh Hoa Cỏ Cây",
-	"achievementGroupId": 32,
-	"achievementGroupName": "Tuần Du Trần Thế - Phần III",
-	"sortOrder": 175,
+	"achievementgroup": "Tuần Du Trần Thế - Phần III",
+	"sortorder": 175,
 	"stages": 1,
 	"stage1": {
 		"title": "Tinh Hoa Cỏ Cây",
@@ -13,7 +9,6 @@
 		"description": "Nắm giữ sức mạnh nguyên tố \"Thảo\".",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

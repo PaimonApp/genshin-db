@@ -1,10 +1,9 @@
 {
-	"id": 2403,
 	"name": "Tasses Ragout",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Makanan Pemulihan",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Memulihkan 20–24% HP dan tambahan 900–1500 HP untuk Karakter yang dipilih.",
 	"description": "Ragout sayuran. Ini adalah hidangan bebas cara masak yang dibuat oleh petani Fontaine untuk merayakan panen sayuran. Tidak ada resep mutlak untuk jumlah bahan ataupun metode memasaknya. Mau digoreng ataupun dipanggang, hidangan ini selalu berhasil menghadirkan kesederhanaan yang nikmat.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100079,
 			"name": "Tomato",
 			"count": 3
 		},
 		{
-			"id": 100076,
 			"name": "Onion",
 			"count": 3
 		},
 		{
-			"id": 100075,
 			"name": "Salt",
 			"count": 2
 		}

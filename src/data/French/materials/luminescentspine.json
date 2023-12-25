@@ -1,15 +1,10 @@
 {
-	"id": 100082,
 	"name": "Abdomen luminescent",
-	"sortRank": 320,
 	"description": "Partie émettrice de lumière chez une luciole qui permet de séduire en période de reproduction. Son ingestion améliore la force chez les humains.",
-<<<<<<< HEAD
 	"sortorder": 2894,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Matériau",
-	"sources": [
+	"materialtype": "Matériau",
+	"source": [
 		"Dans la nature"
 	]
 }

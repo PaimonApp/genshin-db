@@ -1,10 +1,9 @@
 {
-	"id": 2107,
 	"name": "Altın Karides Köftesi",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Seçili karakteri diriltir.\n900 ila 1.500 Can yeniler.",
 	"description": "Çıtır karides köfte. Çıtır patatesler karideslerin hafif tatlılığını ortaya çıkarırken yemeğin kendine has aroması tüm duyularını ele geçiriyor. Minik tatlı karideslerle hazırlanan bu yemek baştan çıkarıcı bir görünüme sahip.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100093,
 			"name": "Karides",
 			"count": 5
 		},
 		{
-			"id": 100080,
 			"name": "Patates",
 			"count": 4
 		},
 		{
-			"id": 110001,
 			"name": "Un",
 			"count": 3
 		}

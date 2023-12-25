@@ -1,15 +1,10 @@
 {
-	"id": 101211,
 	"name": "Melão de Lavanda",
-	"sortRank": 321,
 	"description": "Uma fruta de cores vivas. Ela pode ser transformada em comida e causa uma sensação única na boca quando cozida.",
-<<<<<<< HEAD
 	"sortorder": 2938,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Encontrado na Natureza de Inazuma"
 	]
 }

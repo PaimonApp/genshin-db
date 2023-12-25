@@ -1,10 +1,9 @@
 {
-	"id": 2211,
 	"name": "Katsu Sandviçi",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Saldırı Artırıcı Yemek",
+	"foodfilter": "Saldırı Artırıcı Yemek",
+	"foodcategory": "Atk_Add",
 	"effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 66 ila 95 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Besin açısından dengeli bir yiyecek. İki dilim ekmeğin arasında kalın bir katsu parçası yer alır. Kokulu, hafif tatlı ekşi sos bu sandviçin fazla ağır olmasını önleyen önemli bir malzemedir. Yabancı mutfakları yerel lezzetlerle birleştiren muhteşem bir yiyecek!",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Un",
 			"count": 3
 		},
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 2
 		},
 		{
-			"id": 100018,
 			"name": "Lahana",
 			"count": 1
 		}

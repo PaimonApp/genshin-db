@@ -1,23 +1,11 @@
 {
-	"id": 112054,
 	"name": "Spectral Heart",
-	"rarity": 2,
-	"sortRank": 10118,
 	"description": "แกนพลังงานที่ช่วยให้ Specter ลอยได้\nสิ่งมีชีวิตธาตุชนิดนี้ดูเหมือนจะมีนิสัยแปลก ๆ พวกมันจะโผล่มาเป็นกลุ่มใหญ่เป็นระยะ แล้วก็หายไป",
-<<<<<<< HEAD
 	"sortorder": 3085,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "วัสดุยกระดับตัวละครและอาวุธ",
 	"source": [
 		"ได้รับจากการสรรสร้าง"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "วัสดุยกระดับตัวละครและอาวุธ",
-	"sources": [
-		"ได้รับจากการสรรสร้าง",
-		"ดรอปจาก Specter Lv.40 ขึ้นไป",
-		"แลกเปลี่ยนด้วย Stardust"
->>>>>>> upstream/main
 	]
 }

@@ -1,10 +1,9 @@
 {
-	"id": 2210,
 	"name": "Macarrão Udon",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Regenera o personagem selecionado.\nRestaura 250 - 550 de Vida.",
 	"description": "Macarrão com muita elasticidade. Depois de muito amassar, o resultado é um macarrão macio e sedoso. Ao contrário de ramen, que usa sabores intensos, o macarrão udon usa sabores suaves para apaziguar o espírito das pessoas de Inazuma.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Farinha",
 			"count": 3
 		},
 		{
-			"id": 101210,
 			"name": "Erva Marinha",
 			"count": 1
 		},
 		{
-			"id": 100084,
 			"name": "Peixe",
 			"count": 1
 		}

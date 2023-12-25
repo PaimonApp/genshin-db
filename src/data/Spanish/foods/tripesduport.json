@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Callos a la portuaria",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que regeneran Vida",
 	"foodcategory": "Recovery_Revive",
-=======
-	"id": 3411,
-	"name": "Callos a la portuaria",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Platos que regeneran Vida",
->>>>>>> upstream/main
 	"effect": "Revive al personaje seleccionado.\nRestaura 900-1500 pts. de Vida.",
 	"description": "Un plato hecho a base de vísceras. Los ingredientes se cortan en trozos, se ponen en una sartén, se sellan con masa y se hornean. Este método de preparación tiene su origen en cierta ciudad portuaria, cuya historia hace tiempo que fue engullida por la crecida del mar, pero el manjar se ha transmitido en Fontaine.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Carne cruda",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100013,
->>>>>>> upstream/main
 			"name": "Zanahoria",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "Cebolla",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100099,
->>>>>>> upstream/main
 			"name": "Jugo fermentado",
 			"count": 1
 		}

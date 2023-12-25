@@ -1,18 +1,14 @@
 {
-	"id": [
-		82063
-	],
 	"name": "Получай, цветок-переросток!",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2063,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2063,
 	"stages": 1,
 	"stage1": {
 		"title": "Получай, цветок-переросток!",
 		"description": "Одолейте Крио папоротник, не уничтожая его венчик.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}

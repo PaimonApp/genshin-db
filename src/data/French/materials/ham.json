@@ -1,15 +1,10 @@
 {
-	"id": 110005,
 	"name": "Jambon",
-	"sortRank": 322,
 	"description": "Une cuisse d'animal cuite pour en améliorer la conservation. Même la plus fine des tranches est pleine de saveur.",
-<<<<<<< HEAD
 	"sortorder": 2951,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Cuisine (préparation)"
 	]
 }

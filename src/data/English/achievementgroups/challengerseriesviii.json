@@ -1,9 +1,7 @@
 {
-	"id": 40,
 	"name": "Challenger: Series VIII",
-	"sortOrder": 21,
+	"sortorder": 21,
 	"reward": {
-		"id": 210178,
 		"name": "Achievement: Perpetual"
 	}
 }

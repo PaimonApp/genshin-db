@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Rüzgar Ajanı",
 	"specialname": "Anna",
 	"enemytype": "ELITE",
-=======
-	"id": 23060201,
-	"name": "Rüzgar Ajanı",
-	"specialName": "Anna",
-	"enemyType": "ELITE",
->>>>>>> upstream/main
 	"category": "Fatui",
 	"description": "Seçkin bir Fatui tetikçisi.\nFatui içindeki \"Ajanların\" sıradan askeri rütbeleri yoktur. Onlar aldıkları emirlere veya görev içeriklerine göre diğer askerlerle, kendi başlarına veya Teyvat'ın dört bir yanına gizlenmiş \"muhbirlerle\" çalışırlar. Casusluk, karşı casusluk, korumalık, suikast ve diğer işlerle uğraşırlar. \"Ajanlar\", bu özel görevleri yerine getirmek için çeşitli sanat ve yetenekler de dahil olmak üzere tüm becerilerde ustalaşmak zorundadırlar.",
 	"investigation": {
@@ -16,42 +9,23 @@
 		"category": "Seçkin Düşmanlar",
 		"description": "Olağanüstü beceriye ve sarsılmaz iradeye sahip seçkin bir Fatui tetikçisi."
 	},
-<<<<<<< HEAD
 	"rewardpreview": [
 		{
 			"name": "Mora"
 		},
 		{
-=======
-	"rewardPreview": [
-		{
-			"id": 202,
-			"name": "Mora"
-		},
-		{
-			"id": 112092,
->>>>>>> upstream/main
 			"name": "Kıdemli Ajanın Cep Saati",
 			"count": 5.2526
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 112093,
->>>>>>> upstream/main
 			"name": "Ajanın Klasik Cep Saati",
 			"count": 1.4006
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 112094,
->>>>>>> upstream/main
 			"name": "Ajanın Vefası",
 			"count": 0.3502
 		},
 		{
-<<<<<<< HEAD
 			"name": "Vahşi Savaşçı",
 			"rarity": "3"
 		},
@@ -78,41 +52,6 @@
 		{
 			"name": "Sürgün",
 			"rarity": "4"
-=======
-			"id": 400022,
-			"name": "Vahşi Savaşçı",
-			"rarity": 3
-		},
-		{
-			"id": 400032,
-			"name": "Eğitmen",
-			"rarity": 3
-		},
-		{
-			"id": 400042,
-			"name": "Sürgün",
-			"rarity": 3
-		},
-		{
-			"id": 400062,
-			"name": "Gezgin Doktor",
-			"rarity": 3
-		},
-		{
-			"id": 400023,
-			"name": "Vahşi Savaşçı",
-			"rarity": 4
-		},
-		{
-			"id": 400033,
-			"name": "Eğitmen",
-			"rarity": 4
-		},
-		{
-			"id": 400043,
-			"name": "Sürgün",
-			"rarity": 4
->>>>>>> upstream/main
 		}
 	]
 }

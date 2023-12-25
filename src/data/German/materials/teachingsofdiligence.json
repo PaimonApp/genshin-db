@@ -1,22 +1,15 @@
 {
-	"id": 104313,
 	"name": "Lehren des „Fleißes“",
-	"rarity": 2,
-	"sortRank": 13105,
 	"description": "Material zum Verbessern von Talenten.\nFleiß ist die Grundlage des Reiches des Gesteins.\nDer Fleiß bringt die Menschen dazu, selbst die höchsten Berge und die tiefsten Gewässer zu bezwingen. Er gibt ihnen den Mut und die Kraft, nach Wohlstand und Gold zu streben.",
-<<<<<<< HEAD
 	"sortorder": 3231,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für Figurentalente",
-	"dropDomainId": 5258,
-	"dropDomainName": "Sphäre des Verständnisses: Grund der Flammen",
-	"daysOfWeek": [
+	"materialtype": "Material für Figurentalente",
+	"dropdomain": "Sphäre des Verständnisses: Grund der Flammen",
+	"daysofweek": [
 		"Dienstag",
 		"Freitag",
 		"Sonntag"
 	],
-	"sources": []
+	"source": []
 }

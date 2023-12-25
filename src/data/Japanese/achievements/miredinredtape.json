@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "The Man in Red Tape",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1379,
-=======
-	"id": [
-		81395
-	],
-	"name": "The Man in Red Tape",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1379,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "The Man in Red Tape",
 		"description": "フォンテーヌ科学院の「最終審査」をクリアする。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 100094,
 	"name": "Carne Fresca Fria",
-	"sortRank": 321,
 	"description": "Um tipo de carne fresca deliciosa incomum.\nEssa espécie de javali foi extinta há muito tempo e foi preservada pela temperaturas extremas da Espinha do Dragão. Para os amantes da gastronomia de Teyvat, isso é considerado um ingrediente sagrado.",
-<<<<<<< HEAD
 	"sortorder": 2931,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Dropado pelos animais"
 	]
 }

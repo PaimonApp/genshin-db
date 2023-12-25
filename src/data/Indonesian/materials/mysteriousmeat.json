@@ -1,15 +1,10 @@
 {
-	"id": 100097,
 	"name": "Mysterious Meat",
-	"sortRank": 321,
 	"description": "Sepotong daging segar yang tampaknya memancarkan aura misterius. Penasaran kan seperti apa rasanya kalau dicicipi?",
-<<<<<<< HEAD
 	"sortorder": 2934,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Dijatuhkan oleh hewan"
 	]
 }

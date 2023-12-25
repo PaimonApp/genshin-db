@@ -1,13 +1,7 @@
 {
-	"id": 26,
 	"name": "Inazuma: Die Inseln des Donners und der Ewigkeit – Teil 2",
-<<<<<<< HEAD
 	"sortorder": 35,
-=======
-	"sortOrder": 35,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210097,
 		"name": "Inazuma – Sangonomiya-Wappen"
 	}
 }

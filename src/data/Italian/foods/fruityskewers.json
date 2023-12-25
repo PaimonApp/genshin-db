@@ -1,24 +1,19 @@
 {
-	"id": 10000015,
 	"name": "Spiedino di frutta",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "SPECIALTY",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Piatti rigenerativi",
+	"foodfilter": "Piatti rigenerativi",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Ripristina un 16% dei PS max e 1.350 PS aggiuntivi del personaggio selezionato.",
 	"description": "La specialità di Kaeya. Uno spiedino gommoso che ha un ricco retrogusto dolce. Aspetta... È davvero odore di frutta?",
-	"baseDishId": 1001,
-	"baseDishName": "Spiedino di pollo e funghi",
-	"characterId": 10000015,
-	"characterName": "Kaeya",
+	"basedish": "Spiedino di pollo e funghi",
+	"character": "Kaeya",
 	"ingredients": [
 		{
-			"id": 100011,
 			"name": "Fungo",
 			"count": 1
 		},
 		{
-			"id": 100064,
 			"name": "Pollame",
 			"count": 1
 		}

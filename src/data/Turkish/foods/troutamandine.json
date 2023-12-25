@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Bademli Alabalık",
 	"rarity": "1",
 	"foodtype": "NORMAL",
 	"foodfilter": "İyileştirici Yemek",
 	"foodcategory": "Recovery_HpAddAll",
-=======
-	"id": 1402,
-	"name": "Bademli Alabalık",
-	"rarity": 1,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
->>>>>>> upstream/main
 	"effect": "Seçili karakterin Maks. Canını %8 ila %10 yeniler.\n30 saniyeliğine 5 saniyede bir 210 ila 300 Can verir.",
 	"description": "Doyurucu büyüklükteki balık filetolar tereyağı ile kızartılır ve ardından çıtır çıtır kızarmış bademlerle birlikte servis edilir. Geleneksel tarife göre alabalık bütün halde kızartma tavasına konularak kızartılırdı. Ancak son zamanlarda bu yemeğin fileto ile yapılan hali de oldukça revaçta.",
 	"suspicious": {
@@ -29,18 +20,10 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100084,
->>>>>>> upstream/main
 			"name": "Balık",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "Badem",
 			"count": 1
 		}

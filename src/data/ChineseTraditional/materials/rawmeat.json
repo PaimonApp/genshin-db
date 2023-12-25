@@ -1,11 +1,10 @@
 {
-	"id": 100061,
 	"name": "獸肉",
-	"sortRank": 321,
 	"description": "獸類的新鮮肉塊。經過適當處理可以製成讓人元氣滿滿的美食。",
+	"sortorder": 2912,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"動物掉落"
 	]
 }

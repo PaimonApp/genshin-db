@@ -1,12 +1,11 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface Craft {
-		id: number;
 		name: string;
-		filterText: string; // translated
-		sortOrder: number;
-		unlockRank: number; // adventure rank this is unlocked at?
-		resultCount: number;
-		moraCost: number;
+		filter: string; // pretty much like category
+		sortorder: number;
+		unlockrank: number; // adventure rank this is unlocked at?
+		resultcount: number;
+		moracost: number;
 		recipe: CraftIngredient[];
 
 		altrecipes?: CraftIngredient[][]; // for blue/red/yellow dye that have multiple recipes to create it
@@ -15,7 +14,6 @@ declare module "@PaimonApp/genshin-db" {
 	}
 
 	export interface CraftIngredient {
-		id: number;
 		name: string;
 		count: number;
 	}

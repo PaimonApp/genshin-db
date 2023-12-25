@@ -1,20 +1,8 @@
 {
-<<<<<<< HEAD
 	"name": "Nước Nguồn Thế Giới",
 	"area": "Khởi Nguồn Của Một Vũ Trụ Vi Mô Nào Đó",
 	"description": "Từng suýt trở thành cái nôi của vạn vật lần nữa.",
 	"region": "Fontaine",
 	"showonlyunlocked": true,
 	"sortorder": 410
-=======
-	"id": 70500010,
-	"name": "Nước Nguồn Thế Giới",
-	"areaId": 50706,
-	"areaName": "Khởi Nguồn Của Một Vũ Trụ Vi Mô Nào Đó",
-	"description": "Từng suýt trở thành cái nôi của vạn vật lần nữa.",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 410
->>>>>>> upstream/main
 }

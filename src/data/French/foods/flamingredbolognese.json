@@ -1,10 +1,9 @@
 {
-	"id": 2001,
 	"name": "Pâtes à la bolognaise enflammées",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Récupération",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_HpAddAll",
 	"effect": "Restaure 18 à 22 % des PV max du personnage sélectionné.\nEt restaure 300 à 470 PV toutes les 5 s pendant 30 s.",
 	"description": "Pâtes nappées d'une sauce à la viande. Leur apparence et leur goût aigre-doux ouvrent l'appétit.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Farine",
 			"count": 2
 		},
 		{
-			"id": 100061,
 			"name": "Viande crue",
 			"count": 2
 		},
 		{
-			"id": 100079,
 			"name": "Tomate",
 			"count": 1
 		}

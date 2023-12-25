@@ -1,21 +1,17 @@
 {
-	"id": 21011501,
 	"name": "Hilichurl สุดแปลก",
-	"specialName": "หายนะประจำบ้าน",
-	"enemyType": "COMMON",
+	"specialname": "หายนะประจำบ้าน",
+	"enemytype": "COMMON",
 	"category": "ชนเผ่า Hilichurl",
 	"description": "\"Homu, homu, mimi domu!\"",
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "Adventure EXP"
 		},
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 100018,
 			"name": "Cabbage"
 		}
 	]

@@ -12,10 +12,6 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
-<<<<<<< HEAD
-=======
-		"chevreuse": "Chevreuse",
->>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -50,10 +46,6 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
-<<<<<<< HEAD
-=======
-		"navia": "Navia",
->>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -98,10 +90,6 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
-<<<<<<< HEAD
-=======
-		"Chevreuse": "chevreuse",
->>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -136,10 +124,6 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
-<<<<<<< HEAD
-=======
-		"Navia": "navia",
->>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -195,11 +179,6 @@
 		"Ok Kalkanı": "candace",
 		"Hakikatin Merceği": "charlotte",
 		"Gerçeklerin Aynası": "charlotte",
-<<<<<<< HEAD
-=======
-		"Adaletin Tecellisi": "chevreuse",
-		"Tüfekli Avcı": "chevreuse",
->>>>>>> upstream/main
 		"Donmuş Ateş": "chongyun",
 		"Bulut Kesen": "chongyun",
 		"Yeniden Doğuş Filizi": "collei",
@@ -266,11 +245,6 @@
 		"Usturlap": "mona",
 		"Saflık Abidesi": "nahida",
 		"Hürmüz'ün Bilgeliği": "nahida",
-<<<<<<< HEAD
-=======
-		"Parlak Gülün Önderi": "navia",
-		"Sarmaşık Gül": "navia",
->>>>>>> upstream/main
 		"Kaçınılmaz Yargı": "neuvillette",
 		"???": "neuvillette",
 		"Nilüfer Işığı Dansı": "nilou",
@@ -340,10 +314,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"diona",
@@ -400,10 +370,6 @@
 			"lyney",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"qiqi",
@@ -421,11 +387,11 @@
 			"yoimiya",
 			"zhongli"
 		],
-		"ELEMENT_NONE": [
+		"Hiçbiri": [
 			"aether",
 			"lumine"
 		],
-		"WEAPON_SWORD_ONE_HAND": [
+		"Kılıç": [
 			"aether",
 			"albedo",
 			"alhaitham",
@@ -446,7 +412,7 @@
 			"qiqi",
 			"xingqiu"
 		],
-		"FIGHT_PROP_ATTACK_PERCENT": [
+		"Saldırı": [
 			"aether",
 			"amber",
 			"charlotte",
@@ -507,10 +473,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -545,10 +507,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -638,17 +596,16 @@
 			"aether",
 			"lumine"
 		],
-		"ELEMENT_GEO": [
+		"Toprak": [
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"FIGHT_PROP_ROCK_ADD_HURT": [
+		"Toprak Hasarı Bonusu": [
 			"albedo",
 			"gorou",
 			"ningguang",
@@ -686,7 +643,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -709,7 +665,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -734,7 +689,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -753,13 +707,12 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"ELEMENT_DENDRO": [
+		"Doğa": [
 			"alhaitham",
 			"baizhu",
 			"collei",
@@ -769,7 +722,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"FIGHT_PROP_GRASS_ADD_HURT": [
+		"Doğa Hasarı Bonusu": [
 			"alhaitham",
 			"tighnari"
 		],
@@ -865,7 +818,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"ELEMENT_CRYO": [
+		"Buz": [
 			"aloy",
 			"charlotte",
 			"chongyun",
@@ -882,7 +835,7 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"WEAPON_BOW": [
+		"Yay": [
 			"aloy",
 			"amber",
 			"collei",
@@ -899,7 +852,7 @@
 			"yelan",
 			"yoimiya"
 		],
-		"FIGHT_PROP_ICE_ADD_HURT": [
+		"Buz Hasarı Bonusu": [
 			"aloy",
 			"diona"
 		],
@@ -910,10 +863,6 @@
 			"beidou",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"collei",
 			"dehya",
 			"diona",
@@ -937,7 +886,6 @@
 			"lynette",
 			"mona",
 			"nahida",
-			"navia",
 			"nilou",
 			"ningguang",
 			"noelle",
@@ -1063,10 +1011,9 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"ELEMENT_PYRO": [
+		"Ateş": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1083,13 +1030,11 @@
 			"faruzan",
 			"mika",
 			"mona",
-			"navia",
 			"ningguang"
 		],
 		"Agnidus Akiği Tozu": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1115,7 +1060,6 @@
 		"Agnidus Akiği Kırıntısı": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1144,7 +1088,6 @@
 		"Agnidus Akiği Parçası": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1165,7 +1108,6 @@
 		"Agnidus Akiği Külçesi": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1177,7 +1119,7 @@
 			"yanfei",
 			"yoimiya"
 		],
-		"WEAPON_CLAYMORE": [
+		"Çift Elli Kılıç": [
 			"aratakiitto",
 			"beidou",
 			"chongyun",
@@ -1187,13 +1129,12 @@
 			"eula",
 			"freminet",
 			"kaveh",
-			"navia",
 			"noelle",
 			"razor",
 			"sayu",
 			"xinyan"
 		],
-		"FIGHT_PROP_CRITICAL": [
+		"Kritik Oranı": [
 			"aratakiitto",
 			"diluc",
 			"furina",
@@ -1265,7 +1206,7 @@
 			"yaoyao",
 			"zhongli"
 		],
-		"WEAPON_CATALYST": [
+		"Katalizör": [
 			"baizhu",
 			"barbara",
 			"charlotte",
@@ -1283,11 +1224,10 @@
 			"yaemiko",
 			"yanfei"
 		],
-		"FIGHT_PROP_HP_PERCENT": [
+		"Can": [
 			"baizhu",
 			"barbara",
 			"candace",
-			"chevreuse",
 			"dehya",
 			"dori",
 			"kirara",
@@ -1347,7 +1287,7 @@
 			"nilou",
 			"tighnari"
 		],
-		"ELEMENT_HYDRO": [
+		"Su": [
 			"barbara",
 			"candace",
 			"furina",
@@ -1434,7 +1374,7 @@
 			"xingqiu",
 			"yelan"
 		],
-		"ELEMENT_ELECTRO": [
+		"Elektrik": [
 			"beidou",
 			"cyno",
 			"dori",
@@ -1447,7 +1387,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"FIGHT_PROP_ELEC_ADD_HURT": [
+		"Elektrik Hasarı Bonusu": [
 			"beidou"
 		],
 		"Vajrada Ametisti Tozu": [
@@ -1543,7 +1483,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"FIGHT_PROP_CHARGE_EFFICIENCY": [
+		"Enerji Yüklemesi": [
 			"bennett",
 			"kaeya",
 			"mona",
@@ -1551,9 +1491,8 @@
 			"venti",
 			"yunjin"
 		],
-		"WEAPON_POLE": [
+		"Mızrak": [
 			"candace",
-			"chevreuse",
 			"cyno",
 			"hutao",
 			"mika",
@@ -1585,18 +1524,10 @@
 		],
 		"Fontaine": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"freminet",
 			"furina",
 			"lynette",
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1605,10 +1536,6 @@
 		],
 		"Kavrama Dişlisi": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -1618,41 +1545,14 @@
 		],
 		"Mekanik Düz Dişli": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Usta İşi Dinamik Dişli": [
 			"charlotte",
-<<<<<<< HEAD
 			"lynette",
 			"wriothesley"
 		],
-=======
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"Ocak": [
-			"chevreuse",
-			"diona",
-			"kirara",
-			"rosaria",
-			"thoma",
-			"wanderer"
-		],
-		"Lumidouce Çanı": [
-			"chevreuse",
-			"lynette"
-		],
-		"Fontemer Boynuzu": [
-			"chevreuse",
-			"neuvillette"
-		],
->>>>>>> upstream/main
 		"Cor Lapis": [
 			"chongyun",
 			"keqing",
@@ -1674,7 +1574,7 @@
 			"collei",
 			"tighnari"
 		],
-		"FIGHT_PROP_CRITICAL_HURT": [
+		"Kritik Hasar": [
 			"cyno",
 			"eula",
 			"ganyu",
@@ -1682,10 +1582,6 @@
 			"kamisatoayaka",
 			"kamisatoayato",
 			"keqing",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1723,6 +1619,13 @@
 			"tartaglia",
 			"yelan"
 		],
+		"Ocak": [
+			"diona",
+			"kirara",
+			"rosaria",
+			"thoma",
+			"wanderer"
+		],
 		"Gelin Çiçeği": [
 			"diona",
 			"kaeya"
@@ -1753,7 +1656,7 @@
 			"eula",
 			"jean"
 		],
-		"ELEMENT_ANEMO": [
+		"Rüzgar": [
 			"faruzan",
 			"jean",
 			"kaedeharakazuha",
@@ -1818,30 +1721,17 @@
 		],
 		"Okyanus Ötesi İncisi": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Usta İşi Yedek Kurmalı Parçası - Coppelius": [
-			"freminet",
-			"navia"
+			"freminet"
 		],
 		"Okyanus Ötesi Parça": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Alaca Kristal": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Gölmavisi Zambağı": [
@@ -1902,7 +1792,7 @@
 			"xiao",
 			"yanfei"
 		],
-		"FIGHT_PROP_HEAL_ADD": [
+		"İyileştirme Bonusu": [
 			"jean",
 			"qiqi"
 		],
@@ -1919,7 +1809,7 @@
 			"sucrose",
 			"venti"
 		],
-		"FIGHT_PROP_ELEMENT_MASTERY": [
+		"Element Ustalığı": [
 			"kaedeharakazuha",
 			"kaveh",
 			"lisa",
@@ -1983,7 +1873,7 @@
 			"kirara",
 			"raidenshogun"
 		],
-		"FIGHT_PROP_FIRE_ADD_HURT": [
+		"Ateş Hasarı Bonusu": [
 			"klee",
 			"yanfei"
 		],
@@ -2017,17 +1907,14 @@
 			"noelle",
 			"rosaria"
 		],
-		"FIGHT_PROP_WIND_ADD_HURT": [
+		"Rüzgar Hasarı Bonusu": [
 			"lynette",
 			"shikanoinheizou",
 			"sucrose"
 		],
-<<<<<<< HEAD
 		"Lumidouce Çanı": [
 			"lynette"
 		],
-=======
->>>>>>> upstream/main
 		"Usta İşi Yedek Kurmalı Parçası - Coppelia": [
 			"lynette"
 		],
@@ -2041,21 +1928,12 @@
 			"mika",
 			"razor"
 		],
-<<<<<<< HEAD
 		"Tan Yıldızı": [
 			"neuvillette"
 		],
 		"Fontemer Boynuzu": [
 			"neuvillette"
 		],
-=======
-		"İlk Çiy Damlasının Kaynağı": [
-			"navia"
-		],
-		"Tan Yıldızı": [
-			"neuvillette"
-		],
->>>>>>> upstream/main
 		"Padisarah": [
 			"nilou"
 		],
@@ -2063,13 +1941,13 @@
 			"ningguang",
 			"yunjin"
 		],
-		"FIGHT_PROP_DEFENSE_PERCENT": [
+		"Savunma": [
 			"noelle"
 		],
-		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
+		"Fiziksel Hasar Bonusu": [
 			"razor"
 		],
-		"FIGHT_PROP_WATER_ADD_HURT": [
+		"Su Hasarı Bonusu": [
 			"sangonomiyakokomi",
 			"tartaglia"
 		],
@@ -2101,43 +1979,43 @@
 	},
 	"properties": {
 		"rarity": [
-			5,
-			4
+			"5",
+			"4"
 		],
-		"elementType": [
-			"ELEMENT_NONE",
-			"ELEMENT_GEO",
-			"ELEMENT_DENDRO",
-			"ELEMENT_CRYO",
-			"ELEMENT_PYRO",
-			"ELEMENT_HYDRO",
-			"ELEMENT_ELECTRO",
-			"ELEMENT_ANEMO"
+		"element": [
+			"Hiçbiri",
+			"Toprak",
+			"Doğa",
+			"Buz",
+			"Ateş",
+			"Su",
+			"Elektrik",
+			"Rüzgar"
 		],
-		"weaponType": [
-			"WEAPON_SWORD_ONE_HAND",
-			"WEAPON_BOW",
-			"WEAPON_CLAYMORE",
-			"WEAPON_CATALYST",
-			"WEAPON_POLE"
+		"weapontype": [
+			"Kılıç",
+			"Yay",
+			"Çift Elli Kılıç",
+			"Katalizör",
+			"Mızrak"
 		],
-		"substatType": [
-			"FIGHT_PROP_ATTACK_PERCENT",
-			"FIGHT_PROP_ROCK_ADD_HURT",
-			"FIGHT_PROP_GRASS_ADD_HURT",
-			"FIGHT_PROP_ICE_ADD_HURT",
-			"FIGHT_PROP_CRITICAL",
-			"FIGHT_PROP_HP_PERCENT",
-			"FIGHT_PROP_ELEC_ADD_HURT",
-			"FIGHT_PROP_CHARGE_EFFICIENCY",
-			"FIGHT_PROP_CRITICAL_HURT",
-			"FIGHT_PROP_HEAL_ADD",
-			"FIGHT_PROP_ELEMENT_MASTERY",
-			"FIGHT_PROP_FIRE_ADD_HURT",
-			"FIGHT_PROP_WIND_ADD_HURT",
-			"FIGHT_PROP_DEFENSE_PERCENT",
-			"FIGHT_PROP_PHYSICAL_ADD_HURT",
-			"FIGHT_PROP_WATER_ADD_HURT"
+		"substat": [
+			"Saldırı",
+			"Toprak Hasarı Bonusu",
+			"Doğa Hasarı Bonusu",
+			"Buz Hasarı Bonusu",
+			"Kritik Oranı",
+			"Can",
+			"Elektrik Hasarı Bonusu",
+			"Enerji Yüklemesi",
+			"Kritik Hasar",
+			"İyileştirme Bonusu",
+			"Element Ustalığı",
+			"Ateş Hasarı Bonusu",
+			"Rüzgar Hasarı Bonusu",
+			"Savunma",
+			"Fiziksel Hasar Bonusu",
+			"Su Hasarı Bonusu"
 		],
 		"gender": [
 			"erkek",
@@ -2221,11 +2099,6 @@
 			"\"Tourbillon Cihazı\"",
 			"Mekanik Düz Dişli",
 			"Usta İşi Dinamik Dişli",
-<<<<<<< HEAD
-=======
-			"Lumidouce Çanı",
-			"Fontemer Boynuzu",
->>>>>>> upstream/main
 			"Cor Lapis",
 			"Kırağı Çekirdeği",
 			"Rukkhashava Mantarları",
@@ -2275,21 +2148,13 @@
 			"Nilotpala Nilüferi",
 			"Sonsuz Kalibre",
 			"Valyemiş",
-<<<<<<< HEAD
 			"Lumidouce Çanı",
-=======
->>>>>>> upstream/main
 			"Usta İşi Yedek Kurmalı Parçası - Coppelia",
 			"Gökkuşağı Gülü",
 			"İmparatorun Azmi",
 			"Kurt Çengeli",
-<<<<<<< HEAD
 			"Tan Yıldızı",
 			"Fontemer Boynuzu",
-=======
-			"İlk Çiy Damlasının Kaynağı",
-			"Tan Yıldızı",
->>>>>>> upstream/main
 			"Padisarah",
 			"Parlak Zambak",
 			"Ejder Varisinin Sahte Yüzgeci",

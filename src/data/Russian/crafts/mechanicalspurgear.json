@@ -1,14 +1,12 @@
 {
-	"id": 11203,
 	"name": "Шестерня механизма",
-	"filterText": "Улучшение персонажей/оружия",
-	"sortOrder": 150120,
-	"unlockRank": 5,
-	"resultCount": 1,
-	"moraCost": 25,
+	"filter": "Улучшение персонажей/оружия",
+	"sortorder": 150120,
+	"unlockrank": 5,
+	"resultcount": 1,
+	"moracost": 25,
 	"recipe": [
 		{
-			"id": 112083,
 			"name": "Сцепляющаяся шестерня",
 			"count": 3
 		}

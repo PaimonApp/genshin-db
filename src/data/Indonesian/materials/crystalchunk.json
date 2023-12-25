@@ -1,15 +1,10 @@
 {
-	"id": 101003,
 	"name": "Crystal Chunk",
-	"sortRank": 301,
 	"description": "Sebongkah kristal mentah yang belum diolah. Nilainya hanya akan meningkat setelah diolah secara presisi.",
-<<<<<<< HEAD
 	"sortorder": 2823,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mineral untuk Forge",
-	"sources": [
+	"materialtype": "Mineral untuk Forge",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Stormterror's Lair"
 	]

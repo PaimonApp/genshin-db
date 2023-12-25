@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Tứ Quả Công Kích",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1363,
-=======
-	"id": [
-		81379
-	],
-	"name": "Tứ Quả Công Kích",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1363,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Tứ Quả Công Kích",
 		"description": "Hoàn thành câu chuyện của \"Đội Trái Cây Trật Tự\" và Blanche.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

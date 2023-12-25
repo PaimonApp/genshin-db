@@ -1,8 +1,6 @@
 {
-	"id": 203600,
 	"name": "Saf Ruh",
 	"description": "Chongyun'un giysisi. Geleneksel bir efsuncu kıyafeti.",
-	"isDefault": true,
-	"characterId": 10000036,
-	"characterName": "Chongyun"
+	"isdefault": true,
+	"character": "Chongyun"
 }

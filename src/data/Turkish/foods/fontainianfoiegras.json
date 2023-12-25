@@ -1,10 +1,9 @@
 {
-	"id": 3401,
 	"name": "Fontaine Usulü Kaz Ciğeri",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Savunma Artırıcı Yemek",
+	"foodfilter": "Savunma Artırıcı Yemek",
+	"foodcategory": "Def_Add",
 	"effect": "300 saniyeliğine tüm grup üyelerinin Savunmasını 165 ila 235 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Geleneksel bir Fontaine yiyeceği. Kaz ciğerini servis etmeden önce sadece tavada kızartmak yeterlidir. Isının ustaca kontrol edilmesi sayesinde nar gibi kızaran kaz ciğerinin baştan çıkaran bir yumuşaklığı vardır. Pişirmek için odaklanıp konsantre olmak gerekir yoksa leziz ciğer eriyip bir yağ çamuruna dönüşebilir.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100064,
 			"name": "Kuş Eti",
 			"count": 2
 		},
 		{
-			"id": 110008,
 			"name": "Reçel",
 			"count": 1
 		},
 		{
-			"id": 101231,
 			"name": "Marcotte",
 			"count": 1
 		}

@@ -1,17 +1,11 @@
 {
-	"id": 104104,
 	"name": "Kim Cương Bạc",
-	"rarity": 5,
-	"sortRank": 12101,
 	"description": "Nguyên liệu đột phá nhân vật.\n\"Chào mừng đến với thế giới.\"",
-<<<<<<< HEAD
 	"sortorder": 3185,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
+	"source": [
 		"Thưởng Hạng Mạo Hiểm"
 	]
 }

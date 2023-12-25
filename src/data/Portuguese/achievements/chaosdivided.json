@@ -1,20 +1,13 @@
 {
-	"id": [
-		80215,
-		80216,
-		80217
-	],
 	"name": "Duas Esferas do Caos com uma cajadada só",
-	"achievementGroupId": 37,
-	"achievementGroupName": "Chamado Sagrado dos Sete",
-	"sortOrder": 214,
+	"achievementgroup": "Chamado Sagrado dos Sete",
+	"sortorder": 214,
 	"stages": 3,
 	"stage1": {
 		"title": "Duas Esferas do Caos com uma cajadada só",
 		"description": "Derrote 2 ou mais Cartas de Personagens do seu oponente em uma única ação em um total de {param0} vez(es) em partidas vitoriosas.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Derrote 2 ou mais Cartas de Personagens do seu oponente em uma única ação em um total de {param0} vez(es) em partidas vitoriosas.",
 		"progress": 5,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Derrote 2 ou mais Cartas de Personagens do seu oponente em uma única ação em um total de {param0} vez(es) em partidas vitoriosas.",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 20
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 101205,
 	"name": "Naku Weed",
-	"sortRank": 313,
 	"description": "Di hari-hari tak berangin pun, tumbuhan ini akan bergetar ringan seiring dengan tangisan guntur. Bagiannya yang menyerupai kelopak bunga sebenarnya adalah daun yang memanjang, yang dimaksudkan untuk melindungi bunga yang rapuh.",
-<<<<<<< HEAD
 	"sortorder": 2866,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk Khas Inazuma",
-	"sources": [
+	"materialtype": "Produk Khas Inazuma",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Tatarasuna"
 	]

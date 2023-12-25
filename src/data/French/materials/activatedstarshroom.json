@@ -1,15 +1,10 @@
 {
-	"id": 101226,
 	"name": "Champitoile activé",
-	"sortRank": 90000,
 	"description": "Un champignon dont le chapeau ressemble à une étoile à cinq branches. Il semble déborder de vitalité.",
-<<<<<<< HEAD
 	"sortorder": 3419,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Nourriture",
-	"sources": [
+	"materialtype": "Nourriture",
+	"source": [
 		"Dans la nature"
 	]
 }

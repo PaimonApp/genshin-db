@@ -1,19 +1,13 @@
 {
-	"id": [
-		81029,
-		81030,
-		81031
-	],
 	"name": "Aprendiz de héroe",
-	"achievementGroupName": "Maravillas del mundo",
-	"sortOrder": 1030,
+	"achievementgroup": "Maravillas del mundo",
+	"sortorder": 1030,
 	"stages": 3,
 	"stage1": {
 		"title": "Aprendiz de héroe",
 		"description": "Completa 10 Peticiones ciudadanas.",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}
@@ -23,7 +17,6 @@
 		"description": "Completa 20 Peticiones ciudadanas.",
 		"progress": 20,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}
@@ -33,7 +26,6 @@
 		"description": "Completa 30 Peticiones ciudadanas.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 20
 		}

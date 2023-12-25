@@ -1,15 +1,9 @@
 {
-	"id": 200102,
 	"name": "Kırağı Kristali",
-	"rarity": 3,
-	"sortRank": 430061,
 	"description": "Ejdersırtı'ndaki canavarlardan elde edilen kristal parçaları.\nYalnızca belirli zamanlarda oluşurlar.",
-<<<<<<< HEAD
 	"sortorder": 4961,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Ejdersırtı Malzemesi",
-	"sources": []
+	"materialtype": "Ejdersırtı Malzemesi",
+	"source": []
 }

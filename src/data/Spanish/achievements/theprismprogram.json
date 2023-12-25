@@ -1,18 +1,14 @@
 {
-	"id": [
-		82009
-	],
 	"name": "Proyecto PRISMA",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 2009,
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 2009,
 	"stages": 1,
 	"stage1": {
 		"title": "Proyecto PRISMA",
 		"description": "Destruye todos los prismas de resurrección del Hipóstasis Electro antes de que reviva.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}

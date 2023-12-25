@@ -1,17 +1,11 @@
 {
-	"id": 104161,
 	"name": "Mảnh Ngọc Băng Vụn",
-	"rarity": 2,
-	"sortRank": 12107,
 	"description": "Nguyên Liệu Đột Phá Nhân Vật",
-<<<<<<< HEAD
 	"sortorder": 3212,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
+	"source": [
 		"Cây Cấp Đông rơi ra",
 		"Băng Nguyên Bản rơi",
 		"Đổi trong Cửa Hàng Lưu Niệm"

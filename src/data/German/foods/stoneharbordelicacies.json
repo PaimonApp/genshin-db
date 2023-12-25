@@ -1,10 +1,9 @@
 {
-	"id": 2110,
 	"name": "Drei Köstlichkeiten vom Steinhafen",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Gericht für Angriff",
+	"foodfilter": "Gericht für Angriff",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Erhöht die KT aller Truppenmitglieder 300 s lang um 6 bis 12 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Ein in viel Öl gebratenes Gemüsegericht. Hierfür werden drei in Liyue weit verbreitete Zutaten verwendet. Die Zubereitung ist vergleichsweise einfach. Dennoch mangelt es ihm nicht an Geschmack, weshalb es anderen exquisiten Gerichten, die sonst auf Jadegeschirr serviert werden, in nichts nachsteht.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100080,
 			"name": "Kartoffel",
 			"count": 2
 		},
 		{
-			"id": 100034,
 			"name": "Glasglöckchen",
 			"count": 1
 		},
 		{
-			"id": 100063,
 			"name": "Matsutake",
 			"count": 1
 		}

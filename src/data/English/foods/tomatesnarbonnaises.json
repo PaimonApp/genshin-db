@@ -1,10 +1,9 @@
 {
-	"id": 3412,
 	"name": "Tomates Narbonnaises",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "ATK-Boosting Dish",
+	"foodfilter": "ATK-Boosting Dish",
+	"foodcategory": "Atk_Add",
 	"effect": "Increases all party members' ATK by 160–228 for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A dish with a well-balanced proportion of meat and vegetables. Hollow out a round tomato, fill the hollowed tomato with ground meat, then bake this combination. This dish has a sour flavor and a tender texture. It is a very popular choice on Fontainian tables.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Raw Meat",
 			"count": 3
 		},
 		{
-			"id": 100079,
 			"name": "Tomato",
 			"count": 3
 		},
 		{
-			"id": 110010,
 			"name": "Bacon",
 			"count": 1
 		},
 		{
-			"id": 100076,
 			"name": "Onion",
 			"count": 1
 		}

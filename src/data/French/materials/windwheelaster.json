@@ -1,15 +1,10 @@
 {
-	"id": 100024,
 	"name": "Chrysanthème à aubes",
-	"sortRank": 311,
 	"description": "Une plante qui aime le vent. Pour les habitants de Mondstadt qui vénèrent le vent et la liberté, les chrysanthèmes à aubes sont les « vents visibles ».",
-<<<<<<< HEAD
 	"sortorder": 2849,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Mondstadt",
-	"sources": [
+	"materialtype": "Produit de Mondstadt",
+	"source": [
 		"Statue des Sept de Ventlevé",
 		"Sous les arbres dans la nature",
 		"Zone conseillée : Antre de Stormterror"

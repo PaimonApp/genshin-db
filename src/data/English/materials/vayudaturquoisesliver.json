@@ -1,17 +1,11 @@
 {
-	"id": 104151,
 	"name": "Vayuda Turquoise Sliver",
-	"rarity": 2,
-	"sortRank": 12106,
 	"description": "Character Ascension material.",
-<<<<<<< HEAD
 	"sortorder": 3208,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character Ascension Material",
-	"sources": [
+	"materialtype": "Character Ascension Material",
+	"source": [
 		"Dropped by Anemo Hypostases",
 		"Dropped by Setekh Wenut",
 		"Purchase from the Souvenir Shop"

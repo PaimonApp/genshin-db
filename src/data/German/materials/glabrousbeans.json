@@ -1,15 +1,10 @@
 {
-	"id": 100096,
 	"name": "Kahle Bohnen",
-	"sortRank": 321,
 	"description": "Eine in Teyvat weit verbreitete Art von Bohnen. Sie haben ein angenehm leichtes Aroma und sind daher überall äußerst beliebt.",
-<<<<<<< HEAD
 	"sortorder": 2933,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In Wirtshäusern von Sumeru zu kaufen",
 		"Im Gemischtwarenladen von Fontaine zu erstehen"
 	]

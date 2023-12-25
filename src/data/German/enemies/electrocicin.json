@@ -1,9 +1,8 @@
 {
-	"id": 26060101,
 	"name": "Elektro-Cicin",
-	"specialName": "Kribbel",
-	"enemyType": "COMMON",
+	"specialname": "Kribbel",
+	"enemytype": "COMMON",
 	"category": "Mystische Bestien",
 	"description": "Kleine Kreaturen, die leichten Einfluss auf Elektro-Energie nehmen können.\nGemeinsam mit anderen Wesen werden sie Cicine genannt. Obwohl sie einzeln schwach sind, können sie im richtigen Moment enormen Schaden zufügen.",
-	"rewardPreview": []
+	"rewardpreview": []
 }

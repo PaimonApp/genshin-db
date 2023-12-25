@@ -1,10 +1,9 @@
 {
-	"id": 3315,
 	"name": "Gilded Tajine",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "DEF-Boosting Dish",
+	"foodfilter": "DEF-Boosting Dish",
+	"foodcategory": "Def_Add",
 	"effect": "Increases all party members' Max HP by 20–25% for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A stewed meat dish. The unique hat-shaped pot cover is capable of reducing the amount of moisture lost during the stewing process — a culinary secret known only to the desert folk. This delicious delicacy has followed the gilded Eremites all over Sumeru, and thus did it gain its name and fame.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Raw Meat",
 			"count": 2
 		},
 		{
-			"id": 101214,
 			"name": "Padisarah",
 			"count": 2
 		},
 		{
-			"id": 110014,
 			"name": "Spice",
 			"count": 1
 		},
 		{
-			"id": 100076,
 			"name": "Onion",
 			"count": 1
 		}

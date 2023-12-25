@@ -1,13 +1,7 @@
 {
-	"id": 41,
 	"name": "精霊のいる荒漠",
-<<<<<<< HEAD
 	"sortorder": 44,
-=======
-	"sortOrder": 44,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210157,
 		"name": "アチーブメント·万種"
 	}
 }

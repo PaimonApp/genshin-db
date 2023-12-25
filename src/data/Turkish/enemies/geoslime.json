@@ -1,8 +1,7 @@
 {
-	"id": 20011401,
 	"name": "Toprak Bodurlopu",
-	"specialName": "Yuvarlanan Element",
-	"enemyType": "COMMON",
+	"specialname": "Yuvarlanan Element",
+	"enemytype": "COMMON",
 	"category": "Element Yaşam Formları",
 	"description": "Yeryüzündeki Toprak elementinin birikmesiyle oluşan küçük canavarlar.\nYer kabuğu, genel olarak Toprak enerjisiyle doludur. Bu enerji sayesinde vücut bulan Toprak Bodurlopları, bir anlamda \"ayakları yere basan\" yaratıklardır.",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "Kolay",
 		"description": "Bodur bir element yaşam formu.\\nFarklı elementlerin bodurloplarından yapılan tatlıların son derece belirgin tatlara sahip olduğu söylenir."
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112002,
 			"name": "Bodurlop Özü",
 			"count": 0.6723
 		},
 		{
-			"id": 112003,
 			"name": "Bodurlop Salgıları",
 			"count": 0.1792
 		},
 		{
-			"id": 112004,
 			"name": "Yoğun Bodurlop Özü",
 			"count": 0.0448
 		}

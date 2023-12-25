@@ -1,11 +1,7 @@
 {
-	"id": [
-		80179
-	],
 	"name": "Explorador Continental: Sonhos Ardentes do Deserto - I",
-	"achievementGroupId": 35,
-	"achievementGroupName": "Sumeru: Deserto Dourado — I",
-	"sortOrder": 179,
+	"achievementgroup": "Sumeru: Deserto Dourado — I",
+	"sortorder": 179,
 	"stages": 1,
 	"stage1": {
 		"title": "Explorador Continental: Sonhos Ardentes do Deserto - I",
@@ -13,7 +9,6 @@
 		"description": "Ilumine os mapas das seguintes áreas de Sumeru: Hipostilo Desértico, Alto Setekh e Baixo Setekh.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

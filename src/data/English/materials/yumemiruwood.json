@@ -1,19 +1,12 @@
 {
-	"id": 101309,
 	"name": "Yumemiru Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Timber obtained from Sakura Trees. Exquisite in quality and full of moisture, people say that it can lull people into dreams as sweet as the warm spring.\nCan be used to create furnishings.",
-<<<<<<< HEAD
 	"sortorder": 2968,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
-		"Recommendation: Cut from Narukami Island",
-		"Convert Wood"
+		"Recommendation: Cut from Narukami Island"
 	]
 }

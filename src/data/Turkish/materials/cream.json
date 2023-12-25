@@ -1,15 +1,10 @@
 {
-	"id": 110002,
 	"name": "Krema",
-	"sortRank": 322,
 	"description": "Sütten üretilen bir ürün. Pasta ve hamur işi yapımında olmazsa olmazdır.",
-<<<<<<< HEAD
 	"sortorder": 2948,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"İşlenerek elde edilir."
 	]
 }

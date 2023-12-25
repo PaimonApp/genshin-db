@@ -1,15 +1,10 @@
 {
-	"id": 101234,
 	"name": "Algamarea",
-	"sortRank": 321,
 	"description": "Un'alga sospinta dalle onde, che si nutre delle sostanze prodotte da altre piante. Anche se alcuni la considerano erroneamente come zooplancton, data la sua natura, l'Algamarea rientra nella categoria del fitoplancton.",
-<<<<<<< HEAD
 	"sortorder": 2944,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Si trova nelle aree sottomarine di Fontaine"
 	]
 }

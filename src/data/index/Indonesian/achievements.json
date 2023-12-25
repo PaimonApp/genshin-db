@@ -21,7 +21,6 @@
 		"ahawhatsonthehook": "Wah, Dapat Apaan Nih?",
 		"ahollowsoul": "Jiwa yang Hampa",
 		"ahouseillfounded": "Bangunan Mudah Runtuh Kalau Fondasinya Lemah!",
-		"ahumandrama": "Mengapa Kita Bersandiwara?",
 		"akashapulsesthekalpaflamerises": "Akasha Berdetak, Api Kalpa Bergelora",
 		"alavolontedupeuple": "À la volonté du peuple",
 		"aleisurelyjourney": "Perjalanan yang Menyenangkan",
@@ -976,7 +975,6 @@
 		"Wah, Dapat Apaan Nih?": "ahawhatsonthehook",
 		"Jiwa yang Hampa": "ahollowsoul",
 		"Bangunan Mudah Runtuh Kalau Fondasinya Lemah!": "ahouseillfounded",
-		"Mengapa Kita Bersandiwara?": "ahumandrama",
 		"Akasha Berdetak, Api Kalpa Bergelora": "akashapulsesthekalpaflamerises",
 		"À la volonté du peuple": "alavolontedupeuple",
 		"Perjalanan yang Menyenangkan": "aleisurelyjourney",
@@ -1927,7 +1925,6 @@
 			"ahawhatsonthehook",
 			"ahollowsoul",
 			"ahouseillfounded",
-			"ahumandrama",
 			"akashapulsesthekalpaflamerises",
 			"alavolontedupeuple",
 			"aleisurelyjourney",
@@ -2960,7 +2957,7 @@
 		]
 	},
 	"properties": {
-		"achievementGroupName": [
+		"achievementgroup": [
 			"Keajaiban Dunia",
 			"Domain dan Spiral Abyss: Seri I",
 			"Genius Invokation TCG",

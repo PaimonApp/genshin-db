@@ -1,15 +1,10 @@
 {
-	"id": 101231,
 	"name": "Marcotte",
-	"sortRank": 321,
 	"description": "Đóa hoa màu đào tươi mơn mởn và lung linh. Có nhiều tầng hương thơm khác nhau, là một trong những nguyên liệu chủ yếu để điều chế hương liệu.",
-<<<<<<< HEAD
 	"sortorder": 2943,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

@@ -1,8 +1,6 @@
 {
-	"id": 203400,
 	"name": "Железная роза",
 	"description": "Наряд Ноэлль. Тяжёлое облачение из плотного бархата и доспехов.",
-	"isDefault": true,
-	"characterId": 10000034,
-	"characterName": "Ноэлль"
+	"isdefault": true,
+	"character": "Ноэлль"
 }

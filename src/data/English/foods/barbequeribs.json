@@ -1,10 +1,9 @@
 {
-	"id": 2407,
 	"name": "Barbeque Ribs",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Recovery Dish",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Restores 20-24% of Max HP to the selected character and an additional 900-1,500 HP.",
 	"description": "A crispy meat dish. Lightly fry the surface of the ribs until they exude a faint aroma, then wrap the crispy exterior with sauce, and finally, grill them slowly on low heat. The meticulous temperature control ensures that the exterior is perfectly crisp, while the meat within is kept juicy and tender.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Raw Meat",
 			"count": 2
 		},
 		{
-			"id": 100077,
 			"name": "Pepper",
 			"count": 2
 		},
 		{
-			"id": 101231,
 			"name": "Marcotte",
 			"count": 1
 		}

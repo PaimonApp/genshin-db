@@ -1,10 +1,9 @@
 {
-	"id": 2107,
 	"name": "Boulettes de crevettes dorées",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Récupération",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Réanime le personnage sélectionné.\nRestaure 900 à 1 500 PV.",
 	"description": "Un plat de crevettes frites aux formes adorables qui ne manqueront pas de donner l'envie de se resservir. La croûte croustillante en pomme de terre révèle une viande de crevette, tendre et légère.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100093,
 			"name": "Crevette",
 			"count": 5
 		},
 		{
-			"id": 100080,
 			"name": "Pomme de terre",
 			"count": 4
 		},
 		{
-			"id": 110001,
 			"name": "Farine",
 			"count": 3
 		}

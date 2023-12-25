@@ -1,10 +1,7 @@
 {
-	"id": 70100005,
 	"name": "Rüzgaresen Ovası",
-	"areaId": 1201,
-	"areaName": "Rüzgaralan",
+	"area": "Rüzgaralan",
 	"description": "Bu ovada sonsuz bir rüzgar esiyor. Eski bir kahramandan geriye kalan bu kadim ve büyük ağaç, rüzgarların arasında sessizce konuşuyor.",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 3
+	"region": "Mondstadt",
+	"sortorder": 3
 }

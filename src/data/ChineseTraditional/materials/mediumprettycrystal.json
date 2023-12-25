@@ -1,11 +1,10 @@
 {
-	"id": 111021,
 	"name": "漂亮的中結晶",
-	"sortRank": 430051,
 	"description": "合成的額外產物",
+	"sortorder": 4957,
 	"category": "CONSUME",
-	"typeText": "合成產物",
-	"sources": [
+	"materialtype": "合成產物",
+	"source": [
 		"合成獲得"
 	]
 }

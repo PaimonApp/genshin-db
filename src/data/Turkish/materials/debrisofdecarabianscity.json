@@ -1,24 +1,17 @@
 {
-	"id": 114002,
 	"name": "Decarabian'ın Yıkık Duvarı",
-	"rarity": 3,
-	"sortRank": 15101,
 	"description": "Silah Yükseltme Malzemesi.\nFırtına Tanrısı Decarabian, kurduğu başkentten memnundu ve ona tapanları kulesinin tepesinden kabul etti. Ancak insanların ona saygı veya hayranlık duyduğu için eğilmediğini bilmiyordu.",
-<<<<<<< HEAD
 	"sortorder": 3279,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Silah Yükseltme Malzemesi",
-	"dropDomainId": 4311,
-	"dropDomainName": "Döküm Zindanı: Yansımalar Şehri",
-	"daysOfWeek": [
+	"materialtype": "Silah Yükseltme Malzemesi",
+	"dropdomain": "Döküm Zindanı: Yansımalar Şehri",
+	"daysofweek": [
 		"Pazartesi",
 		"Perşembe",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

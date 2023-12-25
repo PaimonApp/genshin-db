@@ -1,15 +1,10 @@
 {
-	"id": 110008,
 	"name": "Mứt",
-	"sortRank": 322,
 	"description": "Mứt được làm từ hoa quả và đường. Chỉ cần một chút cũng có thể tăng vị giác.",
-<<<<<<< HEAD
 	"sortorder": 2953,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Nhận khi gia công nấu nướng"
 	]
 }

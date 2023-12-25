@@ -1,9 +1,7 @@
 {
-	"id": 46,
 	"name": "Fontaine: Dance of the Dew-White Springs (III)",
-	"sortOrder": 47,
+	"sortorder": 47,
 	"reward": {
-		"id": 210182,
 		"name": "Fontaine: Completeness"
 	}
 }

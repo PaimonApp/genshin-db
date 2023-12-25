@@ -1,15 +1,10 @@
 {
-	"id": 101002,
 	"name": "White Iron Chunk",
-	"sortRank": 301,
 	"description": "Skilled hands can make this into something brilliant.",
-<<<<<<< HEAD
 	"sortorder": 2822,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Forging Ore",
-	"sources": [
+	"materialtype": "Forging Ore",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found on Stormbearer Mountains",
 		"Recommendation: Found in Wolvendom"

@@ -1,15 +1,10 @@
 {
-	"id": 100033,
 	"name": "Starconch",
-	"sortRank": 312,
 	"description": "Empty seashells brought ashore by the tides. Hold it close to your ear, and hear the longing calls of the sea.",
-<<<<<<< HEAD
 	"sortorder": 2859,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Liyue)",
-	"sources": [
+	"materialtype": "Local Specialty (Liyue)",
+	"source": [
 		"Found on the beaches of Liyue"
 	]
 }

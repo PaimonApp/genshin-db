@@ -1,11 +1,10 @@
 {
-	"id": 110010,
 	"name": "Bacon",
-	"sortRank": 322,
 	"description": "Smoked strips of pork. Crispy with a bit of fat, but not too greasy. Mmmmm... bacon.",
+	"sortorder": 2955,
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Processed"
 	]
 }

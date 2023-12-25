@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Thánh Đường Hành Hương - Vùng Đất Trăm Suối Hài Hòa II",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (II)",
 	"sortorder": 250,
-=======
-	"id": [
-		80274
-	],
-	"name": "Thánh Đường Hành Hương - Vùng Đất Trăm Suối Hài Hòa II",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (II)",
-	"sortOrder": 250,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Thánh Đường Hành Hương - Vùng Đất Trăm Suối Hài Hòa II",
 		"description": "Mở tất cả phong ấn Đền Địa Linh Khu Viện Nghiên Cứu Khoa Học Công Trình Động Năng Fontaine, Khu Liffey ở Fontaine",
 		"progress": 2,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 10
 		}

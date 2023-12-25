@@ -1,15 +1,10 @@
 {
-	"id": 101002,
 	"name": "Morceau de fer blanc",
-	"sortRank": 301,
 	"description": "Un morceau de fer blanc que les mains expertes d'un bon forgeron peuvent transformer en objet.",
-<<<<<<< HEAD
 	"sortorder": 2822,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Minerai de forge",
-	"sources": [
+	"materialtype": "Minerai de forge",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Montagnes du guet",
 		"Zone conseillée : Territoire des Loups"

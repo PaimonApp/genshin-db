@@ -1,15 +1,10 @@
 {
-	"id": 100062,
 	"name": "Ovo de Pássaro",
-	"sortRank": 321,
 	"description": "Um ingrediente incrivelmente versátil com todas as proteínas diárias que você precisa.",
-<<<<<<< HEAD
 	"sortorder": 2913,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Encontrado na natureza"
 	]
 }

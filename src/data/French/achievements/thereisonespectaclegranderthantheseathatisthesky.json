@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Plus grand que la mer, le ciel",
 	"achievementgroup": "Fontaine - Danse de la rosée blanche (2)",
 	"sortorder": 260,
-=======
-	"id": [
-		80284
-	],
-	"name": "Plus grand que la mer, le ciel",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine - Danse de la rosée blanche (2)",
-	"sortOrder": 260,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Plus grand que la mer, le ciel",
 		"description": "Faites sortir Lanoire de la Forteresse de Méropide.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 10
 		}

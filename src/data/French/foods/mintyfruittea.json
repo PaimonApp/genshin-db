@@ -1,10 +1,9 @@
 {
-	"id": 3316,
 	"name": "Thé menthe aux fruits",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Défense",
+	"foodfilter": "Défense",
+	"foodcategory": "Def_Add",
 	"effect": "Augmente la DÉF de tous les personnages de l'équipe de 165 à 235 pts pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
 	"description": "Une boisson rafraîchissante. Le thé revigorant et le goût aigre-doux des fruits se mélangent et dynamisent vos papilles gustatives... Et avant que vous ne vous en rendiez compte, vous avez déjà vidé la tasse.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100016,
 			"name": "Menthe",
 			"count": 3
 		},
 		{
-			"id": 100002,
 			"name": "Pomme crépusculaire",
 			"count": 3
 		},
 		{
-			"id": 100051,
 			"name": "Baie",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Sucre",
 			"count": 1
 		}

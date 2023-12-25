@@ -1,8 +1,6 @@
 {
-	"id": 205600,
 	"name": "Purezza solenne",
 	"description": "Il completo di Kujou Sara. Pulito e impeccabile, è un abito degno di una devota discepola di un Archon.",
-	"isDefault": true,
-	"characterId": 10000056,
-	"characterName": "Kujou Sara"
+	"isdefault": true,
+	"character": "Kujou Sara"
 }

@@ -1,10 +1,9 @@
 {
-	"id": 3413,
 	"name": "Consomme",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "ATK-Boosting Dish",
+	"foodfilter": "ATK-Boosting Dish",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Increases all party members' CRIT Rate by 10–20% for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A soup with a recipe involving many steps. Mash ingredients, then stew the mash in broth, and finally serve only the clear soup from the stew. Mysterious gossip on the streets in Fontaine claims that a writer suffering from writer's block had a sudden burst of inspiration after slurping this soup down... But how can one be sure that such stupendous effects are really not false advertising cooked up by some restaurant?",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100064,
 			"name": "Fowl",
 			"count": 3
 		},
 		{
-			"id": 100062,
 			"name": "Bird Egg",
 			"count": 3
 		},
 		{
-			"id": 100013,
 			"name": "Carrot",
 			"count": 2
 		},
 		{
-			"id": 101231,
 			"name": "Marcotte",
 			"count": 1
 		}

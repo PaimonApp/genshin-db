@@ -1,24 +1,17 @@
 {
-	"id": 104308,
 	"name": "Guide to \"Ballad\"",
-	"rarity": 3,
-	"sortRank": 13103,
 	"description": "Material Penguatan Talenta.\nPuisi adalah jiwa dari Kerajaan Angin.\nPuisi muncul dari keinginan untuk mendorong. Di hari-hari yang gelap, angin kencang di jalan-jalan dan lorong-lorong membisikkan kata-kata kemarahan, seperti genderang pertempuran, seperti gemuruh rendah sebelum badai.",
-<<<<<<< HEAD
 	"sortorder": 3224,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Talenta Karakter",
-	"dropDomainId": 4231,
-	"dropDomainName": "Domain of Mastery: Kerajaan Mimpi",
-	"daysOfWeek": [
+	"materialtype": "Material Talenta Karakter",
+	"dropdomain": "Domain of Mastery: Kerajaan Mimpi",
+	"daysofweek": [
 		"Rabu",
 		"Sabtu",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

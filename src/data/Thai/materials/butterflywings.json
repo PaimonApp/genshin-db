@@ -1,15 +1,10 @@
 {
-	"id": 100072,
 	"name": "Butterfly Wings",
-	"sortRank": 320,
 	"description": "ปีกสีรุ้ง ผงที่ร่วงลงมาจากมันจะส่องเป็นประกายเล็กน้อย บางทีนี่อาจจะเป็นสิ่งที่ทำให้ผีเสื้อบินได้",
-<<<<<<< HEAD
 	"sortorder": 2892,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัสดุ",
-	"sources": [
+	"materialtype": "วัสดุ",
+	"source": [
 		"พบได้ในโลกกว้าง"
 	]
 }

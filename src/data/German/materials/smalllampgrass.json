@@ -1,15 +1,10 @@
 {
-	"id": 100055,
 	"name": "Lampenkraut",
-	"sortRank": 311,
 	"description": "Eine nachts leuchtende Wildblume, die den Geschmack von Gerichten angenehm intensiviert.",
-<<<<<<< HEAD
 	"sortorder": 2851,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Mondstadt",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Mondstadt",
+	"source": [
 		"Nachts in der freien Natur zu finden",
 		"Empfohlen: In Wolfenlauf zu finden",
 		"Empfohlen: Im Flüsterwald zu finden"

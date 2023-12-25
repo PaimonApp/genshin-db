@@ -1,15 +1,10 @@
 {
-	"id": 110012,
 	"name": "Pescado ahumado",
-	"sortRank": 322,
 	"description": "",
-<<<<<<< HEAD
 	"sortorder": 2957,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Procesar comida"
 	]
 }

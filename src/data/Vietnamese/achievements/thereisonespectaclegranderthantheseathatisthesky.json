@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Nơi Bao La Hơn Đại Dương Chính Là Bầu Trời",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (II)",
 	"sortorder": 260,
-=======
-	"id": [
-		80284
-	],
-	"name": "Nơi Bao La Hơn Đại Dương Chính Là Bầu Trời",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (II)",
-	"sortOrder": 260,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Nơi Bao La Hơn Đại Dương Chính Là Bầu Trời",
 		"description": "Đưa Lanoire rời khỏi Pháo Đài Meropide.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 10
 		}

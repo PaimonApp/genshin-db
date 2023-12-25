@@ -1,15 +1,10 @@
 {
-	"id": 111022,
 	"name": "Big Pretty Crystal",
-	"sortRank": 430051,
 	"description": "Hasil Craft Tambahan",
-<<<<<<< HEAD
 	"sortorder": 4958,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Hasil Craft",
-	"sources": [
+	"materialtype": "Hasil Craft",
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

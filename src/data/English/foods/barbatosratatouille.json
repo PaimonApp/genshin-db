@@ -1,10 +1,9 @@
 {
-	"id": 3009,
 	"name": "Barbatos Ratatouille",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Adventurer's Dish",
+	"foodfilter": "Adventurer's Dish",
+	"foodcategory": "Other_SPReduceConsume",
 	"effect": "Decreases Stamina depleted by gliding and sprinting for all party members by 15–25% for 900s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A simple chowder with a long history. The ingredients are similarly traditional and simple. No matter where you are, a piping-hot chowder of this sort can always give you a sense of real and unsurpassed satisfaction.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100013,
 			"name": "Carrot",
 			"count": 4
 		},
 		{
-			"id": 100080,
 			"name": "Potato",
 			"count": 4
 		},
 		{
-			"id": 100076,
 			"name": "Onion",
 			"count": 4
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 100031,
 	"name": "Qingxin",
-	"sortRank": 312,
 	"description": "Sadece en yüksek taş zirvelerde yetişen yarı saydam beyaz bir çiçek. Issız dağların doruklarından uzaklara bakmak için ovaların sıcaklığından ve neminden kaçınır.",
-<<<<<<< HEAD
 	"sortorder": 2858,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Liyue Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Liyue Yöresel Ürünü",
+	"source": [
 		"Taş ormanlarının yükseklerinde bulunur.",
 		"Öneri: Jueyun Gölü'nde bulunur.",
 		"Öneri: Guyun Taş Ormanı'nda bulunur."

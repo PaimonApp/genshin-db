@@ -1,11 +1,8 @@
 {
-	"id": [
-		81362
-	],
 	"name": "¡La boca hecha agua!",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1329,
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1329,
 	"stages": 1,
 	"stage1": {
 		"title": "¡La boca hecha agua!",
@@ -13,7 +10,6 @@
 		"description": "Ayuda a Henri a cambiar su destino.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}

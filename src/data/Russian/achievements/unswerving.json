@@ -1,11 +1,8 @@
 {
-	"id": [
-		81003
-	],
 	"name": "Верность до конца",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1003,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1003,
 	"stages": 1,
 	"stage1": {
 		"title": "Верность до конца",
@@ -13,7 +10,6 @@
 		"description": "Откройте сундук в центре сердца из камней.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

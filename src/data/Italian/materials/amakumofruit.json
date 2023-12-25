@@ -1,15 +1,10 @@
 {
-	"id": 101208,
 	"name": "Frutto Amakumo",
-	"sortRank": 313,
 	"description": "Il frutto dell'Erba Amakumo, che cresce sull'Isola di Seirai. Appoggiandolo al tuo orecchio, puoi sentirlo crepitare di una lieve energia.",
-<<<<<<< HEAD
 	"sortorder": 2869,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Specialità d'Inazuma",
-	"sources": [
+	"materialtype": "Specialità d'Inazuma",
+	"source": [
 		"Presente in natura",
 		"Consiglio: si trova sull'Isola di Seirai"
 	]

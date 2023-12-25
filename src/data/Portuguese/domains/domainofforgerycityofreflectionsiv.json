@@ -1,69 +1,52 @@
 {
-	"id": 4313,
 	"name": "Domínio da Forja: A Cidade das Reflexões IV",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"entranceId": 37,
-	"entranceName": "Jardim de Cecilia",
-	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
-	"domainText": "Material de Ascensão de Armas",
+	"region": "Mondstadt",
+	"domainentrance": "Jardim de Cecilia",
+	"domaintype": "Material de Ascensão de Armas",
 	"description": "Uma energia massiva Hydro está fluindo através deste altar de sacrifício antigo úmido.\nA umidade intensa aumentará o Tempo de Recarga das suas habilidades.\nVocê ganhará materiais de fortalecimento de equipamentos, apenas se você puder passar no teste.",
-	"recommendedLevel": 80,
-	"recommendedElements": [
+	"recommendedlevel": 80,
+	"recommendedelements": [
 		"Cryo",
 		"Pyro",
 		"Electro"
 	],
-	"daysOfWeek": [
+	"daysofweek": [
 		"Segunda-feira",
 		"Quinta-feira",
 		"Domingo"
 	],
-	"unlockRank": 40,
-	"rewardPreview": [
+	"unlockrank": 40,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "EXP de Aventura",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 2200
 		},
 		{
-			"id": 105,
 			"name": "EXP de Amizade",
 			"count": 20
 		},
 		{
-			"id": 114001,
 			"name": "Fragmento de Azulejo de Decarabian"
 		},
 		{
-			"id": 114002,
 			"name": "Detritos da Cidade de Decarabian"
 		},
 		{
-			"id": 114003,
 			"name": "Fragmentos Épicos da Decarabian"
 		},
 		{
-			"id": 114004,
 			"name": "Pedaços de Sonho da Decarabian"
 		}
 	],
 	"disorder": [
 		"Seu personagem será infligido periodicamente com Águas Lentas, aumentando consideravelmente a duração da Recarga de suas habilidades até que o elemento Hydro infligido seja removido."
 	],
-	"monsterList": [
-		{
-			"id": 20011101,
-			"name": "Grande Slime Hydro"
-		},
-		{
-			"id": 22010301,
-			"name": "Feiticeiro do Abismo Hydro"
-		}
+	"monsterlist": [
+		"Grande Slime Hydro",
+		"Feiticeiro do Abismo Hydro"
 	]
 }

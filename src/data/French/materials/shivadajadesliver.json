@@ -1,17 +1,11 @@
 {
-	"id": 104161,
 	"name": "Éclat de jade shivada",
-	"rarity": 2,
-	"sortRank": 12107,
 	"description": "Matériau d'élévation de personnage.",
-<<<<<<< HEAD
 	"sortorder": 3212,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'élévation de personnage",
-	"sources": [
+	"materialtype": "Matériau d'élévation de personnage",
+	"source": [
 		"Butin d'Arbre congelé",
 		"Butin d'Hypostase Cryo",
 		"Boutique de souvenirs"

@@ -1,15 +1,10 @@
 {
-	"id": 100082,
 	"name": "Addome luminescente",
-	"sortRank": 320,
 	"description": "La parte della lucciola che emana luce. Usata per il corteggiamento, viene anche impiegata per recuperare la forza.",
-<<<<<<< HEAD
 	"sortorder": 2894,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Materiale",
-	"sources": [
+	"materialtype": "Materiale",
+	"source": [
 		"Presente in natura"
 	]
 }

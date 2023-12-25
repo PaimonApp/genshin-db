@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "「スネージヴナのディアンナラ」",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1420,
-=======
-	"id": [
-		81436
-	],
-	"name": "「スネージヴナのディアンナラ」",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1420,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "「スネージヴナのディアンナラ」",
 		"description": "地方伝説·スネージヴナのディアンナラを倒す。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

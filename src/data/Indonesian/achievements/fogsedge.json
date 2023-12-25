@@ -1,18 +1,13 @@
 {
-	"id": [
-		80114
-	],
 	"name": "Tepi Kabut",
-	"achievementGroupId": 27,
-	"achievementGroupName": "Perjalanan Melalui Kabut",
-	"sortOrder": 114,
+	"achievementgroup": "Perjalanan Melalui Kabut",
+	"sortorder": 114,
 	"stages": 1,
 	"stage1": {
 		"title": "Tepi Kabut",
 		"description": "Buka seluruh Teleport Waypoint Tsurumi Island.",
 		"progress": 7,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

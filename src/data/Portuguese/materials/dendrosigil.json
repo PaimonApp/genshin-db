@@ -1,17 +1,11 @@
 {
-	"id": 303,
 	"name": "Selo Dendro",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Um selo obtido pelo reconhecimento das árvores, grama e flores de Sumeru.\nOfereça para a Árvore dos Sonhos nas profundezas da floresta para receber sua graça.",
-<<<<<<< HEAD
 	"sortorder": 4929,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Selo Elemental",
-	"sources": [
+	"materialtype": "Selo Elemental",
+	"source": [
 		"Recompensa de Exploração de Sumeru"
 	]
 }

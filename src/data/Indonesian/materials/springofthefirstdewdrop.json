@@ -1,20 +1,10 @@
 {
-<<<<<<< HEAD
 	"name": "Spring of the First Dewdrop",
 	"description": "Tetesan embun jernih yang mengambang di perairan Morte. Berbeda dengan air murni lainnya, embun ini sepertinya merupakan kumpulan energi elemen yang lebih murni.",
 	"sortorder": 2887,
 	"category": "EXCHANGE",
 	"materialtype": "Produk khas Fontaine",
 	"source": [
-=======
-	"id": 101240,
-	"name": "Spring of the First Dewdrop",
-	"sortRank": 315,
-	"description": "Tetesan embun jernih yang mengambang di perairan Morte. Berbeda dengan air murni lainnya, embun ini sepertinya merupakan kumpulan energi elemen yang lebih murni.",
-	"category": "EXCHANGE",
-	"typeText": "Produk khas Fontaine",
-	"sources": [
->>>>>>> upstream/main
 		"Ditemukan di alam liar",
 		"Rekomendasi: Dapat ditemukan di dalam perairan Morte Region"
 	]

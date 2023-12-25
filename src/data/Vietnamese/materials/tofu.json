@@ -1,15 +1,10 @@
 {
-	"id": 100088,
 	"name": "Đậu hũ",
-	"sortRank": 321,
 	"description": "Sản phẩm tươi ngon từ đậu. Ngậy như vị sữa đông.",
-<<<<<<< HEAD
 	"sortorder": 2926,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Mua ở Tiệm Tạp Hóa Liyue",
 		"Mua trong Tiệm Tạp Hóa Inazuma",
 		"Mua ở Tiệm Tạp Hóa Sumeru"

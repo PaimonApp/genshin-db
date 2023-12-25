@@ -1,13 +1,7 @@
 {
-	"id": 11,
 	"name": "On ne pleure pas à Snezhnaya - Partie I",
-<<<<<<< HEAD
 	"sortorder": 24,
-=======
-	"sortOrder": 24,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210031,
 		"name": "Succès - Pays de la neige"
 	}
 }

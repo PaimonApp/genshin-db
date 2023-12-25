@@ -1,10 +1,7 @@
 {
-	"id": 70100004,
 	"name": "มหาวิหารแห่ง Favonius",
-	"areaId": 1102,
-	"areaName": "Mondstadt",
+	"area": "Mondstadt",
 	"description": "มหาวิหารอันงดงามที่ดูแลโดยผู้ศรัทธาของเทพแห่งลม\nในอดีตเคยเป็นห้องโถงที่ใช้สำหรับแสดงอำนาจของชนชั้นสูง",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 6
+	"region": "Mondstadt",
+	"sortorder": 6
 }

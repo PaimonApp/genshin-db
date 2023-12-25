@@ -1,20 +1,13 @@
 {
-	"id": [
-		81068,
-		81069,
-		81070
-	],
 	"name": "İnce İşçilik",
-	"achievementGroupId": 18,
-	"achievementGroupName": "Başka Bir Diyar: I. Seri",
-	"sortOrder": 1069,
+	"achievementgroup": "Başka Bir Diyar: I. Seri",
+	"sortorder": 1069,
 	"stages": 3,
 	"stage1": {
 		"title": "İnce İşçilik",
 		"description": "60 dekorasyon taslağı öğren.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "120 dekorasyon taslağı öğren.",
 		"progress": 120,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "180 dekorasyon taslağı öğren.",
 		"progress": 180,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 20
 		}

@@ -1,11 +1,8 @@
 {
-	"id": [
-		81121
-	],
 	"name": "Seconde floraison",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1117,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1117,
 	"stages": 1,
 	"stage1": {
 		"title": "Seconde floraison",
@@ -13,7 +10,6 @@
 		"description": "Obtenez le cadeau de Hanayama Kaoru.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

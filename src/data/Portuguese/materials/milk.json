@@ -1,15 +1,10 @@
 {
-	"id": 100078,
 	"name": "Leite",
-	"sortRank": 321,
 	"description": "Leite de vaca, doce e rico em vitaminas. Não desperdice uma única gota.",
-<<<<<<< HEAD
 	"sortorder": 2920,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Vendido nas Tendas"
 	]
 }

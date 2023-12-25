@@ -1,20 +1,13 @@
 {
-	"id": [
-		80138,
-		80139,
-		80140
-	],
 	"name": "Costanza di Kairos",
-	"achievementGroupId": 28,
-	"achievementGroupName": "La luce del giorno",
-	"sortOrder": 138,
+	"achievementgroup": "La luce del giorno",
+	"sortorder": 138,
 	"stages": 3,
 	"stage1": {
 		"title": "Costanza di Kairos",
 		"description": "Completa 3 sfide a tempo del meccanismo d'attivazione nel mondo di gioco a Enkanomiya.",
 		"progress": 3,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Completa 6 sfide a tempo del meccanismo d'attivazione nel mondo di gioco a Enkanomiya.",
 		"progress": 6,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Completa 12 sfide a tempo del meccanismo d'attivazione nel mondo di gioco a Enkanomiya.",
 		"progress": 12,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 20
 		}

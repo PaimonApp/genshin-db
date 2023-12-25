@@ -1,22 +1,15 @@
 {
-	"id": 104335,
 	"name": "Lehren der „Praxis“",
-	"rarity": 2,
-	"sortRank": 13112,
 	"description": "Material zur Verbesserung von Talenten.\nDie „Praxis“ ist die Wurzel des Reichs der Weisheit.\nDie Praxis entstammt dem klaren Willen. Der Weg zu aller Weisheit ist das unnachgiebige Streben nach Gutem. Ohne die Praxis des Guten sind Findigkeit und schöne Worte nichts als Staub.",
-<<<<<<< HEAD
 	"sortorder": 3252,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für Figurentalente",
-	"dropDomainId": 4450,
-	"dropDomainName": "Sphäre des Verständnisses: Disziplin",
-	"daysOfWeek": [
+	"materialtype": "Material für Figurentalente",
+	"dropdomain": "Sphäre des Verständnisses: Disziplin",
+	"daysofweek": [
 		"Mittwoch",
 		"Samstag",
 		"Sonntag"
 	],
-	"sources": []
+	"source": []
 }

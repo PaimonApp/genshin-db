@@ -1,11 +1,7 @@
 {
-	"id": [
-		80067
-	],
 	"name": "寒天之釘",
-	"achievementGroupId": 16,
-	"achievementGroupName": "雪山上的來客",
-	"sortOrder": 67,
+	"achievementgroup": "雪山上的來客",
+	"sortorder": 67,
 	"stages": 1,
 	"stage1": {
 		"title": "寒天之釘",
@@ -13,7 +9,6 @@
 		"description": "將「奇怪的大柱子」升起",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 10
 		}

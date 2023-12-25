@@ -1,15 +1,10 @@
 {
-	"id": 100013,
 	"name": "ニンジン",
-	"sortRank": 321,
 	"description": "栄養素たっぷりの野菜。栽培や収穫がしやすく、シャキシャキの食感と甘い味がたまらない。",
-<<<<<<< HEAD
 	"sortorder": 2902,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"野外で採集"
 	]
 }

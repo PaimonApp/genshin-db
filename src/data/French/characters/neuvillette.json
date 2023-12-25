@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Neuvillette",
 	"fullname": "Neuvillette",
 	"title": "Ordonnateur du jugement inexorable",
@@ -15,27 +14,6 @@
 	"affiliation": "Cour de Fontaine",
 	"birthdaymmdd": "12/18",
 	"birthday": "18 décembre",
-=======
-	"id": 10000087,
-	"name": "Neuvillette",
-	"title": "Ordonnateur du jugement inexorable",
-	"description": "Le juge suprême de Fontaine, également connu comme l'iudex, est réputé pour son impartialité sans faille.",
-	"weaponType": "WEAPON_CATALYST",
-	"weaponText": "Catalyseur",
-	"bodyType": "BODY_MALE",
-	"gender": "Homme",
-	"qualityType": "QUALITY_ORANGE",
-	"rarity": 5,
-	"birthdaymmdd": "12/18",
-	"birthday": "18 décembre",
-	"elementType": "ELEMENT_HYDRO",
-	"elementText": "Hydro",
-	"affiliation": "Cour de Fontaine",
-	"associationType": "ASSOC_FONTAINE",
-	"region": "Fontaine",
-	"substatType": "FIGHT_PROP_CRITICAL_HURT",
-	"substatText": "DGT CRIT",
->>>>>>> upstream/main
 	"constellation": "???",
 	"cv": {
 		"english": "Ray Chase",
@@ -46,244 +24,128 @@
 	"costs": {
 		"ascend1": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104121,
->>>>>>> upstream/main
 				"name": "Éclat de lazurite varunada",
 				"count": 1
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101237,
->>>>>>> upstream/main
 				"name": "Sombrétoile",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112080,
->>>>>>> upstream/main
 				"name": "Perle transocéanique",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104122,
->>>>>>> upstream/main
 				"name": "Fragment de lazurite varunada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113053,
->>>>>>> upstream/main
 				"name": "Corne fontemarine",
 				"count": 2
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101237,
->>>>>>> upstream/main
 				"name": "Sombrétoile",
 				"count": 10
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112080,
->>>>>>> upstream/main
 				"name": "Perle transocéanique",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104122,
->>>>>>> upstream/main
 				"name": "Fragment de lazurite varunada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113053,
->>>>>>> upstream/main
 				"name": "Corne fontemarine",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101237,
->>>>>>> upstream/main
 				"name": "Sombrétoile",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112081,
->>>>>>> upstream/main
 				"name": "Morceau transocéanique",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104123,
->>>>>>> upstream/main
 				"name": "Morceau de lazurite varunada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113053,
->>>>>>> upstream/main
 				"name": "Corne fontemarine",
 				"count": 8
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101237,
->>>>>>> upstream/main
 				"name": "Sombrétoile",
 				"count": 30
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112081,
->>>>>>> upstream/main
 				"name": "Morceau transocéanique",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104123,
->>>>>>> upstream/main
 				"name": "Morceau de lazurite varunada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113053,
->>>>>>> upstream/main
 				"name": "Corne fontemarine",
 				"count": 12
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101237,
->>>>>>> upstream/main
 				"name": "Sombrétoile",
 				"count": 45
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112082,
->>>>>>> upstream/main
 				"name": "Cristal xénochromatique",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104124,
->>>>>>> upstream/main
 				"name": "Pierre de lazurite varunada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113053,
->>>>>>> upstream/main
 				"name": "Corne fontemarine",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101237,
->>>>>>> upstream/main
 				"name": "Sombrétoile",
 				"count": 60
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112082,
->>>>>>> upstream/main
 				"name": "Cristal xénochromatique",
 				"count": 24
 			}

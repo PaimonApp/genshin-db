@@ -1,10 +1,9 @@
 {
-	"id": 3003,
 	"name": "Cold Cut Platter",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "ATK-Boosting Dish",
+	"foodfilter": "ATK-Boosting Dish",
+	"foodcategory": "Atk_Add",
 	"effect": "Increases all party members' Physical DMG by 20–40% for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A plate of cold cut meat. An equal balance of bacon, ham and sausage keeps everyone happy.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110005,
 			"name": "Ham",
 			"count": 1
 		},
 		{
-			"id": 110010,
 			"name": "Bacon",
 			"count": 1
 		},
 		{
-			"id": 110011,
 			"name": "Sausage",
 			"count": 1
 		},
 		{
-			"id": 100016,
 			"name": "Mint",
 			"count": 1
 		}

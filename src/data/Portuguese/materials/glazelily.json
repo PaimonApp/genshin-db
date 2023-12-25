@@ -1,15 +1,10 @@
 {
-	"id": 100030,
 	"name": "Lírio de Vidro",
-	"sortRank": 312,
 	"description": "Uma flor extremamente antiga que dizem ser comumente encontrada em Liyue. Transforma as memórias da terra em sua fragrância durante a florescência.",
-<<<<<<< HEAD
 	"sortorder": 2857,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Liyue",
-	"sources": [
+	"materialtype": "Especialidade de Liyue",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado no Monte Tianheng",
 		"Recomendação: Encontrado na Vila Qingce"

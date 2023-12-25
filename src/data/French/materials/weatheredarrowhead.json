@@ -1,22 +1,11 @@
 {
-	"id": 112013,
 	"name": "Pointe de flèche usée",
-	"rarity": 3,
-	"sortRank": 10104,
 	"description": "Une vieille pointe de flèche recouverte de sang. Elle a perdu son tranchant depuis longtemps et ne sert plus d'arme.\nCependant, les chasseurs la portent fièrement à leur cou comme une amulette ou une médaille.",
-<<<<<<< HEAD
 	"sortorder": 3045,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Matériau d'amélioration de personnage et d'arme",
 	"source": [
 		"Synthèse"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'amélioration de personnage et d'arme",
-	"sources": [
-		"Synthèse",
-		"Butin de Tireur Brutocollinus (Niv.60+)"
->>>>>>> upstream/main
 	]
 }

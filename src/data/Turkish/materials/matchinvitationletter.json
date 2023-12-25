@@ -1,15 +1,9 @@
 {
-	"id": 107020,
 	"name": "Oyun Davet Mektubu",
-	"rarity": 3,
-	"sortRank": 410021,
 	"description": "Davet panosundaki Oyuncu Listesinden bir oyuncu seçebilir ve Kedi Kuyruğu aracılığıyla bu Davet Mektubunu ona gönderebilirsin. Davet edilen oyuncu hana gider ve düello için seni bekler.",
-<<<<<<< HEAD
 	"sortorder": 4864,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sarf Malzemeleri",
-	"sources": []
+	"materialtype": "Sarf Malzemeleri",
+	"source": []
 }

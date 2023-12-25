@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Yarın, Yarın ve Yarın",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1390,
-=======
-	"id": [
-		81406
-	],
-	"name": "Yarın, Yarın ve Yarın",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1390,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Yarın, Yarın ve Yarın",
 		"description": "Pahsiv'e veda etmeyi öğret.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

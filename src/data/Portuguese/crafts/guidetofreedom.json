@@ -1,14 +1,12 @@
 {
-	"id": 13001,
 	"name": "Guia da Liberdade",
-	"filterText": "Material de Talento do Personagem",
-	"sortOrder": 120000,
-	"unlockRank": 30,
-	"resultCount": 1,
-	"moraCost": 175,
+	"filter": "Material de Talento do Personagem",
+	"sortorder": 120000,
+	"unlockrank": 30,
+	"resultcount": 1,
+	"moracost": 175,
 	"recipe": [
 		{
-			"id": 104301,
 			"name": "Ensinamentos de \"Liberdade\"",
 			"count": 3
 		}

@@ -1,21 +1,9 @@
 {
-	"id": 112050,
 	"name": "Тёмная призма",
-	"rarity": 2,
-	"sortRank": 10117,
 	"description": "Когда-то этой призмой преломляли свет, но со временем она помутнела.",
-<<<<<<< HEAD
 	"sortorder": 3083,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Улучшение персонажей/оружия",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Улучшение персонажей/оружия",
-	"sources": [
-		"Зеркальные девы Фатуи",
-		"Покупается за Звёздную пыль"
-	]
->>>>>>> upstream/main
 }

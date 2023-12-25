@@ -1,15 +1,10 @@
 {
-	"id": 100062,
 	"name": "Uovo d'uccello",
-	"sortRank": 321,
 	"description": "Un ingrediente incredibilmente versatile che può fornire il giusto apporto proteico giornaliero.",
-<<<<<<< HEAD
 	"sortorder": 2913,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Presente in natura"
 	]
 }

@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Tombalak Profiterolü",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Saldırı Artırıcı Yemek",
 	"foodcategory": "Atk_Add",
-=======
-	"id": 3417,
-	"name": "Tombalak Profiterolü",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Saldırı Artırıcı Yemek",
->>>>>>> upstream/main
 	"effect": "300 saniyeliğine tüm grup üyelerinin Fiziksel Hasarını %20 ila %40 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Krema dolgulu bir tatlı. Pofuduk hamurun içi bolca krema ile doldurulur. Yuvarlak bir şekli vardır ve neredeyse patlamak üzere gibi görünür. Ayrıca bir Tombalağın karnı gibi sevimlidir. İçindeki yoğun kıvamlı, yumuşak kremaya hayır diyebilmek çok zordur.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Kuş Yumurtası",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100078,
->>>>>>> upstream/main
 			"name": "Süt",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Un",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "Krema",
 			"count": 2
 		}

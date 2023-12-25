@@ -1,15 +1,10 @@
 {
-	"id": 110001,
 	"name": "Flour",
-	"sortRank": 322,
 	"description": "A powder ground from wheat. No matter what it goes into, it brings a sense of satisfaction to the diner.",
-<<<<<<< HEAD
 	"sortorder": 2947,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Processed"
 	]
 }

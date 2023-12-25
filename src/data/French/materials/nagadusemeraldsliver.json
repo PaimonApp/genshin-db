@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Éclat d'émeraude nagadus",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Matériau d'élévation de personnage.",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'élévation de personnage",
-	"sources": [
+	"materialtype": "Matériau d'élévation de personnage",
+	"source": [
 		"Butin de Champieffroi panaché",
 		"Butin d'Hypostase Dendro"
 	]

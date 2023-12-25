@@ -1,11 +1,7 @@
 {
-	"id": [
-		80043
-	],
 	"name": "สำรวจโลกกว้าง - Liyue",
-	"achievementGroupId": 5,
-	"achievementGroupName": "Liyue - ท่าเรือแห่ง พันธสัญญาและหิน",
-	"sortOrder": 43,
+	"achievementgroup": "Liyue - ท่าเรือแห่ง พันธสัญญาและหิน",
+	"sortorder": 43,
 	"stages": 1,
 	"stage1": {
 		"title": "สำรวจโลกกว้าง - Liyue",
@@ -13,7 +9,6 @@
 		"description": "เปิดแผนที่ของพื้นที่ต่อไปนี้: Bishui Plain, Qiongji Estuary, Minlin, Lisha, Sea of Clouds",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

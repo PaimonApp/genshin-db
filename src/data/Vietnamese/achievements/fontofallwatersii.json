@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Ngọn Nguồn Của Muôn Dòng Nước II",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (II)",
 	"sortorder": 249,
-=======
-	"id": [
-		80273
-	],
-	"name": "Ngọn Nguồn Của Muôn Dòng Nước II",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (II)",
-	"sortOrder": 249,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Ngọn Nguồn Của Muôn Dòng Nước II",
 		"description": "Mở khóa tất cả điểm dịch chuyển Khu Viện Nghiên Cứu Khoa Học Công Trình Động Năng Fontaine, Khu Liffey ở Fontaine",
 		"progress": 22,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

@@ -1,25 +1,17 @@
 {
-	"id": 104345,
 	"name": "Anleitung zur „Ordnung“",
-<<<<<<< HEAD
 	"description": "Material zur Verbesserung von Talenten.\nDenn der Schild des Reichs des Wassers ist Ordnung.\nAlle Gesetze Fontaines dienen schließlich der festen Ordnung. Ohne die Garantie der Ordnung wäre das Recht unendliche Gewalt, eine Waffe, geführt von jedem gegen jeden.",
 	"sortorder": 3260,
 	"rarity": "3",
-=======
-	"rarity": 3,
-	"sortRank": 13115,
-	"description": "Material zur Verbesserung von Talenten.\nDenn der Schild des Reichs des Wassers ist Ordnung.\nAlle Gesetze Fontaines dienen schließlich der festen Ordnung. Ohne die Garantie der Ordnung wäre das Recht unendliche Gewalt, eine Waffe, geführt von jedem gegen jeden.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für Figurentalente",
-	"dropDomainId": 4495,
-	"dropDomainName": "Sphäre des Verständnisses: Klingende Rezitation",
-	"daysOfWeek": [
+	"materialtype": "Material für Figurentalente",
+	"dropdomain": "Sphäre des Verständnisses: Klingende Rezitation",
+	"daysofweek": [
 		"Mittwoch",
 		"Samstag",
 		"Sonntag"
 	],
-	"sources": [
+	"source": [
 		"Kann hergestellt werden"
 	]
 }

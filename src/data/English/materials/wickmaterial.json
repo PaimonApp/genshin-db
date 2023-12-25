@@ -1,17 +1,11 @@
 {
-	"id": 200002,
 	"name": "Wick Material",
-	"rarity": 3,
-	"sortRank": 100,
 	"description": "Used in Lantern Rite as material with which to construct Xiao Lanterns.\nThe commonly encountered velvety material can be processed into lantern wicks so the lanterns can float away, carrying their beautiful wishes far afield.",
-<<<<<<< HEAD
 	"sortorder": 2773,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Lantern Rite Material",
-	"sources": [
+	"materialtype": "Lantern Rite Material",
+	"source": [
 		"Found on hilichurl-type enemies",
 		"Found on Fatui elites"
 	]

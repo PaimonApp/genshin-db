@@ -1,19 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Cacciatore di tesori cavalcaonde (III)",
 	"achievementgroup": "Fontaine: Danza delle sorgenti rugiadose (III)",
 	"sortorder": 268,
-=======
-	"id": [
-		80292,
-		80293,
-		80294
-	],
-	"name": "Cacciatore di tesori cavalcaonde (III)",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Danza delle sorgenti rugiadose (III)",
-	"sortOrder": 268,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Cacciatore di tesori cavalcaonde (III)",
@@ -21,10 +9,6 @@
 		"description": "Apri {param0} forzieri del tesoro nella Regione di Morterre e nella Foresta di Érinnyes.",
 		"progress": 40,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}
@@ -35,10 +19,6 @@
 		"description": "Apri {param0} forzieri del tesoro nella Regione di Morterre e nella Foresta di Érinnyes.",
 		"progress": 80,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 10
 		}
@@ -49,10 +29,6 @@
 		"description": "Apri {param0} forzieri del tesoro nella Regione di Morterre e nella Foresta di Érinnyes.",
 		"progress": 160,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 20
 		}

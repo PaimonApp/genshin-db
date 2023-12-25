@@ -1,17 +1,11 @@
 {
-	"id": 104171,
 	"name": "Pedacito de topacio prithiva",
-	"rarity": 2,
-	"sortRank": 12108,
 	"description": "Material de ascensión de personaje.",
-<<<<<<< HEAD
 	"sortorder": 3216,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de ascensión de personaje",
-	"sources": [
+	"materialtype": "Material de ascensión de personaje",
+	"source": [
 		"Obtenido de Hipóstasis Geo",
 		"Obtenido del Rey Acechador Dorado",
 		"Obtenido de Serpiente de las Ruinas",

@@ -1,15 +1,10 @@
 {
-	"id": 110001,
 	"name": "Flour",
-	"sortRank": 322,
 	"description": "Bubuk yang terbuat dari gandum. Akan selalu memberikan kenikmatan bagi yang memakannya, tidak peduli dalam hidangan apa pun.",
-<<<<<<< HEAD
 	"sortorder": 2947,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Didapatkan saat proses cooking"
 	]
 }

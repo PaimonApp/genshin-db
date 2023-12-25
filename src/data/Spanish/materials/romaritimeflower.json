@@ -1,15 +1,10 @@
 {
-	"id": 101233,
 	"name": "Flor rociomarina",
-	"sortRank": 315,
 	"description": "Una refinada y vaporosa flor de tonalidades celestes y violetas. Sus delicados pétalos son elásticos y capaces de absorber agua, por lo que es perfecta para usarse como material de producción.",
-<<<<<<< HEAD
 	"sortorder": 2881,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Fontaine",
-	"sources": [
+	"materialtype": "Objeto típico de Fontaine",
+	"source": [
 		"Recolectar en la naturaleza",
 		"Recolectar en la Llanura Abisal Salacia"
 	]

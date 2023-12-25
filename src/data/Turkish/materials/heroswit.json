@@ -1,17 +1,11 @@
 {
-	"id": 104003,
 	"name": "Kahramanın Bilgeliği",
-	"rarity": 4,
-	"sortRank": 100,
 	"description": "Karakter TP Malzemesi. 20.000 TP verir.\nKutsal Diyar'a yaklaşmak üzere Teyvat'tan geçen seyyahlar için bu tecrübeler son derece değerlidir.",
-<<<<<<< HEAD
 	"sortorder": 2770,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "EXP_FRUIT",
-	"typeText": "Karakter TP Malzemesi",
-	"sources": [
+	"materialtype": "Karakter TP Malzemesi",
+	"source": [
 		"Rastgele Etkinlik Ödülü",
 		"İlham Çiçeği Canlandırma Ödülü",
 		"Çaydanlık Dükkanından takasla alınabilir."

@@ -1,15 +1,9 @@
 {
-	"id": 201,
 	"name": "Urgestein",
-	"rarity": 5,
-	"sortRank": 30,
 	"description": "Ein urzeitliches Mineral, das dem finsteren Universum einen Glanz, gemacht aus Träumen und Hoffnung, gibt.",
-<<<<<<< HEAD
 	"sortorder": 2714,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"typeText": "Seltene Währung",
-	"sources": []
+	"materialtype": "Seltene Währung",
+	"source": []
 }

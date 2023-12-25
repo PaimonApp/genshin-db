@@ -1,15 +1,10 @@
 {
-	"id": 100081,
 	"name": "Grenouille",
-	"sortRank": 320,
 	"description": "Un amphibien commun des environnements humides. Cet animal plein d'énergie sécrète une substance revigorante lorsqu'elle est ingérée par des humains.",
-<<<<<<< HEAD
 	"sortorder": 2893,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Matériau",
-	"sources": [
+	"materialtype": "Matériau",
+	"source": [
 		"Cours d'eau douce"
 	]
 }

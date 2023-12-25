@@ -1,15 +1,10 @@
 {
-	"id": 100028,
 	"name": "Noctilucous Jade",
-	"sortRank": 312,
 	"description": "Mineral langka yang bersinar dalam kegelapan. Kata orang-orang, batunya terbuat dari elemen-elemen yang melimpah di dunia.",
-<<<<<<< HEAD
 	"sortorder": 2855,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk khas Liyue",
-	"sources": [
+	"materialtype": "Produk khas Liyue",
+	"source": [
 		"Ditemukan di gua di Liyue",
 		"Rekomendasi: Ditemukan di Mingyun Village"
 	]

@@ -1,22 +1,15 @@
 {
-	"id": 104329,
 	"name": "Nasihat Öğretisi",
-	"rarity": 2,
-	"sortRank": 13110,
 	"description": "Yetenek Seviyesi Yükseltme malzemesi.\nNasihat, bilgelik ulusunun dallarıdır.\nNasihat, saf bir yürekten gelir. Yalnızca makul olan iyi niyet sözleri, derin bilgeliği ifade edebilir ve bilginin filizini kibrin prangalarından kurtarabilir.",
-<<<<<<< HEAD
 	"sortorder": 3246,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yeteneği Malzemesi",
-	"dropDomainId": 4430,
-	"dropDomainName": "Ustalık Zindanı: Dolunay",
-	"daysOfWeek": [
+	"materialtype": "Karakter Yeteneği Malzemesi",
+	"dropdomain": "Ustalık Zindanı: Dolunay",
+	"daysofweek": [
 		"Pazartesi",
 		"Perşembe",
 		"Pazar"
 	],
-	"sources": []
+	"source": []
 }

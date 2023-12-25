@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Deianeira of Snezhevna",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1420,
-=======
-	"id": [
-		81436
-	],
-	"name": "Deianeira of Snezhevna",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1420,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Deianeira of Snezhevna",
 		"description": "Kalahkan Legenda Lokal: Deianeira of Snezhevna",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

@@ -1,23 +1,9 @@
 {
-	"id": 112041,
 	"name": "Fragile Bone Remains",
-	"rarity": 2,
-	"sortRank": 10114,
 	"description": "เศษกระดูกบางอย่างที่หาได้จาก Geovishap ถึงแม้ว่าจะเปราะบางแบบสุด ๆ แต่ดูเหมือนว่ามันจะครอบครองพลังบางอย่างที่ไม่สามารถอธิบายได้อยู่",
-<<<<<<< HEAD
 	"sortorder": 3074,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "วัสดุยกระดับตัวละครและอาวุธ",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "วัสดุยกระดับตัวละครและอาวุธ",
-	"sources": [
-		"ดรอปจาก Geovishap Hatchling",
-		"ดรอปจาก Geovishap",
-		"ดรอปจาก Bathysmal Vishap",
-		"แลกเปลี่ยนด้วย Stardust"
-	]
->>>>>>> upstream/main
 }

@@ -1,20 +1,13 @@
 {
-	"id": [
-		81080,
-		81081,
-		81082
-	],
 	"name": "Samimi Sohbetler",
-	"achievementGroupId": 19,
-	"achievementGroupName": "Başka Bir Diyar: II. Seri",
-	"sortOrder": 1081,
+	"achievementgroup": "Başka Bir Diyar: II. Seri",
+	"sortorder": 1081,
 	"stages": 3,
 	"stage1": {
 		"title": "Samimi Sohbetler",
 		"description": "Yoldaşlarınla 10 etkileşimin kilidini aç.",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Yoldaşlarınla 20 etkileşimin kilidini aç.",
 		"progress": 20,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Yoldaşlarınla 30 etkileşimin kilidini aç.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 20
 		}

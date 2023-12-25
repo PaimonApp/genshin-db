@@ -1,437 +1,440 @@
 {
 	"brownwingfalcon": {
-		"filename_icon": "UI_AnimalIcon_Falcon_01"
+		"nameicon": "UI_AnimalIcon_Falcon_01"
 	},
 	"umbertailfalcon": {
-		"filename_icon": "UI_AnimalIcon_Falcon_02"
+		"nameicon": "UI_AnimalIcon_Falcon_02"
 	},
 	"lapisglede": {
-		"filename_icon": "UI_AnimalIcon_Falcon_03"
+		"nameicon": "UI_AnimalIcon_Falcon_03"
 	},
 	"silkwhitefalcon": {
-		"filename_icon": "UI_AnimalIcon_Falcon_04"
+		"nameicon": "UI_AnimalIcon_Falcon_04"
 	},
 	"whitepigeon": {
-		"filename_icon": "UI_AnimalIcon_Pigeon_01"
+		"nameicon": "UI_AnimalIcon_Pigeon_01"
 	},
 	"brightcrownpigeon": {
-		"filename_icon": "UI_AnimalIcon_Pigeon_02"
+		"nameicon": "UI_AnimalIcon_Pigeon_02"
 	},
 	"graywingpigeon": {
-		"filename_icon": "UI_AnimalIcon_Pigeon_03"
+		"nameicon": "UI_AnimalIcon_Pigeon_03"
 	},
 	"crimsonflankpigeon": {
-		"filename_icon": "UI_AnimalIcon_Pigeon_04"
+		"nameicon": "UI_AnimalIcon_Pigeon_04"
 	},
 	"blackkingpigeon": {
-		"filename_icon": "UI_AnimalIcon_Pigeon_05"
+		"nameicon": "UI_AnimalIcon_Pigeon_05"
 	},
 	"crimsonfinch": {
-		"filename_icon": "UI_AnimalIcon_Tit_01"
+		"nameicon": "UI_AnimalIcon_Tit_01"
 	},
 	"goldenfinch": {
-		"filename_icon": "UI_AnimalIcon_Tit_02"
+		"nameicon": "UI_AnimalIcon_Tit_02"
 	},
 	"snowfinch": {
-		"filename_icon": "UI_AnimalIcon_Tit_03"
+		"nameicon": "UI_AnimalIcon_Tit_03"
 	},
 	"emeraldfinch": {
-		"filename_icon": "UI_AnimalIcon_Tit_04"
+		"nameicon": "UI_AnimalIcon_Tit_04"
 	},
 	"scarletbeakduck": {
-		"filename_icon": "UI_AnimalIcon_Wigeon_01"
+		"nameicon": "UI_AnimalIcon_Wigeon_01"
 	},
 	"emeraldduck": {
-		"filename_icon": "UI_AnimalIcon_Wigeon_03"
+		"nameicon": "UI_AnimalIcon_Wigeon_03"
 	},
 	"azurecrane": {
-		"filename_icon": "UI_AnimalIcon_Crane_01"
+		"nameicon": "UI_AnimalIcon_Crane_01"
 	},
 	"violetibis": {
-		"filename_icon": "UI_AnimalIcon_Crane_02"
+		"nameicon": "UI_AnimalIcon_Crane_02"
 	},
 	"crow": {
-		"filename_icon": "UI_AnimalIcon_Crow_01"
+		"nameicon": "UI_AnimalIcon_Crow_01"
 	},
 	"snowfox": {
-		"filename_icon": "UI_AnimalIcon_Fox_01"
+		"nameicon": "UI_AnimalIcon_Fox_01"
 	},
 	"crimsonfox": {
-		"filename_icon": "UI_AnimalIcon_Fox_02"
+		"nameicon": "UI_AnimalIcon_Fox_02"
 	},
 	"kitsune": {
-		"filename_icon": "UI_AnimalIcon_Vulpes_01"
+		"nameicon": "UI_AnimalIcon_Vulpes_01"
 	},
 	"squirrel": {
-		"filename_icon": "UI_AnimalIcon_Squirrel_01"
+		"nameicon": "UI_AnimalIcon_Squirrel_01"
 	},
 	"forestboar": {
-		"filename_icon": "UI_AnimalIcon_Boar_01"
+		"nameicon": "UI_AnimalIcon_Boar_01"
 	},
-	"forestpiglet": {},
+	"forestpiglet": {
+		"nameicon": "UI_AnimalIcon_Boar_02"
+	},
 	"snowboar": {
-		"filename_icon": "UI_AnimalIcon_Boar_04"
+		"nameicon": "UI_AnimalIcon_Boar_04"
 	},
 	"greatsnowboarking": {
-		"filename_icon": "UI_AnimalIcon_Boar_03"
+		"nameicon": "UI_AnimalIcon_Boar_03"
 	},
 	"northlandhound": {
-		"filename_icon": "UI_AnimalIcon_DogPrick_01"
+		"nameicon": "UI_AnimalIcon_DogPrick_01"
 	},
 	"forestpatrolhound": {
-		"filename_icon": "UI_AnimalIcon_DogPrick_04"
+		"nameicon": "UI_AnimalIcon_DogPrick_04"
 	},
 	"shiba": {
-		"filename_icon": "UI_AnimalIcon_DogPrick_02"
+		"nameicon": "UI_AnimalIcon_DogPrick_02"
 	},
 	"blackbackhound": {
-		"filename_icon": "UI_AnimalIcon_DogPrick_03"
+		"nameicon": "UI_AnimalIcon_DogPrick_03"
 	},
 	"sapphire": {
-		"filename_icon": "UI_AnimalIcon_Cat_01"
+		"nameicon": "UI_AnimalIcon_Cat_01"
 	},
 	"jadeeyedcat": {
-		"filename_icon": "UI_AnimalIcon_Cat_02"
+		"nameicon": "UI_AnimalIcon_Cat_02"
 	},
 	"graysnowcat": {
-		"filename_icon": "UI_AnimalIcon_Cat_03"
+		"nameicon": "UI_AnimalIcon_Cat_03"
 	},
 	"northlandcat": {
-		"filename_icon": "UI_AnimalIcon_Cat_04"
+		"nameicon": "UI_AnimalIcon_Cat_04"
 	},
 	"tigerstripedcat": {
-		"filename_icon": "UI_AnimalIcon_Cat_05"
+		"nameicon": "UI_AnimalIcon_Cat_05"
 	},
 	"sheriffcat": {
-		"filename_icon": "UI_AnimalIcon_Cat_06"
+		"nameicon": "UI_AnimalIcon_Cat_06"
 	},
 	"blackcat": {
-		"filename_icon": "UI_AnimalIcon_Cat_07"
+		"nameicon": "UI_AnimalIcon_Cat_07"
 	},
 	"snowweasel": {
-		"filename_icon": "UI_AnimalIcon_Marten_01"
+		"nameicon": "UI_AnimalIcon_Marten_01"
 	},
 	"redtailedweasel": {
-		"filename_icon": "UI_AnimalIcon_Marten_02"
+		"nameicon": "UI_AnimalIcon_Marten_02"
 	},
 	"bootweasel": {
-		"filename_icon": "UI_AnimalIcon_Marten_03"
+		"nameicon": "UI_AnimalIcon_Marten_03"
 	},
 	"amateurweaselthief": {
-		"filename_icon": "UI_AnimalIcon_Thoarder_Weasel_01"
+		"nameicon": "UI_AnimalIcon_Thoarder_Weasel_01"
 	},
 	"hoarderweaselthief": {
-		"filename_icon": "UI_AnimalIcon_Thoarder_Weasel_02"
+		"nameicon": "UI_AnimalIcon_Thoarder_Weasel_02"
 	},
 	"goldenweaselthief": {
-		"filename_icon": "UI_AnimalIcon_Thoarder_Weasel_03"
+		"nameicon": "UI_AnimalIcon_Thoarder_Weasel_03"
 	},
 	"bakedanuki": {
-		"filename_icon": "UI_AnimalIcon_Inu_Tanuki_01"
+		"nameicon": "UI_AnimalIcon_Inu_Tanuki_01"
 	},
 	"blackbackbass": {
-		"filename_icon": "UI_AnimalIcon_Fish_01"
+		"nameicon": "UI_AnimalIcon_Fish_01"
 	},
 	"bluefinbass": {
-		"filename_icon": "UI_AnimalIcon_Fish_02"
+		"nameicon": "UI_AnimalIcon_Fish_02"
 	},
 	"goldenbass": {
-		"filename_icon": "UI_AnimalIcon_Fish_03"
+		"nameicon": "UI_AnimalIcon_Fish_03"
 	},
 	"floatingray": {
-		"filename_icon": "UI_AnimalIcon_Fishable_Ray_Stellamarisidae_01"
+		"nameicon": "UI_AnimalIcon_Fishable_Ray_Stellamarisidae_01"
 	},
 	"medaka": {
-		"filename_icon": "UI_ItemIcon_131000"
+		"nameicon": "UI_ItemIcon_131000"
 	},
 	"glazemedaka": {
-		"filename_icon": "UI_ItemIcon_131001"
+		"nameicon": "UI_ItemIcon_131001"
 	},
 	"sweetflowermedaka": {
-		"filename_icon": "UI_ItemIcon_131002"
+		"nameicon": "UI_ItemIcon_131002"
 	},
 	"aizenmedaka": {
-		"filename_icon": "UI_ItemIcon_131003"
+		"nameicon": "UI_ItemIcon_131003"
 	},
 	"dawncatcher": {
-		"filename_icon": "UI_ItemIcon_131004"
+		"nameicon": "UI_ItemIcon_131004"
 	},
 	"crystalfish": {
-		"filename_icon": "UI_ItemIcon_131005"
+		"nameicon": "UI_ItemIcon_131005"
 	},
 	"lungedstickleback": {
-		"filename_icon": "UI_ItemIcon_131006"
+		"nameicon": "UI_ItemIcon_131006"
 	},
 	"betta": {
-		"filename_icon": "UI_ItemIcon_131007"
+		"nameicon": "UI_ItemIcon_131007"
 	},
 	"venomspinefish": {
-		"filename_icon": "UI_ItemIcon_131008"
+		"nameicon": "UI_ItemIcon_131008"
 	},
 	"akaimaou": {
-		"filename_icon": "UI_ItemIcon_131009"
+		"nameicon": "UI_ItemIcon_131009"
 	},
 	"snowstrider": {
-		"filename_icon": "UI_ItemIcon_131010"
+		"nameicon": "UI_ItemIcon_131010"
 	},
 	"goldenkoi": {
-		"filename_icon": "UI_ItemIcon_131011"
+		"nameicon": "UI_ItemIcon_131011"
 	},
 	"rustykoi": {
-		"filename_icon": "UI_ItemIcon_131012"
+		"nameicon": "UI_ItemIcon_131012"
 	},
 	"brownshirakodai": {
-		"filename_icon": "UI_ItemIcon_131013"
+		"nameicon": "UI_ItemIcon_131013"
 	},
 	"purpleshirakodai": {
-		"filename_icon": "UI_ItemIcon_131014"
+		"nameicon": "UI_ItemIcon_131014"
 	},
 	"teacoloredshirakodai": {
-		"filename_icon": "UI_ItemIcon_131015"
+		"nameicon": "UI_ItemIcon_131015"
 	},
 	"abidingangelfish": {
-		"filename_icon": "UI_ItemIcon_131016"
+		"nameicon": "UI_ItemIcon_131016"
 	},
 	"raimeiangelfish": {
-		"filename_icon": "UI_ItemIcon_131017"
+		"nameicon": "UI_ItemIcon_131017"
 	},
 	"moonfin": {
-		"filename_icon": "UI_ItemIcon_131018"
+		"nameicon": "UI_ItemIcon_131018"
 	},
 	"pufferfish": {
-		"filename_icon": "UI_ItemIcon_131019"
+		"nameicon": "UI_ItemIcon_131019"
 	},
 	"bitterpufferfish": {
-		"filename_icon": "UI_ItemIcon_131020"
+		"nameicon": "UI_ItemIcon_131020"
 	},
 	"divdaray": {
-		"filename_icon": "UI_ItemIcon_131021"
+		"nameicon": "UI_ItemIcon_131021"
 	},
 	"formaloray": {
-		"filename_icon": "UI_ItemIcon_131022"
+		"nameicon": "UI_ItemIcon_131022"
 	},
 	"anemocrystalfly": {
-		"filename_icon": "UI_AnimalIcon_Wisp_Wind_01"
+		"nameicon": "UI_AnimalIcon_Wisp_Wind_01"
 	},
 	"electrocrystalfly": {
-		"filename_icon": "UI_AnimalIcon_Wisp_Electric_01"
+		"nameicon": "UI_AnimalIcon_Wisp_Electric_01"
 	},
 	"cryocrystalfly": {
-		"filename_icon": "UI_AnimalIcon_Wisp_Ice_01"
+		"nameicon": "UI_AnimalIcon_Wisp_Ice_01"
 	},
 	"geocrystalfly": {
-		"filename_icon": "UI_AnimalIcon_Wisp_Rock_01"
+		"nameicon": "UI_AnimalIcon_Wisp_Rock_01"
 	},
 	"sunsetloach": {
-		"filename_icon": "UI_AnimalIcon_Salamander_01"
+		"nameicon": "UI_AnimalIcon_Salamander_01"
 	},
 	"goldenloach": {
-		"filename_icon": "UI_AnimalIcon_Salamander_02"
+		"nameicon": "UI_AnimalIcon_Salamander_02"
 	},
 	"sunnyloach": {
-		"filename_icon": "UI_AnimalIcon_Salamander_03"
+		"nameicon": "UI_AnimalIcon_Salamander_03"
 	},
 	"frog": {
-		"filename_icon": "UI_AnimalIcon_Frog_01"
+		"nameicon": "UI_AnimalIcon_Frog_01"
 	},
 	"mudfrog": {
-		"filename_icon": "UI_AnimalIcon_Frog_02"
+		"nameicon": "UI_AnimalIcon_Frog_02"
 	},
 	"bluefrog": {
-		"filename_icon": "UI_AnimalIcon_Frog_03"
+		"nameicon": "UI_AnimalIcon_Frog_03"
 	},
 	"goldencrab": {
-		"filename_icon": "UI_AnimalIcon_Crab_01"
+		"nameicon": "UI_AnimalIcon_Crab_01"
 	},
 	"suncrab": {
-		"filename_icon": "UI_AnimalIcon_Crab_02"
+		"nameicon": "UI_AnimalIcon_Crab_02"
 	},
 	"oceancrab": {
-		"filename_icon": "UI_AnimalIcon_Crab_03"
+		"nameicon": "UI_AnimalIcon_Crab_03"
 	},
 	"generalcrab": {
-		"filename_icon": "UI_AnimalIcon_Crab_04"
+		"nameicon": "UI_AnimalIcon_Crab_04"
 	},
 	"paleredcrab": {
-		"filename_icon": "UI_AnimalIcon_Crab_05"
+		"nameicon": "UI_AnimalIcon_Crab_05"
 	},
 	"bluehornedlizard": {
-		"filename_icon": "UI_AnimalIcon_Lizard_01"
+		"nameicon": "UI_AnimalIcon_Lizard_01"
 	},
 	"redhornedlizard": {
-		"filename_icon": "UI_AnimalIcon_Lizard_02"
+		"nameicon": "UI_AnimalIcon_Lizard_02"
 	},
 	"greenhornedlizard": {
-		"filename_icon": "UI_AnimalIcon_Lizard_03"
+		"nameicon": "UI_AnimalIcon_Lizard_03"
 	},
 	"adornedunagi": {
-		"filename_icon": "UI_AnimalIcon_Eel_01"
+		"nameicon": "UI_AnimalIcon_Eel_01"
 	},
 	"deepseaunagi": {
-		"filename_icon": "UI_AnimalIcon_Eel_02"
+		"nameicon": "UI_AnimalIcon_Eel_02"
 	},
 	"redfinnedunagi": {
-		"filename_icon": "UI_AnimalIcon_Eel_03"
+		"nameicon": "UI_AnimalIcon_Eel_03"
 	},
 	"coralbutterfly": {
-		"filename_icon": "UI_AnimalIcon_Wisp_Tokoyo_01"
+		"nameicon": "UI_AnimalIcon_Wisp_Tokoyo_01"
 	},
 	"bluethunderweasel": {
-		"filename_icon": "UI_AnimalIcon_Marten_05"
+		"nameicon": "UI_AnimalIcon_Marten_05"
 	},
 	"lucklightfly": {
-		"filename_icon": "UI_AnimalIcon_Boltbug_Lightbug_01"
+		"nameicon": "UI_AnimalIcon_Boltbug_Lightbug_01"
 	},
 	"marrowlizard": {
-		"filename_icon": "UI_AnimalIcon_Lizard_04"
+		"nameicon": "UI_AnimalIcon_Lizard_04"
 	},
 	"duskbird": {
-		"filename_icon": "UI_AnimalIcon_Pigeon_Beak"
+		"nameicon": "UI_AnimalIcon_Pigeon_Beak"
 	},
 	"shroomboar": {
-		"filename_icon": "UI_AnimalIcon_Boar_Grass"
+		"nameicon": "UI_AnimalIcon_Boar_Grass"
 	},
 	"spinocrocodile": {
-		"filename_icon": "UI_AnimalIcon_Gator_01"
+		"nameicon": "UI_AnimalIcon_Gator_01"
 	},
 	"rishbolandtiger": {
-		"filename_icon": "UI_AnimalIcon_Panther_01"
+		"nameicon": "UI_AnimalIcon_Panther_01"
 	},
 	"shaggysumpterbeast": {
-		"filename_icon": "UI_AnimalIcon_Megamoth_Jungle"
+		"nameicon": "UI_AnimalIcon_Megamoth_Jungle"
 	},
 	"truefruitangler": {
-		"filename_icon": "UI_ItemIcon_131023"
+		"nameicon": "UI_ItemIcon_131023"
 	},
 	"peachofthedeepwaves": {
-		"filename_icon": "UI_ItemIcon_131024"
+		"nameicon": "UI_ItemIcon_131024"
 	},
 	"sandstormangler": {
-		"filename_icon": "UI_ItemIcon_131025"
+		"nameicon": "UI_ItemIcon_131025"
 	},
 	"sunsetcloudangler": {
-		"filename_icon": "UI_ItemIcon_131026"
+		"nameicon": "UI_ItemIcon_131026"
 	},
 	"lazuriteaxemarlin": {
-		"filename_icon": "UI_ItemIcon_131027"
+		"nameicon": "UI_ItemIcon_131027"
 	},
 	"halcyonjadeaxemarlin": {
-		"filename_icon": "UI_ItemIcon_131028"
+		"nameicon": "UI_ItemIcon_131028"
 	},
 	"dendrocrystalfly": {
-		"filename_icon": "UI_AnimalIcon_Wisp_Grass_01"
+		"nameicon": "UI_AnimalIcon_Wisp_Grass_01"
 	},
 	"foresttreefrog": {
-		"filename_icon": "UI_AnimalIcon_Frog_04"
+		"nameicon": "UI_AnimalIcon_Frog_04"
 	},
 	"redtailedlizard": {
-		"filename_icon": "UI_AnimalIcon_Lizard_05"
+		"nameicon": "UI_AnimalIcon_Lizard_05"
 	},
 	"sacredibis": {
-		"filename_icon": "UI_AnimalIcon_Crane_Lbis_01"
+		"nameicon": "UI_AnimalIcon_Crane_Lbis_01"
 	},
 	"redvulture": {
-		"filename_icon": "UI_AnimalIcon_Vulture_01"
+		"nameicon": "UI_AnimalIcon_Vulture_01"
 	},
 	"desertfox": {
-		"filename_icon": "UI_AnimalIcon_Fox_03"
+		"nameicon": "UI_AnimalIcon_Fox_03"
 	},
 	"maskedweasel": {
-		"filename_icon": "UI_AnimalIcon_Marten_04"
+		"nameicon": "UI_AnimalIcon_Marten_04"
 	},
 	"scorpion": {
-		"filename_icon": "UI_AnimalIcon_Scorpion_01"
+		"nameicon": "UI_AnimalIcon_Scorpion_01"
 	},
 	"desertsumpterbeast": {
-		"filename_icon": "UI_AnimalIcon_Megamoth_Desert"
+		"nameicon": "UI_AnimalIcon_Megamoth_Desert"
 	},
-	"quicksandunagi": {},
+	"quicksandunagi": {
+		"nameicon": "UI_AnimalIcon_Eel_04"
+	},
 	"scarab": {
-		"filename_icon": "UI_AnimalIcon_BoltBug_Scarab_01"
+		"nameicon": "UI_AnimalIcon_BoltBug_Scarab_01"
 	},
 	"quicksandeel": {
-		"filename_icon": "UI_AnimalIcon_Eel_04"
+		"nameicon": "UI_AnimalIcon_Eel_04"
 	},
 	"flyingserpent": {
-		"filename_icon": "UI_AnimalIcon_Chrysopelea"
+		"nameicon": "UI_AnimalIcon_Chrysopelea"
 	},
 	"tenttortoise": {
-		"filename_icon": "UI_AnimalIcon_Tortoise_01"
+		"nameicon": "UI_AnimalIcon_Tortoise_01"
 	},
 	"snowwingedgoose": {
-		"filename_icon": "UI_AnimalIcon_Swan_01"
+		"nameicon": "UI_AnimalIcon_Swan_01"
 	},
 	"darkwinggoose": {
-		"filename_icon": "UI_AnimalIcon_Swan_02"
+		"nameicon": "UI_AnimalIcon_Swan_02"
 	},
 	"flatcrestfulmar": {
-		"filename_icon": "UI_AnimalIcon_Albatross_01"
+		"nameicon": "UI_AnimalIcon_Albatross_01"
 	},
 	"violetgoldanglergull": {
-		"filename_icon": "UI_AnimalIcon_Seagull_01"
+		"nameicon": "UI_AnimalIcon_Seagull_01"
 	},
 	"slateumbrellafinch": {
-		"filename_icon": "UI_AnimalIcon_Eggplant_01"
+		"nameicon": "UI_AnimalIcon_Eggplant_01"
 	},
 	"burgundyumbrellafinch": {
-		"filename_icon": "UI_AnimalIcon_Eggplant_02"
+		"nameicon": "UI_AnimalIcon_Eggplant_02"
 	},
 	"magentafantailpigeon": {
-		"filename_icon": "UI_AnimalIcon_Fantail_01"
+		"nameicon": "UI_AnimalIcon_Fantail_01"
 	},
 	"viridianfantailpigeon": {
-		"filename_icon": "UI_AnimalIcon_Fantail_02"
+		"nameicon": "UI_AnimalIcon_Fantail_02"
 	},
 	"redcrownfinch": {
-		"filename_icon": "UI_AnimalIcon_Larvivora_01"
+		"nameicon": "UI_AnimalIcon_Larvivora_01"
 	},
 	"bluecrownfinch": {
-		"filename_icon": "UI_AnimalIcon_Larvivora_02"
+		"nameicon": "UI_AnimalIcon_Larvivora_02"
 	},
 	"chestnuthuntinghound": {
-		"filename_icon": "UI_AnimalIcon_Dog_DropEar_01"
+		"nameicon": "UI_AnimalIcon_Dog_DropEar_01"
 	},
 	"glittergrayhuntinghound": {
-		"filename_icon": "UI_AnimalIcon_Dog_DropEar_02"
+		"nameicon": "UI_AnimalIcon_Dog_DropEar_02"
 	},
 	"amberhuntinghound": {
-		"filename_icon": "UI_AnimalIcon_Dog_DropEar_03"
+		"nameicon": "UI_AnimalIcon_Dog_DropEar_03"
 	},
 	"ladypoodle": {
-		"filename_icon": "UI_AnimalIcon_FontainePoddle_Lady_01"
+		"nameicon": "UI_AnimalIcon_FontainePoddle_Lady_01"
 	},
 	"guardpoodle": {
-		"filename_icon": "UI_AnimalIcon_FontainePoddle_Guard_01"
+		"nameicon": "UI_AnimalIcon_FontainePoddle_Guard_01"
 	},
 	"gentlemanpoodle": {
-		"filename_icon": "UI_AnimalIcon_FontainePoddle_Gentleman_01"
+		"nameicon": "UI_AnimalIcon_FontainePoddle_Gentleman_01"
 	},
 	"leisurelyotter": {
-		"filename_icon": "UI_AnimalIcon_Beaver_01"
+		"nameicon": "UI_AnimalIcon_Beaver_01"
 	},
 	"streamingaxemarlin": {
-		"filename_icon": "UI_ItemIcon_131029"
+		"nameicon": "UI_ItemIcon_131029"
 	},
 	"ripplingheartfeatherbass": {
-		"filename_icon": "UI_ItemIcon_131030"
+		"nameicon": "UI_ItemIcon_131030"
 	},
 	"blazingheartfeatherbass": {
-		"filename_icon": "UI_ItemIcon_131031"
+		"nameicon": "UI_ItemIcon_131031"
 	},
 	"maintenancemekinitialconfiguration": {
-		"filename_icon": "UI_ItemIcon_131032"
+		"nameicon": "UI_ItemIcon_131032"
 	},
 	"maintenancemekwaterbodycleaner": {
-		"filename_icon": "UI_ItemIcon_131033"
+		"nameicon": "UI_ItemIcon_131033"
 	},
 	"maintenancemeksituationcontroller": {
-		"filename_icon": "UI_ItemIcon_131034"
+		"nameicon": "UI_ItemIcon_131034"
 	},
 	"maintenancemekplatinumcollection": {
-		"filename_icon": "UI_ItemIcon_131035"
+		"nameicon": "UI_ItemIcon_131035"
 	},
 	"hydrocrystalfly": {
-<<<<<<< HEAD
 		"nameicon": "UI_AnimalIcon_Wisp_Water_01"
 	},
 	"subdetectionunit": {
@@ -439,14 +442,5 @@
 	},
 	"maintenancemekgoldleader": {
 		"nameicon": "UI_ItemIcon_131036"
-=======
-		"filename_icon": "UI_AnimalIcon_Wisp_Water_01"
-	},
-	"subdetectionunit": {
-		"filename_icon": "UI_AnimalIcon_BoltBug_MachinaIustitia_01"
-	},
-	"maintenancemekgoldleader": {
-		"filename_icon": "UI_ItemIcon_131036"
->>>>>>> upstream/main
 	}
 }

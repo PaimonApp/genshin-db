@@ -1,10 +1,9 @@
 {
-	"id": 1103,
 	"name": "烤吃虎鱼",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "恢复类料理",
+	"foodfilter": "恢复类料理",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "为选中的角色恢复生命值上限的8%-10%，并额外恢复800-1200点生命值。",
 	"description": "急火烤制的鱼串。将码头打捞上来的鱼略加腌制后迅速烤熟，香味能吸引街边的猫。而新鲜正是美味的秘诀。",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "鱼肉",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "胡椒",
 			"count": 1
 		}

@@ -1,11 +1,10 @@
 {
-	"id": 101006,
 	"name": "星银矿石",
-	"sortRank": 301,
 	"description": "因为龙脊雪山的特殊地理环境与地脉，而产生的珍稀矿石。",
+	"sortorder": 2825,
 	"category": "EXCHANGE",
-	"typeText": "锻造用矿石",
-	"sources": [
+	"materialtype": "锻造用矿石",
+	"source": [
 		"野外采集",
 		"推荐：龙脊雪山采集"
 	]

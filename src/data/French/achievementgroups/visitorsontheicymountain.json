@@ -1,13 +1,7 @@
 {
-	"id": 16,
 	"name": "Visite à Dosdragon",
-<<<<<<< HEAD
 	"sortorder": 30,
-=======
-	"sortOrder": 30,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210052,
 		"name": "Succès - Sommet enneigé"
 	}
 }

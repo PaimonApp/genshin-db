@@ -1,18 +1,14 @@
 {
-	"id": [
-		84570
-	],
 	"name": "Một Trận Sóng Gió",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 4094,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4094,
 	"stages": 1,
 	"stage1": {
 		"title": "Một Trận Sóng Gió",
 		"description": "Chứng kiến chuyện công việc của Iaune.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

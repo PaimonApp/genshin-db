@@ -1,15 +1,10 @@
 {
-	"id": 100055,
 	"name": "Küçük Lamba Otu",
-	"sortRank": 311,
 	"description": "Geceleri ışık yayan bir yabani ot. Yemeğe eklediğinde diğer malzemelerin lezzetini artırır.",
-<<<<<<< HEAD
 	"sortorder": 2851,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mondstadt Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Mondstadt Yöresel Ürünü",
+	"source": [
 		"Geceleri doğada bulunur.",
 		"Öneri: Kurtlar Diyarı'nda bulunur.",
 		"Öneri: Fısıltı Ormanı'nda bulunur."

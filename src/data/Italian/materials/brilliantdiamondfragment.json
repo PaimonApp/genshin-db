@@ -1,17 +1,11 @@
 {
-	"id": 104102,
 	"name": "Frammento di diamante brillante",
-	"rarity": 3,
-	"sortRank": 12101,
 	"description": "Materiale d'ascensione dei personaggi.\n\"Questo mondo ti dà il benvenuto\".",
-<<<<<<< HEAD
 	"sortorder": 3187,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale d'ascensione personaggi",
-	"sources": [
+	"materialtype": "Materiale d'ascensione personaggi",
+	"source": [
 		"Ricompensa grado avventura"
 	]
 }

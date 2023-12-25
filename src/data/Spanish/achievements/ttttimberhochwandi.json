@@ -1,20 +1,13 @@
 {
-	"id": [
-		81056,
-		81057,
-		81058
-	],
 	"name": "¡Árbol va!",
-	"achievementGroupId": 18,
-	"achievementGroupName": "Un mundo interior: Parte 1",
-	"sortOrder": 1057,
+	"achievementgroup": "Un mundo interior: Parte 1",
+	"sortorder": 1057,
 	"stages": 3,
 	"stage1": {
 		"title": "¡Árbol va!",
 		"description": "Consigue 100 trozos de madera.",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Consigue 600 trozos de madera.",
 		"progress": 600,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Consigue 2000 trozos de madera.",
 		"progress": 2000,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 20
 		}

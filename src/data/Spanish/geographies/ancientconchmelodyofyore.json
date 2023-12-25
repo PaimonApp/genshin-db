@@ -1,11 +1,8 @@
 {
-	"id": 70400058,
 	"name": "Antigua sinfonía de la caracola vetusta",
-	"areaId": 50200,
-	"areaName": "Condado Berilo",
+	"area": "Condado Berilo",
 	"description": "“De la grandiosa Remuria, hoy en día solo queda una sinfonía vacua y solitaria. Aunque en el pasado guio a innumerables multitudes, ya nadie es capaz de reconocerla”...",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 358
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 358
 }

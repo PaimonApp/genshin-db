@@ -1,14 +1,12 @@
 {
-	"id": 11006,
 	"name": "Pergaminho da Maldição",
-	"filterText": "Material de Fortalecimento de Arma e Personagem",
-	"sortOrder": 150019,
-	"unlockRank": 10,
-	"resultCount": 1,
-	"moraCost": 50,
+	"filter": "Material de Fortalecimento de Arma e Personagem",
+	"sortorder": 150019,
+	"unlockrank": 10,
+	"resultcount": 1,
+	"moracost": 50,
 	"recipe": [
 		{
-			"id": 112009,
 			"name": "Pergaminho do Encantamento",
 			"count": 3
 		}

@@ -1,20 +1,13 @@
 {
-	"id": [
-		80203,
-		80204,
-		80205
-	],
 	"name": "Kemenangan Ada di Tangan",
-	"achievementGroupId": 37,
-	"achievementGroupName": "Genius Invokation TCG",
-	"sortOrder": 205,
+	"achievementgroup": "Genius Invokation TCG",
+	"sortorder": 205,
 	"stages": 3,
 	"stage1": {
 		"title": "Kemenangan Ada di Tangan",
 		"description": "Mainkan total {param0} Kartu Aksi dalam pertandingan yang dimenangkan.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Mainkan total {param0} Kartu Aksi dalam pertandingan yang dimenangkan.",
 		"progress": 300,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Mainkan total {param0} Kartu Aksi dalam pertandingan yang dimenangkan.",
 		"progress": 600,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

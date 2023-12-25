@@ -1,15 +1,10 @@
 {
-	"id": 100082,
 	"name": "Luminescent Spine",
-	"sortRank": 320,
 	"description": "Bagian dari kunang-kunang yang memancarkan cahaya. Mereka menggunakannya untuk menarik lawan jenis, dan di dalam dunia pengobatan, digunakan untuk meningkatkan kekuatan.",
-<<<<<<< HEAD
 	"sortorder": 2894,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

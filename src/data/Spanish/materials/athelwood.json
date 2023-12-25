@@ -1,19 +1,12 @@
 {
-	"id": 101317,
 	"name": "Madera de tamarisco",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madera obtenida de tamariscos. Posee una textura de lo más particular y puede resistir climas secos y húmedos, por lo que suele perdurar durante largos periodos de tiempo.\nPuede utilizarse para fabricar decoraciones.",
-<<<<<<< HEAD
 	"sortorder": 2976,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Recolectar en la naturaleza",
-		"Talando en los desiertos de Sumeru",
-		"Transformar madera"
+		"Talando en los desiertos de Sumeru"
 	]
 }

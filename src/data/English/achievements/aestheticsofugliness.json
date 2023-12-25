@@ -1,11 +1,8 @@
 {
-	"id": [
-		81352
-	],
 	"name": "Aesthetics of Ugliness",
-	"achievementGroupName": "Wonders of the World",
-	"isHidden": true,
-	"sortOrder": 1338,
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1338,
 	"stages": 1,
 	"stage1": {
 		"title": "Aesthetics of Ugliness",
@@ -13,7 +10,6 @@
 		"description": "And thus does Fontaine take two steps further toward beauty.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

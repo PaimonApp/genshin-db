@@ -1,15 +1,10 @@
 {
-	"id": 100027,
 	"name": "Ớt Tuyệt Vân",
-	"sortRank": 312,
 	"description": "Loại thực vật cay đặc sản của Liyue. Chỉ cần ngửi mùi của nó, cơ thể sẽ nóng lên, khát nước vô cùng.",
-<<<<<<< HEAD
 	"sortorder": 2854,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Đặc Sản Khu Vực Liyue",
-	"sources": [
+	"materialtype": "Đặc Sản Khu Vực Liyue",
+	"source": [
 		"Thu Thập Bên Ngoài",
 		"Kiến nghị: Thu thập trong Khinh Sách Trang"
 	]

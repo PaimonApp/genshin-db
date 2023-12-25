@@ -1,558 +1,554 @@
 {
 	"domainofmasteryfrostedaltari": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryfrostedaltarii": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryfrostedaltariii": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryfrostedaltariv": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryfrozenabyssi": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryfrozenabyssii": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryfrozenabyssiii": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryfrozenabyssiv": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryrealmofslumberi": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryrealmofslumberii": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryrealmofslumberiii": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofmasteryrealmofslumberiv": {
-		"filename_image": "UI_DungeonPic_Ice"
+		"namepic": "UI_DungeonPic_Ice"
 	},
 	"domainofforgerycityofreflectionsi": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgerycityofreflectionsii": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgerycityofreflectionsiii": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgerycityofreflectionsiv": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgerysubmergedvalleyi": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgerysubmergedvalleyii": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgerysubmergedvalleyiii": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgerysubmergedvalleyiv": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgeryruinsofthirstingcapitali": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgeryruinsofthirstingcapitalii": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgeryruinsofthirstingcapitaliii": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgeryruinsofthirstingcapitaliv": {
-		"filename_image": "UI_DungeonPic_Water"
+		"namepic": "UI_DungeonPic_Water"
 	},
 	"domainofforgerysunkensandsi": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgerysunkensandsii": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgerysunkensandsiii": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgerysunkensandsiv": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgeryaltarofsandsi": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgeryaltarofsandsii": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgeryaltarofsandsiii": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgeryaltarofsandsiv": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgerysandburiali": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgerysandburialii": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgerysandburialiii": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofforgerysandburialiv": {
-		"filename_image": "UI_DungeonPic_Rock"
+		"namepic": "UI_DungeonPic_Rock"
 	},
 	"domainofmasteryreignofvioleti": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasteryreignofvioletii": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasteryreignofvioletiii": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasteryreignofvioletiv": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasterythunderingvalleyi": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasterythunderingvalleyii": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasterythunderingvalleyiii": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasterythunderingvalleyiv": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasteryvineinfestedruinsi": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasteryvineinfestedruinsii": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasteryvineinfestedruinsiii": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofmasteryvineinfestedruinsiv": {
-		"filename_image": "UI_DungeonPic_Thunder_Dq"
+		"namepic": "UI_DungeonPic_Thunder_Dq"
 	},
 	"domainofblessingfiresofpurificationi": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_1"
+		"namepic": "UI_DungeonPic_Cubic_Normal_1"
 	},
 	"domainofblessingfiresofpurificationii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_2"
+		"namepic": "UI_DungeonPic_Cubic_Normal_2"
 	},
 	"domainofblessingfiresofpurificationiii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_3"
+		"namepic": "UI_DungeonPic_Cubic_Normal_3"
 	},
 	"domainofblessingfiresofpurificationiv": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_4"
+		"namepic": "UI_DungeonPic_Cubic_Normal_4"
 	},
 	"domainofblessingfiresofpurificationv": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal"
+		"namepic": "UI_DungeonPic_Cubic_Normal"
 	},
 	"domainofblessingfiresofpurificationvi": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_1"
+		"namepic": "UI_DungeonPic_Cubic_Normal_1"
 	},
 	"domainofblessingdanceofsteeli": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_3"
+		"namepic": "UI_DungeonPic_Cubic_Normal_3"
 	},
 	"domainofblessingdanceofsteelii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_4"
+		"namepic": "UI_DungeonPic_Cubic_Normal_4"
 	},
 	"domainofblessingdanceofsteeliii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal"
+		"namepic": "UI_DungeonPic_Cubic_Normal"
 	},
 	"domainofblessingdanceofsteeliv": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_3"
+		"namepic": "UI_DungeonPic_Cubic_Normal_3"
 	},
 	"domainofblessingdanceofsteelv": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_4"
+		"namepic": "UI_DungeonPic_Cubic_Normal_4"
 	},
 	"domainofblessingunyieldingi": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_4"
+		"namepic": "UI_DungeonPic_Cubic_Normal_4"
 	},
 	"domainofblessingunyieldingii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal"
+		"namepic": "UI_DungeonPic_Cubic_Normal"
 	},
 	"domainofblessingunyieldingiii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_3"
+		"namepic": "UI_DungeonPic_Cubic_Normal_3"
 	},
 	"domainofblessingunyieldingiv": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_4"
+		"namepic": "UI_DungeonPic_Cubic_Normal_4"
 	},
 	"domainofblessingspringi": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_1"
+		"namepic": "UI_DungeonPic_Cubic_Normal_1"
 	},
 	"domainofblessingspringii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_2"
+		"namepic": "UI_DungeonPic_Cubic_Normal_2"
 	},
 	"domainofblessingspringiii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_3"
+		"namepic": "UI_DungeonPic_Cubic_Normal_3"
 	},
 	"domainofblessingspringiv": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_2"
+		"namepic": "UI_DungeonPic_Cubic_Normal_2"
 	},
 	"domainofblessingspringv": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_4"
+		"namepic": "UI_DungeonPic_Cubic_Normal_4"
 	},
 	"domainofblessingspringvi": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_3"
+		"namepic": "UI_DungeonPic_Cubic_Normal_3"
 	},
 	"domainofblessingfrosti": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_1"
+		"namepic": "UI_DungeonPic_Cubic_Normal_1"
 	},
 	"domainofblessingfrostii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_2"
+		"namepic": "UI_DungeonPic_Cubic_Normal_2"
 	},
 	"domainofblessingfrostiii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_2"
+		"namepic": "UI_DungeonPic_Cubic_Normal_2"
 	},
 	"domainofblessingfrostiv": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_3"
+		"namepic": "UI_DungeonPic_Cubic_Normal_3"
 	},
 	"domainofblessingstonechamberi": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_4"
+		"namepic": "UI_DungeonPic_Cubic_Normal_4"
 	},
 	"domainofblessingstonechamberii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal"
+		"namepic": "UI_DungeonPic_Cubic_Normal"
 	},
 	"domainofblessingstonechamberiii": {
-		"filename_image": "UI_DungeonPic_Cubic_Normal_1"
+		"namepic": "UI_DungeonPic_Cubic_Normal_1"
 	},
-	"domainofblessingelegaicrimei": {},
-	"domainofblessingelegaicrimeii": {},
-	"domainofblessingelegaicrimeiii": {},
-	"domainofblessingelegaicrimeiv": {},
+	"domainofblessingelegaicrimei": {
+		"namepic": "UI_DungeonPic_Cubic_Cold_1"
+	},
+	"domainofblessingelegaicrimeii": {
+		"namepic": "UI_DungeonPic_Cubic_Cold_1"
+	},
+	"domainofblessingelegaicrimeiii": {
+		"namepic": "UI_DungeonPic_Cubic_Cold_1"
+	},
+	"domainofblessingelegaicrimeiv": {
+		"namepic": "UI_DungeonPic_Cubic_Cold_1"
+	},
 	"domainofblessingautumnhunti": {
-		"filename_image": "UI_DungeonPic_ThunderCave_Dq"
+		"namepic": "UI_DungeonPic_ThunderCave_Dq"
 	},
 	"domainofblessingautumnhuntii": {
-		"filename_image": "UI_DungeonPic_ThunderCave_Dq"
+		"namepic": "UI_DungeonPic_ThunderCave_Dq"
 	},
 	"domainofblessingautumnhuntiii": {
-		"filename_image": "UI_DungeonPic_ThunderCave_Dq"
+		"namepic": "UI_DungeonPic_ThunderCave_Dq"
 	},
 	"domainofblessingautumnhuntiv": {
-		"filename_image": "UI_DungeonPic_ThunderCave_Dq"
+		"namepic": "UI_DungeonPic_ThunderCave_Dq"
 	},
 	"domainofforgerythundercloudaltari": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerythundercloudaltarii": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerythundercloudaltariii": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerythundercloudaltariv": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerythunderingruinsi": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerythunderingruinsii": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerythunderingruinsiii": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerythunderingruinsiv": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerytrialgroundsofthunderi": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerytrialgroundsofthunderii": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerytrialgroundsofthunderiii": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofforgerytrialgroundsofthunderiv": {
-		"filename_image": "UI_DungeonPic_Thunder"
+		"namepic": "UI_DungeonPic_Thunder"
 	},
 	"domainofmasteryaltarofflamesi": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasteryaltarofflamesii": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasteryaltarofflamesiii": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasteryaltarofflamesiv": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasteryheartoftheflamesi": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasteryheartoftheflamesii": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasteryheartoftheflamesiii": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasteryheartoftheflamesiv": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasterycircleofembersi": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasterycircleofembersii": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasterycircleofembersiii": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofmasterycircleofembersiv": {
-		"filename_image": "UI_DungeonPic_Fire"
+		"namepic": "UI_DungeonPic_Fire"
 	},
 	"domainofblessingnecropolisi": {
-		"filename_image": "UI_DungeonPic_ThunderCave_Dq"
+		"namepic": "UI_DungeonPic_ThunderCave_Dq"
 	},
 	"domainofblessingnecropolisii": {
-		"filename_image": "UI_DungeonPic_ThunderCave_Dq"
+		"namepic": "UI_DungeonPic_ThunderCave_Dq"
 	},
 	"domainofblessingnecropolisiii": {
-		"filename_image": "UI_DungeonPic_ThunderCave_Dq"
+		"namepic": "UI_DungeonPic_ThunderCave_Dq"
 	},
 	"domainofblessingnecropolisiv": {
-		"filename_image": "UI_DungeonPic_ThunderCave_Dq"
+		"namepic": "UI_DungeonPic_ThunderCave_Dq"
 	},
 	"domainofblessingmachinenesti": {
-		"filename_image": "UI_DungeonPic_CycleDungeonChasm"
+		"namepic": "UI_DungeonPic_CycleDungeonChasm"
 	},
 	"domainofblessingmachinenestii": {
-		"filename_image": "UI_DungeonPic_CycleDungeonChasm"
+		"namepic": "UI_DungeonPic_CycleDungeonChasm"
 	},
 	"domainofblessingmachinenestiii": {
-		"filename_image": "UI_DungeonPic_CycleDungeonChasm"
+		"namepic": "UI_DungeonPic_CycleDungeonChasm"
 	},
 	"domainofblessingmachinenestiv": {
-		"filename_image": "UI_DungeonPic_CycleDungeonChasm"
+		"namepic": "UI_DungeonPic_CycleDungeonChasm"
 	},
 	"domainofblessingelegiacrimei": {
-		"filename_image": "UI_DungeonPic_Cubic_Cold_1"
+		"namepic": "UI_DungeonPic_Cubic_Cold_1"
 	},
 	"domainofblessingelegiacrimeii": {
-		"filename_image": "UI_DungeonPic_Cubic_Cold_1"
+		"namepic": "UI_DungeonPic_Cubic_Cold_1"
 	},
 	"domainofblessingelegiacrimeiii": {
-		"filename_image": "UI_DungeonPic_Cubic_Cold_1"
+		"namepic": "UI_DungeonPic_Cubic_Cold_1"
 	},
 	"domainofblessingelegiacrimeiv": {
-		"filename_image": "UI_DungeonPic_Cubic_Cold_1"
+		"namepic": "UI_DungeonPic_Cubic_Cold_1"
 	},
 	"domainofforgerytaintedcloudsi": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgerytaintedcloudsii": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgerytaintedcloudsiii": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgerytaintedcloudsiv": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgeryobsessioni": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgeryobsessionii": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgeryobsessioniii": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgeryobsessioniv": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgeryleadingkarmai": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgeryleadingkarmaii": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgeryleadingkarmaiii": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofforgeryleadingkarmaiv": {
-		"filename_image": "UI_DungeonPic_XMWeapon01"
+		"namepic": "UI_DungeonPic_XMWeapon01"
 	},
 	"domainofmasteryfullmooni": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasteryfullmoonii": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasteryfullmooniii": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasteryfullmooniv": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasterywitticismi": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasterywitticismii": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasterywitticismiii": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasterywitticismiv": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasterybasketofdisciplinei": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasterybasketofdisciplineii": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasterybasketofdisciplineiii": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofmasterybasketofdisciplineiv": {
-		"filename_image": "UI_DungeonPic_XMCharacter01"
+		"namepic": "UI_DungeonPic_XMCharacter01"
 	},
 	"domainofblessingsevensensesi": {
-		"filename_image": "UI_DungeonPic_XMRelic01"
+		"namepic": "UI_DungeonPic_XMRelic01"
 	},
 	"domainofblessingsevensensesii": {
-		"filename_image": "UI_DungeonPic_XMRelic01"
+		"namepic": "UI_DungeonPic_XMRelic01"
 	},
 	"domainofblessingsevensensesiii": {
-		"filename_image": "UI_DungeonPic_XMRelic01"
+		"namepic": "UI_DungeonPic_XMRelic01"
 	},
 	"domainofblessingsevensensesiv": {
-		"filename_image": "UI_DungeonPic_XMRelic01"
+		"namepic": "UI_DungeonPic_XMRelic01"
 	},
 	"domainofblessingdesertcitadeli": {
-		"filename_image": "UI_DungeonPic_XMRelic02"
+		"namepic": "UI_DungeonPic_XMRelic02"
 	},
 	"domainofblessingdesertcitadelii": {
-		"filename_image": "UI_DungeonPic_XMRelic02"
+		"namepic": "UI_DungeonPic_XMRelic02"
 	},
 	"domainofblessingdesertcitadeliii": {
-		"filename_image": "UI_DungeonPic_XMRelic02"
+		"namepic": "UI_DungeonPic_XMRelic02"
 	},
 	"domainofblessingdesertcitadeliv": {
-		"filename_image": "UI_DungeonPic_XMRelic02"
+		"namepic": "UI_DungeonPic_XMRelic02"
 	},
 	"domainofblessingforsakenramparti": {
-		"filename_image": "UI_DungeonPic_XMRelic02"
+		"namepic": "UI_DungeonPic_XMRelic02"
 	},
 	"domainofblessingforsakenrampartii": {
-		"filename_image": "UI_DungeonPic_XMRelic02"
+		"namepic": "UI_DungeonPic_XMRelic02"
 	},
 	"domainofblessingforsakenrampartiii": {
-		"filename_image": "UI_DungeonPic_XMRelic02"
+		"namepic": "UI_DungeonPic_XMRelic02"
 	},
 	"domainofblessingforsakenrampartiv": {
-		"filename_image": "UI_DungeonPic_XMRelic02"
+		"namepic": "UI_DungeonPic_XMRelic02"
 	},
 	"domainofmasteryrhymingrhythmi": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasteryrhymingrhythmii": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasteryrhymingrhythmiii": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasteryrhymingrhythmiv": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofforgeryroboticrusei": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgeryroboticruseii": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgeryroboticruseiii": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgeryroboticruseiv": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofblessingharmonyi": {
-		"filename_image": "UI_DungeonPic_FDRelic01"
+		"namepic": "UI_DungeonPic_FDRelic01"
 	},
 	"domainofblessingharmonyii": {
-		"filename_image": "UI_DungeonPic_FDRelic01"
+		"namepic": "UI_DungeonPic_FDRelic01"
 	},
 	"domainofblessingharmonyiii": {
-		"filename_image": "UI_DungeonPic_FDRelic01"
+		"namepic": "UI_DungeonPic_FDRelic01"
 	},
 	"domainofblessingharmonyiv": {
-		"filename_image": "UI_DungeonPic_FDRelic01"
+		"namepic": "UI_DungeonPic_FDRelic01"
 	},
 	"domainofmasteryadmonishingengravingi": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasteryadmonishingengravingii": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasteryadmonishingengravingiii": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasteryadmonishingengravingiv": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasterychimingrecitationi": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasterychimingrecitationii": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasterychimingrecitationiii": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofmasterychimingrecitationiv": {
-		"filename_image": "UI_DungeonPic_FDCharacter01"
+		"namepic": "UI_DungeonPic_FDCharacter01"
 	},
 	"domainofforgeryartisanshipi": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgeryartisanshipii": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgeryartisanshipiii": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgeryartisanshipiv": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgerycuriouscontraptionsi": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgerycuriouscontraptionsii": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgerycuriouscontraptionsiii": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	},
 	"domainofforgerycuriouscontraptionsiv": {
-		"filename_image": "UI_DungeonPic_FDWeapon01"
-	},
-	"domainofblessingcrumblingassemblyi": {
-		"filename_image": "UI_DungeonPic_FDRelic01"
-	},
-	"domainofblessingcrumblingassemblyii": {
-		"filename_image": "UI_DungeonPic_FDRelic01"
-	},
-	"domainofblessingcrumblingassemblyiii": {
-		"filename_image": "UI_DungeonPic_FDRelic01"
-	},
-	"domainofblessingcrumblingassemblyiv": {
-		"filename_image": "UI_DungeonPic_FDRelic01"
+		"namepic": "UI_DungeonPic_FDWeapon01"
 	}
 }

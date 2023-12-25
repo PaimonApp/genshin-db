@@ -1,15 +1,10 @@
 {
-	"id": 101223,
 	"name": "悼霊花",
-	"sortRank": 314,
 	"description": "古の戦場に咲いた真っ赤な花。荒漠の中でもしたたかに成長している。垂れ下がる花はまるで、ここで犠牲となった英霊を悼んでいるかのようだ。",
-<<<<<<< HEAD
 	"sortorder": 2877,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "スメール地域の特産",
-	"sources": [
+	"materialtype": "スメール地域の特産",
+	"source": [
 		"スメールの砂漠で採集",
 		"推奨：アシパトラ·ヴァナの沼で採集"
 	]

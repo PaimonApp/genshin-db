@@ -1,8 +1,6 @@
 {
-	"id": 201500,
 	"name": "Icy Featherflight",
 	"description": "Kaeya's outfit. Fashionable clothes festooned with a fur collar.",
-	"isDefault": true,
-	"characterId": 10000015,
-	"characterName": "Kaeya"
+	"isdefault": true,
+	"character": "Kaeya"
 }

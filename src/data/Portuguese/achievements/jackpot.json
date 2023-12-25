@@ -1,11 +1,8 @@
 {
-	"id": [
-		81124
-	],
 	"name": "Sorte Grande",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1120,
+	"achievementgroup": "Maravilhas do Mundo",
+	"ishidden": true,
+	"sortorder": 1120,
 	"stages": 1,
 	"stage1": {
 		"title": "Sorte Grande",
@@ -13,7 +10,6 @@
 		"description": "Use o Canhão Kamuijima para abrir um Local dos Tesouros",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

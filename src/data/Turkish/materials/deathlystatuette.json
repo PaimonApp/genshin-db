@@ -1,22 +1,11 @@
 {
-	"id": 112019,
 	"name": "Ölümcül Heykelcik",
-	"rarity": 4,
-	"sortRank": 10120,
 	"description": "Kötü bir enerji yayan tek gözlü bir oyma heykelcik. Hangi malzemeden yapıldığı belli değil.\nBu heykelciğe bakarken tuhaf, rahatlatıcı bir fısıltı duyabilirsin.\n\"Gördün mü evladım? Göklerin tahtının altındaki her şey kargaşayla yok olacak. Karanlık boşluğun sonsuz huzuru hepimizi kucaklayacak.\"",
-<<<<<<< HEAD
 	"sortorder": 3090,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Karakter ve Silah Geliştirme Malzemesi",
 	"source": [
 		"Üretilir."
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter ve Silah Geliştirme Malzemesi",
-	"sources": [
-		"Üretilir.",
-		"Sv. 60 ve üzeri Kara Yılanlardan düşer."
->>>>>>> upstream/main
 	]
 }

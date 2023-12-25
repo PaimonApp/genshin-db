@@ -1,20 +1,13 @@
 {
-	"id": [
-		80120,
-		80121,
-		80122
-	],
 	"name": "Chasse aux trésors sur les terres brumeuses",
-	"achievementGroupId": 27,
-	"achievementGroupName": "Chroniques de la mer de brouillard",
-	"sortOrder": 120,
+	"achievementgroup": "Chroniques de la mer de brouillard",
+	"sortorder": 120,
 	"stages": 3,
 	"stage1": {
 		"title": "Chasse aux trésors sur les terres brumeuses",
 		"description": "Ouvrez 30 coffres sur l'Île de Tsurumi.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Ouvrez 60 coffres sur l'Île de Tsurumi.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Ouvrez 120 coffres sur l'Île de Tsurumi.",
 		"progress": 120,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

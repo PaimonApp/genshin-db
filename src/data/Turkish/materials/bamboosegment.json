@@ -1,19 +1,12 @@
 {
-	"id": 101305,
 	"name": "Bambu Sapı",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Mütevazı görünümlerine kıyasla bambunun sapları çok daha güçlü ve serttir. Hafif bir koku yayarlar.\nDekorasyon yapmak için kullanılabilir.",
-<<<<<<< HEAD
 	"sortorder": 2964,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Doğada bulunur.",
-		"Öneri: Bishui Ovası'nda kesilir.",
-		"Kütüğü Dönüştür"
+		"Öneri: Bishui Ovası'nda kesilir."
 	]
 }

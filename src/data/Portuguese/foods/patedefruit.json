@@ -1,10 +1,9 @@
 {
-	"id": 3408,
 	"name": "Bala de Goma de Fruta",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Pratos de ATQ",
+	"foodfilter": "Pratos de ATQ",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Aumenta a Taxa Crítica de todos os membros da equipe em 10% - 20% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Um doce de goma. Foi criado inicialmente como uma forma de conservar frutas. Com o passar do tempo, o doce encontrou seu espaço nas memórias de infância de todos em Fontaine. É doce e mastigável, e nunca é o suficiente.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 101230,
 			"name": "Fruta Bulle",
 			"count": 1
 		},
 		{
-			"id": 110008,
 			"name": "Geleia",
 			"count": 1
 		},
 		{
-			"id": 110006,
 			"name": "Açúcar",
 			"count": 1
 		}

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Báo Cáo Phái Cô Độc",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1380,
-=======
-	"id": [
-		81396
-	],
-	"name": "Báo Cáo Phái Cô Độc",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1380,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Báo Cáo Phái Cô Độc",
 		"description": "Nhận được \"báo cáo đặc biệt\" do Chronie tự in.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

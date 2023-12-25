@@ -1,24 +1,19 @@
 {
-	"id": 10000015,
 	"name": "Brocheta afrutada",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "SPECIALTY",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Platos que regeneran Vida",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Restaura un 16% de la Vida Máx. y 1350 pts. de Vida al personaje seleccionado.",
 	"description": "La especialidad de Kaeya. Una brocheta deliciosa con un rico y dulce sabor. Espera... ¿por qué huele a fruta?",
-	"baseDishId": 1001,
-	"baseDishName": "Brocheta de champiñones y pollo",
-	"characterId": 10000015,
-	"characterName": "Kaeya",
+	"basedish": "Brocheta de champiñones y pollo",
+	"character": "Kaeya",
 	"ingredients": [
 		{
-			"id": 100011,
 			"name": "Champiñón",
 			"count": 1
 		},
 		{
-			"id": 100064,
 			"name": "Carne de ave",
 			"count": 1
 		}

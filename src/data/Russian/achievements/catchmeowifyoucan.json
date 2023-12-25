@@ -1,18 +1,14 @@
 {
-	"id": [
-		84546
-	],
 	"name": "Котолов",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 4070,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 4070,
 	"stages": 1,
 	"stage1": {
 		"title": "Котолов",
 		"description": "Помогите Саре отыскать её кошек.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

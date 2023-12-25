@@ -1,11 +1,8 @@
 {
-	"id": 70400011,
 	"name": "Terra de Mawtiyima",
-	"areaId": 4101,
-	"areaName": "Floresta Mawtiyima",
+	"area": "Floresta Mawtiyima",
 	"description": "Esse é o local que as memórias e sonhos da floresta se reúnem. Parece ter sua própria consciência.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 311
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 311
 }

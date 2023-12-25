@@ -1,13 +1,8 @@
 {
-	"id": 101404,
 	"name": "Синяя краска",
-	"sortRank": 331,
 	"description": "Синий краситель. Безусловно пригодится для изготовления декора.",
-<<<<<<< HEAD
 	"sortorder": 2985,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Материал",
-	"sources": []
+	"materialtype": "Материал",
+	"source": []
 }

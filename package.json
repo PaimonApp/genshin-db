@@ -1,7 +1,7 @@
 {
 	"name": "@PaimonApp/genshin-db",
-	"version": "5.43.0",
-	"description": "Genshin Impact v4.3 JSON data. Search and get results in all in-game languages! Sources from the fandom wiki and GenshinData repo.",
+	"version": "4.4.2",
+	"description": "Genshin Impact v4.2 JSON data. Search and get results in all in-game languages! Sources from the fandom wiki and GenshinData repo.",
 	"main": "./src/main.js",
 	"types": "./types/index.d.ts",
 	"scripts": {

@@ -1,17 +1,11 @@
 {
-	"id": 104161,
 	"name": "Shivada Jade Sliver",
-	"rarity": 2,
-	"sortRank": 12107,
 	"description": "วัสดุเลื่อนขั้นตัวละคร",
-<<<<<<< HEAD
 	"sortorder": 3212,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "วัสดุเลื่อนขั้นตัวละคร",
-	"sources": [
+	"materialtype": "วัสดุเลื่อนขั้นตัวละคร",
+	"source": [
 		"ดรอปจาก Cryo Regisvine",
 		"ดรอปจาก Cryo Hypostasis",
 		"แลกได้ที่ร้านขายของที่ระลึก"

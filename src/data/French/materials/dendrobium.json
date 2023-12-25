@@ -1,15 +1,10 @@
 {
-	"id": 101204,
 	"name": "Dendrobium sanglant",
-	"sortRank": 313,
 	"description": "Une plante magnifique qui est également appelée « lycoris » par les poètes. On la croyait autrefois éteinte dans l'archipel d'Inazuma, avant de réapparaître sur les champs de bataille. On dit qu'elle fleurit d'un rouge d'autant plus vif là où le sang a été versé.",
-<<<<<<< HEAD
 	"sortorder": 2865,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit d'Inazuma",
-	"sources": [
+	"materialtype": "Produit d'Inazuma",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Plage de Nazuchi"
 	]

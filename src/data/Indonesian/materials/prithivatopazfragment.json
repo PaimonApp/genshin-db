@@ -1,17 +1,11 @@
 {
-	"id": 104172,
 	"name": "Prithiva Topaz Fragment",
-	"rarity": 3,
-	"sortRank": 12108,
 	"description": "Material Ascension Karakter.\n\"Mata uang di tanah ini adalah darah.\"",
-<<<<<<< HEAD
 	"sortorder": 3215,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Karakter",
-	"sources": [
+	"materialtype": "Material Ascension Karakter",
+	"source": [
 		"Dijatuhkan oleh Geo Hypostasis Lv. 40+",
 		"Dijatuhkan oleh Golden Wolflord Lv. 40+",
 		"Dijatuhkan oleh Ruin Serpent Lv. 40+",

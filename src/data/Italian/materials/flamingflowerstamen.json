@@ -1,15 +1,10 @@
 {
-	"id": 100053,
 	"name": "Pistillo di Fiorardente",
-	"sortRank": 320,
 	"description": "Il pistillo di un fiore fiammeggiante. Continua a emettere calore anche dopo essere stato spento.",
-<<<<<<< HEAD
 	"sortorder": 2890,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Materiale",
-	"sources": [
+	"materialtype": "Materiale",
+	"source": [
 		"Presente in natura",
 		"Consiglio: si trova al Tempio dei Mille Venti"
 	]

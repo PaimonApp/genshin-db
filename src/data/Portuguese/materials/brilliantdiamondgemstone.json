@@ -1,17 +1,11 @@
 {
-	"id": 104104,
 	"name": "Gema de Diamante Brilhante",
-	"rarity": 5,
-	"sortRank": 12101,
 	"description": "Material de Avanço de Personagem. \n\"Bem-vindo ao Mundo.\"",
-<<<<<<< HEAD
 	"sortorder": 3185,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Ascensão de Personagem",
-	"sources": [
+	"materialtype": "Material de Ascensão de Personagem",
+	"source": [
 		"Recompensas de Rank de Aventura"
 	]
 }

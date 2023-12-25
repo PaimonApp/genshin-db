@@ -1,15 +1,9 @@
 {
-	"id": 200112,
 	"name": "Plume of the Changing Winds",
-	"rarity": 4,
-	"sortRank": 90,
 	"description": "Material refinement khusus untuk \"Missive Windspear\".\nBulu kuno yang diukir dari pirus. Bulu ini dulunya digunakan sebagai ornamen atau semacam tanda.",
-<<<<<<< HEAD
 	"sortorder": 2763,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Refinement",
-	"sources": []
+	"materialtype": "Material Refinement",
+	"source": []
 }

@@ -1,17 +1,11 @@
 {
-	"id": 104172,
 	"name": "Prithiva Topazı Kırıntısı",
-	"rarity": 3,
-	"sortRank": 12108,
 	"description": "Karakter Yükseltme malzemesi.\n\"Bu topraklarda akıp gidenler benim bir parçam.\"",
-<<<<<<< HEAD
 	"sortorder": 3215,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yükseltme Malzemesi",
-	"sources": [
+	"materialtype": "Karakter Yükseltme Malzemesi",
+	"source": [
 		"Sv. 40 ve üzeri Toprak Hipostazlarından düşer.",
 		"Sv. 40 ve üzeri Kurtların Altın Efendilerinden düşer.",
 		"Sv. 40 ve üzeri Harabe Yılanlarından düşer.",

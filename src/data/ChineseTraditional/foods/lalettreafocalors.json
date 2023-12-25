@@ -1,10 +1,9 @@
 {
-	"id": 3416,
 	"name": "致水神",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "防禦類料理",
+	"foodfilter": "防禦類料理",
+	"foodcategory": "Def_Add",
 	"effect": "隊伍中所有角色生命值上限提升20%-25%，持續300秒。\n多人遊戲時，僅對自己的角色生效。",
 	"description": "長條形的小蛋糕。據說這是很久很久以前，某位糕點師以楓丹民眾對水神大人的熱愛為靈感創作而成。堆疊而起的多重層次、考驗廚藝的製作工法，無一不證明著水神大人的影響力。",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "鳥蛋",
 			"count": 4
 		},
 		{
-			"id": 110001,
 			"name": "麵粉",
 			"count": 3
 		},
 		{
-			"id": 100098,
 			"name": "咖啡豆",
 			"count": 3
 		},
 		{
-			"id": 100089,
 			"name": "杏仁",
 			"count": 2
 		}

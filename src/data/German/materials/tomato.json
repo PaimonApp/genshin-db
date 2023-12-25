@@ -1,15 +1,10 @@
 {
-	"id": 100079,
 	"name": "Tomate",
-	"sortRank": 321,
 	"description": "Eine Frucht mit einer dünnen, knallroten Schale. Etwas säuerlich, aber sehr saftig. Ob Obst oder Gemüse, immer ein Genuss.",
-<<<<<<< HEAD
 	"sortorder": 2921,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In Gemischtwarenläden zu erstehen"
 	]
 }

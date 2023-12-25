@@ -1,15 +1,10 @@
 {
-	"id": 100080,
 	"name": "Batata",
-	"sortRank": 321,
 	"description": "É uma planta perene da família das solanáceas. Um presente da terra devido aos seus vários métodos de preparado.",
-<<<<<<< HEAD
 	"sortorder": 2922,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Vendido nas Tendas"
 	]
 }

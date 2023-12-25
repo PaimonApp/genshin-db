@@ -1,10 +1,7 @@
 {
-	"id": 70100003,
 	"name": "Cavaleiros de Favonius - Biblioteca",
-	"areaId": 1102,
-	"areaName": "Mondstadt",
+	"area": "Mondstadt",
 	"description": "A biblioteca com o maior número de livros em todas as terras do norte. Além daqueles coletados na seção restrita, todos os livros aqui estão abertos para leitura pública.",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 7
+	"region": "Mondstadt",
+	"sortorder": 7
 }

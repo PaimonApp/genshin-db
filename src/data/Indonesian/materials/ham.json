@@ -1,15 +1,10 @@
 {
-	"id": 110005,
 	"name": "Ham",
-	"sortRank": 322,
 	"description": "Daging asap dari bagian paha hewan. Satu lapisan tipis saja dapat memberikan rasa yang luar biasa.",
-<<<<<<< HEAD
 	"sortorder": 2951,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Didapatkan saat proses cooking"
 	]
 }

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Somos Legião",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 2186,
-=======
-	"id": [
-		82187
-	],
-	"name": "Somos Legião",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 2186,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Somos Legião",
 		"description": "Impeça a Tulpa Hydro de absorver a Meia-Tulpa duas vezes.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

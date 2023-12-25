@@ -1,15 +1,10 @@
 {
-	"id": 101213,
 	"name": "Rukkhashava Mushroom",
-	"sortRank": 314,
 	"description": "Jamur yang tumbuh berlapis-lapis seperti lautan awan, dan kebanyakan tumbuh di pepohonan yang jauh di dalam hutan hujan.",
-<<<<<<< HEAD
 	"sortorder": 2871,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk Khas Sumeru",
-	"sources": [
+	"materialtype": "Produk Khas Sumeru",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Ashavan Realm",
 		"Rekomendasi: Ditemukan di Lokapala Jungle"

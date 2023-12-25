@@ -1,15 +1,9 @@
 {
-	"id": 201,
 	"name": "Gema Essencial",
-	"rarity": 5,
-	"sortRank": 30,
 	"description": "Uma gema cristalina primordial que vai além da compreensão mundana. Seu brilho está cheio de esperanças e sonhos do universo em que esteve.",
-<<<<<<< HEAD
 	"sortorder": 2714,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"typeText": "Moeda Especial",
-	"sources": []
+	"materialtype": "Moeda Especial",
+	"source": []
 }

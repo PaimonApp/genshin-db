@@ -1,15 +1,10 @@
 {
-	"id": 100020,
 	"name": "Kiefernzapfen",
-	"sortRank": 321,
 	"description": "Enthält viele ölhaltige Kerne, die natürlich nicht zu einem gewaltigen Baum im Magen eines Eichhörnchens heranwachsen.",
-<<<<<<< HEAD
 	"sortorder": 2909,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

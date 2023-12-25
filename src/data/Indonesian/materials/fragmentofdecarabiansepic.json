@@ -1,24 +1,17 @@
 {
-	"id": 114003,
 	"name": "Fragment of Decarabian's Epic",
-	"rarity": 4,
-	"sortRank": 15101,
 	"description": "Material Ascension Senjata.\nAndrius pernah menyatakan perang melawan Decarabian, tapi gagal untuk merusak kotanya sedikitpun. Jika bukan karena suara kebebasan yang menghancurkan kotanya dalam sekejap, mungkin mimpi Decarabian akan berlangsung selamanya.",
-<<<<<<< HEAD
 	"sortorder": 3278,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Senjata",
-	"dropDomainId": 4312,
-	"dropDomainName": "Domain of Forgery: Kota Bayangan Air",
-	"daysOfWeek": [
+	"materialtype": "Material Ascension Senjata",
+	"dropdomain": "Domain of Forgery: Kota Bayangan Air",
+	"daysofweek": [
 		"Senin",
 		"Kamis",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Péripéties sur les terres aquatiques (3)",
 	"achievementgroup": "Fontaine - Danse de la rosée blanche (3)",
 	"sortorder": 271,
-=======
-	"id": [
-		80295,
-		80296,
-		80297
-	],
-	"name": "Péripéties sur les terres aquatiques (3)",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - Danse de la rosée blanche (3)",
-	"sortOrder": 271,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Péripéties sur les terres aquatiques (3)",
 		"description": "Terminez {param0} défis du monde ouvert activés par mécanisme dans la Région mortée et la Forêt d'Erinnyes.",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Terminez {param0} défis du monde ouvert activés par mécanisme dans la Région mortée et la Forêt d'Erinnyes.",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Terminez {param0} défis du monde ouvert activés par mécanisme dans la Région mortée et la Forêt d'Erinnyes.",
 		"progress": 9,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 20
 		}

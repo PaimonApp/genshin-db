@@ -1,13 +1,7 @@
 {
-	"id": 18,
 	"name": "Welt in der Welt – Reihe 1",
-<<<<<<< HEAD
 	"sortorder": 31,
-=======
-	"sortOrder": 31,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210072,
 		"name": "Errungenschaft – Teezeit"
 	}
 }

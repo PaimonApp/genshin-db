@@ -1,10 +1,9 @@
 {
-	"id": 3211,
 	"name": "Orkide Tofusu",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Maceracının Yemeği",
+	"foodfilter": "Maceracının Yemeği",
+	"foodcategory": "Other_SPAdd",
 	"effect": "70 ila 100 dayanıklılık yeniler.",
 	"description": "İnsanın bıçak kullanma becerilerini sınayan bir yemek. Tüm malzemeler tek seferde şerit şerit kesilmiş ve yıkandıktan sonra et suyuna eklenip su yüzeyine çıkana dek pişirilmişler. Ortaya çıkan hafif ve taze tat bir Liyue restoranında şefin tavsiyesi olarak sunulsa hiç sırıtmaz.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100088,
 			"name": "Tofu",
 			"count": 4
 		},
 		{
-			"id": 100091,
 			"name": "Bambu Filizi",
 			"count": 2
 		},
 		{
-			"id": 110005,
 			"name": "Jambon",
 			"count": 1
 		},
 		{
-			"id": 100064,
 			"name": "Kuş Eti",
 			"count": 1
 		}

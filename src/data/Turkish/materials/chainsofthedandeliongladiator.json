@@ -1,24 +1,17 @@
 {
-	"id": 114010,
 	"name": "Karahindiba Gladyatörü Zinciri",
-	"rarity": 3,
-	"sortRank": 15103,
 	"description": "Silah Yükseltme Malzemesi.\nBir zamanlar büyük kahraman Vennessa'yı bağlamış zincirler. Aslında o dönemlerde bütün gladyatörler zincire vurulurdu, Vennessa da onlardan biriydi.",
-<<<<<<< HEAD
 	"sortorder": 3287,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Silah Yükseltme Malzemesi",
-	"dropDomainId": 4331,
-	"dropDomainName": "Döküm Zindanı: Susuz Şehrin Harabeleri",
-	"daysOfWeek": [
+	"materialtype": "Silah Yükseltme Malzemesi",
+	"dropdomain": "Döküm Zindanı: Susuz Şehrin Harabeleri",
+	"daysofweek": [
 		"Çarşamba",
 		"Cumartesi",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

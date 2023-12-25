@@ -1,18 +1,14 @@
 {
-	"id": [
-		82130
-	],
 	"name": "Побеждает зритель",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2130,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2130,
 	"stages": 1,
 	"stage1": {
 		"title": "Побеждает зритель",
 		"description": "Наблюдайте за сражением между плесенниками.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

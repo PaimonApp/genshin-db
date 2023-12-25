@@ -1,9 +1,7 @@
 {
-	"id": 20,
 	"name": "도전자·제4집",
-	"sortOrder": 17,
+	"sortorder": 17,
 	"reward": {
-		"id": 210088,
 		"name": "업적·석룡"
 	}
 }

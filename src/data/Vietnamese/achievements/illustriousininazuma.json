@@ -1,11 +1,8 @@
 {
-	"id": [
-		80092
-	],
 	"name": "Vương Quốc Sấm Sét",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1026,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1026,
 	"stages": 1,
 	"stage1": {
 		"title": "Vương Quốc Sấm Sét",
@@ -13,7 +10,6 @@
 		"description": "Danh vọng Inazuma đạt cấp 10.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 20
 		}

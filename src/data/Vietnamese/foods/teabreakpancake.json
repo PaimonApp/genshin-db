@@ -1,10 +1,9 @@
 {
-	"id": 2005,
 	"name": "Bánh Xốp",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Món Dạng Hồi Phục",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Hồi sinh cho nhân vật được chọn.\nHồi 250-550 điểm HP.",
 	"description": "Bánh nướng hình tròn. Từ món ăn vặt buổi chiều nay đã trở thành món chính, dùng quả mâm xôi ngon nhất để điểm xuyết thêm cho bánh.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100051,
 			"name": "Quả Mâm Xôi",
 			"count": 3
 		},
 		{
-			"id": 110001,
 			"name": "Bột Mì",
 			"count": 2
 		},
 		{
-			"id": 100062,
 			"name": "Trứng Chim",
 			"count": 1
 		}

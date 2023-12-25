@@ -1,18 +1,14 @@
 {
-	"id": [
-		84552
-	],
 	"name": "Pas la faute des moras !",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 4076,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 4076,
 	"stages": 1,
 	"stage1": {
 		"title": "Pas la faute des moras !",
 		"description": "Assistez aux aventures des Gourmets suprêmes à Sumeru...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

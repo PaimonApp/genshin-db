@@ -1,10 +1,9 @@
 {
-	"id": 2003,
 	"name": "Копчёный цыплёночек",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Блюдо для приключений",
+	"foodfilter": "Блюдо для приключений",
+	"foodcategory": "Other_SPAdd",
 	"effect": "Восстанавливает 40-60 ед. выносливости.",
 	"description": "Копчёная птица в паре с овощами. Одно из главных блюд Северян, которое подают только для самых важных гостей.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110003,
 			"name": "Копчёная птица",
 			"count": 1
 		},
 		{
-			"id": 100076,
 			"name": "Лук",
 			"count": 1
 		},
 		{
-			"id": 100018,
 			"name": "Капуста",
 			"count": 1
 		}

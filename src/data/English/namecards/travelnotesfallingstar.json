@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Travel Notes: Falling Star",
 	"description": "Namecard style.\nMake a wish before you toss the arrow. If you manage to get it into the pot, who knows — your wish just might come true.",
 	"sortorder": 210176,
-=======
-	"id": 210176,
-	"name": "Travel Notes: Falling Star",
-	"description": "Namecard style.\nMake a wish before you toss the arrow. If you manage to get it into the pot, who knows — your wish just might come true.",
-	"sortOrder": 210176,
->>>>>>> upstream/main
 	"source": [
 		"BP Reward"
 	]

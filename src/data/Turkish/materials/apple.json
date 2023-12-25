@@ -1,15 +1,10 @@
 {
-	"id": 100001,
 	"name": "Elma",
-	"sortRank": 90000,
 	"description": "Kütür kütür ve taze. Şarabı da kendisi kadar lezzetli.",
-<<<<<<< HEAD
 	"sortorder": 3416,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Yiyecek",
-	"sources": [
+	"materialtype": "Yiyecek",
+	"source": [
 		"Doğada bulunur."
 	]
 }

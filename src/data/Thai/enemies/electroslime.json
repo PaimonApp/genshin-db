@@ -1,8 +1,7 @@
 {
-	"id": 20010501,
 	"name": "Electro Slime",
-	"specialName": "Rolling Elemental",
-	"enemyType": "COMMON",
+	"specialname": "Rolling Elemental",
+	"enemytype": "COMMON",
 	"category": "สิ่งมีชีวิตธาตุ",
 	"description": "มอนสเตอร์ขนาดเล็กที่เกิดจากการควบแน่นของธาตุไฟฟ้าที่กระจายอยู่ทั่วไปในธรรมชาติ\nจากการวิเคราะห์พบว่า การเคลื่อนที่แบบกระโดดไปมาของ Electro Slime นั้นสามารถสะท้อนความต่างศักย์ไฟฟ้าในพื้นดินได้ ในสถานที่ที่เอ่อล้นไปด้วยธาตุไฟฟ้า คุณสามารถหลีกเลี่ยงอันตรายได้โดยสังเกตการเคลื่อนไหวที่ผิดปกติของ Electro Slime ได้",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "ง่าย",
 		"description": "สิ่งมีชีวิตรูปแบบธาตุตัวกลม ๆ\\nว่ากันว่าหากนำ Slime ที่มีธาตุที่แตกต่างกันมาทำเป็นของหวาน จะทำให้ได้รสชาติที่สุดยอดแตกต่างกันไป"
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112002,
 			"name": "Slime Condensate",
 			"count": 0.6723
 		},
 		{
-			"id": 112003,
 			"name": "Slime Secretions",
 			"count": 0.1792
 		},
 		{
-			"id": 112004,
 			"name": "Slime Concentrate",
 			"count": 0.0448
 		}

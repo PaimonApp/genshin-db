@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Ombak Akan Menuntunmu Kembali (III)",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
 	"sortorder": 265,
-=======
-	"id": [
-		80289,
-		80290,
-		80291
-	],
-	"name": "Ombak Akan Menuntunmu Kembali (III)",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
-	"sortOrder": 265,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Ombak Akan Menuntunmu Kembali (III)",
 		"description": "Ikuti {param0} Seelie di Morte Region dan Erinnyes Forest ke Seelie Court mereka.",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Ikuti {param0} Seelie di Morte Region dan Erinnyes Forest ke Seelie Court mereka.",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Ikuti {param0} Seelie di Morte Region dan Erinnyes Forest ke Seelie Court mereka.",
 		"progress": 9,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

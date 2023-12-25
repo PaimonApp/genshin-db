@@ -1,24 +1,17 @@
 {
-	"id": 104311,
 	"name": "Guide to \"Prosperity\"",
-	"rarity": 3,
-	"sortRank": 13104,
 	"description": "Material Penguatan Talenta.\nKemakmuran adalah hal yang dikejar oleh tanah bumi.\nKemakmuran adalah janji Liyue kepada anak-anaknya: Untuk membayar kembali kerja keras mereka dengan emas yang melimpah untuk mencerahkan tanah ini.",
-<<<<<<< HEAD
 	"sortorder": 3227,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Talenta Karakter",
-	"dropDomainId": 5255,
-	"dropDomainName": "Domain of Mastery: Altar Bara Api",
-	"daysOfWeek": [
+	"materialtype": "Material Talenta Karakter",
+	"dropdomain": "Domain of Mastery: Altar Bara Api",
+	"daysofweek": [
 		"Senin",
 		"Kamis",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

@@ -1,18 +1,14 @@
 {
-	"id": [
-		84016
-	],
 	"name": "Bảo Vệ Văn Vật",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 4017,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4017,
 	"stages": 1,
 	"stage1": {
 		"title": "Bảo Vệ Văn Vật",
 		"description": "Tuy không có duyên gặp được \"Dê Dừa\"... Nhưng đã sửa chữa thành công di tích cổ.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

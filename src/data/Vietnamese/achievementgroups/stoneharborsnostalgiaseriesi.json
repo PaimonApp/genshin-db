@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Chuyện kể nơi cảng đá - Phần I",
 	"sortorder": 25,
-=======
-	"id": 12,
-	"name": "Chuyện Kể Nơi Cảng Đá - Phần I",
-	"sortOrder": 25,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210032,
 		"name": "Thành tựu - Cánh quạt"
 	}
 }

@@ -1,14 +1,9 @@
 {
-	"id": 100937,
 	"name": "Sigil Kunci",
 	"dupealias": "Sigil Kunci 3",
-	"sortRank": 430041,
 	"description": "Sebuah sigil yang diturunkan melalui Pulau Watatsumi dan Enkanomiya. Saat orang-orang meninggalkan kedalaman laut, mereka menggabungkan berbagai sigil kunci untuk membuat lambang Sangonomiya.",
-<<<<<<< HEAD
 	"sortorder": 4954,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Konsumsi",
-	"sources": []
+	"materialtype": "Konsumsi",
+	"source": []
 }

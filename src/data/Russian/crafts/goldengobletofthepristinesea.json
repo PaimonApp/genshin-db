@@ -1,14 +1,12 @@
 {
-	"id": 12045,
 	"name": "Золотой кубок непорочного моря",
-	"filterText": "Возвышение оружия",
-	"sortOrder": 130138,
-	"unlockRank": 45,
-	"resultCount": 1,
-	"moraCost": 1075,
+	"filter": "Возвышение оружия",
+	"sortorder": 130138,
+	"unlockrank": 45,
+	"resultcount": 1,
+	"moracost": 1075,
 	"recipe": [
 		{
-			"id": 114059,
 			"name": "Серебряный кубок непорочного моря",
 			"count": 3
 		}

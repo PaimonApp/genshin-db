@@ -1,15 +1,10 @@
 {
-	"id": 100011,
 	"name": "Mushroom",
-	"sortRank": 321,
 	"description": "Hardy common fungi. Can grow anywhere with the right amount of shade and moisture.",
-<<<<<<< HEAD
 	"sortorder": 2900,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Found in the wild"
 	]
 }

@@ -1,17 +1,11 @@
 {
-	"id": 302,
 	"name": "Sigillo di Hydro",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Un sigillo che rappresenta la riconoscenza delle acque di Fontaine.\nPuoi offrirlo alla Fontana di Lucine per ricevere le ricompense delle sorgenti.",
-<<<<<<< HEAD
 	"sortorder": 4928,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sigillo delle città stato",
-	"sources": [
+	"materialtype": "Sigillo delle città stato",
+	"source": [
 		"Ricompensa esplorazione Fontaine"
 	]
 }

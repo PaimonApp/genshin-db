@@ -1,15 +1,9 @@
 {
-	"id": 101692,
 	"name": "Light Realm Sigil",
-	"rarity": 3,
-	"sortRank": 430041,
 	"description": "เครื่องหมายที่แสดงว่าได้รับการยอมรับจาก Tokoyo Ookami แห่ง Enkanomiya\nใช้ถวายให้กับรูปปั้น Vassals of Watatsumi เพื่อเพิ่มเลเวลของกล่อง Bokuso",
-<<<<<<< HEAD
 	"sortorder": 4950,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "วัสดุใช้งาน",
-	"sources": []
+	"materialtype": "วัสดุใช้งาน",
+	"source": []
 }

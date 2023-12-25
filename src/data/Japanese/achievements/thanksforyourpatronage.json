@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "毎度あり！",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1386,
-=======
-	"id": [
-		81402
-	],
-	"name": "毎度あり！",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1386,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "毎度あり！",
 		"description": "二倍の幸運のおみくじを引く。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

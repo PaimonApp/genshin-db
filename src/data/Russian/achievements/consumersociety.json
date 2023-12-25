@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Общество потребителей",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1359,
-=======
-	"id": [
-		81375
-	],
-	"name": "Общество потребителей",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1359,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Общество потребителей",
 		"description": "Порадуйте себя покупками в «Тряпье и костях».",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

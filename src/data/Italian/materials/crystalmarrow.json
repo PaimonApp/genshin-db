@@ -1,15 +1,10 @@
 {
-	"id": 101203,
 	"name": "Midollo cristallino",
-	"sortRank": 313,
 	"description": "Un cristallo che contiene una scheggia di potere del Tatarigami. Aggiungere questo materiale durante la fusione aumenterà notevolmente la forza e la resistenza dei metalli.",
-<<<<<<< HEAD
 	"sortorder": 2864,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Specialità d'Inazuma",
-	"sources": [
+	"materialtype": "Specialità d'Inazuma",
+	"source": [
 		"Presente in natura",
 		"Consiglio: si trova sull'Isola di Yashiori"
 	]

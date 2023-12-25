@@ -1,15 +1,10 @@
 {
-	"id": 110003,
 	"name": "Pollame affumicato",
-	"sortRank": 322,
 	"description": "Del pollame che è stato affumicato. La compattezza della carne offre una nuova consistenza al piatto.",
-<<<<<<< HEAD
 	"sortorder": 2949,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Lavorato"
 	]
 }

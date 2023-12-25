@@ -1,15 +1,10 @@
 {
-	"id": 100020,
 	"name": "Pinecone",
-	"sortRank": 321,
 	"description": "Mengandung biji yang kaya dengan minyak. Pastinya tidak akan tumbuh menjadi pohon dari dalam perut tupai.",
-<<<<<<< HEAD
 	"sortorder": 2909,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

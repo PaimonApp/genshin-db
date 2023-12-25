@@ -1,8 +1,7 @@
 {
-	"id": 20060201,
 	"name": "Espectro Geo",
-	"specialName": "Espíritu elemental errante",
-	"enemyType": "COMMON",
+	"specialname": "Espíritu elemental errante",
+	"enemytype": "COMMON",
 	"category": "Seres elementales",
 	"description": "Un monstruo nacido de una alta condensación del elemento Geo y capaz de flotar en el aire.\nCuando los Espectros cierran sus alas, imitan la forma de cierto fruto. Por ello, en algunas leyendas antiguas, son considerados frutos de árboles gigantes con misteriosas propiedades medicinales.",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "Normal",
 		"description": "Un monstruo creado a partir de elementos concentrados y que flota en el aire.\\nEn general son pequeños criaturas con un temperamento amable y se parecen a los Slimes, pero en ocasiones se enfurecen y explotan."
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112053,
 			"name": "Caparazón espectral",
 			"count": 1.2606
 		},
 		{
-			"id": 112054,
 			"name": "Corazón espectral",
 			"count": 0.3362
 		},
 		{
-			"id": 112055,
 			"name": "Núcleo espectral",
 			"count": 0.084
 		}

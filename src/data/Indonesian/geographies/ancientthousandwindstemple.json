@@ -1,10 +1,7 @@
 {
-	"id": 70100009,
 	"name": "Kuil Kuno Seribu Angin",
-	"areaId": 1107,
-	"areaName": "Thousand Winds Temple",
+	"area": "Thousand Winds Temple",
 	"description": "Reruntuhan teater melingkar kuno. Seribu angin merdu berkumpul di sini, membawa cerita-cerita yang tak terhitung jumlahnya pergi jauh ke negeri seberang.",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 8
+	"region": "Mondstadt",
+	"sortorder": 8
 }

@@ -1,10 +1,9 @@
 {
-	"id": 2207,
 	"name": "Turplu Balık Yahnisi",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Saldırı Artırıcı Yemek",
+	"foodfilter": "Saldırı Artırıcı Yemek",
+	"foodcategory": "Atk_CritRate",
 	"effect": "300 saniyeliğine tüm grup üyelerinin Kritik Oranını %6 ila %12 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Etli ve sebzeli bir yemek. Derisi yüzülmüş turpların kocaman balık parçalarından önce pişmesi için tencereye ilk onlar girer, sonra baharatlar eklenir. Ardından tüm bu karışım kısık ateşte yavaş yavaş pişer. Pilavla çok iyi giden bu büyük porsiyonlar herkeste bir memnuniyet hissi yaratır.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Balık",
 			"count": 2
 		},
 		{
-			"id": 100014,
 			"name": "Turp",
 			"count": 2
 		},
 		{
-			"id": 100075,
 			"name": "Tuz",
 			"count": 1
 		}

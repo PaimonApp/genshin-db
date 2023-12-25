@@ -1,15 +1,9 @@
 {
-	"id": 105,
 	"name": "Опыт дружбы",
-	"rarity": 3,
-	"sortRank": 11,
 	"description": "Опыт дружбы используется для поднятия уровня дружбы.",
-<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Укрепление дружбы",
-	"sources": []
+	"materialtype": "Укрепление дружбы",
+	"source": []
 }

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Quando il nucleo entra in ibernazione...",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1371,
-=======
-	"id": [
-		81387
-	],
-	"name": "Quando il nucleo entra in ibernazione...",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1371,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Quando il nucleo entra in ibernazione...",
 		"description": "Scopri il segreto nascosto nella Bottega meccanica Kuisel",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

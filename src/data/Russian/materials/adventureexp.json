@@ -1,15 +1,9 @@
 {
-	"id": 102,
 	"name": "Опыт приключений",
-	"rarity": 3,
-	"sortRank": 13,
 	"description": "Опыт приключений используется для повышения Ранга приключений.",
-<<<<<<< HEAD
 	"sortorder": 2670,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Системный доступ",
-	"sources": []
+	"materialtype": "Системный доступ",
+	"source": []
 }

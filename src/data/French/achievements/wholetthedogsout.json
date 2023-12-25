@@ -1,18 +1,14 @@
 {
-	"id": [
-		81108
-	],
 	"name": "C'est l'heure de la promenade ?",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1105,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1105,
 	"stages": 1,
 	"stage1": {
 		"title": "C'est l'heure de la promenade ?",
 		"description": "Relâchez Toratarou.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

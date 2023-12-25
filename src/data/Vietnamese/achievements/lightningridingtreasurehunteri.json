@@ -1,13 +1,7 @@
 {
-	"id": [
-		80085,
-		80086,
-		80087
-	],
 	"name": "Thợ Săn Sấm Sét (I)",
-	"achievementGroupId": 24,
-	"achievementGroupName": "Inazuma - Quần Đảo Sét Và Vĩnh Hằng (I)",
-	"sortOrder": 86,
+	"achievementgroup": "Inazuma - Quần Đảo Sét Và Vĩnh Hằng (I)",
+	"sortorder": 86,
 	"stages": 3,
 	"stage1": {
 		"title": "Thợ Săn Sấm Sét (I)",
@@ -15,7 +9,6 @@
 		"description": "Mở 100 rương tại Đảo Narukami, Kannazuka và Đảo Yashiori trong khu vực Inazuma.",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Mở 200 rương tại Đảo Narukami, Kannazuka và Đảo Yashiori trong khu vực Inazuma.",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Mở 300 rương tại Đảo Narukami, Kannazuka và Đảo Yashiori trong khu vực Inazuma.",
 		"progress": 300,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 20
 		}

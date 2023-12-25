@@ -1,11 +1,8 @@
 {
-	"id": 70400009,
 	"name": "สมบัติของ Varuna",
-	"areaId": 4403,
-	"areaName": "Apam Woods",
+	"area": "Apam Woods",
 	"description": "การสำแดงพลังของกลไกมหัศจรรย์ Varuna นำพาสายน้ำแห่งชีวิตมา ทำให้ Valuka กลายเป็น Vana และทำให้สถานที่แห่งนี้กลับมามีชีวิตอีกครั้ง",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 309
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 309
 }

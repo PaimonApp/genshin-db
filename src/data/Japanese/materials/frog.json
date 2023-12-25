@@ -1,15 +1,10 @@
 {
-	"id": 100081,
 	"name": "カエル",
-	"sortRank": 320,
 	"description": "一般的なカエル類。ジメジメした環境に生息する。いつも活力に満ちており、体からは活力をみなぎらせる物質を分泌している。",
-<<<<<<< HEAD
 	"sortorder": 2893,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "素材",
-	"sources": [
+	"materialtype": "素材",
+	"source": [
 		"淡水域で採集"
 	]
 }

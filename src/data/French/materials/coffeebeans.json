@@ -1,15 +1,10 @@
 {
-	"id": 100098,
 	"name": "Grain de café",
-	"sortRank": 321,
 	"description": "Un fruit commun en Teyvat, dont l'arôme est particulier. Il peut être utilisé pour faire des boissons après avoir été moulu.",
-<<<<<<< HEAD
 	"sortorder": 2935,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Café de Sumeru",
 		"Café de Fontaine"
 	]

@@ -1,11 +1,8 @@
 {
-	"id": 70400023,
 	"name": "Salão da Hierofania",
-	"areaId": 4702,
-	"areaName": "Olho das Areias",
+	"area": "Olho das Areias",
 	"description": "\"Os sonhos dourados te convocam, areia errante; Não beba essa água salgada amarga; Pois as tristezas do amanhã se foram.\"",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 323
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 323
 }

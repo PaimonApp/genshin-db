@@ -1,18 +1,14 @@
 {
-	"id": [
-		84023
-	],
 	"name": "Sẽ có khác biệt",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 4024,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4024,
 	"stages": 1,
 	"stage1": {
 		"title": "Sẽ có khác biệt",
 		"description": "Tham gia \"Điển Lễ Tiễn Tiên\".",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

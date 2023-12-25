@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "항구의 트리프",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "회복류 요리",
 	"foodcategory": "Recovery_Revive",
-=======
-	"id": 3411,
-	"name": "항구의 트리프",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "회복류 요리",
->>>>>>> upstream/main
 	"effect": "선택한 캐릭터를 부활시킨다\nHP를 900-1500pt 회복한다",
 	"description": "내장을 위주로 한 요리. 식자재를 깍둑썰어 냄비에 넣고 밀가루 반죽을 뚜껑처럼 덮어서 구운 음식이다. 한 항구 마을에서 탄생한 조리법으로, 마을의 이야기는 불어난 바닷물이 삼켜버렸지만 이 요리는 여전히 폰타인에 전해지고 있다",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "짐승고기",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100013,
->>>>>>> upstream/main
 			"name": "당근",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "양파",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100099,
->>>>>>> upstream/main
 			"name": "발효 과일즙",
 			"count": 1
 		}

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Le ruban oublié",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1370,
-=======
-	"id": [
-		81386
-	],
-	"name": "Le ruban oublié",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1370,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Le ruban oublié",
 		"description": "Aidez Broglie à récupérer et à organiser toutes les données hydrologiques.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

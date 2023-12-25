@@ -1,17 +1,11 @@
 {
-	"id": 104152,
 	"name": "自由のターコイズ·欠片",
-	"rarity": 3,
-	"sortRank": 12106,
 	"description": "キャラクターの突破用アイテム。\n「風向きは変わるもの。」",
-<<<<<<< HEAD
 	"sortorder": 3207,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "キャラクター突破素材",
-	"sources": [
+	"materialtype": "キャラクター突破素材",
+	"source": [
 		"無相の風（Lv.40以上）がドロップ",
 		"風蝕ウェネト（Lv.40以上）がドロップ",
 		"合成で獲得"

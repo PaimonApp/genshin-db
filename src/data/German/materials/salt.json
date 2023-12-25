@@ -1,15 +1,10 @@
 {
-	"id": 100075,
 	"name": "Salz",
-	"sortRank": 321,
 	"description": "Ist salzig und verbessert den Geschmack von Gerichten nur in der richtigen Menge.\n",
-<<<<<<< HEAD
 	"sortorder": 2917,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In Gemischtwarenläden zu erstehen"
 	]
 }

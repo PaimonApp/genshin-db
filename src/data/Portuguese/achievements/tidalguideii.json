@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Guia das Marés II",
 	"achievementgroup": "Fontaine: Dança das Fontes Brancas de Orvalho II",
 	"sortorder": 251,
-=======
-	"id": [
-		80275,
-		80276,
-		80277
-	],
-	"name": "Guia das Marés II",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho II",
-	"sortOrder": 251,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Guia das Marés II",
 		"description": "Siga {param0} Seelies na Região Liffey e Instituto de Pesquisas de Engenharia de Energia Cinética de Fontaine e acenda seus Jardins de Seelie.",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Siga {param0} Seelies na Região Liffey e Instituto de Pesquisas de Engenharia de Energia Cinética de Fontaine e acenda seus Jardins de Seelie.",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Siga {param0} Seelies na Região Liffey e Instituto de Pesquisas de Engenharia de Energia Cinética de Fontaine e acenda seus Jardins de Seelie.",
 		"progress": 9,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 20
 		}

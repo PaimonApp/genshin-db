@@ -1,15 +1,10 @@
 {
-	"id": 101221,
 	"name": "Ajilenakh Nut",
-	"sortRank": 321,
 	"description": "Buah yang tumbuh dari pohon yang selalu berwarna hijau di oasis padang pasir. Buah yang terletak di bawah permukaan kulitnya yang keras dan tebal terasa manis dan lezat. Merupakan sumber makanan yang sangat penting bagi penduduk padang pasir.",
-<<<<<<< HEAD
 	"sortorder": 2942,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Ditemukan di oasis padang pasir Sumeru"
 	]
 }

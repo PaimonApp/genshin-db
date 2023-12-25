@@ -1,18 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Benteng Perunggu",
 	"area": "Administrative Area",
 	"description": "\"Kekuatan perunggu dan besi suatu hari akan runtuh, tetapi kota hukum dan keadilan tidak akan pernah runtuh\".",
 	"region": "Fontaine",
 	"sortorder": 404
-=======
-	"id": 70500004,
-	"name": "Benteng Perunggu",
-	"areaId": 50401,
-	"areaName": "Administrative Area",
-	"description": "\"Kekuatan perunggu dan besi suatu hari akan runtuh, tetapi kota hukum dan keadilan tidak akan pernah runtuh\".",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"sortOrder": 404
->>>>>>> upstream/main
 }

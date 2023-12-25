@@ -1,10 +1,9 @@
 {
-	"id": 3209,
 	"name": "Pudding Gạo",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Món Dạng Mạo Hiểm",
+	"foodfilter": "Món Dạng Mạo Hiểm",
+	"foodcategory": "Other_SPAdd",
 	"effect": "Hồi 70-100 điểm thể lực.",
 	"description": "Món điểm tâm được làm từ gạo lúa mạch. Trước tiên, nấu chín gạo, sau đó cho vào nồi trộn đều với nguyên liệu khác và hấp chín. Vị thơm ngọt mềm mại, rất thích hợp làm món tráng miệng.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Trứng Chim",
 			"count": 3
 		},
 		{
-			"id": 100092,
 			"name": "Lúa Nước",
 			"count": 2
 		},
 		{
-			"id": 100078,
 			"name": "Sữa",
 			"count": 2
 		},
 		{
-			"id": 110006,
 			"name": "Đường",
 			"count": 2
 		}

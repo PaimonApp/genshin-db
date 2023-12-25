@@ -1,19 +1,12 @@
 {
-	"id": 101314,
 	"name": "Gỗ Karmaphala",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Gỗ từ Cây Karmaphala, chỉ cần xử lý đơn giản là có được mặt cắt trơn tru, không cần gia công kỹ càng cũng cực đẹp.\nCó thể sử dụng để làm đồ trang trí.",
-<<<<<<< HEAD
 	"sortorder": 2973,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu Thập Bên Ngoài",
-		"Kiến nghị: Đốn ở Rừng Sumeru",
-		"Chuyển Hóa Gỗ"
+		"Kiến nghị: Đốn ở Rừng Sumeru"
 	]
 }

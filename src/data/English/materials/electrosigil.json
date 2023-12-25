@@ -1,17 +1,11 @@
 {
-	"id": 304,
 	"name": "Electro Sigil",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "A sigil that serves as a sign of the acknowledgment given by the thundering islands of Inazuma.\nOffer them to the Sacred Sakura of the Grand Narukami Shrine to raise your Sacred Sakura's Favor level.",
-<<<<<<< HEAD
 	"sortorder": 4930,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "City States Sigil",
-	"sources": [
+	"materialtype": "City States Sigil",
+	"source": [
 		"Inazuma Exploration Reward"
 	]
 }

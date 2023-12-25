@@ -1,18 +1,14 @@
 {
-	"id": [
-		81023
-	],
 	"name": "Amigos en todo el mundo",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1023,
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1023,
 	"stages": 1,
 	"stage1": {
 		"title": "Amigos en todo el mundo",
 		"description": "Encuéntrate con todo tipo de personas en tu aventura.",
 		"progress": 10000,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}

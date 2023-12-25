@@ -1,15 +1,10 @@
 {
-	"id": 100029,
 	"name": "Fiordiseta",
-	"sortRank": 312,
 	"description": "Un fiore cremisi che sboccia come le nuvole dell'arcobaleno di Liyue. Utilizzabile per confezionare una stoffa setosa.",
-<<<<<<< HEAD
 	"sortorder": 2856,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Specialità di Liyue",
-	"sources": [
+	"materialtype": "Specialità di Liyue",
+	"source": [
 		"Si trova vicino al Belvedere di Yujing, al Porto di Liyue",
 		"Si trova vicino alla Locanda Wangshu",
 		"Consiglio. si trova vicino al Porto di Liyue"

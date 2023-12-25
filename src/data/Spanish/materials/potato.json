@@ -1,15 +1,10 @@
 {
-	"id": 100080,
 	"name": "Papa",
-	"sortRank": 321,
 	"description": "Un tubérculo vegetal. Un regalo de la tierra del que es imposible cansarse gracias a sus variados métodos de cocción.",
-<<<<<<< HEAD
 	"sortorder": 2922,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Comprado en tiendas"
 	]
 }

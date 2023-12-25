@@ -1,15 +1,10 @@
 {
-	"id": 100056,
 	"name": "Gelin Çiçeği",
-	"sortRank": 311,
 	"description": "Su kaynaklarının yakınında yetişen bir çiçek. Pişirildiğinde, yaprakları çıtır, tatlı ve hafif acı bir lezzete sahip olur.",
-<<<<<<< HEAD
 	"sortorder": 2852,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mondstadt Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Mondstadt Yöresel Ürünü",
+	"source": [
 		"Göl kenarlarında bulunur.",
 		"Öneri: Pınarköy'de bulunur."
 	]

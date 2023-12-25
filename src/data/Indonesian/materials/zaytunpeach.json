@@ -1,15 +1,10 @@
 {
-	"id": 101218,
 	"name": "Zaytun Peach",
-	"sortRank": 321,
 	"description": "Buah dari semak hutan. Dagingnya keras dan manis. Dikatakan memiliki efek penenang pada pikiran.",
-<<<<<<< HEAD
 	"sortorder": 2940,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

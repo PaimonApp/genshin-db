@@ -1,11 +1,7 @@
 {
-	"id": [
-		80164
-	],
 	"name": "Апогей великой мечты",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Сумеру: Таинственные тропики",
-	"sortOrder": 164,
+	"achievementgroup": "Сумеру: Таинственные тропики",
+	"sortorder": 164,
 	"stages": 1,
 	"stage1": {
 		"title": "Апогей великой мечты",
@@ -13,7 +9,6 @@
 		"description": "Повысьте уровень Древа снов в Ванаране до макс. уровня.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 20
 		}

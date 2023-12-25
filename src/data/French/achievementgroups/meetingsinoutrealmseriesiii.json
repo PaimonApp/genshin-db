@@ -1,13 +1,7 @@
 {
-	"id": 33,
 	"name": "Rencontres dans un autre monde - Partie III",
-<<<<<<< HEAD
 	"sortorder": 28,
-=======
-	"sortOrder": 28,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210129,
 		"name": "Succès - Destin"
 	}
 }

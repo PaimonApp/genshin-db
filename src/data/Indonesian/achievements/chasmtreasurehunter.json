@@ -1,20 +1,13 @@
 {
-	"id": [
-		80151,
-		80152,
-		80153
-	],
 	"name": "Pemburu Harta Pertambangan",
-	"achievementGroupId": 30,
-	"achievementGroupName": "Pelita Chasm",
-	"sortOrder": 151,
+	"achievementgroup": "Pelita Chasm",
+	"sortorder": 151,
 	"stages": 3,
 	"stage1": {
 		"title": "Pemburu Harta Pertambangan",
 		"description": "Buka 50 peti harta di Chasm.",
 		"progress": 50,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Buka 100 peti harta di Chasm.",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Buka 200 peti harta di Chasm.",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

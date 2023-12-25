@@ -1,15 +1,10 @@
 {
-	"id": 100095,
 	"name": "Carne di anguilla",
-	"sortRank": 321,
 	"description": "Carne fresca di unagi o anguilla. Se trattata in modo appropriato, può diventare un piatto delizioso.",
-<<<<<<< HEAD
 	"sortorder": 2932,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Presente in natura",
 		"Consiglio: si trova sull'Isola di Watatsumi"
 	]

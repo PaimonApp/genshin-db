@@ -1,15 +1,10 @@
 {
-	"id": 100051,
 	"name": "Baya",
-	"sortRank": 321,
 	"description": "Una pequeña y colorida fruta que se encuentra por todas partes. Muy útil cuando necesitas un poco de energía.",
-<<<<<<< HEAD
 	"sortorder": 2911,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en la naturaleza"
 	]
 }

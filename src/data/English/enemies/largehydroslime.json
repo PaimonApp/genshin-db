@@ -1,8 +1,7 @@
 {
-	"id": 20011101,
 	"name": "Large Hydro Slime",
-	"specialName": "Rolling Elemental",
-	"enemyType": "COMMON",
+	"specialname": "Rolling Elemental",
+	"enemytype": "COMMON",
 	"category": "Elemental Lifeforms",
 	"description": "A monster created by the sedimentation of Hydro dispersed throughout nature.\nA larger and more powerful Hydro Slime that can create bubbles to entrap its enemies. It is said that they can grow to truly staggering sizes if given an energy-rich environment. Eyewitnesses have supposedly seen Hydro Slimes as large as a small mound in Wolvendom.",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "Easy",
 		"description": "A pudgy elemental life form.\\nIt's said that desserts made from slimes of different elements will have incredibly distinctive flavors."
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112002,
 			"name": "Slime Condensate",
 			"count": 0.6723
 		},
 		{
-			"id": 112003,
 			"name": "Slime Secretions",
 			"count": 0.1792
 		},
 		{
-			"id": 112004,
 			"name": "Slime Concentrate",
 			"count": 0.0448
 		}

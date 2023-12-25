@@ -1,13 +1,7 @@
 {
-	"id": 37,
 	"name": "七聖召喚",
-<<<<<<< HEAD
 	"sortorder": 43,
-=======
-	"sortOrder": 43,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210145,
 		"name": "アチーブメント·七聖"
 	}
 }

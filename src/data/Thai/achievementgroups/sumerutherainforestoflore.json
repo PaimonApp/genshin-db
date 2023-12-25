@@ -1,13 +1,7 @@
 {
-	"id": 31,
 	"name": "Sumeru - ป่าฝนซ่อนเร้นภูมิปัญญา",
-<<<<<<< HEAD
 	"sortorder": 40,
-=======
-	"sortOrder": 40,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210130,
 		"name": "Sumeru - ป่าวิจิตร"
 	}
 }

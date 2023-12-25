@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Học Viên Không Quân",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1399,
-=======
-	"id": [
-		81415
-	],
-	"name": "Học Viên Không Quân",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1399,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Học Viên Không Quân",
 		"description": "Tất cả đều trúng!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

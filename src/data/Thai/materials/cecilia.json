@@ -1,15 +1,10 @@
 {
-	"id": 100023,
 	"name": "Cecilia",
-	"sortRank": 311,
 	"description": "ดอกไม้ที่มีความงามสมกับชื่อของมัน จะเติบโตในเฉพาะที่สูงและมีลมพัดแรงเท่านั้น ยากที่จะสัมผัสราวกับการหาความจริงใจจากคนไม่รักดี",
-<<<<<<< HEAD
 	"sortorder": 2848,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "ของพิเศษเฉพาะใน Mondstadt",
-	"sources": [
+	"materialtype": "ของพิเศษเฉพาะใน Mondstadt",
+	"source": [
 		"พบได้ในโลกกว้าง",
 		"คำแนะนำ: หาได้ที่ Starsnatch Cliff"
 	]

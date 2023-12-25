@@ -1,11 +1,8 @@
 {
-	"id": 70400012,
 	"name": "Pequeno Jardim de Aranaga",
-	"areaId": 4101,
-	"areaName": "Floresta Mawtiyima",
+	"area": "Floresta Mawtiyima",
 	"description": "Aqui, as romãs cantam, as maçãs aplaudem.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 312
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 312
 }

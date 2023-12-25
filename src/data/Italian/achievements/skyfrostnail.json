@@ -1,11 +1,7 @@
 {
-	"id": [
-		80067
-	],
 	"name": "Punta di Gelocielo",
-	"achievementGroupId": 16,
-	"achievementGroupName": "Visitatori sulla montagna ghiacciata",
-	"sortOrder": 67,
+	"achievementgroup": "Visitatori sulla montagna ghiacciata",
+	"sortorder": 67,
 	"stages": 1,
 	"stage1": {
 		"title": "Punta di Gelocielo",
@@ -13,7 +9,6 @@
 		"description": "Solleva la strana colonna.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 10
 		}

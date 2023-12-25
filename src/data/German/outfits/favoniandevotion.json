@@ -1,8 +1,6 @@
 {
-	"id": 200300,
 	"name": "Ritterliche Hingabe",
 	"description": "Jeans Kleidung. Gepflegte und angemessene Kleidung, die ihre Ritterlichkeit unterstreicht.",
-	"isDefault": true,
-	"characterId": 10000003,
-	"characterName": "Jean"
+	"isdefault": true,
+	"character": "Jean"
 }

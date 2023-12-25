@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Lösung fürs Narzissenkreuz",
 	"achievementgroup": "Fontaine – Tanz der Weißtauquellen III",
 	"sortorder": 275,
-=======
-	"id": [
-		80299
-	],
-	"name": "Lösung fürs Narzissenkreuz",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine – Tanz der Weißtauquellen III",
-	"sortOrder": 275,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Lösung fürs Narzissenkreuz",
@@ -19,10 +9,6 @@
 		"description": "Was hat seinen Namen hinterlassen? Was erblüht in einem Tal? Was spiegelt sich im reflektierenden Wasser? Was steht für das einsame Opfer zur Rettung der Welt?",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 10
 		}

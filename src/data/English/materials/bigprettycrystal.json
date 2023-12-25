@@ -1,11 +1,10 @@
 {
-	"id": 111022,
 	"name": "Big Pretty Crystal",
-	"sortRank": 430051,
 	"description": "Additional Crafted Item",
+	"sortorder": 4958,
 	"category": "CONSUME",
-	"typeText": "Crafted Item",
-	"sources": [
+	"materialtype": "Crafted Item",
+	"source": [
 		"Crafted"
 	]
 }

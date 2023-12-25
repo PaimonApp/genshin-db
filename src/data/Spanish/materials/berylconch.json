@@ -1,15 +1,10 @@
 {
-	"id": 101232,
 	"name": "Caracola azurescente",
-	"sortRank": 315,
 	"description": "Una formación con la forma de una caracola que emite un tenue resplandor. A pesar de lo que su nombre indica, no es ningún tipo de recipiente, sino el fruto de la condensación elemental.",
-<<<<<<< HEAD
 	"sortorder": 2880,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Fontaine",
-	"sources": [
+	"materialtype": "Objeto típico de Fontaine",
+	"source": [
 		"Recolectar en la naturaleza",
 		"Recolectar en la Llanura Abisal Salacia"
 	]

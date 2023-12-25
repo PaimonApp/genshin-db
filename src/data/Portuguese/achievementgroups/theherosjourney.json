@@ -1,9 +1,7 @@
 {
-	"id": 3,
 	"name": "A Jornada do Herói",
-	"sortOrder": 8,
+	"sortorder": 8,
 	"reward": {
-		"id": 210023,
 		"name": "Conquista - Herói"
 	}
 }

@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Elmalı Siyah Puding",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Maceracının Yemeği",
 	"foodcategory": "Other_SPReduceConsume",
-=======
-	"id": 2408,
-	"name": "Elmalı Siyah Puding",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Maceracının Yemeği",
->>>>>>> upstream/main
 	"effect": "900 saniyeliğine tüm grup üyelerinin depar esnasında harcadığı Dayanıklılığı %15 ila %25 azaltır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Geleneksel bir Fontaine yemeği. Elma dilimleri ile sosisler ayrı ayrı kızartılır ve sosla birlikte bir tabakta servis edilir. Diğer ülkelerden gelen turistler bu yemeğin ismine baktıklarında aslında bunun bir tatlı olduğunu düşünürler ancak Elmalı Siyah Puding aslında bu sosisli yemeğin bir diğer adıdır.",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100001,
->>>>>>> upstream/main
 			"name": "Elma",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Çiğ Et",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110004,
->>>>>>> upstream/main
 			"name": "Tereyağı",
 			"count": 1
 		}

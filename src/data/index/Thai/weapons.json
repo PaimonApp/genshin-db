@@ -167,8 +167,6 @@
 		"travelershandysword": "Traveler's Handy Sword",
 		"tulaytullahsremembrance": "Tulaytullah's Remembrance",
 		"twinnephrite": "Twin Nephrite",
-		"ultimateoverlordsmegamagicsword": "\"Ultimate Overlord's Mega Magic Sword\"",
-		"verdict": "Verdict",
 		"vortexvanquisher": "Vortex Vanquisher",
 		"wanderingevenstar": "Wandering Evenstar",
 		"wastergreatsword": "Waster Greatsword",
@@ -348,8 +346,6 @@
 		"Traveler's Handy Sword": "travelershandysword",
 		"Tulaytullah's Remembrance": "tulaytullahsremembrance",
 		"Twin Nephrite": "twinnephrite",
-		"\"Ultimate Overlord's Mega Magic Sword\"": "ultimateoverlordsmegamagicsword",
-		"Verdict": "verdict",
 		"Vortex Vanquisher": "vortexvanquisher",
 		"Wandering Evenstar": "wanderingevenstar",
 		"Waster Greatsword": "wastergreatsword",
@@ -507,7 +503,6 @@
 			"thewidsith",
 			"tidalshadow",
 			"toukaboushigure",
-			"ultimateoverlordsmegamagicsword",
 			"wanderingevenstar",
 			"wavebreakersfin",
 			"whiteblind",
@@ -556,11 +551,10 @@
 			"thunderingpulse",
 			"tomeoftheeternalflow",
 			"tulaytullahsremembrance",
-			"verdict",
 			"vortexvanquisher",
 			"wolfsgravestone"
 		],
-		"WEAPON_CLAYMORE": [
+		"ดาบใหญ่": [
 			"akuoumaru",
 			"beaconofthereedsea",
 			"blackcliffslasher",
@@ -590,14 +584,12 @@
 			"thebell",
 			"theunforged",
 			"tidalshadow",
-			"ultimateoverlordsmegamagicsword",
-			"verdict",
 			"wastergreatsword",
 			"whiteblind",
 			"whiteirongreatsword",
 			"wolfsgravestone"
 		],
-		"FIGHT_PROP_ATTACK_PERCENT": [
+		"พลังโจมตี": [
 			"akuoumaru",
 			"alleyhunter",
 			"amenomakageuchi",
@@ -818,8 +810,6 @@
 			"travelershandysword",
 			"tulaytullahsremembrance",
 			"twinnephrite",
-			"ultimateoverlordsmegamagicsword",
-			"verdict",
 			"vortexvanquisher",
 			"wanderingevenstar",
 			"wastergreatsword",
@@ -925,7 +915,7 @@
 			"mistsplitterreforged",
 			"oathsworneye"
 		],
-		"WEAPON_BOW": [
+		"ธนู": [
 			"alleyhunter",
 			"amosbow",
 			"aquasimulacra",
@@ -1202,7 +1192,7 @@
 			"windblumeode",
 			"wolfsgravestone"
 		],
-		"WEAPON_SWORD_ONE_HAND": [
+		"ดาบ": [
 			"amenomakageuchi",
 			"aquilafavonia",
 			"blackclifflongsword",
@@ -1272,7 +1262,7 @@
 			"mistsplitterreforged",
 			"thecatch"
 		],
-		"WEAPON_CATALYST": [
+		"สื่อเวท": [
 			"apprenticesnotes",
 			"athousandfloatingdreams",
 			"balladoftheboundlessblue",
@@ -1470,7 +1460,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"FIGHT_PROP_CRITICAL_HURT": [
+		"ความแรงคริ": [
 			"aquasimulacra",
 			"blackcliffagate",
 			"blackclifflongsword",
@@ -1626,7 +1616,7 @@
 			"whiteblind",
 			"whitetassel"
 		],
-		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
+		"โบนัสความเสียหายกายภาพ": [
 			"aquilafavonia",
 			"compoundbow",
 			"crescentpike",
@@ -1747,7 +1737,7 @@
 			"theviridescenthunt",
 			"wolffang"
 		],
-		"FIGHT_PROP_ELEMENT_MASTERY": [
+		"ความชำนาญธาตุ": [
 			"athousandfloatingdreams",
 			"bloodtaintedgreatsword",
 			"darkironsword",
@@ -1851,11 +1841,7 @@
 			"talkingstick",
 			"wanderingevenstar"
 		],
-<<<<<<< HEAD
 		"การฟื้นฟูพลังงาน": [
-=======
-		"FIGHT_PROP_CHARGE_EFFICIENCY": [
->>>>>>> upstream/main
 			"balladoftheboundlessblue",
 			"elegyfortheend",
 			"endoftheline",
@@ -1883,10 +1869,6 @@
 			"skywardpride",
 			"skywardspine",
 			"thecatch",
-<<<<<<< HEAD
-=======
-			"ultimateoverlordsmegamagicsword",
->>>>>>> upstream/main
 			"wineandsong"
 		],
 		"Boreal Wolf's Milk Tooth": [
@@ -2105,11 +2087,7 @@
 			"thrillingtalesofdragonslayers",
 			"wineandsong"
 		],
-<<<<<<< HEAD
 		"หอก": [
-=======
-		"WEAPON_POLE": [
->>>>>>> upstream/main
 			"balladofthefjords",
 			"beginnersprotector",
 			"blackcliffpole",
@@ -2140,7 +2118,7 @@
 			"wavebreakersfin",
 			"whitetassel"
 		],
-		"FIGHT_PROP_CRITICAL": [
+		"อัตราคริ": [
 			"balladofthefjords",
 			"beaconofthereedsea",
 			"cashflowsupervision",
@@ -2162,7 +2140,6 @@
 			"theblacksword",
 			"theviridescenthunt",
 			"twinnephrite",
-			"verdict",
 			"whitetassel",
 			"wolffang"
 		],
@@ -2171,8 +2148,7 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow",
-			"ultimateoverlordsmegamagicsword"
+			"tidalshadow"
 		],
 		"A Flower Yet to Bloom": [
 			"balladofthefjords",
@@ -2200,8 +2176,7 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow",
-			"ultimateoverlordsmegamagicsword"
+			"tidalshadow"
 		],
 		"Treasured Flower": [
 			"balladofthefjords",
@@ -2229,8 +2204,7 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow",
-			"ultimateoverlordsmegamagicsword"
+			"tidalshadow"
 		],
 		"Wanderer's Blooming Flower": [
 			"balladofthefjords",
@@ -2258,8 +2232,7 @@
 			"cashflowsupervision",
 			"portablepowersaw",
 			"rightfulreward",
-			"tidalshadow",
-			"ultimateoverlordsmegamagicsword"
+			"tidalshadow"
 		],
 		"Echo of Scorching Might": [
 			"beaconofthereedsea",
@@ -2647,7 +2620,7 @@
 			"theunforged",
 			"twinnephrite"
 		],
-		"FIGHT_PROP_HP_PERCENT": [
+		"พลังชีวิต": [
 			"blacktassel",
 			"everlastingmoonglow",
 			"ferrousshadow",
@@ -2804,7 +2777,6 @@
 			"cashflowsupervision",
 			"prospectorsdrill",
 			"swordofnarzissenkreuz",
-<<<<<<< HEAD
 			"thedockhandsassistant"
 		],
 		"Transoceanic Pearl": [
@@ -2848,56 +2820,8 @@
 			"swordofnarzissenkreuz",
 			"thedockhandsassistant",
 			"thefirstgreatmagic"
-=======
-			"thedockhandsassistant",
-			"ultimateoverlordsmegamagicsword"
->>>>>>> upstream/main
 		],
-		"Transoceanic Pearl": [
-			"cashflowsupervision",
-			"fleuvecendreferryman",
-			"flowingpurity",
-			"rangegauge",
-			"splendoroftranquilwaters",
-			"swordofnarzissenkreuz",
-			"thedockhandsassistant",
-			"thefirstgreatmagic"
-		],
-		"Operative's Standard Pocket Watch": [
-			"cashflowsupervision",
-			"prospectorsdrill",
-			"swordofnarzissenkreuz",
-			"thedockhandsassistant",
-			"ultimateoverlordsmegamagicsword"
-		],
-		"Transoceanic Chunk": [
-			"cashflowsupervision",
-			"fleuvecendreferryman",
-			"flowingpurity",
-			"rangegauge",
-			"splendoroftranquilwaters",
-			"swordofnarzissenkreuz",
-			"thedockhandsassistant",
-			"thefirstgreatmagic"
-		],
-		"Operative's Constancy": [
-			"cashflowsupervision",
-			"prospectorsdrill",
-			"swordofnarzissenkreuz",
-			"thedockhandsassistant",
-			"ultimateoverlordsmegamagicsword"
-		],
-		"Xenochromatic Crystal": [
-			"cashflowsupervision",
-			"fleuvecendreferryman",
-			"flowingpurity",
-			"rangegauge",
-			"splendoroftranquilwaters",
-			"swordofnarzissenkreuz",
-			"thedockhandsassistant",
-			"thefirstgreatmagic"
-		],
-		"FIGHT_PROP_DEFENSE_PERCENT": [
+		"พลังป้องกัน": [
 			"cinnabarspindle",
 			"travelershandysword",
 			"whiteblind",
@@ -3060,12 +2984,7 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
-<<<<<<< HEAD
 			"thefirstgreatmagic"
-=======
-			"thefirstgreatmagic",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Chapter of an Ancient Chord": [
 			"fleuvecendreferryman",
@@ -3073,12 +2992,7 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
-<<<<<<< HEAD
 			"thefirstgreatmagic"
-=======
-			"thefirstgreatmagic",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Movement of an Ancient Chord": [
 			"fleuvecendreferryman",
@@ -3086,12 +3000,7 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
-<<<<<<< HEAD
 			"thefirstgreatmagic"
-=======
-			"thefirstgreatmagic",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Echo of an Ancient Chord": [
 			"fleuvecendreferryman",
@@ -3099,48 +3008,28 @@
 			"rangegauge",
 			"songofstillness",
 			"swordofnarzissenkreuz",
-<<<<<<< HEAD
 			"thefirstgreatmagic"
-=======
-			"thefirstgreatmagic",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Rift Core": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
-<<<<<<< HEAD
 			"tomeoftheeternalflow"
-=======
-			"tomeoftheeternalflow",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Foreign Synapse": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
-<<<<<<< HEAD
 			"tomeoftheeternalflow"
-=======
-			"tomeoftheeternalflow",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Alien Life Core": [
 			"flowingpurity",
 			"portablepowersaw",
 			"rightfulreward",
 			"tidalshadow",
-<<<<<<< HEAD
 			"tomeoftheeternalflow"
-=======
-			"tomeoftheeternalflow",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Copper Talisman of the Forest Dew": [
 			"forestregalia",
@@ -3240,57 +3129,38 @@
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
-<<<<<<< HEAD
 			"tomeoftheeternalflow"
-=======
-			"tomeoftheeternalflow",
-			"ultimateoverlordsmegamagicsword",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Mechanical Spur Gear": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
-<<<<<<< HEAD
 			"tomeoftheeternalflow"
-=======
-			"tomeoftheeternalflow",
-			"ultimateoverlordsmegamagicsword",
-			"verdict"
->>>>>>> upstream/main
 		],
 		"Artificed Dynamic Gear": [
 			"portablepowersaw",
 			"prospectorsdrill",
 			"rightfulreward",
 			"tidalshadow",
-<<<<<<< HEAD
 			"tomeoftheeternalflow"
-=======
-			"tomeoftheeternalflow",
-			"ultimateoverlordsmegamagicsword",
-			"verdict"
->>>>>>> upstream/main
 		]
 	},
 	"properties": {
-		"weaponType": [
-			"WEAPON_CLAYMORE",
-			"WEAPON_BOW",
-			"WEAPON_SWORD_ONE_HAND",
-			"WEAPON_CATALYST",
-			"WEAPON_POLE"
+		"weapontype": [
+			"ดาบใหญ่",
+			"ธนู",
+			"ดาบ",
+			"สื่อเวท",
+			"หอก"
 		],
 		"rarity": [
-			4,
-			5,
-			1,
-			3,
-			2
+			"4",
+			"5",
+			"1",
+			"3",
+			"2"
 		],
-<<<<<<< HEAD
 		"substat": [
 			"พลังโจมตี",
 			"ความแรงคริ",
@@ -3300,17 +3170,6 @@
 			"อัตราคริ",
 			"พลังชีวิต",
 			"พลังป้องกัน"
-=======
-		"mainStatType": [
-			"FIGHT_PROP_ATTACK_PERCENT",
-			"FIGHT_PROP_CRITICAL_HURT",
-			"FIGHT_PROP_PHYSICAL_ADD_HURT",
-			"FIGHT_PROP_ELEMENT_MASTERY",
-			"FIGHT_PROP_CHARGE_EFFICIENCY",
-			"FIGHT_PROP_CRITICAL",
-			"FIGHT_PROP_HP_PERCENT",
-			"FIGHT_PROP_DEFENSE_PERCENT"
->>>>>>> upstream/main
 		],
 		"costs": [
 			"Mora",

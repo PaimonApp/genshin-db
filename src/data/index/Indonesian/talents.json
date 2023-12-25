@@ -11,10 +11,6 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
-<<<<<<< HEAD
-=======
-		"chevreuse": "Chevreuse",
->>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -48,10 +44,6 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
-<<<<<<< HEAD
-=======
-		"navia": "Navia",
->>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -100,10 +92,6 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
-<<<<<<< HEAD
-=======
-		"Chevreuse": "chevreuse",
->>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -137,10 +125,6 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
-<<<<<<< HEAD
-=======
-		"Navia": "navia",
->>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -191,10 +175,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -228,10 +208,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -344,10 +320,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -381,10 +353,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -767,10 +735,6 @@
 		],
 		"Meshing Gear": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -782,10 +746,6 @@
 		],
 		"Mechanical Spur Gear": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -797,40 +757,11 @@
 		],
 		"Artificed Dynamic Gear": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Lightless Silk String": [
-<<<<<<< HEAD
 			"charlotte"
-=======
-			"charlotte",
-			"navia"
-		],
-		"Teachings of Order": [
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"Guide to Order": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"Philosophies of Order": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"Lightless Eye of the Maelstrom": [
-			"chevreuse"
->>>>>>> upstream/main
 		],
 		"Teachings of \"Diligence\"": [
 			"chongyun",
@@ -971,28 +902,16 @@
 		],
 		"Transoceanic Pearl": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Transoceanic Chunk": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Xenochromatic Crystal": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1150,7 +1069,6 @@
 			"razor",
 			"xiangling"
 		],
-<<<<<<< HEAD
 		"Teachings of Order": [
 			"lynette",
 			"wriothesley"
@@ -1167,29 +1085,16 @@
 		],
 		"Teachings of Equity": [
 			"lyney",
-=======
-		"Teachings of Equity": [
-			"lyney",
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Guide to Equity": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Philosophies of Equity": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1276,13 +1181,6 @@
 			"Philosophies of Justice",
 			"Artificed Dynamic Gear",
 			"Lightless Silk String",
-<<<<<<< HEAD
-=======
-			"Teachings of Order",
-			"Guide to Order",
-			"Philosophies of Order",
-			"Lightless Eye of the Maelstrom",
->>>>>>> upstream/main
 			"Teachings of \"Diligence\"",
 			"Damaged Mask",
 			"Guide to \"Diligence\"",
@@ -1325,12 +1223,9 @@
 			"Philosophies of Transience",
 			"Everamber",
 			"Dvalin's Claw",
-<<<<<<< HEAD
 			"Teachings of Order",
 			"Guide to Order",
 			"Philosophies of Order",
-=======
->>>>>>> upstream/main
 			"Teachings of Equity",
 			"Guide to Equity",
 			"Philosophies of Equity",

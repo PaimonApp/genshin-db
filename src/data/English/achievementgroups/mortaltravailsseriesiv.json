@@ -1,9 +1,7 @@
 {
-	"id": 43,
 	"name": "Mortal Travails: Series IV",
-	"sortOrder": 6,
+	"sortorder": 6,
 	"reward": {
-		"id": 210170,
 		"name": "Achievement: Mariner"
 	}
 }

@@ -1,18 +1,14 @@
 {
-	"id": [
-		81034
-	],
 	"name": "Священник, принцесса и писарь",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1035,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1035,
 	"stages": 1,
 	"stage1": {
 		"title": "Священник, принцесса и писарь",
 		"description": "Найдите сокровище погребённой столицы.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

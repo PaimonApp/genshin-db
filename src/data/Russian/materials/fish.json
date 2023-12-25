@@ -1,15 +1,10 @@
 {
-	"id": 100084,
 	"name": "Рыба",
-	"sortRank": 321,
 	"description": "Свежее филе рыбы. Из него можно приготовить сытное блюдо.",
-<<<<<<< HEAD
 	"sortorder": 2923,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Кухонный ингредиент",
-	"sources": [
+	"materialtype": "Кухонный ингредиент",
+	"source": [
 		"Ловля рыбы"
 	]
 }

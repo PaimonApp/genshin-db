@@ -1,19 +1,12 @@
 {
-	"id": 101311,
 	"name": "ไม้ Aralia",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "ไม้จาก \"ต้น Inazuman Cedar\" มีเนื้อที่นุ่มและลวดลายที่ตรงเป็นแนว ส่งกลิ่นหอมอันบางเบา\nสามารถนำมาใช้สร้างเฟอร์นิเจอร์ได้",
-<<<<<<< HEAD
 	"sortorder": 2970,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "วัสดุ",
-	"sources": [
+	"materialtype": "วัสดุ",
+	"source": [
 		"พบได้ในโลกกว้าง",
-		"แนะนำ: ตัดบริเวณเกาะ Narukami",
-		"แปลงวัสดุไม้"
+		"แนะนำ: ตัดบริเวณเกาะ Narukami"
 	]
 }

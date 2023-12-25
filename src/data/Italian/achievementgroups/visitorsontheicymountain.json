@@ -1,13 +1,7 @@
 {
-	"id": 16,
 	"name": "Visitatori sulla montagna ghiacciata",
-<<<<<<< HEAD
 	"sortorder": 30,
-=======
-	"sortOrder": 30,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210052,
 		"name": "Obiettivo: Sommità innevata"
 	}
 }

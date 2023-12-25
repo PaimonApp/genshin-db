@@ -1,13 +1,8 @@
 {
-	"id": 107022,
 	"name": "Panache de lumière purificatrice",
-	"sortRank": 420021,
 	"description": "Fragment laissé par la khvarena, contenant des souvenirs du passé.",
-<<<<<<< HEAD
 	"sortorder": 4890,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consommable",
-	"sources": []
+	"materialtype": "Consommable",
+	"source": []
 }

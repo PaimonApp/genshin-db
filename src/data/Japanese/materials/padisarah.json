@@ -1,15 +1,10 @@
 {
-	"id": 101214,
 	"name": "パティサラ",
-	"sortRank": 314,
 	"description": "神聖かつ純潔な、気高い花。成長には厳しい生育条件を必要とする。花蕊を加工すると、貴重な香料が出来上がる。",
-<<<<<<< HEAD
 	"sortorder": 2872,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "スメール地域の特産",
-	"sources": [
+	"materialtype": "スメール地域の特産",
+	"source": [
 		"スメールシティ付近で採集"
 	]
 }

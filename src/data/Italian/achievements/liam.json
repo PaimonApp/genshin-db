@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Liam",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1419,
-=======
-	"id": [
-		81435
-	],
-	"name": "Liam",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1419,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Liam",
 		"description": "Sconfiggi la Leggenda locale: Liam",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

@@ -1,11 +1,7 @@
 {
-	"id": [
-		80266
-	],
 	"name": "Ann Harikalar Diyarında",
-	"achievementGroupId": 42,
-	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (I)",
-	"sortOrder": 246,
+	"achievementgroup": "Fontaine: Çiy Beyazı Pınarların Dansı (I)",
+	"sortorder": 246,
 	"stages": 1,
 	"stage1": {
 		"title": "Ann Harikalar Diyarında",
@@ -13,7 +9,6 @@
 		"description": "Nergis Haçı Macera Takımı hikayesini tamamla.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}

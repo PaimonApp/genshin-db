@@ -1,15 +1,10 @@
 {
-	"id": 100027,
 	"name": "Jueyun Chili",
-	"sortRank": 312,
 	"description": "A spicy plant native to Liyue. Merely smelling it makes one hot and thirsty.",
-<<<<<<< HEAD
 	"sortorder": 2854,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Liyue)",
-	"sources": [
+	"materialtype": "Local Specialty (Liyue)",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found in Qingce Village"
 	]

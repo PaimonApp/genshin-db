@@ -1,15 +1,10 @@
 {
-	"id": 100088,
 	"name": "豆腐",
-	"sortRank": 321,
 	"description": "新鮮な大豆加工品。なめらかな食感が特徴。",
-<<<<<<< HEAD
 	"sortorder": 2926,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"璃月雑貨屋で購入",
 		"稲妻雑貨屋で購入",
 		"スメール雑貨屋で購入"

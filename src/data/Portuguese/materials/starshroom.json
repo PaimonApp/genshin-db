@@ -1,15 +1,10 @@
 {
-	"id": 101212,
 	"name": "Cogumelo Estrelar",
-	"sortRank": 90000,
 	"description": "Um fungo com um chapéu na forma de uma estrela de cinco pontas. Tem uma força vital forte. Quando estiver maduro, o centro do chapéu se abrirá.",
-<<<<<<< HEAD
 	"sortorder": 3418,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Alimento",
-	"sources": [
+	"materialtype": "Alimento",
+	"source": [
 		"Encontrado na natureza"
 	]
 }

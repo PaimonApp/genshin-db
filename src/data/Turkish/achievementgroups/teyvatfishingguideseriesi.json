@@ -1,13 +1,7 @@
 {
-	"id": 25,
 	"name": "Teyvat Balıkçılık Rehberi: I. Seri",
-<<<<<<< HEAD
 	"sortorder": 37,
-=======
-	"sortOrder": 37,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210098,
 		"name": "Başarım: Çiviler"
 	}
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100052,
 	"name": "Corolla di Fiordinebbia",
-	"sortRank": 320,
 	"description": "Un fiore racchiuso nel ghiaccio. Anche dopo essere stato colto, continua ad emettere freddo.",
-<<<<<<< HEAD
 	"sortorder": 2889,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Materiale",
-	"sources": [
+	"materialtype": "Materiale",
+	"source": [
 		"Presente in natura",
 		"Consiglio: si trova al Vigneto Prima Luce"
 	]

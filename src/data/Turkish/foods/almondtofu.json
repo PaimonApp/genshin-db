@@ -1,10 +1,9 @@
 {
-	"id": 2101,
 	"name": "Badem Tofusu",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Saldırı Artırıcı Yemek",
+	"foodfilter": "Saldırı Artırıcı Yemek",
+	"foodcategory": "Atk_Add",
 	"effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 66 ila 95 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Öğütülmüş bademlerden yapılan bir tatlı. İpeksi dokusu ve belirgin badem aromasıyla yoğun bir tadı vardır. Tofuyu andıran görüntüsü sebebiyle bu tatlıya böyle bir isim verilmiş.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100078,
 			"name": "Süt",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Şeker",
 			"count": 1
 		},
 		{
-			"id": 100089,
 			"name": "Badem",
 			"count": 1
 		}

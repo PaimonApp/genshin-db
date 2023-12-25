@@ -1,20 +1,10 @@
 {
-<<<<<<< HEAD
 	"name": "Lumitoile",
 	"description": "Eine Molluske, die im Wasser einen sanft-blassen Schimmer ausstrahlt. Meistens erklimmen sie gern von Menschenhand geschaffene Flächen am oder unter Wasser.",
 	"sortorder": 2884,
 	"category": "EXCHANGE",
 	"materialtype": "Regionale Besonderheit aus Fontaine",
 	"source": [
-=======
-	"id": 101237,
-	"name": "Lumitoile",
-	"sortRank": 315,
-	"description": "Eine Molluske, die im Wasser einen sanft-blassen Schimmer ausstrahlt. Meistens erklimmen sie gern von Menschenhand geschaffene Flächen am oder unter Wasser.",
-	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Fontaine",
-	"sources": [
->>>>>>> upstream/main
 		"In der freien Natur zu finden",
 		"Empfohlen: Im Bezirk Liffey zu finden"
 	]

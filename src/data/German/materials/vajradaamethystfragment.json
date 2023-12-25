@@ -1,17 +1,11 @@
 {
-	"id": 104142,
 	"name": "Vajrada-Amethyst-Bruchstück",
-	"rarity": 3,
-	"sortRank": 12105,
 	"description": "Material für den Figurenaufstieg.\n„Dieser Körper ist einzigartig auf dieser Welt.“",
-<<<<<<< HEAD
 	"sortorder": 3203,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für den Figurenaufstieg",
-	"sources": [
+	"materialtype": "Material für den Figurenaufstieg",
+	"source": [
 		"Beute von Elektro-Hypostasen ab Stufe 40",
 		"Beute von Verkörperungen des Donners ab Stufe 40",
 		"Beute von Fluxblitzbäumen ab Stufe 40",

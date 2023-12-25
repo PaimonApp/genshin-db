@@ -1,13 +1,8 @@
 {
-	"id": 100618,
 	"name": "Colmillo extraño",
-	"sortRank": 200,
 	"description": "Un colmillo recogido en Espinadragón. Tal vez alguien sepa algo sobre él...",
-<<<<<<< HEAD
 	"sortorder": 2776,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": []
+	"materialtype": "Material",
+	"source": []
 }

@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "La Lettre a Focalors",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "เมนูการป้องกัน",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3416,
-	"name": "La Lettre a Focalors",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "เมนูการป้องกัน",
->>>>>>> upstream/main
 	"effect": "เพิ่มพลังชีวิตสูงสุดของตัวละครทั้งหมดในทีม 20%-25% เป็นเวลา 300 วินาที\nเมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
 	"description": "เค้กก้อนเล็กรูปทรงยาว ว่ากันว่าเมื่อนานมาแล้ว มันถูกรังสรรค์ขึ้นโดยเชฟทำขนมรายหนึ่ง ที่ได้รับแรงบันดาลใจจากความรักที่ชาว Fontaine มีต่อท่านเทพแห่งน้ำ จำนวนชั้นที่ซ้อนกันหลาย ๆ ชั้น รวมถึงกระบวนการผลิตที่ทดสอบฝีมือเชฟ ล้วนพิสูจน์ให้เห็นถึงอิทธิพลของท่านเทพแห่งน้ำ",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Bird Egg",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Flour",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "Coffee Bean",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "Almond",
 			"count": 2
 		}

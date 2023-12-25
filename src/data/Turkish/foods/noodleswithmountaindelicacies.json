@@ -1,10 +1,9 @@
 {
-	"id": 2108,
 	"name": "Çoban Eriştesi",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Maceracının Yemeği",
+	"foodfilter": "Maceracının Yemeği",
+	"foodcategory": "Other_SPAdd",
 	"effect": "40 ila 60 dayanıklılık yeniler.",
 	"description": "Et ve sebze soslu erişte. Sosun kırsal yaşamı anımsatan bir lezzeti var. Eriştelere bolca sos konmuş. Mütevazı ama daima sevilen bir yemek.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100011,
 			"name": "Mantar",
 			"count": 3
 		},
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 2
 		},
 		{
-			"id": 110001,
 			"name": "Un",
 			"count": 2
 		}

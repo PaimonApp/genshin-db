@@ -1,11 +1,7 @@
 {
-	"id": [
-		82001
-	],
 	"name": "Nothing Special, Just Practice",
-	"achievementGroupId": 7,
-	"achievementGroupName": "Marksmanship",
-	"sortOrder": 2001,
+	"achievementgroup": "Marksmanship",
+	"sortorder": 2001,
 	"stages": 1,
 	"stage1": {
 		"title": "Nothing Special, Just Practice",
@@ -13,7 +9,6 @@
 		"description": "Hit a falcon mid-flight with your bow.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 100022,
 	"name": "Valberry",
-	"sortRank": 311,
 	"description": "A plump and translucent berry that has a fragrant smell and a sweet, refreshing taste. In the past, the storm watchers' only solace was the sweetness of this fruit and hope for the city's peace.",
-<<<<<<< HEAD
 	"sortorder": 2847,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Mondstadt)",
-	"sources": [
+	"materialtype": "Local Specialty (Mondstadt)",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found on Stormbearer Mountains"
 	]

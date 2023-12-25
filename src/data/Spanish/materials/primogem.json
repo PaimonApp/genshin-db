@@ -1,15 +1,9 @@
 {
-	"id": 201,
 	"name": "Protogema",
-	"rarity": 5,
-	"sortRank": 30,
 	"description": "Una gema cristalina que va más allá del mundo terrenal. Brilla con esperanzas y sueños condensados de universos que existieron alguna vez.",
-<<<<<<< HEAD
 	"sortorder": 2714,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"typeText": "Moneda especial",
-	"sources": []
+	"materialtype": "Moneda especial",
+	"source": []
 }

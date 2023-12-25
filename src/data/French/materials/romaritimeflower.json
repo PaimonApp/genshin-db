@@ -1,15 +1,10 @@
 {
-	"id": 101233,
 	"name": "Fleur romaritime",
-	"sortRank": 315,
 	"description": "Une fleur bleue éthérée et élégante. Ses pistils tendres sont élastiques et absorbent l'eau, ce qui en fait une matière première idéale pour diverses nécessités du quotidien.",
-<<<<<<< HEAD
 	"sortorder": 2881,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Fontaine",
-	"sources": [
+	"materialtype": "Produit de Fontaine",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Plaine Salacia"
 	]

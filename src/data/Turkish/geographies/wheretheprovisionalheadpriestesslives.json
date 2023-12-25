@@ -1,11 +1,8 @@
 {
-	"id": 70300017,
 	"name": "Geçici Baş Rahibenin Evi",
-	"areaId": 3402,
-	"areaName": "Asase Tapınağı",
+	"area": "Asase Tapınağı",
 	"description": "\"Hibiki dönecek.\"\n\"Tapınak senin sayende harika olmuş. Hibiki çok yakında dönecek.\"",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"showOnlyUnlocked": true,
-	"sortOrder": 213
+	"region": "Inazuma",
+	"showonlyunlocked": true,
+	"sortorder": 213
 }

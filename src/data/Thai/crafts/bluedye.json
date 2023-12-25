@@ -1,13 +1,11 @@
 {
-	"id": 30007,
 	"name": "สีย้อมสีฟ้า",
-	"filterText": "วัสดุที่ใช้สร้างเฟอร์นิเจอร์",
-	"sortOrder": 170060,
-	"unlockRank": 28,
-	"resultCount": 1,
+	"filter": "วัสดุที่ใช้สร้างเฟอร์นิเจอร์",
+	"sortorder": 170060,
+	"unlockrank": 28,
+	"resultcount": 1,
 	"recipe": [
 		{
-			"id": 100016,
 			"name": "Mint",
 			"count": 1
 		}
@@ -15,7 +13,6 @@
 	"altrecipes": [
 		[
 			{
-				"id": 100021,
 				"name": "Wolfhook",
 				"count": 1
 			}

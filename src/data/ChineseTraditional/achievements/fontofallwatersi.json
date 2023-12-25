@@ -1,11 +1,7 @@
 {
-	"id": [
-		80253
-	],
 	"name": "行汲眾水的泉源·其一",
-	"achievementGroupId": 42,
-	"achievementGroupName": "楓丹·白露澈明的泉舞·其之一",
-	"sortOrder": 233,
+	"achievementgroup": "楓丹·白露澈明的泉舞·其之一",
+	"sortorder": 233,
 	"stages": 1,
 	"stage1": {
 		"title": "行汲眾水的泉源·其一",
@@ -13,7 +9,6 @@
 		"description": "解鎖楓丹區域中，楓丹廷區、白露區、蒼晶區所有傳送錨點。",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}

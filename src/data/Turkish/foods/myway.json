@@ -1,24 +1,19 @@
 {
-	"id": 10000048,
 	"name": "Dediğim Dedik",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "SPECIALTY",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Bir karakteri diriltir ve Maks. Canını %15 yeniler, ardından 550 Can verir.",
 	"description": "Yanfei'nin özel tarifi, tam orijinal tarifine göre yapılmış Yengeç Yumurtalı Tofu. Boyutları ve aromasını elde etmek için tarife harfiyen uymak ve \"Yengeç Yumurtalı Tofu Yasaları\"na sadık kalmak gerekir.",
-	"baseDishId": 2112,
-	"baseDishName": "Yengeç Yumurtalı Tofu",
-	"characterId": 10000048,
-	"characterName": "Yanfei",
+	"basedish": "Yengeç Yumurtalı Tofu",
+	"character": "Yanfei",
 	"ingredients": [
 		{
-			"id": 100074,
 			"name": "Yengeç Yumurtası",
 			"count": 1
 		},
 		{
-			"id": 100088,
 			"name": "Tofu",
 			"count": 1
 		}

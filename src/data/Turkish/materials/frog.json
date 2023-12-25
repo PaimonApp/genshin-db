@@ -1,15 +1,10 @@
 {
-	"id": 100081,
 	"name": "Kurbağa",
-	"sortRank": 320,
 	"description": "Nemli ortamlarda yaygın bulunan bir kurbağa. Her zaman enerjiktir. Canlılığı yüksek tutan bir madde salgılar.",
-<<<<<<< HEAD
 	"sortorder": 2893,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Tatlı su kaynaklarının yakınlarında bulunur."
 	]
 }

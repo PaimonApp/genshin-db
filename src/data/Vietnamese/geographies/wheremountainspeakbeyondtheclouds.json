@@ -1,10 +1,7 @@
 {
-	"id": 70200004,
 	"name": "Giữa Thiên Phong Tuyệt Vân",
-	"areaId": 2601,
-	"areaName": "Tuyệt Vân Gián",
+	"area": "Tuyệt Vân Gián",
 	"description": "Tương truyền, tiên gia cư trú ở đây giữa muôn ngàn đỉnh núi và mây mù. Thật khó tiếp cận bằng thân thể bằng xương bằng thịt.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 109
+	"region": "Liyue",
+	"sortorder": 109
 }

@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Boudin noir aux pommes",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gerichte für Abenteuer",
 	"foodcategory": "Other_SPReduceConsume",
-=======
-	"id": 2408,
-	"name": "Boudin noir aux pommes",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Gerichte für Abenteuer",
->>>>>>> upstream/main
 	"effect": "Verringert die beim Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 s lang um 15 bis 25 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Ein traditionelles Gericht aus Fontaine. Apfelspalten und Blutwurstscheiben werden getrennt voneinander angebraten und anschließend mit einer Soße kredenzt. Besucher von außerhalb denken beim Namen dieses Gerichts oft an eine Nachspeise, während Boudin noir eigentlich ein Name für Blutwurst ist.",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100001,
->>>>>>> upstream/main
 			"name": "Apfel",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Rohes Fleisch",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110004,
->>>>>>> upstream/main
 			"name": "Butter",
 			"count": 1
 		}

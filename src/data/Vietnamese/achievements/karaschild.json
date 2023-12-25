@@ -1,18 +1,14 @@
 {
-	"id": [
-		81260
-	],
 	"name": "Đứa Trẻ Của Kara",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1246,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1246,
 	"stages": 1,
 	"stage1": {
 		"title": "Đứa Trẻ Của Kara",
 		"description": "Hãy tự do bay bổng trong rừng đi.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

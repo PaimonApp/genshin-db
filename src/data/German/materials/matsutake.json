@@ -1,15 +1,10 @@
 {
-	"id": 100063,
 	"name": "Matsutake",
-	"sortRank": 321,
 	"description": "Eine seltene Pilzart, die an oder in der Nähe von Kiefern wächst und ihre Stellung durch den unverkennbaren Duft verrät.",
-<<<<<<< HEAD
 	"sortorder": 2914,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

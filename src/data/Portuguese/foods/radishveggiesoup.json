@@ -1,10 +1,9 @@
 {
-	"id": 1005,
 	"name": "Sopa de Rabanete e Vegetais",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_HpAddAll",
 	"effect": "Restaura 8% - 10% da Vida Máxima ao personagem selecionado.\nRegenera 210 - 300 de Vida a cada 5s por 30s.",
 	"description": "Uma sopa de rabanete e vegetais. Seu sabor é um agridoce delicado. Com rabanetes deliciosos, possui alto valor nutritivo.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100014,
 			"name": "Rabanete Branco",
 			"count": 1
 		},
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 1
 		}

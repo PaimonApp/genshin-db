@@ -1,10 +1,9 @@
 {
-	"id": 1005,
 	"name": "Zuppa vegetariana di ravanelli",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Piatti rigenerativi",
+	"foodfilter": "Piatti rigenerativi",
+	"foodcategory": "Recovery_HpAddAll",
 	"effect": "Ripristina un 8-10% dei PS max del personaggio selezionato.\nRigenera 210-300 PS ogni 5 s per i 30 s successivi.",
 	"description": "Una zuppa vegetariana a base di ravanelli. Ha un sapore delicato, tra l'aspro e il dolce, e i deliziosi ravanelli lo rendono un piatto bilanciato.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100014,
 			"name": "Ravanello",
 			"count": 1
 		},
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 1
 		}

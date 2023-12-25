@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "午前零時の鐘が鳴るころ",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1360,
-=======
-	"id": [
-		81376
-	],
-	"name": "午前零時の鐘が鳴るころ",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1360,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "午前零時の鐘が鳴るころ",
 		"description": "キャタピラーの正体を知る。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

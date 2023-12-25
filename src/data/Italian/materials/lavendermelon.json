@@ -1,15 +1,10 @@
 {
-	"id": 101211,
 	"name": "Melonlavanda",
-	"sortRank": 321,
 	"description": "Un frutto dal colore vivace. Se cucinata, la sua polpa si trasforma in pietanze dal sapore unico per il palato.",
-<<<<<<< HEAD
 	"sortorder": 2938,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Presente in natura a Inazuma"
 	]
 }

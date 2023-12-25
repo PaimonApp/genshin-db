@@ -1,13 +1,7 @@
 {
-	"id": [
-		82044,
-		82045,
-		82046
-	],
 	"name": "Investigador das Profundezas",
-	"achievementGroupId": 9,
-	"achievementGroupName": "Domínios e Abismo em Espiral - Série I",
-	"sortOrder": 2044,
+	"achievementgroup": "Domínios e Abismo em Espiral - Série I",
+	"sortorder": 2044,
 	"stages": 3,
 	"stage1": {
 		"title": "Investigador das Profundezas",
@@ -15,7 +9,6 @@
 		"description": "Abismo do Espiral: Passe no Piso 4.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Abismo do Espiral: Passe no Piso 8.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Abismo do Espiral: Passe no Piso 12.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 20
 		}

@@ -1,17 +1,11 @@
 {
-	"id": 104111,
 	"name": "Agnidus-Achat-Splitter",
-	"rarity": 2,
-	"sortRank": 12102,
 	"description": "Material für den Figurenaufstieg.",
-<<<<<<< HEAD
 	"sortorder": 3192,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für den Figurenaufstieg",
-	"sources": [
+	"materialtype": "Material für den Figurenaufstieg",
+	"source": [
 		"Beute von Fluxfeuerbäumen",
 		"Beute von Pyro-Hypostasen",
 		"Kaiser von Feuer und Eisen Beute",

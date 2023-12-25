@@ -1,15 +1,10 @@
 {
-	"id": 100033,
 	"name": "Starconch",
-	"sortRank": 312,
 	"description": "เปลือกหอยที่ถูกพัดมาจากทะเลถึงหาดทราย เพียงแค่นำมันมาแนบกับหู ก็จะได้ยินเสียงร้องเรียกจากทะเล",
-<<<<<<< HEAD
 	"sortorder": 2859,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "ของพิเศษเฉพาะใน Liyue",
-	"sources": [
+	"materialtype": "ของพิเศษเฉพาะใน Liyue",
+	"source": [
 		"หาได้ที่บริเวณชายหาดของ Liyue"
 	]
 }

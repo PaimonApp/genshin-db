@@ -1,15 +1,10 @@
 {
-	"id": 101232,
 	"name": "Beryllmuschel",
-	"sortRank": 315,
 	"description": "Ein schalenartiges Gebilde, das matt schimmert. Es erscheint eher wie ein Produkt kondensierter Elementarenergie, als die Schale eines Lebewesens.",
-<<<<<<< HEAD
 	"sortorder": 2880,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Fontaine",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Fontaine",
+	"source": [
 		"In der freien Natur zu finden",
 		"Empfohlen: Auf der Salacia-Ebene zu finden"
 	]

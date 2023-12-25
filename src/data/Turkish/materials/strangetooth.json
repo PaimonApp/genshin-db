@@ -1,13 +1,8 @@
 {
-	"id": 100618,
 	"name": "Tuhaf Diş",
-	"sortRank": 200,
 	"description": "Ejdersırtı'ndan aldığın bir Ejder Dişi. Birileri bunun hakkında daha fazla şey biliyor olabilir...",
-<<<<<<< HEAD
 	"sortorder": 2776,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": []
+	"materialtype": "Malzeme",
+	"source": []
 }

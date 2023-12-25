@@ -1,13 +1,7 @@
 {
-	"id": 27,
 	"name": "Сквозь туман",
-<<<<<<< HEAD
 	"sortorder": 36,
-=======
-	"sortOrder": 36,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210103,
 		"name": "Перо орла"
 	}
 }

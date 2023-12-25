@@ -1,13 +1,11 @@
 {
-	"id": 30001,
 	"name": "Tecido",
-	"filterText": "Materiais de Fabricação de Decorações",
-	"sortOrder": 170000,
-	"unlockRank": 28,
-	"resultCount": 10,
+	"filter": "Materiais de Fabricação de Decorações",
+	"sortorder": 170000,
+	"unlockrank": 28,
+	"resultcount": 10,
 	"recipe": [
 		{
-			"id": 100029,
 			"name": "Flor de Seda",
 			"count": 1
 		}

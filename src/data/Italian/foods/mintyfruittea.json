@@ -1,10 +1,9 @@
 {
-	"id": 3316,
 	"name": "Tè alla menta fruttato",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Piatto DIF+",
+	"foodfilter": "Piatto DIF+",
+	"foodcategory": "Def_Add",
 	"effect": "Aumenta di 165-235 la DIF di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Una bevanda rinfrescante e dissetante. Il tè rinvigorente e il gusto agrodolce della frutta si fondono assieme donandoti ristoro. Prima che te ne renda conto, hai già finito un'intera tazza.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 3
 		},
 		{
-			"id": 100002,
 			"name": "Tramontino",
 			"count": 3
 		},
 		{
-			"id": 100051,
 			"name": "Bacca",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Zucchero",
 			"count": 1
 		}

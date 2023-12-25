@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Regeln der Gesellschaften am Rande",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 5085,
-=======
-	"id": [
-		84306
-	],
-	"name": "Regeln der Gesellschaften am Rande",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 5085,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Regeln der Gesellschaften am Rande",
 		"description": "Untersuche zwei der „Geheimregeln“ im Gefängnis.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

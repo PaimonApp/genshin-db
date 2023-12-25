@@ -1,15 +1,10 @@
 {
-	"id": 100029,
 	"name": "Silk Flower",
-	"sortRank": 312,
 	"description": "Bunga merah dari Liyue yang mekar seperti awan. Bisa dijadikan kain sehalus sutra.",
-<<<<<<< HEAD
 	"sortorder": 2856,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk khas Liyue",
-	"sources": [
+	"materialtype": "Produk khas Liyue",
+	"source": [
 		"Ditemukan di dekat Yujing Terrace, Liyue Harbor",
 		"Ditemukan di sekitar Wangshu Inn",
 		"Rekomendasi: Ditemukan di Liyue Harbor"

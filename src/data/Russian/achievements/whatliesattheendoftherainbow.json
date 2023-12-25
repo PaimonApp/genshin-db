@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Откуда берётся радуга?..",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1364,
-=======
-	"id": [
-		81380
-	],
-	"name": "Откуда берётся радуга?..",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1364,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Откуда берётся радуга?..",
 		"description": "Следуйте за лучом света до самого конца...",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

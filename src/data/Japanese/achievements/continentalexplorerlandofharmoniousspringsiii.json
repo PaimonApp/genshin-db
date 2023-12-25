@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "大地調査·百泉調和の地·3",
 	"achievementgroup": "フォンテーヌ·澄み渡った白露の泉舞·3",
 	"sortorder": 262,
-=======
-	"id": [
-		80286
-	],
-	"name": "大地調査·百泉調和の地·3",
-	"achievementGroupId": 46,
-	"achievementGroupName": "フォンテーヌ·澄み渡った白露の泉舞·3",
-	"sortOrder": 262,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "大地調査·百泉調和の地·3",
@@ -19,10 +9,6 @@
 		"description": "フォンテーヌ地域のモルテ地区、エリニュス山林地区のマップを開放する。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

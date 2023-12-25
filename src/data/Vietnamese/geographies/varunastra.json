@@ -1,11 +1,8 @@
 {
-	"id": 70400009,
 	"name": "Bảo Vật Varuna",
-	"areaId": 4403,
-	"areaName": "Rừng Apam",
+	"area": "Rừng Apam",
 	"description": "Hiện thân sức mạnh của Cỗ Máy Varuna. Đem lại suối nguồn sinh mệnh, biến Valuka thành Vana, làm cho mảnh đất khô cằn từ đây tràn trề sức sống.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 309
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 309
 }

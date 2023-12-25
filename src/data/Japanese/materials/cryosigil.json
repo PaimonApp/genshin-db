@@ -1,17 +1,11 @@
 {
-	"id": 306,
 	"name": "氷の印",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "モンド周辺の特殊な記念貨幣。街のショップでレアアイテムと交換できる",
-<<<<<<< HEAD
 	"sortorder": 4932,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "七国の印",
-	"sources": [
+	"materialtype": "七国の印",
+	"source": [
 		"探索報酬"
 	]
 }

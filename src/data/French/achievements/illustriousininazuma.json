@@ -1,11 +1,8 @@
 {
-	"id": [
-		80092
-	],
 	"name": "Idole à Inazuma",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1026,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1026,
 	"stages": 1,
 	"stage1": {
 		"title": "Idole à Inazuma",
@@ -13,7 +10,6 @@
 		"description": "Atteignez un Niv. de réputation 10 à Inazuma.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

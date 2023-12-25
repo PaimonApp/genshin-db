@@ -1,15 +1,10 @@
 {
-	"id": 101218,
 	"name": "Duraznoliva",
-	"sortRank": 321,
 	"description": "Un fruto que crece en los arbustos del bosque, muy dulce y carnoso. Dicen que comerlo calma el cuerpo y la mente.",
-<<<<<<< HEAD
 	"sortorder": 2940,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en la naturaleza"
 	]
 }

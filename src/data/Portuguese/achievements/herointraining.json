@@ -1,19 +1,13 @@
 {
-	"id": [
-		81029,
-		81030,
-		81031
-	],
 	"name": "Aprendiz de Herói",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"sortOrder": 1030,
+	"achievementgroup": "Maravilhas do Mundo",
+	"sortorder": 1030,
 	"stages": 3,
 	"stage1": {
 		"title": "Aprendiz de Herói",
 		"description": "Conclua 10 Requisições dos Habitantes",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}
@@ -23,7 +17,6 @@
 		"description": "Conclua 20 Requisições dos Habitantes",
 		"progress": 20,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}
@@ -33,7 +26,6 @@
 		"description": "Conclua 30 Requisições dos Habitantes",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 20
 		}

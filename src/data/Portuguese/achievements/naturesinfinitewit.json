@@ -1,10 +1,7 @@
 {
-	"id": [
-		81223
-	],
 	"name": "A Inteligência Infinita da Natureza",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"sortOrder": 1209,
+	"achievementgroup": "Maravilhas do Mundo",
+	"sortorder": 1209,
 	"stages": 1,
 	"stage1": {
 		"title": "A Inteligência Infinita da Natureza",
@@ -12,7 +9,6 @@
 		"description": "Alcance o Nv.10 de Reputação em Sumeru.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 20
 		}

@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Gölgesiz Semnai",
 	"achievementgroup": "Fontaine: Çiy Beyazı Pınarların Dansı (III)",
 	"sortorder": 274,
-=======
-	"id": [
-		80298
-	],
-	"name": "Gölgesiz Semnai",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (III)",
-	"sortOrder": 274,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Gölgesiz Semnai",
@@ -19,10 +9,6 @@
 		"description": "Erinnyes'te gizemli bir periyle tanış.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 10
 		}

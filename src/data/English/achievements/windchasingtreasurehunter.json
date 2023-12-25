@@ -1,13 +1,7 @@
 {
-	"id": [
-		80037,
-		80038,
-		80039
-	],
 	"name": "Wind-Chasing Treasure Hunter",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt: The City of Wind and Song",
-	"sortOrder": 37,
+	"achievementgroup": "Mondstadt: The City of Wind and Song",
+	"sortorder": 37,
 	"stages": 3,
 	"stage1": {
 		"title": "Wind-Chasing Treasure Hunter",
@@ -15,7 +9,6 @@
 		"description": "Open 100 chests in Mondstadt (excluding the Dragonspine area).",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Open 200 chests in Mondstadt (excluding the Dragonspine area).",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Open 400 chests in Mondstadt (excluding the Dragonspine area).",
 		"progress": 400,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

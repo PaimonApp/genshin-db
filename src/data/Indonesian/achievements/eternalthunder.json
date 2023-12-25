@@ -1,11 +1,7 @@
 {
-	"id": [
-		80077
-	],
 	"name": "Petir Abadi",
-	"achievementGroupId": 24,
-	"achievementGroupName": "Inazuma: Pulau Petir dan Keabadian (I)",
-	"sortOrder": 78,
+	"achievementgroup": "Inazuma: Pulau Petir dan Keabadian (I)",
+	"sortorder": 78,
 	"stages": 1,
 	"stage1": {
 		"title": "Petir Abadi",
@@ -13,7 +9,6 @@
 		"description": "Menaikkan Patung The Seven di Inazuma ke level tertinggi.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

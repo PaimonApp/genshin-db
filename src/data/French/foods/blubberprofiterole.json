@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Boudi-profiteroles",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Attaque",
 	"foodcategory": "Atk_Add",
-=======
-	"id": 3417,
-	"name": "Boudi-profiteroles",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Attaque",
->>>>>>> upstream/main
 	"effect": "Augmente les DGT physiques de tous les personnages de l'équipe de 20 % à 40 % pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
 	"description": "Un dessert fourré à la crème. Son enrobage moelleux et feuilleté, renfermant une crème riche, est tout rond et presque potelé, aussi mignon que le ventre d'un boudiné. Peu de cœurs peuvent échapper au charme de la crème onctueuse et douce qu'il contient.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Œuf d'oiseau",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100078,
->>>>>>> upstream/main
 			"name": "Lait",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Farine",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "Crème",
 			"count": 2
 		}

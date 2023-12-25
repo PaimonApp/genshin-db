@@ -1,20 +1,13 @@
 {
-	"id": [
-		80148,
-		80149,
-		80150
-	],
 	"name": "Проводник в Разломе",
-	"achievementGroupId": 30,
-	"achievementGroupName": "Светоч пропасти",
-	"sortOrder": 148,
+	"achievementgroup": "Светоч пропасти",
+	"sortorder": 148,
 	"stages": 3,
 	"stage1": {
 		"title": "Проводник в Разломе",
 		"description": "Доведите 6 фей до их садов в Разломе.",
 		"progress": 6,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Доведите 12 фей до их садов в Разломе.",
 		"progress": 12,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Доведите 24 фей до их садов в Разломе.",
 		"progress": 24,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 20
 		}

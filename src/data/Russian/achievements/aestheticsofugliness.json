@@ -1,11 +1,8 @@
 {
-	"id": [
-		81352
-	],
 	"name": "Эстетика непривлекательности",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1338,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1338,
 	"stages": 1,
 	"stage1": {
 		"title": "Эстетика непривлекательности",
@@ -13,7 +10,6 @@
 		"description": "Ещё два шага Фонтейна к прекрасному.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

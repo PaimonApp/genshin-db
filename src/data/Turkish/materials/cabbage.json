@@ -1,15 +1,10 @@
 {
-	"id": 100018,
 	"name": "Lahana",
-	"sortRank": 321,
 	"description": "Katmanlı ve yapraklı bir sebze. Esasen süs bitkisi olduğu söylenir, saksıda hoş durduğu şüphesiz.",
-<<<<<<< HEAD
 	"sortorder": 2907,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Doğada bulunur.",
 		"Gıda pazarlarında satılır."
 	]

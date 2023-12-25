@@ -1,18 +1,14 @@
 {
-	"id": [
-		81000
-	],
 	"name": "Tepeden Manzara",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1000,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1000,
 	"stages": 1,
 	"stage1": {
 		"title": "Tepeden Manzara",
 		"description": "Qingyun Tepesi'nin zirvesine ulaş.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

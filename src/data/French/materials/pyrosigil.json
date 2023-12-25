@@ -1,17 +1,11 @@
 {
-	"id": 301,
 	"name": "Sceau Pyro",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Marque de reconnaissance de la part de Mondstadt que vous pouvez échanger contre des objets rares chez certains marchands de la cité.",
-<<<<<<< HEAD
 	"sortorder": 4927,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sceau des sept cités-états",
-	"sources": [
+	"materialtype": "Sceau des sept cités-états",
+	"source": [
 		"Exploration"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100054,
 	"name": "Électrocristal",
-	"sortRank": 320,
 	"description": "Un cristal qui puise son énergie électrique dans l'air. Il peut engourdir votre main si vous le tenez trop longtemps.",
-<<<<<<< HEAD
 	"sortorder": 2891,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Matériau",
-	"sources": [
+	"materialtype": "Matériau",
+	"source": [
 		"Sous les falaises des montagnes",
 		"Zone conseillée : Cap de la Promesse"
 	]

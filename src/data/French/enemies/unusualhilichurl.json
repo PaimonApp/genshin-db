@@ -1,21 +1,17 @@
 {
-	"id": 21011501,
 	"name": "Brutocollinus étrange",
-	"specialName": "Menace sur la ville",
-	"enemyType": "COMMON",
+	"specialname": "Menace sur la ville",
+	"enemytype": "COMMON",
 	"category": "Brutocollinus",
 	"description": "« Homu, Homu, mimi domu ! »",
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "EXP d'aventure"
 		},
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 100018,
 			"name": "Chou"
 		}
 	]

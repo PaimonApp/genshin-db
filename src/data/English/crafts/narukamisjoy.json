@@ -1,14 +1,12 @@
 {
-	"id": 12022,
 	"name": "Narukami's Joy",
-	"filterText": "Weapon Ascension Material",
-	"sortOrder": 130070,
-	"unlockRank": 25,
-	"resultCount": 1,
-	"moraCost": 125,
+	"filter": "Weapon Ascension Material",
+	"sortorder": 130070,
+	"unlockrank": 25,
+	"resultcount": 1,
+	"moracost": 125,
 	"recipe": [
 		{
-			"id": 114029,
 			"name": "Narukami's Wisdom",
 			"count": 3
 		}

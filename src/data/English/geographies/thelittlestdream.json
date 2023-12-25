@@ -1,11 +1,8 @@
 {
-	"id": 70400015,
 	"name": "The Littlest Dream",
-	"areaId": 4603,
-	"areaName": "Sand-Embraced Home",
+	"area": "Sand-Embraced Home",
 	"description": "They might have done so clumsily, but they made many preparations to welcome their Nara friend nonetheless.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 315
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 315
 }

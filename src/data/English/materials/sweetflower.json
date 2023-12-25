@@ -1,15 +1,10 @@
 {
-	"id": 100012,
 	"name": "Sweet Flower",
-	"sortRank": 321,
 	"description": "Particularly fragrant flowers. They can be found easily, even in the dark. Just follow the scent.",
-<<<<<<< HEAD
 	"sortorder": 2901,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Found in the wild"
 	]
 }

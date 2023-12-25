@@ -1,24 +1,17 @@
 {
-	"id": 104315,
 	"name": "Philosophies of \"Diligence\"",
-	"rarity": 4,
-	"sortRank": 13105,
 	"description": "Material Penguatan Talenta.\nKetekunan adalah dasar dari tanah bumi.\nKetekunan dalam memercayai kelebihan diri sendiri untuk mendapat tempat di tanah Dewa lewat kerja keras, kebijaksanaan, dan kekuatan.",
-<<<<<<< HEAD
 	"sortorder": 3229,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Talenta Karakter",
-	"dropDomainId": 5261,
-	"dropDomainName": "Domain of Mastery: Jantung Bara Api",
-	"daysOfWeek": [
+	"materialtype": "Material Talenta Karakter",
+	"dropdomain": "Domain of Mastery: Jantung Bara Api",
+	"daysofweek": [
 		"Selasa",
 		"Jumat",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

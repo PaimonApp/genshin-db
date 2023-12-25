@@ -1,25 +1,17 @@
 {
-	"id": 114055,
 	"name": "Saf Kutsal Çiy Damlası Kaynağı",
-<<<<<<< HEAD
 	"description": "Silah Yükseltme Malzemesi.\nGöl Şövalyelerinin henüz dünyada olduğu zamanlardan kalma bir antika. Şövalyelerin dağlarda, kimsenin girmediği pınarlarda ve vadilerde, saf ve kirlenmemiş su kaynaklarını koruyan sadık ruhlar olduğunu anlatır...\nAncak insan yapımı İkhor'un yaratıcısı, yazdığı yüce senfonide bu tür bir ahenksizliğe müsaade edemezdi. Harmost Boethius'un gittiği yere doğal nektarın gömüldüğü, imparatorluk su kemerlerinin yapıldığı ve saf sudan doğan ruhların hiçbir iz bırakmadan kaybolduğu anlatılır...",
 	"sortorder": 3331,
 	"rarity": "4",
-=======
-	"rarity": 4,
-	"sortRank": 15114,
-	"description": "Silah Yükseltme Malzemesi.\nGöl Şövalyelerinin henüz dünyada olduğu zamanlardan kalma bir antika. Şövalyelerin dağlarda, kimsenin girmediği pınarlarda ve vadilerde, saf ve kirlenmemiş su kaynaklarını koruyan sadık ruhlar olduğunu anlatır...\nAncak insan yapımı İkhor'un yaratıcısı, yazdığı yüce senfonide bu tür bir ahenksizliğe müsaade edemezdi. Harmost Boethius'un gittiği yere doğal nektarın gömüldüğü, imparatorluk su kemerlerinin yapıldığı ve saf sudan doğan ruhların hiçbir iz bırakmadan kaybolduğu anlatılır...",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Silah Yükseltme Malzemesi",
-	"dropDomainId": 4502,
-	"dropDomainName": "Döküm Zindanı: İşçilik",
-	"daysOfWeek": [
+	"materialtype": "Silah Yükseltme Malzemesi",
+	"dropdomain": "Döküm Zindanı: İşçilik",
+	"daysofweek": [
 		"Salı",
 		"Cuma",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

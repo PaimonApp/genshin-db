@@ -1,22 +1,11 @@
 {
-	"id": 112028,
 	"name": "Lámpara de hierba neblinosa",
-	"rarity": 4,
-	"sortRank": 10109,
 	"description": "Un conjunto de hierba neblinosa muy poco común y que emite un tenue resplandor. Quien lleve este objeto atraerá tanto a los Cicines voladores como a la mala suerte.",
-<<<<<<< HEAD
 	"sortorder": 3057,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de mejora de personaje y arma",
 	"source": [
 		"Sintetizar"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de mejora de personaje y arma",
-	"sources": [
-		"Sintetizar",
-		"Obtenido de Magas de Cicin (Niv. 60+)"
->>>>>>> upstream/main
 	]
 }

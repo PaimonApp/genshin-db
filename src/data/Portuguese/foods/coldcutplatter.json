@@ -1,10 +1,9 @@
 {
-	"id": 3003,
 	"name": "Prato de Carnes Frias",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Pratos de ATQ",
+	"foodfilter": "Pratos de ATQ",
+	"foodcategory": "Atk_Add",
 	"effect": "Aumenta o Dano Físico de todos os membros da Equipe em 20% - 40% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Um prato com fatias de carnes frias. Uma combinação de bacon, presunto, salsichas deixa qualquer um feliz.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110005,
 			"name": "Presunto",
 			"count": 1
 		},
 		{
-			"id": 110010,
 			"name": "Bacon",
 			"count": 1
 		},
 		{
-			"id": 110011,
 			"name": "Salsicha",
 			"count": 1
 		},
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 1
 		}

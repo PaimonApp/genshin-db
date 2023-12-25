@@ -1,15 +1,10 @@
 {
-	"id": 101225,
 	"name": "Skarabäus",
-	"sortRank": 314,
 	"description": "Ein in den Weiten des Sandmeeres lebender, hartnäckiger Käfer. Die goldenen Muster auf seinem Panzer scheinen auf eine enge Verbindung mit den überall in der Wüste verstreuten uralten Ruinen hinzudeuten.",
-<<<<<<< HEAD
 	"sortorder": 2879,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheiten aus Sumeru",
-	"sources": [
+	"materialtype": "Regionale Besonderheiten aus Sumeru",
+	"source": [
 		"In Ruinen der Wüsten Sumerus zu finden"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100019,
 	"name": "Silver Lotus",
-	"sortRank": 321,
 	"description": "พืชผักที่พบได้ยาก เติบโตตามหน้าผาสูง ส่องแสงสวยงามในยามราตรี",
-<<<<<<< HEAD
 	"sortorder": 2908,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัตถุดิบประกอบอาหาร",
-	"sources": [
+	"materialtype": "วัตถุดิบประกอบอาหาร",
+	"source": [
 		"พบได้ในโลกกว้าง"
 	]
 }

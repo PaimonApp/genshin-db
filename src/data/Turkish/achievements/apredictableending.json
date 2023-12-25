@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Beklendik Bir Son",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1406,
-=======
-	"id": [
-		81422
-	],
-	"name": "Beklendik Bir Son",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1406,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Beklendik Bir Son",
 		"description": "Fontaine Araştırma Enstitüsünün faaliyete dönmesine yardımcı oldun galiba...",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

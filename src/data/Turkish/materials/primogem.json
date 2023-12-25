@@ -1,15 +1,9 @@
 {
-	"id": 201,
 	"name": "Köken Taşı",
-	"rarity": 5,
-	"sortRank": 30,
 	"description": "Sıradan dünyanın ötesinde ezeli bir kristal mücevher. Bir zamanlar var olan evrenlerin yoğun umutları ve hayalleriyle parıldar.",
-<<<<<<< HEAD
 	"sortorder": 2714,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"typeText": "Özel Para Birimi",
-	"sources": []
+	"materialtype": "Özel Para Birimi",
+	"source": []
 }

@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Marcha Santa: Terra das Fontes Harmoniosas II",
 	"achievementgroup": "Fontaine: Dança das Fontes Brancas de Orvalho II",
 	"sortorder": 250,
-=======
-	"id": [
-		80274
-	],
-	"name": "Marcha Santa: Terra das Fontes Harmoniosas II",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho II",
-	"sortOrder": 250,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Marcha Santa: Terra das Fontes Harmoniosas II",
 		"description": "Desbloqueie todos os Santuários das Profundezas nas seguintes áreas em Fontaine: Região Liffey e a Área do Instituto de Pesquisas de Engenharia de Energia Cinética de Fontaine.",
 		"progress": 2,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 10
 		}

@@ -1,10 +1,9 @@
 {
-	"id": 3408,
 	"name": "Pate de Fruit",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "ATK-Boosting Dish",
+	"foodfilter": "ATK-Boosting Dish",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Increases all party members' CRIT Rate by 10–20% for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A gummy candy. It was first created as a way to preserve fruits. With the passage of time, the candy has made its way into every Fontainian's childhood memories. It is sweet and chewy, and one can never have enough of them.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 101230,
 			"name": "Bulle Fruit",
 			"count": 1
 		},
 		{
-			"id": 110008,
 			"name": "Jam",
 			"count": 1
 		},
 		{
-			"id": 110006,
 			"name": "Sugar",
 			"count": 1
 		}

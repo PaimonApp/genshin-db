@@ -1,13 +1,7 @@
 {
-	"id": [
-		80061,
-		80062,
-		80063
-	],
 	"name": "Hazine Dağı",
-	"achievementGroupId": 16,
-	"achievementGroupName": "Buzlu Dağın Ziyaretçileri",
-	"sortOrder": 61,
+	"achievementgroup": "Buzlu Dağın Ziyaretçileri",
+	"sortorder": 61,
 	"stages": 3,
 	"stage1": {
 		"title": "Hazine Dağı",
@@ -15,7 +9,6 @@
 		"description": "Ejdersırtı'nda 40 sandık aç.",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Ejdersırtı'nda 80 sandık aç.",
 		"progress": 80,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Ejdersırtı'nda 160 sandık aç.",
 		"progress": 160,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 20
 		}

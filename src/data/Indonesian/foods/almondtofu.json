@@ -1,10 +1,9 @@
 {
-	"id": 2101,
 	"name": "Almond Tofu",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Makanan Penyerangan",
+	"foodfilter": "Makanan Penyerangan",
+	"foodcategory": "Atk_Add",
 	"effect": "Meningkatkan 66–95 ATK seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Makanan penutup yang terbuat dari almond. Teksturnya lembut dengan aroma almond yang kuat. Dinamakan tofu hanya karena bentuknya yang mirip tahu.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100078,
 			"name": "Milk",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Sugar",
 			"count": 1
 		},
 		{
-			"id": 100089,
 			"name": "Almond",
 			"count": 1
 		}

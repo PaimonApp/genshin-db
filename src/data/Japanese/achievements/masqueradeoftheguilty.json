@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "罪人の円舞曲",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 5095,
-=======
-	"id": [
-		84316
-	],
-	"name": "罪人の円舞曲",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 5095,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "罪人の円舞曲",
 		"description": "「罪人の円舞曲」をクリアする。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 10
 		}

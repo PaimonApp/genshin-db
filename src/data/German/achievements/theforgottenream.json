@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Längst vergessene Streifen",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1370,
-=======
-	"id": [
-		81386
-	],
-	"name": "Längst vergessene Streifen",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1370,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Längst vergessene Streifen",
 		"description": "Hilf Broglie, alle „hydrologischen Beobachtungsdaten“ zu sammeln und zu sortieren.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

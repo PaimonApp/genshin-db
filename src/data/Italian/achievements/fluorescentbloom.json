@@ -1,11 +1,7 @@
 {
-	"id": [
-		80163
-	],
 	"name": "Fiore fluorescente",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru: Miti della foresta pluviale",
-	"sortOrder": 163,
+	"achievementgroup": "Sumeru: Miti della foresta pluviale",
+	"sortorder": 163,
 	"stages": 1,
 	"stage1": {
 		"title": "Fiore fluorescente",
@@ -13,7 +9,6 @@
 		"description": "Potenzia le Statue dei Sette a Sumeru al livello massimo.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 20
 		}

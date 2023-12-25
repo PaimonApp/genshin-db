@@ -1,10 +1,9 @@
 {
-	"id": 2107,
 	"name": "Golden Shrimp Balls",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Recovery Dish",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revives the selected character.\nRestores 900–1,500 HP.",
 	"description": "A deep-fried shrimp dish. The aroma assaults your senses, while the crispy potatoes bring out the light sweetness of the shrimp meat. This, in tandem with its cute, small shape, makes it very enticing indeed.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100093,
 			"name": "Shrimp Meat",
 			"count": 5
 		},
 		{
-			"id": 100080,
 			"name": "Potato",
 			"count": 4
 		},
 		{
-			"id": 110001,
 			"name": "Flour",
 			"count": 3
 		}

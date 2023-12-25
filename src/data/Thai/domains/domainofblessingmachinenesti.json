@@ -1,79 +1,60 @@
 {
-	"id": 5125,
 	"name": "ดันเจี้ยนแห่งพร: รังแห่งกลไก I",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"entranceId": 516,
-	"entranceName": "หุบเขากลางศิลา",
-	"domainType": "UI_ABYSSUS_RELIC",
-	"domainText": "อาร์ติแฟกต์",
+	"region": "Liyue",
+	"domainentrance": "หุบเขากลางศิลา",
+	"domaintype": "อาร์ติแฟกต์",
 	"description": "เดิมทีดูเหมือนจะเป็นลานจัดพิธีในสมัยโบราณ แต่ในตอนนี้ดูเหมือนจะถูกกลไกโบราณจากต่างแดนยึดครองไว้ซะแล้ว\nถ้าเอาชนะผู้บุกรุกกลไกที่อยู่ภายในนั้นได้ล่ะก็ บางทีคุณอาจจะได้รับอาร์ติแฟกต์อันล้ำค่า",
-	"recommendedLevel": 59,
-	"recommendedElements": [
+	"recommendedlevel": 59,
+	"recommendedelements": [
 		"ไฟ",
 		"ไฟฟ้า",
 		"หิน",
 		"ลม"
 	],
-	"unlockRank": 30,
-	"rewardPreview": [
+	"unlockrank": 30,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "Adventure EXP",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 1850
 		},
 		{
-			"id": 105,
 			"name": "Friendship EXP",
 			"count": 15
 		},
 		{
-			"id": 400027,
 			"name": "Martial Artist",
-			"rarity": 3
+			"rarity": "3"
 		},
 		{
-			"id": 400037,
 			"name": "Gambler",
-			"rarity": 3
+			"rarity": "3"
 		},
 		{
-			"id": 400198,
 			"name": "Vermillion Hereafter",
-			"rarity": 4
+			"rarity": "4"
 		},
 		{
-			"id": 400203,
 			"name": "Echoes of an Offering",
-			"rarity": 4
+			"rarity": "4"
 		},
 		{
-			"id": 400028,
 			"name": "Martial Artist",
-			"rarity": 4
+			"rarity": "4"
 		},
 		{
-			"id": 400038,
 			"name": "Gambler",
-			"rarity": 4
+			"rarity": "4"
 		}
 	],
 	"disorder": [
 		"เมื่อตัวละครใช้สกิลธาตุ จะปล่อยคลื่นกระแทกที่สร้างความเสียหายจริงออกมา"
 	],
-	"monsterList": [
-		{
-			"id": 24010101,
-			"name": "Ruin Guard"
-		},
-		{
-			"id": 24020201,
-			"name": "Ruin Destroyer"
-		}
+	"monsterlist": [
+		"Ruin Guard",
+		"Ruin Destroyer"
 	]
 }

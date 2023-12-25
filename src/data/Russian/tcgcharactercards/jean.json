@@ -2,7 +2,7 @@
 	"id": 1502,
 	"name": "Джинн",
 	"hp": 10,
-	"maxenergy": 2,
+	"maxenergy": 3,
 	"tags": [
 		"GCG_TAG_ELEMENT_ANEMO",
 		"GCG_TAG_WEAPON_SWORD",
@@ -70,7 +70,7 @@
 				},
 				{
 					"costtype": "GCG_COST_ENERGY",
-					"count": 2
+					"count": 3
 				}
 			]
 		}

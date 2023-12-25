@@ -1,10 +1,9 @@
 {
-	"id": 2311,
 	"name": "Biscoitos Amanteigados com Glacê",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revive o personagem selecionado.\nRestaura 250 - 550 de Vida.",
 	"description": "Um antigo prato de Sumeru. Esmigalhe o pão assado, misture-o com Feijões Glabros cozidos e molho de iogurte preparado, então está pronto para ser servido. Sua receita foi passada por um longo tempo e variou em diferentes versões, mas todas compartilham uma coisa em comum — serem simples e deliciosas.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Farinha",
 			"count": 3
 		},
 		{
-			"id": 100096,
 			"name": "Feijões Glabros",
 			"count": 2
 		},
 		{
-			"id": 100078,
 			"name": "Leite",
 			"count": 2
 		},
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 1
 		}

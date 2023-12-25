@@ -1,15 +1,10 @@
 {
-	"id": 100074,
 	"name": "Uova di granchio",
-	"sortRank": 322,
 	"description": "Un'appetitosa prerogativa delle femmine di granchio. Un ingrediente raro dal sapore particolare.",
-<<<<<<< HEAD
 	"sortorder": 2945,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Lavorato"
 	]
 }

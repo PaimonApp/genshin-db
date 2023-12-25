@@ -1,15 +1,10 @@
 {
-	"id": 100052,
 	"name": "Mist Flower Corolla",
-	"sortRank": 320,
 	"description": "ดอกไม้ที่ถูกห้อมล้อมด้วยน้ำแข็ง แม้จะถูกเด็ดออกมาแล้วก็ยังสามารถปลดปล่อยความเย็นได้อยู่ดี",
-<<<<<<< HEAD
 	"sortorder": 2889,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัสดุ",
-	"sources": [
+	"materialtype": "วัสดุ",
+	"source": [
 		"พบได้ในโลกกว้าง",
 		"คำแนะนำ: หาได้ที่ Dawn Winery"
 	]

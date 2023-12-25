@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Der „automatisierte Hochleistungs-Feldgenerator“",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1373,
-=======
-	"id": [
-		81389
-	],
-	"name": "Der „automatisierte Hochleistungs-Feldgenerator“",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1373,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Der „automatisierte Hochleistungs-Feldgenerator“",
 		"description": "Besiege die Lokallegende – Automatisierter Hochleistungs-Feldgenerator.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

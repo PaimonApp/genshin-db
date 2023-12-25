@@ -1,19 +1,12 @@
 {
-	"id": 101314,
 	"name": "Legno di Karmaphala",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Legno dell'albero di Karmaphala. Lavorando questo materiale è molto facile ottenere una bella superficie liscia con risultati piuttosto gradevoli, senza dover adoperare processi sofisticati.\nPuoi usarlo per creare decorazioni.",
-<<<<<<< HEAD
 	"sortorder": 2973,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Materiale",
-	"sources": [
+	"materialtype": "Materiale",
+	"source": [
 		"Presente in natura",
-		"Consiglio: si taglia nelle foreste di Sumeru",
-		"Converti legno"
+		"Consiglio: si taglia nelle foreste di Sumeru"
 	]
 }

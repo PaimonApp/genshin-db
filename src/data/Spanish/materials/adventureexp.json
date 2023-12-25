@@ -1,15 +1,9 @@
 {
-	"id": 102,
 	"name": "EXP de Aventura",
-	"rarity": 3,
-	"sortRank": 13,
 	"description": "EXP de Aventura, utilizada para mejorar el Rango de Aventura.",
-<<<<<<< HEAD
 	"sortorder": 2670,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Desbloqueo de sistemas",
-	"sources": []
+	"materialtype": "Desbloqueo de sistemas",
+	"source": []
 }

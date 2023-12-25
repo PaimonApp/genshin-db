@@ -1,8 +1,6 @@
 {
-	"id": 200300,
 	"name": "Покровительство ветра",
 	"description": "Наряд Джинн. Опрятная одежда, которая демонстрирует её рыцарскую элегантность.",
-	"isDefault": true,
-	"characterId": 10000003,
-	"characterName": "Джинн"
+	"isdefault": true,
+	"character": "Джинн"
 }

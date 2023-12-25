@@ -1,15 +1,10 @@
 {
-	"id": 110001,
 	"name": "小麦粉",
-	"sortRank": 322,
 	"description": "小麦をすりつぶした粉末。どのような主食を作っても、食べる人の胃に一時的な満足感を与えられる。",
-<<<<<<< HEAD
 	"sortorder": 2947,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"食材加工で獲得"
 	]
 }

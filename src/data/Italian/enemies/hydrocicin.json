@@ -1,9 +1,8 @@
 {
-	"id": 26060201,
 	"name": "Cicin di Hydro",
-	"specialName": "Scivola-e-slitta",
-	"enemyType": "COMMON",
+	"specialname": "Scivola-e-slitta",
+	"enemytype": "COMMON",
 	"category": "Bestie mistiche",
 	"description": "Delle piccole creature che possono vagamente manipolare Hydro.\nInsieme ad altre creature analoghe, sono conosciute collettivamente come Cicin, e adorano la rara e meravigliosa Erbafosca. È sfruttando questa connessione che le Maghe dei Fatui hanno cercato di comandare le Cicin in battaglia.",
-	"rewardPreview": []
+	"rewardpreview": []
 }

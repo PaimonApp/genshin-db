@@ -59,10 +59,6 @@
 		"celebrationvastness": "Célébration - Immensité",
 		"celebrationwondrouscalculation": "Célébration - Ingéniosité",
 		"charlotteexclusive": "Charlotte - Scoop",
-<<<<<<< HEAD
-=======
-		"chevreusetypeii": "Chevreuse : Type II",
->>>>>>> upstream/main
 		"childefoullegacy": "Tartaglia - Posture du démon",
 		"chongyunspiritblade": "Chongyun - Lame de l'esprit",
 		"colleigoodvirtue": "Collei - Vertu",
@@ -119,10 +115,6 @@
 		"mondstadtherosfame": "Mondstadt - Célébrité",
 		"mondstadtwhistlingwind": "Mondstadt - Chant du vent",
 		"nahidacrescent": "Nahida - Croissant",
-<<<<<<< HEAD
-=======
-		"naviarosula": "Navia : Rosula",
->>>>>>> upstream/main
 		"neuvillettesurge": "Neuvillette - Afflux",
 		"niloulotusdance": "Nilou - Danse du lotus",
 		"ningguangphoenix": "Ningguang - Phénix",
@@ -169,7 +161,6 @@
 		"travelnotessecrets": "PB - Secret d'invoqueur",
 		"travelnotesstellarrivers": "PB - Rivières stellaires",
 		"travelnotessubspacerecreation": "PB - Autre monde",
-		"travelnotestimeinscribed": "PB - Marque du temps",
 		"travelnotesvividillumination": "PB - Enluminure",
 		"travelnoteswhirlingwaltz": "PB - Valse tournoyante",
 		"travelnoteswindblume": "PB - Alizée",
@@ -249,10 +240,6 @@
 		"Célébration - Immensité": "celebrationvastness",
 		"Célébration - Ingéniosité": "celebrationwondrouscalculation",
 		"Charlotte - Scoop": "charlotteexclusive",
-<<<<<<< HEAD
-=======
-		"Chevreuse : Type II": "chevreusetypeii",
->>>>>>> upstream/main
 		"Tartaglia - Posture du démon": "childefoullegacy",
 		"Chongyun - Lame de l'esprit": "chongyunspiritblade",
 		"Collei - Vertu": "colleigoodvirtue",
@@ -309,10 +296,6 @@
 		"Mondstadt - Célébrité": "mondstadtherosfame",
 		"Mondstadt - Chant du vent": "mondstadtwhistlingwind",
 		"Nahida - Croissant": "nahidacrescent",
-<<<<<<< HEAD
-=======
-		"Navia : Rosula": "naviarosula",
->>>>>>> upstream/main
 		"Neuvillette - Afflux": "neuvillettesurge",
 		"Nilou - Danse du lotus": "niloulotusdance",
 		"Ningguang - Phénix": "ningguangphoenix",
@@ -359,7 +342,6 @@
 		"PB - Secret d'invoqueur": "travelnotessecrets",
 		"PB - Rivières stellaires": "travelnotesstellarrivers",
 		"PB - Autre monde": "travelnotessubspacerecreation",
-		"PB - Marque du temps": "travelnotestimeinscribed",
 		"PB - Enluminure": "travelnotesvividillumination",
 		"PB - Valse tournoyante": "travelnoteswhirlingwaltz",
 		"PB - Alizée": "travelnoteswindblume",

@@ -1,15 +1,10 @@
 {
-	"id": 100016,
 	"name": "Mint",
-	"sortRank": 321,
 	"description": "Bahan memasak yang memberikan rasa segar, kesegarannya dapat menembus berbagai macam lapisan bahan masak lainnya.",
-<<<<<<< HEAD
 	"sortorder": 2905,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

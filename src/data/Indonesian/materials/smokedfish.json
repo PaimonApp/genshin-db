@@ -1,15 +1,10 @@
 {
-	"id": 110012,
 	"name": "Smoked Fish",
-	"sortRank": 322,
 	"description": "",
-<<<<<<< HEAD
 	"sortorder": 2957,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Didapatkan saat proses cooking"
 	]
 }

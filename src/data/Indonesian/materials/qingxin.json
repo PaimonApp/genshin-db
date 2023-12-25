@@ -1,15 +1,10 @@
 {
-	"id": 100031,
 	"name": "Qingxin",
-	"sortRank": 312,
 	"description": "Bunga putih transparan yang hanya tumbuh di dataran batu tertinggi. Bunganya menolak kehangatan dan kelembapan dataran rendah untuk menatap kejauhan di puncak gunung sendirian.",
-<<<<<<< HEAD
 	"sortorder": 2858,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk khas Liyue",
-	"sources": [
+	"materialtype": "Produk khas Liyue",
+	"source": [
 		"Ditemukan di puncak hutan batu",
 		"Rekomendasi: Ditemukan di Jueyun Karst",
 		"Rekomendasi: Ditemukan di Guyun Stone Forest"

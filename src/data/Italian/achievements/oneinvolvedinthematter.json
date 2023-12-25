@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Una persona coinvolta nella questione",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1392,
-=======
-	"id": [
-		81408
-	],
-	"name": "Una persona coinvolta nella questione",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1392,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Una persona coinvolta nella questione",
 		"description": "Impara i segreti dell'Ordo Narzissenkreuz e sconfiggi Jakob.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

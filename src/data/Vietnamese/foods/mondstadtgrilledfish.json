@@ -1,10 +1,9 @@
 {
-	"id": 1006,
 	"name": "Cá Nướng Mondstadt",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Món Dạng Hồi Phục",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Hồi sinh cho nhân vật được chọn.\nHồi 50-150 điểm HP.",
 	"description": "Xiên cá được nướng kỹ bằng lửa nhỏ. Thịt cá sau khi nướng đã trở nên săn chắc hơn, thêm chút tiêu càng khiến nó dậy mùi thơm.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Thịt Cá",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "Tiêu",
 			"count": 1
 		}

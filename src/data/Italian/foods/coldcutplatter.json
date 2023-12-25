@@ -1,10 +1,9 @@
 {
-	"id": 3003,
 	"name": "Piatto di salumi",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Piatto ATT+",
+	"foodfilter": "Piatto ATT+",
+	"foodcategory": "Atk_Add",
 	"effect": "Aumenta di un 20-40% i DAN fisici di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Un piatto di salumi. Una portata equilibrata di pancetta, prosciutto e salsicce in grado di fare felice chiunque.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110005,
 			"name": "Prosciutto",
 			"count": 1
 		},
 		{
-			"id": 110010,
 			"name": "Pancetta",
 			"count": 1
 		},
 		{
-			"id": 110011,
 			"name": "Salsiccia",
 			"count": 1
 		},
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 1
 		}

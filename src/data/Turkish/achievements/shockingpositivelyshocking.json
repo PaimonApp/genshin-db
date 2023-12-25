@@ -1,18 +1,14 @@
 {
-	"id": [
-		81123
-	],
 	"name": "Çarpıcı... Tek Kelimeyle Çarpıcı",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1119,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1119,
 	"stages": 1,
 	"stage1": {
 		"title": "Çarpıcı... Tek Kelimeyle Çarpıcı",
 		"description": "Elektrasyon seni çarpar...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

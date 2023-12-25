@@ -1,11 +1,7 @@
 {
-	"id": [
-		82001
-	],
 	"name": "Pratik Yapıyorum Sadece",
-	"achievementGroupId": 7,
-	"achievementGroupName": "Nişancılık",
-	"sortOrder": 2001,
+	"achievementgroup": "Nişancılık",
+	"sortorder": 2001,
 	"stages": 1,
 	"stage1": {
 		"title": "Pratik Yapıyorum Sadece",
@@ -13,7 +9,6 @@
 		"description": "Yayını kullanarak uçan bir şahini vur.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

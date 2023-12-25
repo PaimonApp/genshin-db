@@ -1,8 +1,6 @@
 {
-	"id": 206200,
 	"name": "Cazadora de máquinas",
 	"description": "Modelo de vestimenta de Aloy. Perfecto para cazar en la naturaleza.",
-	"isDefault": true,
-	"characterId": 10000062,
-	"characterName": "Aloy"
+	"isdefault": true,
+	"character": "Aloy"
 }

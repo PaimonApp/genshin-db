@@ -1,15 +1,10 @@
 {
-	"id": 100012,
 	"name": "Fleur sucrante",
-	"sortRank": 321,
 	"description": "Une plante au parfum riche qui vous guidera à elle, même les yeux fermés.",
-<<<<<<< HEAD
 	"sortorder": 2901,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Dans la nature"
 	]
 }

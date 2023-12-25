@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Crêpe Suzette",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatto dell'avventuriere",
 	"foodcategory": "Other_SPReduceConsume",
-=======
-	"id": 3415,
-	"name": "Crêpe Suzette",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Piatto dell'avventuriere",
->>>>>>> upstream/main
 	"effect": "Riduce di un 15-25% il vigore consumato da tutti i membri del gruppo mentre planano e durante gli scatti per 900 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Delle crêpe con il ripieno. Friggi le crêpe, quindi servile con marmellata, panna e pezzi di frutta. La ricetta ha parecchie varianti e il sapore del piatto dipende dai diversi ingredienti utilizzati.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 101230,
->>>>>>> upstream/main
 			"name": "Bulle",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "Panna",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110008,
->>>>>>> upstream/main
 			"name": "Marmellata",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Farina",
 			"count": 1
 		}

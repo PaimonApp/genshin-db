@@ -1,15 +1,10 @@
 {
-	"id": 100052,
 	"name": "Mist Flower Corolla",
-	"sortRank": 320,
 	"description": "A flower bud encased in solid ice. Even after being picked, the flower continues to emit cold.",
-<<<<<<< HEAD
 	"sortorder": 2889,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found at Dawn Winery"
 	]

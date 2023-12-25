@@ -1,24 +1,17 @@
 {
-	"id": 104303,
 	"name": "Filosofia da Liberdade",
-	"rarity": 4,
-	"sortRank": 13101,
 	"description": "Material para aprimorar o nível de Talento.\nA liberdade é o espírito da Cidade do Vento.\nCantar é uma dessas liberdades. Cantar na terra criada pelo Arconte Anemo é enviar o seu coração para longe com a música ao vento.",
-<<<<<<< HEAD
 	"sortorder": 3217,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Talento do Personagem",
-	"dropDomainId": 4213,
-	"dropDomainName": "Domínio da Proficiência: Altar Congelado",
-	"daysOfWeek": [
+	"materialtype": "Material de Talento do Personagem",
+	"dropdomain": "Domínio da Proficiência: Altar Congelado",
+	"daysofweek": [
 		"Segunda-feira",
 		"Quinta-feira",
 		"Domingo"
 	],
-	"sources": [
+	"source": [
 		"Obtido na síntese"
 	]
 }

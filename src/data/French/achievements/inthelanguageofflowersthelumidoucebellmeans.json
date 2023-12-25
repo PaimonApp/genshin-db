@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Que représentent les clochettes de Lumidouce déjà...?",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1412,
-=======
-	"id": [
-		81428
-	],
-	"name": "Que représentent les clochettes de Lumidouce déjà...?",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1412,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Que représentent les clochettes de Lumidouce déjà...?",
 		"description": "Vous découvrez dans un coin une fleur à laquelle personne n'a prêté attention.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

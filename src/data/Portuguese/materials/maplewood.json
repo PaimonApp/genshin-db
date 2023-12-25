@@ -1,19 +1,12 @@
 {
-	"id": 101310,
 	"name": "Bordo",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madeira do Bordo de Amur. É uma madeira de excelente qualidade com cor e textura fina.\nPode ser utilizada para criar Decorações.",
-<<<<<<< HEAD
 	"sortorder": 2969,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
-		"Recomendação: Cortado na Ilha Narukami",
-		"Converter Madeira"
+		"Recomendação: Cortado na Ilha Narukami"
 	]
 }

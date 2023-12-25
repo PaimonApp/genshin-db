@@ -1,15 +1,10 @@
 {
-	"id": 100084,
 	"name": "Peixe",
-	"sortRank": 321,
 	"description": "Um filé de peixe fresco. Pode fazer pratos deliciosos se o preparar adequadamente.",
-<<<<<<< HEAD
 	"sortorder": 2923,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Coletado ao pescar peixes"
 	]
 }

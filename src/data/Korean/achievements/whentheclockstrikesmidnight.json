@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "자정의 종소리가 울릴 때",
 	"achievementgroup": "천지만물",
 	"ishidden": true,
 	"sortorder": 1360,
-=======
-	"id": [
-		81376
-	],
-	"name": "자정의 종소리가 울릴 때",
-	"achievementGroupName": "천지만물",
-	"isHidden": true,
-	"sortOrder": 1360,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "자정의 종소리가 울릴 때",
 		"description": "캐터필러의 진짜 모습 알아내기",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 5
 		}

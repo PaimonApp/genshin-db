@@ -1,26 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Не так уж тесно",
 	"achievementgroup": "Чудеса света",
 	"sortorder": 1366,
-=======
-	"id": [
-		81382
-	],
-	"name": "Не так уж тесно",
-	"achievementGroupName": "Чудеса света",
-	"sortOrder": 1366,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Не так уж тесно",
 		"description": "Откройте большую дверь в тайную комнату.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

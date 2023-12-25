@@ -1,17 +1,11 @@
 {
-	"id": 104111,
 	"name": "Scheggia d'agata Agnidus",
-	"rarity": 2,
-	"sortRank": 12102,
 	"description": "Materiale d'ascensione personaggi.",
-<<<<<<< HEAD
 	"sortorder": 3192,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale d'ascensione personaggi",
-	"sources": [
+	"materialtype": "Materiale d'ascensione personaggi",
+	"source": [
 		"Ottenibile dai Regisreptus di Pyro",
 		"Ottenibile dalle Ipostasi di Pyro",
 		"Ottenibile dall'Imperatore del Fuoco e del Ferro",

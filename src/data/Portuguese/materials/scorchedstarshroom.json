@@ -1,15 +1,10 @@
 {
-	"id": 101227,
 	"name": "Cogumelo Estrelar Queimado",
-	"sortRank": 90000,
 	"description": "Um fungo em forma de uma estrela de cinco pontas. É bastante resistente e parece estar um pouco queimado.",
-<<<<<<< HEAD
 	"sortorder": 3420,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Alimento",
-	"sources": [
+	"materialtype": "Alimento",
+	"source": [
 		"Encontrado na natureza"
 	]
 }

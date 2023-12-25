@@ -1,15 +1,10 @@
 {
-	"id": 100099,
 	"name": "Suco Fermentado",
-	"sortRank": 321,
 	"description": "Um suco fermentado com aroma frutado único. Geralmente usado como marinada.",
-<<<<<<< HEAD
 	"sortorder": 2936,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Vendido nas Tendas de Fontaine"
 	]
 }

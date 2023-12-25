@@ -1,10 +1,9 @@
 {
-	"id": 102,
 	"name": "冒險閱歷",
-	"rarity": 3,
-	"sortRank": 13,
 	"description": "冒險閱歷，用於提升冒險等階。",
+	"sortorder": 2670,
+	"rarity": "3",
 	"category": "ITEM_VIRTUAL",
-	"typeText": "系統開放",
-	"sources": []
+	"materialtype": "系統開放",
+	"source": []
 }

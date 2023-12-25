@@ -1,13 +1,8 @@
 {
-	"id": 100618,
 	"name": "奇妙な「牙」",
-	"sortRank": 200,
 	"description": "雪山で拾った「牙」。これについての情報を知っている人がいるかもしれない…",
-<<<<<<< HEAD
 	"sortorder": 2776,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "素材",
-	"sources": []
+	"materialtype": "素材",
+	"source": []
 }

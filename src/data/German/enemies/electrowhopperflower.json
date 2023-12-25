@@ -1,8 +1,7 @@
 {
-	"id": 26010301,
 	"name": "Elektro-Vaniloqua",
-	"specialName": "Nachahmende Pflanze, die nur auf eine Gelegenheit wartet",
-	"enemyType": "COMMON",
+	"specialname": "Nachahmende Pflanze, die nur auf eine Gelegenheit wartet",
+	"enemytype": "COMMON",
 	"category": "Mystische Bestien",
 	"description": "Ein mit elementarer Energie gefülltes, mimetisches Pflanzenmonster, das seine Beute mit Elektro-Kraft angreift.\nEs kann starke Elementarenergie aus seiner Blütenkrone freisetzen, wenn es voller elementarer Energie ist, daher haben einige Gelehrte auch versucht, es für andere Zwecke zu nutzen ...",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "Normal",
 		"description": "Eine höchst seltsame nachahmende Pflanze, die die elementare Kräfte im Kampf anwenden kann.\\nManchmal verstecken sie sich unter der Erdoberfläche und schnappen so ihre Beute. Mit genügend Zeit, Nahrung und geeigneter Umgebung können sie zu gewaltigen Bäumen anwachsen, die wundersame Kräfte wirken."
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112038,
 			"name": "Vaniloqua-Nektar",
 			"count": 4.202
 		},
 		{
-			"id": 112039,
 			"name": "Leuchtender Nektar",
 			"count": 1.1205
 		},
 		{
-			"id": 112040,
 			"name": "Elementarnektar",
 			"count": 0.28
 		}

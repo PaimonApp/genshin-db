@@ -1,15 +1,10 @@
 {
-	"id": 101001,
 	"name": "Pezzo di ferro",
-	"sortRank": 301,
 	"description": "Nelle mani di un artigiano esperto, questo pezzo di ferro può diventare una moltitudine di oggetti utili.",
-<<<<<<< HEAD
 	"sortorder": 2821,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Minerale da forgiatura",
-	"sources": [
+	"materialtype": "Minerale da forgiatura",
+	"source": [
 		"Presente in natura"
 	]
 }

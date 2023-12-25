@@ -37,7 +37,6 @@
 		"goldfishfirecracker": "Inazuma Balığı Kıvılcımları",
 		"goldleafandpearlyjade": "Altın Yapraklı ve İncili Yeşim",
 		"goldpinionsinflamesbathed": "Alevle Kaplı Altın Tüyler",
-		"guardiansgun": "Muhafız Alayı",
 		"gunnhildrslegacy": "Gunnhildr'ın Mirası",
 		"heartofthescales": "Terazinin Kalbi",
 		"hermitofmortallife": "Fani Dünya",
@@ -90,8 +89,7 @@
 		"wavecrestwaltz": "Dalgaların Dansı",
 		"whirlingbloom": "Uçuşan Çiçekler",
 		"wildsprint": "Yaban Koşusu",
-		"woodlandsong": "Orman Şarkısı",
-		"yellowvelvetsalon": "Sarı Kadife"
+		"woodlandsong": "Orman Şarkısı"
 	},
 	"names": {
 		"%100 Kaşif": "100outrider",
@@ -131,7 +129,6 @@
 		"Inazuma Balığı Kıvılcımları": "goldfishfirecracker",
 		"Altın Yapraklı ve İncili Yeşim": "goldleafandpearlyjade",
 		"Alevle Kaplı Altın Tüyler": "goldpinionsinflamesbathed",
-		"Muhafız Alayı": "guardiansgun",
 		"Gunnhildr'ın Mirası": "gunnhildrslegacy",
 		"Terazinin Kalbi": "heartofthescales",
 		"Fani Dünya": "hermitofmortallife",
@@ -183,8 +180,7 @@
 		"Dalgaların Dansı": "wavecrestwaltz",
 		"Uçuşan Çiçekler": "whirlingbloom",
 		"Yaban Koşusu": "wildsprint",
-		"Orman Şarkısı": "woodlandsong",
-		"Sarı Kadife": "yellowvelvetsalon"
+		"Orman Şarkısı": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
@@ -303,9 +299,6 @@
 		],
 		"Kaveh": [
 			"goldpinionsinflamesbathed"
-		],
-		"Chevreuse": [
-			"guardiansgun"
 		],
 		"Cyno": [
 			"heartofthescales"
@@ -432,13 +425,10 @@
 		],
 		"Tighnari": [
 			"woodlandsong"
-		],
-		"Navia": [
-			"yellowvelvetsalon"
 		]
 	},
 	"properties": {
-		"characterName": [
+		"character": [
 			"Amber",
 			"Charlotte",
 			"Collei",
@@ -474,7 +464,6 @@
 			"Yoimiya",
 			"Ningguang",
 			"Kaveh",
-			"Chevreuse",
 			"Cyno",
 			"Zhongli",
 			"Kaeya",
@@ -515,8 +504,7 @@
 			"Eula",
 			"Kirara",
 			"Razor",
-			"Tighnari",
-			"Navia"
+			"Tighnari"
 		]
 	}
 }

@@ -1,24 +1,17 @@
 {
-	"id": 114015,
 	"name": "Guyun'un Yadigarı",
-	"rarity": 4,
-	"sortRank": 15104,
 	"description": "Silah Yükseltme Malzemesi.\nTaş mızrağın, yenilen tanrıların gücünden oluşmuş, hafif parlayan bir çekirdeği var. Ancak kendilerini uzun zaman önce kaybettiklerinden ve artık kin tutamadıklarından bu nefreti Morax'a kusmuyorlar.",
-<<<<<<< HEAD
 	"sortorder": 3290,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Silah Yükseltme Malzemesi",
-	"dropDomainId": 5216,
-	"dropDomainName": "Döküm Zindanı: Fırtına Sunağı",
-	"daysOfWeek": [
+	"materialtype": "Silah Yükseltme Malzemesi",
+	"dropdomain": "Döküm Zindanı: Fırtına Sunağı",
+	"daysofweek": [
 		"Pazartesi",
 		"Perşembe",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

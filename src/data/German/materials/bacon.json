@@ -1,15 +1,10 @@
 {
-	"id": 110010,
 	"name": "Speck",
-	"sortRank": 322,
 	"description": "Geräuchertes Bauchfleisch und -fett. Einfach die richtige Mischung. Da kann keiner widerstehen.",
-<<<<<<< HEAD
 	"sortorder": 2955,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beim Verarbeiten von Gerichten zu erhalten"
 	]
 }

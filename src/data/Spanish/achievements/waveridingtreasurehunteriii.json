@@ -1,19 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Cazatesoros de aguas cerúleas (III)",
 	"achievementgroup": "Fontaine: Un espectáculo de aguas cristalinas (III)",
 	"sortorder": 268,
-=======
-	"id": [
-		80292,
-		80293,
-		80294
-	],
-	"name": "Cazatesoros de aguas cerúleas (III)",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Un espectáculo de aguas cristalinas (III)",
-	"sortOrder": 268,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Cazatesoros de aguas cerúleas (III)",
@@ -21,10 +9,6 @@
 		"description": "Abre {param0} cofres en el Condado Morte y la Floresta Erinias.",
 		"progress": 40,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}
@@ -35,10 +19,6 @@
 		"description": "Abre {param0} cofres en el Condado Morte y la Floresta Erinias.",
 		"progress": 80,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 10
 		}
@@ -49,10 +29,6 @@
 		"description": "Abre {param0} cofres en el Condado Morte y la Floresta Erinias.",
 		"progress": 160,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 20
 		}

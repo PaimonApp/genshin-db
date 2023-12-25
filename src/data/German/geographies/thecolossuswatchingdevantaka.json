@@ -1,11 +1,8 @@
 {
-	"id": 70400008,
 	"name": "Ruinenriese, der auf den fernen Devantaka-Berg starrt",
-	"areaId": 4204,
-	"areaName": "Devantaka-Berg",
+	"area": "Devantaka-Berg",
 	"description": "„Herrschaften, seid euch bewusst, dass die Jahrtausende von Khaenri’ah auf uns blicken!“",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 308
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 308
 }

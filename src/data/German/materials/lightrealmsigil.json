@@ -1,15 +1,9 @@
 {
-	"id": 101692,
 	"name": "Siegel der Lichtwelt",
-	"rarity": 3,
-	"sortRank": 430041,
 	"description": "Ein Zeichen, das die Anerkennung von Tokoyo Ookami von Enkanomiya symbolisiert.\nEs kann der Statue der Boten geopfert werden, wodurch die Stufe des Bokuso-Kastens erhöht wird.",
-<<<<<<< HEAD
 	"sortorder": 4950,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Verbrauchsgegenstand",
-	"sources": []
+	"materialtype": "Verbrauchsgegenstand",
+	"source": []
 }

@@ -1,11 +1,8 @@
 {
-	"id": [
-		80092
-	],
 	"name": "Idolo di Inazuma",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1026,
+	"achievementgroup": "Meraviglie del mondo",
+	"ishidden": true,
+	"sortorder": 1026,
 	"stages": 1,
 	"stage1": {
 		"title": "Idolo di Inazuma",
@@ -13,7 +10,6 @@
 		"description": "Raggiungi il liv. reputazione 10 a Inazuma.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 20
 		}

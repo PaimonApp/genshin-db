@@ -1,15 +1,10 @@
 {
-	"id": 100057,
 	"name": "Karahindiba Tohumu",
-	"sortRank": 311,
 	"description": "Rüzgarda uçuşan küçük bir tohum. Tüylü kanatları olmasa bile, uzak diyarların umudunu içinde taşır.",
-<<<<<<< HEAD
 	"sortorder": 2853,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mondstadt Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Mondstadt Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Mondstadt kapısı yakınlarında bulunur."
 	]

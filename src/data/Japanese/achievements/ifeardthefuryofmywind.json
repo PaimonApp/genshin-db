@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "I Fear'd the Fury of My Wind",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1403,
-=======
-	"id": [
-		81419
-	],
-	"name": "I Fear'd the Fury of My Wind",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1403,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "I Fear'd the Fury of My Wind",
 		"description": "…眩しいほど美しい花を萎れさせてしまうもの。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

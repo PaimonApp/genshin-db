@@ -1,15 +1,10 @@
 {
-	"id": 100024,
 	"name": "Windmühlenaster",
-	"sortRank": 311,
 	"description": "Eine Pflanze, die den Wind liebt. Für die Freiheit schätzenden Menschen von Mondstadt, die den Wind verehren, sind Windmühlenastern wie Wind, den man anfassen kann.",
-<<<<<<< HEAD
 	"sortorder": 2849,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Mondstadt",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Mondstadt",
+	"source": [
 		"In der Nähe der Statue der Sieben auf dem Windstieg zu finden",
 		"In der freien Natur unter Bäumen zu finden",
 		"Empfohlen: In Dvalins Ruinen zu finden"

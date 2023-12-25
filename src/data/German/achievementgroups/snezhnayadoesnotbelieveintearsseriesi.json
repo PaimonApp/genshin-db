@@ -1,13 +1,7 @@
 {
-	"id": 11,
 	"name": "Snezhnaya glaubt nicht an Tränen – Reihe 1",
-<<<<<<< HEAD
 	"sortorder": 24,
-=======
-	"sortOrder": 24,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210031,
 		"name": "Errungenschaft – Verschneite Landschaft"
 	}
 }

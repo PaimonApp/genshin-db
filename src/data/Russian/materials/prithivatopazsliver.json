@@ -1,17 +1,11 @@
 {
-	"id": 104171,
 	"name": "Осколок топаза Притхива",
-	"rarity": 2,
-	"sortRank": 12108,
 	"description": "Материал возвышения персонажа.",
-<<<<<<< HEAD
 	"sortorder": 3216,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Возвышение персонажей",
-	"sources": [
+	"materialtype": "Возвышение персонажей",
+	"source": [
 		"Гео гипостазисы",
 		"Золотой волчий вожак",
 		"Змеи руин",

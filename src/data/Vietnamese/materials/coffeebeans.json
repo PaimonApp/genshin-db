@@ -1,15 +1,10 @@
 {
-	"id": 100098,
 	"name": "Hạt Cà Phê",
-	"sortRank": 321,
 	"description": "Loại thực vật thường thấy ở Teyvat. Có hương thơm đặc biệt, sau khi nghiền nhuyễn có thể dùng để chế biến thức uống.",
-<<<<<<< HEAD
 	"sortorder": 2935,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Mua ở Tiệm Cà Phê Sumeru",
 		"Mua ở Tiệm Cà Phê Fontaine"
 	]

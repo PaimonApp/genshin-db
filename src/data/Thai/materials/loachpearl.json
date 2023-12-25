@@ -1,15 +1,10 @@
 {
-	"id": 100090,
 	"name": "Loach Pearl",
-	"sortRank": 320,
 	"description": "ปลา loach พ่นไข่มุกสุดแวววาวออกมาซึ่งมีฤทธิ์เป็นยาวิเศษได้.\nปลา loach จะดูดเอาแร่ธาตุและ Elemental Particle และกลั่นออกมาเป็นลูกปัดวิเศษนี้ เมื่อถูกคุกคาม ปลา loach จะพ่นลูกปัดเหล่านี้ออกมาเพื่อสร้างความสับสนให้กับนักล่าและหนีเอาชีวิตรอด",
-<<<<<<< HEAD
 	"sortorder": 2897,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัสดุ",
-	"sources": [
+	"materialtype": "วัสดุ",
+	"source": [
 		"พบได้ในโลกกว้าง",
 		"คำแนะนำ: หาได้ที่บึง Dihua Marsh"
 	]

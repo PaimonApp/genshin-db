@@ -1,10 +1,9 @@
 {
-	"id": 2101,
 	"name": "Almond Tofu",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "ATK-Boosting Dish",
+	"foodfilter": "ATK-Boosting Dish",
+	"foodcategory": "Atk_Add",
 	"effect": "Increases all party members' ATK by 66–95 for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A dessert made out of almond. It has a silky-smooth texture with a long-lasting aroma of almond. It's named tofu only because of its tofu-like shape.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100078,
 			"name": "Milk",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Sugar",
 			"count": 1
 		},
 		{
-			"id": 100089,
 			"name": "Almond",
 			"count": 1
 		}

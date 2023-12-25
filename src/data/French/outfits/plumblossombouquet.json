@@ -1,8 +1,6 @@
 {
-	"id": 204600,
 	"name": "Fragrance durable",
 	"description": "Tenue de Hu Tao. La tenue habituelle de la responsable du Funérarium Wangsheng.",
-	"isDefault": true,
-	"characterId": 10000046,
-	"characterName": "Hu Tao"
+	"isdefault": true,
+	"character": "Hu Tao"
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100013,
 	"name": "Möhre",
-	"sortRank": 321,
 	"description": "Eine sehr nahrhafte Wurzel. Sie ist sehr einfach anzubauen und zu ernten. Außerdem ist sie leicht süß und knackig.",
-<<<<<<< HEAD
 	"sortorder": 2902,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

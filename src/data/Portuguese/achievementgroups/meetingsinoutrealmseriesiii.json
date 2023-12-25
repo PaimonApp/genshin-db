@@ -1,13 +1,7 @@
 {
-	"id": 33,
 	"name": "Encontros Fora Deste Mundo - Série III",
-<<<<<<< HEAD
 	"sortorder": 28,
-=======
-	"sortOrder": 28,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210129,
 		"name": "Conquista — Encontro Predestinado"
 	}
 }

@@ -1,9 +1,8 @@
 {
-	"id": 26060101,
 	"name": "Cicin Electro",
-	"specialName": "Electrificado",
-	"enemyType": "COMMON",
+	"specialname": "Electrificado",
+	"enemytype": "COMMON",
 	"category": "Bestias exóticas",
 	"description": "Una pequeña criatura con cierta capacidad de canalización del elemento Electro.\nSe llaman Cicines voladores, como todos los de su especie. Aunque no son muy fuertes, en ciertos entornos pueden infligir un daño considerable.",
-	"rewardPreview": []
+	"rewardpreview": []
 }

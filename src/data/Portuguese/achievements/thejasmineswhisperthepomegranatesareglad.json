@@ -1,11 +1,8 @@
 {
-	"id": [
-		81252
-	],
 	"name": "Sussurro das Jasmins, Alegria das Romãs",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1238,
+	"achievementgroup": "Maravilhas do Mundo",
+	"ishidden": true,
+	"sortorder": 1238,
 	"stages": 1,
 	"stage1": {
 		"title": "Sussurro das Jasmins, Alegria das Romãs",
@@ -13,7 +10,6 @@
 		"description": "Conclua \"Sutra de Agnihotra.\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}

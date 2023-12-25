@@ -1,10 +1,9 @@
 {
-	"id": 1204,
 	"name": "Sushi di gamberetti",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Piatti rigenerativi",
+	"foodfilter": "Piatti rigenerativi",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Rianima il personaggio selezionato.\nRipristina 50–150 PS.",
 	"description": "Un piatto tradizionale, fresco e dolce. I gamberetti tagliati in due vengono adagiati sul riso e modellati a mani nude. La polpa elastica dei gamberetti e il gusto delizioso del riso esaltano ancor più il sapore della pietanza.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100093,
 			"name": "Gamberetti",
 			"count": 2
 		},
 		{
-			"id": 100092,
 			"name": "Riso",
 			"count": 1
 		}

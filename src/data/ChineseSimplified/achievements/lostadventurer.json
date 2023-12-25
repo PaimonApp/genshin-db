@@ -1,20 +1,13 @@
 {
-	"id": [
-		80123,
-		80124,
-		80125
-	],
 	"name": "迷失的冒险家",
-	"achievementGroupId": 27,
-	"achievementGroupName": "雾海纪行",
-	"sortOrder": 123,
+	"achievementgroup": "雾海纪行",
+	"sortorder": 123,
 	"stages": 3,
 	"stage1": {
 		"title": "迷失的冒险家",
 		"description": "在鹤观完成4个大世界机关限时挑战。",
 		"progress": 4,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "在鹤观完成8个大世界机关限时挑战。",
 		"progress": 8,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "在鹤观完成12个大世界机关限时挑战。",
 		"progress": 12,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 20
 		}

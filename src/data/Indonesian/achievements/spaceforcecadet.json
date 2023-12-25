@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Taruna Angkasa Luar",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1399,
-=======
-	"id": [
-		81415
-	],
-	"name": "Taruna Angkasa Luar",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1399,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Taruna Angkasa Luar",
 		"description": "Semua tembakan kena!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

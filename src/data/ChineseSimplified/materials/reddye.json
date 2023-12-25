@@ -1,9 +1,8 @@
 {
-	"id": 101402,
 	"name": "红色染料",
-	"sortRank": 331,
 	"description": "红色的染料。制作摆设时应该能派上用场。",
+	"sortorder": 2983,
 	"category": "EXCHANGE",
-	"typeText": "素材",
-	"sources": []
+	"materialtype": "素材",
+	"source": []
 }

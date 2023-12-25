@@ -1,17 +1,11 @@
 {
-	"id": 104174,
 	"name": "Pierre de topaze prithiva",
-	"rarity": 5,
-	"sortRank": 12108,
 	"description": "Matériau d'élévation de personnage.\n« Toutes les monnaies qui circulent sur le continent font partie de mon corps. »\n« Je garantis la sueur, la sagesse et l'avenir des humains de cette manière. »\n« C'est la confiance que je place en vous. Si vous la trahissez, vous tacherez mon sang. »",
-<<<<<<< HEAD
 	"sortorder": 3213,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'élévation de personnage",
-	"sources": [
+	"materialtype": "Matériau d'élévation de personnage",
+	"source": [
 		"Butin d'Hypostase Géo (Niv.75+)",
 		"Butin de Loup alpha doré (Niv.75+)",
 		"Butin de Serpent des ruines (Niv.75+)",

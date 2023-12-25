@@ -1,20 +1,13 @@
 {
-	"id": [
-		80151,
-		80152,
-		80153
-	],
 	"name": "Chasm Treasure Hunter",
-	"achievementGroupId": 30,
-	"achievementGroupName": "Chasmlighter",
-	"sortOrder": 151,
+	"achievementgroup": "Chasmlighter",
+	"sortorder": 151,
 	"stages": 3,
 	"stage1": {
 		"title": "Chasm Treasure Hunter",
 		"description": "Open 50 chests in The Chasm.",
 		"progress": 50,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Open 100 chests in The Chasm.",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Open 200 chests in The Chasm.",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

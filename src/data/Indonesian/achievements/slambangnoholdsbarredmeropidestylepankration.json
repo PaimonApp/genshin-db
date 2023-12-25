@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Pankration Tanpa Batasan A'la Meropide",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1374,
-=======
-	"id": [
-		81390
-	],
-	"name": "Pankration Tanpa Batasan A'la Meropide",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1374,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Pankration Tanpa Batasan A'la Meropide",
 		"description": "Pandu Poiret dan Genevieve menuju kemenangan di turnamen Pankration.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

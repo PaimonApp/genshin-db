@@ -1,10 +1,9 @@
 {
-	"id": 1004,
 	"name": "Bife",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revive o Personagem selecionado.\nRestaura 50 - 150 de Vida.",
 	"description": "Um bife grelhado. Todos estão à espera do momento de apreciar a sua suculência ao ser cortado.",
 	"suspicious": {
@@ -21,7 +20,6 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Carne Crua",
 			"count": 2
 		}

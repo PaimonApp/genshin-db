@@ -1,20 +1,10 @@
 {
-<<<<<<< HEAD
 	"name": "Lirio lumilago",
 	"description": "Una flor de color azul, clara y pura. Nacida donde convergen las aguas, su fragancia es fresca, elegante y suave.",
 	"sortorder": 2885,
 	"category": "EXCHANGE",
 	"materialtype": "Objeto típico de Fontaine",
 	"source": [
-=======
-	"id": 101238,
-	"name": "Lirio lumilago",
-	"sortRank": 315,
-	"description": "Una flor de color azul, clara y pura. Nacida donde convergen las aguas, su fragancia es fresca, elegante y suave.",
-	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Fontaine",
-	"sources": [
->>>>>>> upstream/main
 		"Recolectar en la naturaleza",
 		"Recolectar en la Floresta Erinias"
 	]

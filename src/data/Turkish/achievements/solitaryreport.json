@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Tek Rapor",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1380,
-=======
-	"id": [
-		81396
-	],
-	"name": "Tek Rapor",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1380,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Tek Rapor",
 		"description": "Chronie'nin şahsen bastığı \"özel raporu\" al.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

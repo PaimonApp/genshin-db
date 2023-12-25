@@ -1,10 +1,9 @@
 {
-	"id": 3316,
 	"name": "Trà Trái Cây Bạc Hà",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Món Dạng Phòng Ngự",
+	"foodfilter": "Món Dạng Phòng Ngự",
+	"foodcategory": "Def_Add",
 	"effect": "Tăng 165-235 điểm phòng ngự cho toàn đội, kéo dài 300s.\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Thức uống tươi mát sảng khoái. Hương trà thanh thoát kết hợp với vị trái cây chua ngọt, ngay tức khắc đã kích hoạt vị giác. Không mất bao lâu là đã uống cạn một ly lớn.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100016,
 			"name": "Bạc Hà",
 			"count": 3
 		},
 		{
-			"id": 100002,
 			"name": "Quả Nhật Lạc",
 			"count": 3
 		},
 		{
-			"id": 100051,
 			"name": "Quả Mâm Xôi",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Đường",
 			"count": 1
 		}

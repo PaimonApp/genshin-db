@@ -1,11 +1,10 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface AchievementGroup {
-		id: number;
 		name: string;
-		sortOrder: number;
+		sortorder: number;
 		reward?: Rewards;
 		images: {
-			filename_icon: string;
+			nameicon: string;
 		};
 
 		version: string;

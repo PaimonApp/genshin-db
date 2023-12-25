@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Pita yang Terlupakan",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1370,
-=======
-	"id": [
-		81386
-	],
-	"name": "Pita yang Terlupakan",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1370,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Pita yang Terlupakan",
 		"description": "Bantu Broglie mengambil kembali dan menyusun semua data hidrologi.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

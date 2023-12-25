@@ -1,18 +1,13 @@
 {
-	"id": [
-		82166
-	],
 	"name": "Nonostante la barriera tra di noi...",
-	"achievementGroupId": 39,
-	"achievementGroupName": "Competitività: Serie VII",
-	"sortOrder": 2166,
+	"achievementgroup": "Competitività: Serie VII",
+	"sortorder": 2166,
 	"stages": 1,
 	"stage1": {
 		"title": "Nonostante la barriera tra di noi...",
 		"description": "Sconfiggi il Battezzante maligno senza distruggerne lo scudo elementale.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 10
 		}

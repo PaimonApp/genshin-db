@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Bavarois au café",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Récupération",
 	"foodcategory": "Recovery_HpAddAll",
-=======
-	"id": 3410,
-	"name": "Bavarois au café",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Récupération",
->>>>>>> upstream/main
 	"effect": "Restaure 26 à 30 % des PV max du personnage sélectionné.\nEt restaure 450 à 790 PV toutes les 5 s pendant 30 s.",
 	"description": "Un dessert rafraîchissant. Bien que représentatif de Fontaine, il a une recette très simple et directe. Tant que les proportions de ses ingrédients sont respectées, personne n'échouerait à le préparer. D'une texture tendre avec une touche de froid revigorant, il peut instantanément remonter le moral.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "Grain de café",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100078,
->>>>>>> upstream/main
 			"name": "Lait",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Œuf d'oiseau",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "Crème",
 			"count": 2
 		}

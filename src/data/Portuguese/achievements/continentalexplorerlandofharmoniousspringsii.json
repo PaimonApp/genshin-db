@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Explorador Continental: Terra das Fontes Harmoniosas II",
 	"achievementgroup": "Fontaine: Dança das Fontes Brancas de Orvalho II",
 	"sortorder": 248,
-=======
-	"id": [
-		80272
-	],
-	"name": "Explorador Continental: Terra das Fontes Harmoniosas II",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho II",
-	"sortOrder": 248,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Explorador Continental: Terra das Fontes Harmoniosas II",
 		"description": "Desbloqueie os mapas das seguintes áreas em Fontaine: Região Liffey e Área do Instituto de Pesquisas de Engenharia de Energia Cinética de Fontaine.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

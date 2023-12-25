@@ -1,15 +1,10 @@
 {
-	"id": 110008,
 	"name": "Marmellata",
-	"sortRank": 322,
 	"description": "Una sostanza gelatinosa realizzata con frutta e zucchero. Ne basta un cucchiaino per risvegliare le papille gustative stanche.",
-<<<<<<< HEAD
 	"sortorder": 2953,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Lavorato"
 	]
 }

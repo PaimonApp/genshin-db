@@ -1,15 +1,10 @@
 {
-	"id": 101207,
 	"name": "Perla de coral",
-	"sortRank": 313,
 	"description": "Una perla de los arrecifes de coral de Watatsumi. Brilla con una luz fría parecida a la de la luna.",
-<<<<<<< HEAD
 	"sortorder": 2868,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Inazuma",
-	"sources": [
+	"materialtype": "Objeto típico de Inazuma",
+	"source": [
 		"Recolectar en la naturaleza",
 		"Recolectar en la Isla Watatsumi"
 	]

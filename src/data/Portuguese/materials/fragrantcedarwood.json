@@ -1,19 +1,12 @@
 {
-	"id": 101307,
 	"name": "Madeira de Cedro Fragrante",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madeira da árvore de Cedro. Também conhecido como \"Cedro Fragrante\" devido aos óleos aromáticos que contém.\nPode ser usada para fabricar Decorações.",
-<<<<<<< HEAD
 	"sortorder": 2966,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
-		"Recomendação: Talhado no Vale das Estrelas Cadentes",
-		"Converter Madeira"
+		"Recomendação: Talhado no Vale das Estrelas Cadentes"
 	]
 }

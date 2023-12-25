@@ -1,15 +1,10 @@
 {
-	"id": 100053,
 	"name": "Flammenblumenstaubblatt",
-	"sortRank": 320,
 	"description": "Äußerst scharf auf der Zunge. Dieses Staubblatt gibt sogar noch Wärme ab, nachdem es in Wasser gebadet wurde.",
-<<<<<<< HEAD
 	"sortorder": 2890,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"In der freien Natur zu finden",
 		"Empfohlen: Im Tempel der Tausend Winde zu finden"
 	]

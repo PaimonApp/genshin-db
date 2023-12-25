@@ -1,16 +1,10 @@
 {
-	"id": 101234,
 	"name": "Marealga",
-<<<<<<< HEAD
 	"description": "Un tipo de alga que flota en zonas submarinas y que se alimenta principalmente de las sustancias que producen otras plantas. Aunque a menudo se la confunde con un animal, la marealga es en realidad un fitoplancton.",
 	"sortorder": 2944,
-=======
-	"sortRank": 321,
-	"description": "Un tipo de alga que flota en zonas submarinas y que se alimenta principalmente de las sustancias que producen otras plantas. Aunque a menudo se la confunde con un animal, la marealga es en realidad un fitoplancton.",
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en las zonas subacuáticas de Fontaine"
 	]
 }

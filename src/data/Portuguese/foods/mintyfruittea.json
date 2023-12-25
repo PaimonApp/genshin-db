@@ -1,10 +1,9 @@
 {
-	"id": 3316,
 	"name": "Chá de Menta com Frutas",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Pratos de DEF",
+	"foodfilter": "Pratos de DEF",
+	"foodcategory": "Def_Add",
 	"effect": "Aumenta a DEF de todos os membros da Equipe em 165 - 235 por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Uma bebida refrescante. Esse chá revigorante e o gosto agridoce da fruta se misturam juntos para energizar suas papilas, quando você se dá conta, já bebeu todo o copo.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 3
 		},
 		{
-			"id": 100002,
 			"name": "Fruto do Pôr do Sol",
 			"count": 3
 		},
 		{
-			"id": 100051,
 			"name": "Baga",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Açúcar",
 			"count": 1
 		}

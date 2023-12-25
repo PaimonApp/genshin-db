@@ -1,10 +1,9 @@
 {
-	"id": 1202,
 	"name": "Dry-Braised Salted Fish",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Makanan Pemulihan",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Memulihkan 8–10% HP dan 800–1200 HP Karakter yang dipilih.",
 	"description": "Ikan kering yang dipanggang perlahan di atas arang. Keringkan kannya di luar semalam agar kulitnya terpapar angin laut, yang akan menjadikannya harum menggiurkan saat dipanggang. Orang-orang Inazuma yang tinggal di tepi laut sudah sangat akrab dengan rasanya yang khas.",
 	"suspicious": {
@@ -17,16 +16,14 @@
 	},
 	"delicious": {
 		"effect": "Memulihkan 10% HP dan 1200 HP tambahan pada Karakter yang dipilih.",
-		"description": "Ikan kering yang dipanggang perlahan di atas api arang. Kandungan lemak merembes keluar saat ikannya menyentuh panggangan, membuat kulit ikan menjadi emas kecokelatan, dan disertai suara desisan yang menggoda selera. Dagingnya terasa padat dan enak, serta kaya akan air. Sungguh anugerah dari laut yang tak ternilai."
+		"description": "Ikan kering yang dipanggang perlahan di atas api arang. Kandungan lemak merembes keluar saat ikannya menyentuh panggangan, membuat kulit ikan menjadi emas kecoklatan, dan disertai suara desisan yang menggoda selera. Dagingnya terasa padat dan enak, serta kaya akan air. Sungguh anugerah dari laut yang tak ternilai."
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Fish",
 			"count": 1
 		},
 		{
-			"id": 100075,
 			"name": "Salt",
 			"count": 1
 		}

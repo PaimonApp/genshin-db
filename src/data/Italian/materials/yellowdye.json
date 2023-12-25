@@ -1,13 +1,8 @@
 {
-	"id": 101403,
 	"name": "Tintura gialla",
-	"sortRank": 331,
 	"description": "Una tintura di colore giallo. Puoi sicuramente usarla per creare dei mobili.",
-<<<<<<< HEAD
 	"sortorder": 2984,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Materiale",
-	"sources": []
+	"materialtype": "Materiale",
+	"source": []
 }

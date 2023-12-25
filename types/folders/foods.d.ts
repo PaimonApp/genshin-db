@@ -1,11 +1,10 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface Food {
-		id: number;
 		name: string;
-		rarity: 1 | 2 | 3 | 4 | 5;
+		rarity: '1' | '2' | '3' | '4'| '5';
 		foodtype: 'NORMAL' | 'SPECIALTY';
-		filterType: 'COOK_FOOD_ATTACK' | 'COOK_FOOD_DEFENSE' | 'COOK_FOOD_FUNCTION' | 'COOK_FOOD_HEAL'; // enum
-		filterText: string; // translated
+		foodfilter: string;
+		foodcategory: string; // untranslated
 		effect: string;
 		description: string;
 
@@ -21,22 +20,20 @@ declare module "@PaimonApp/genshin-db" {
 			effect: string;
 			description: string;
 		};
-
-		baseDishId?: number; // for specialty dish
-		baseDishName?: string; // for specialty dish
-		characterId?: number; // for specialty dish
-		characterName?: string; // for specialty dish
+		basedish?: string;
+		character?: string;
 
 		ingredients: FoodIngredient[];
 		images: {
-			filename_buff: string;
-			filename_icon: string;
+			nameicon: string;
+		};
+		url: {
+			fandom: string;
 		};
 		version: string;
 	}
 
 	export interface FoodIngredient {
-		id: number;
 		name: string;
 		count: number;
 	}

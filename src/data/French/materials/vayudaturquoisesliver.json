@@ -1,17 +1,11 @@
 {
-	"id": 104151,
 	"name": "Éclat de turquoise vayuda",
-	"rarity": 2,
-	"sortRank": 12106,
 	"description": "Matériau d'élévation de personnage.",
-<<<<<<< HEAD
 	"sortorder": 3208,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'élévation de personnage",
-	"sources": [
+	"materialtype": "Matériau d'élévation de personnage",
+	"source": [
 		"Butin d'Hypostase Anémo",
 		"Butin de Wenut de Setekh",
 		"Boutique de souvenirs"

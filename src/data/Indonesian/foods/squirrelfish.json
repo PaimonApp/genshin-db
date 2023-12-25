@@ -1,10 +1,9 @@
 {
-	"id": 3103,
 	"name": "Squirrel Fish",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Makanan Pemulihan",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Memulihkan 30–34% HP dan 600–1900 HP Karakter yang dipilih.",
 	"description": "Hidangan ikan yang sulit dibuat. Duri ikannya dibersihkan sepenuhnya sebelum kulitnya dipotong bersilangan. Lalu ikan dibungkus dengan tepung dan digoreng menjadi warna coklat keemasan. Dihidangkan dengan sentuhan saus tomat di atasnya. Luarnya garing, dalamnya lembut. Karena hidangan ini menyerupai ekor tupai, maka dinamai sedemikian rupa.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Fish",
 			"count": 4
 		},
 		{
-			"id": 100079,
 			"name": "Tomato",
 			"count": 2
 		},
 		{
-			"id": 110001,
 			"name": "Flour",
 			"count": 2
 		},
 		{
-			"id": 110006,
 			"name": "Sugar",
 			"count": 1
 		}

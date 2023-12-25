@@ -1,18 +1,14 @@
 {
-	"id": [
-		82177
-	],
 	"name": "Слишком горячо!",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2177,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2177,
 	"stages": 1,
 	"stage1": {
 		"title": "Слишком горячо!",
 		"description": "Без остановки пытайтесь заморозить фантазмов мутных вод...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

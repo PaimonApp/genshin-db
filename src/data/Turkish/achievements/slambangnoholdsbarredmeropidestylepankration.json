@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Kuralsız Bam Güm Meropide Tarzı Pankrasyon",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1374,
-=======
-	"id": [
-		81390
-	],
-	"name": "Kuralsız Bam Güm Meropide Tarzı Pankrasyon",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1374,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Kuralsız Bam Güm Meropide Tarzı Pankrasyon",
 		"description": "Poiret ve Genevieve'e Pankrasyon eğlence turnuvasında zafere ulaşmaları için rehberlik et.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

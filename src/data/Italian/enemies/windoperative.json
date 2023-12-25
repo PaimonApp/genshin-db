@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Operativo del Vento",
 	"specialname": "Anna",
 	"enemytype": "ELITE",
-=======
-	"id": 23060201,
-	"name": "Operativo del Vento",
-	"specialName": "Anna",
-	"enemyType": "ELITE",
->>>>>>> upstream/main
 	"category": "Fatui",
 	"description": "Un agente d'élite dei Fatui.\nGli \"Operativi\" non hanno un grado militare ordinario tra i Fatui. In base agli ordini ricevuti e al contenuto delle loro missioni, possono lavorare assieme ad altri soldati, da soli o collaborando con le \"pedine\" nascoste e sparse per il mondo. Spiano, fanno controspionaggio, proteggono, assassinano e svolgono altri compiti. Per svolgere efficacemente le loro missioni di natura più speciale, gli \"Operativi\" devono anche padroneggiare qualsiasi tipo di abilità e persino varie arti e talenti.",
 	"investigation": {
@@ -16,42 +9,23 @@
 		"category": "Élite",
 		"description": "Un agente d'élite dei Fatui che possiede delle abilità straordinarie e una volontà indomita."
 	},
-<<<<<<< HEAD
 	"rewardpreview": [
 		{
 			"name": "Mora"
 		},
 		{
-=======
-	"rewardPreview": [
-		{
-			"id": 202,
-			"name": "Mora"
-		},
-		{
-			"id": 112092,
->>>>>>> upstream/main
 			"name": "Vecchio orologio da operativo",
 			"count": 5.2526
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 112093,
->>>>>>> upstream/main
 			"name": "Orologio comune da operativo",
 			"count": 1.4006
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 112094,
->>>>>>> upstream/main
 			"name": "Costanza dell'operativo",
 			"count": 0.3502
 		},
 		{
-<<<<<<< HEAD
 			"name": "Berserker",
 			"rarity": "3"
 		},
@@ -78,41 +52,6 @@
 		{
 			"name": "Esule",
 			"rarity": "4"
-=======
-			"id": 400022,
-			"name": "Berserker",
-			"rarity": 3
-		},
-		{
-			"id": 400032,
-			"name": "Istruttore",
-			"rarity": 3
-		},
-		{
-			"id": 400042,
-			"name": "Esule",
-			"rarity": 3
-		},
-		{
-			"id": 400062,
-			"name": "Dottoressa errante",
-			"rarity": 3
-		},
-		{
-			"id": 400023,
-			"name": "Berserker",
-			"rarity": 4
-		},
-		{
-			"id": 400033,
-			"name": "Istruttore",
-			"rarity": 4
-		},
-		{
-			"id": 400043,
-			"name": "Esule",
-			"rarity": 4
->>>>>>> upstream/main
 		}
 	]
 }

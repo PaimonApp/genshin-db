@@ -1,21 +1,9 @@
 {
-	"id": 112008,
 	"name": "Свиток божественной магии",
-	"rarity": 1,
-	"sortRank": 10103,
 	"description": "Свиток, вероятно, связанный с какой-то магией. Источает странное зловещее тепло.",
-<<<<<<< HEAD
 	"sortorder": 3044,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Улучшение персонажей/оружия",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Улучшение персонажей/оружия",
-	"sources": [
-		"Шамачурлы",
-		"Покупается за Звёздную пыль"
-	]
->>>>>>> upstream/main
 }

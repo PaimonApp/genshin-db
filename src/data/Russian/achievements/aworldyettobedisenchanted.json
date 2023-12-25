@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Нерасколдованный мир",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1407,
-=======
-	"id": [
-		81423
-	],
-	"name": "Нерасколдованный мир",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1407,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Нерасколдованный мир",
 		"description": "Трижды отдайте ксенохромный кристалл рулевому «Ржавого штурвала».",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

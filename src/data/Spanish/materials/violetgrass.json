@@ -1,15 +1,10 @@
 {
-	"id": 100034,
 	"name": "Campanita de cristal",
-	"sortRank": 312,
 	"description": "Una pequeña flor con mucha vitalidad. Se dice que se abre hacia abajo para impedir que su fragancia se escape.",
-<<<<<<< HEAD
 	"sortorder": 2860,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Liyue",
-	"sources": [
+	"materialtype": "Objeto típico de Liyue",
+	"source": [
 		"Recolectar en peñascos de Liyue"
 	]
 }

@@ -1,18 +1,13 @@
 {
-	"id": [
-		82166
-	],
 	"name": "Отчуждённость...",
-	"achievementGroupId": 39,
-	"achievementGroupName": "Победитель VII",
-	"sortOrder": 2166,
+	"achievementgroup": "Победитель VII",
+	"sortorder": 2166,
 	"stages": 1,
 	"stage1": {
 		"title": "Отчуждённость...",
 		"description": "Победите Чудовищного крестителя, не нарушая его защитного купола.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}

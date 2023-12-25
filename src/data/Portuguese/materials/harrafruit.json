@@ -1,15 +1,10 @@
 {
-	"id": 101216,
 	"name": "Fruta Harra",
-	"sortRank": 321,
 	"description": "Cresce em florestas tropicais quentes e úmidas, e possui um aroma especial. Basta moê-la para transformá-la numa especiaria. É a planta de especiaria mais importante de Sumeru.",
-<<<<<<< HEAD
 	"sortorder": 2939,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Encontrado na natureza"
 	]
 }

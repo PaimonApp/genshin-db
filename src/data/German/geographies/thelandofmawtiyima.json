@@ -1,11 +1,8 @@
 {
-	"id": 70400011,
 	"name": "Mawtiyima",
-	"areaId": 4101,
-	"areaName": "Mawtiyima-Dickicht",
+	"area": "Mawtiyima-Dickicht",
 	"description": "Ein Ort, an dem Erinnerungen und Träume vom Wald zusammenlaufen. Er scheint sein eigenes Bewusstsein gebildet zu haben.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 311
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 311
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100085,
 	"name": "Kristal Çekirdek",
-	"sortRank": 320,
 	"description": "Kristal bir kelebeğin çekirdeği. Atmosfere kaçan element enerjisini emer.",
-<<<<<<< HEAD
 	"sortorder": 2896,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Kristal Kelebek yakalayarak toplanır."
 	]
 }

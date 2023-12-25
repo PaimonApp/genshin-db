@@ -1,14 +1,12 @@
 {
-	"id": 13013,
 	"name": "Guida alla fugacità",
-	"filterText": "Materiale per talenti dei personaggi",
-	"sortOrder": 120060,
-	"unlockRank": 30,
-	"resultCount": 1,
-	"moraCost": 175,
+	"filter": "Materiale per talenti dei personaggi",
+	"sortorder": 120060,
+	"unlockrank": 30,
+	"resultcount": 1,
+	"moracost": 175,
 	"recipe": [
 		{
-			"id": 104320,
 			"name": "Insegnamenti della fugacità",
 			"count": 3
 		}

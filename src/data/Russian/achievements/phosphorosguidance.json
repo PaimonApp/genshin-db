@@ -1,20 +1,13 @@
 {
-	"id": [
-		80132,
-		80133,
-		80134
-	],
 	"name": "Наставления Фосфороса",
-	"achievementGroupId": 28,
-	"achievementGroupName": "Свет дня",
-	"sortOrder": 132,
+	"achievementgroup": "Свет дня",
+	"sortorder": 132,
 	"stages": 3,
 	"stage1": {
 		"title": "Наставления Фосфороса",
 		"description": "Доведите 6 фей до их садов в Энканомии.",
 		"progress": 6,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Доведите 15 фей до их садов в Энканомии.",
 		"progress": 15,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Доведите 30 фей до их садов в Энканомии.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 20
 		}

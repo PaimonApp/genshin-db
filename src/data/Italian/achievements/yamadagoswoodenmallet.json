@@ -1,11 +1,8 @@
 {
-	"id": [
-		81096
-	],
 	"name": "Il martello di legno di Yamada Go",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1097,
+	"achievementgroup": "Meraviglie del mondo",
+	"ishidden": true,
+	"sortorder": 1097,
 	"stages": 1,
 	"stage1": {
 		"title": "Il martello di legno di Yamada Go",
@@ -13,7 +10,6 @@
 		"description": "Svela più volte le illusioni del tanuki.",
 		"progress": 15,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}

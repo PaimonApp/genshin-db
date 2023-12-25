@@ -1,23 +1,11 @@
 {
-	"id": 112090,
 	"name": "外界のシナプス",
-	"rarity": 3,
-	"sortRank": 10131,
 	"description": "ブリーチャープリムスが残した欠片。\nこの種の異形生命体はエリナスに由来しており、エリナスを主な活動範囲としている。",
-<<<<<<< HEAD
 	"sortorder": 3124,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "キャラと武器育成素材",
 	"source": [
 		"合成で獲得"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "キャラと武器育成素材",
-	"sources": [
-		"合成で獲得",
-		"ブリーチャープリムス（Lv.40以上）がドロップ",
-		"スターダスト交換"
->>>>>>> upstream/main
 	]
 }

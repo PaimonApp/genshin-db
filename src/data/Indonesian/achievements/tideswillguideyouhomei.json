@@ -1,20 +1,13 @@
 {
-	"id": [
-		80257,
-		80258,
-		80259
-	],
 	"name": "Ombak Akan Menuntunmu Kembali (I)",
-	"achievementGroupId": 42,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (I)",
-	"sortOrder": 237,
+	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (I)",
+	"sortorder": 237,
 	"stages": 3,
 	"stage1": {
 		"title": "Ombak Akan Menuntunmu Kembali (I)",
 		"description": "Ikuti {param0} Seelie di area Court of Fontaine, area Belleau, dan area Beryl ke Seelie Court mereka.",
 		"progress": 6,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Ikuti {param0} Seelie di area Court of Fontaine, area Belleau, dan area Beryl ke Seelie Court mereka.",
 		"progress": 12,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Ikuti {param0} Seelie di area Court of Fontaine, area Belleau, dan area Beryl ke Seelie Court mereka.",
 		"progress": 24,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

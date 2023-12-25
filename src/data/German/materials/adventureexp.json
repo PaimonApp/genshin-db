@@ -1,15 +1,9 @@
 {
-	"id": 102,
 	"name": "Abenteuer-EP",
-	"rarity": 3,
-	"sortRank": 13,
 	"description": "Abenteuer-EP, wird zum Erhöhen der Abenteuerstufe verwendet.",
-<<<<<<< HEAD
 	"sortorder": 2670,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Aktivieren von Funktionen",
-	"sources": []
+	"materialtype": "Aktivieren von Funktionen",
+	"source": []
 }

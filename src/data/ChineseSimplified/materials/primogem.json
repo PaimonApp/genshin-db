@@ -1,10 +1,9 @@
 {
-	"id": 201,
 	"name": "原石",
-	"rarity": 5,
-	"sortRank": 30,
 	"description": "超出世界的原初晶石。黑暗的宇宙中，由无主的梦想与希望凝结而成的辉光。",
+	"sortorder": 2714,
+	"rarity": "5",
 	"category": "ADSORBATE",
-	"typeText": "稀有货币",
-	"sources": []
+	"materialtype": "稀有货币",
+	"source": []
 }

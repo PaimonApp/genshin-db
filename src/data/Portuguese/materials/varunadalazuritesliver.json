@@ -1,17 +1,11 @@
 {
-	"id": 104121,
 	"name": "Lasca de Lazurita Varunada",
-	"rarity": 2,
-	"sortRank": 12103,
 	"description": "Material de Ascensão de Personagem.",
-<<<<<<< HEAD
 	"sortorder": 3196,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Ascensão de Personagem",
-	"sources": [
+	"materialtype": "Material de Ascensão de Personagem",
+	"source": [
 		"Dropado por Oceânides",
 		"Dropado por Hypostasis Hydro",
 		"Dropado por Tulpa Hydro",

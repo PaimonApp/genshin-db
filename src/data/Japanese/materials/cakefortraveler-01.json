@@ -1,16 +1,10 @@
 {
-	"id": 118004,
 	"name": "旅人へのケーキ",
 	"dupealias": "旅人へのケーキ 1",
-	"rarity": 4,
-	"sortRank": 260101,
 	"description": "ある大事な日にもらえるプレゼント。\n\n大陸で駆け回っている旅人へ。\nこの大地での旅が幸せに満ちるように。\n\n「オススメ料理は週替わりで、月の祝福は月替り。次に一緒に祝う時はなんと、およそ9000時間後だ！つまり、これからもおまえに付き添うってことだぞ！」",
-<<<<<<< HEAD
 	"sortorder": 3679,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "貴重品",
-	"sources": []
+	"materialtype": "貴重品",
+	"source": []
 }

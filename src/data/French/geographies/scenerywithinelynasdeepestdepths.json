@@ -1,11 +1,8 @@
 {
-	"id": 70400055,
 	"name": "Le paysage au plus profond d'Elynas",
-	"areaId": 50203,
-	"areaName": "Un endroit chaud",
+	"area": "Un endroit chaud",
 	"description": "« Quel plaisir de vous rencontrer ! »",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 355
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 355
 }

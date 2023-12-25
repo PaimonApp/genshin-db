@@ -1,17 +1,11 @@
 {
-	"id": 104141,
 	"name": "Vajrada-Amethyst-Splitter",
-	"rarity": 2,
-	"sortRank": 12105,
 	"description": "Material für den Figurenaufstieg.",
-<<<<<<< HEAD
 	"sortorder": 3204,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für den Figurenaufstieg",
-	"sources": [
+	"materialtype": "Material für den Figurenaufstieg",
+	"source": [
 		"Beute von Elektro-Hypostasen",
 		"Beute von Verkörperungen des Donners",
 		"Beute von Fluxblitzbäumen",

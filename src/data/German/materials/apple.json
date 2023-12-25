@@ -1,15 +1,10 @@
 {
-	"id": 100001,
 	"name": "Apfel",
-	"sortRank": 90000,
 	"description": "Ein süßlich-saurer Apfel. Ob roh oder als Obstwein ein Genuss.",
-<<<<<<< HEAD
 	"sortorder": 3416,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Nahrung",
-	"sources": [
+	"materialtype": "Nahrung",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

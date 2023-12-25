@@ -1,20 +1,9 @@
 {
-	"id": 113020,
 	"name": "Florescimento Cristalino",
-	"rarity": 4,
-	"sortRank": 11101,
 	"description": "Um cristal de gelo de pureza excessiva que é criado no frígido desabrochar de um Hypostasis Cryo.\nEstes cristais gelados continuarão a crescer de acordo com suas próprias leis rígidas e frias, até que um dia uma flor de inverno floresça e congele tudo. Talvez o tempo de estagnação, a força que nunca se desfaz, seja a essência desta flor imortal.",
-<<<<<<< HEAD
 	"sortorder": 3163,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Elevação de Personagem",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Elevação de Personagem",
-	"sources": [
-		"Dropado pelo Hypostasis Cryo Nv.30+"
-	]
->>>>>>> upstream/main
 }

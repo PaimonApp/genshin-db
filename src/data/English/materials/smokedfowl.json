@@ -1,15 +1,10 @@
 {
-	"id": 110003,
 	"name": "Smoked Fowl",
-	"sortRank": 322,
 	"description": "Fowl that has been smoked. The firmness of the meat gives new texture to dishes.",
-<<<<<<< HEAD
 	"sortorder": 2949,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Processed"
 	]
 }

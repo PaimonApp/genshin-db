@@ -1,15 +1,10 @@
 {
-	"id": 100073,
 	"name": "Caranguejo",
-	"sortRank": 321,
 	"description": "Um crustáceo que vive ao redor do oceano. Sua carne é macia e deliciosa, usada para fazer pratos saborosos.",
-<<<<<<< HEAD
 	"sortorder": 2916,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Encontrado perto de lagos, encostas de rios e nas praias"
 	]
 }

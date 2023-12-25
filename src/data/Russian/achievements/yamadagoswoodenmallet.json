@@ -1,11 +1,8 @@
 {
-	"id": [
-		81096
-	],
 	"name": "Деревянный молот Ямада Го",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1097,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1097,
 	"stages": 1,
 	"stage1": {
 		"title": "Деревянный молот Ямада Го",
@@ -13,7 +10,6 @@
 		"description": "Распознайте иллюзию бакэ-дануки несколько раз.",
 		"progress": 15,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

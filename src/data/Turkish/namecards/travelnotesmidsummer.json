@@ -1,8 +1,7 @@
 {
-	"id": 210074,
 	"name": "Gezi Notları: Yaz Ortası",
 	"description": "İsim Kartı arka planı.\nMacera zamanı!",
-	"sortOrder": 210074,
+	"sortorder": 210074,
 	"source": [
 		"SB Ödülü"
 	]

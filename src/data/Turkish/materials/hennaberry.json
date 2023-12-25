@@ -1,15 +1,10 @@
 {
-	"id": 101220,
 	"name": "Henna Yemişi",
-	"sortRank": 314,
 	"description": "En zorlu çöl şartlarında bile yetişen bir meyve. Parlak kırmızı meyveleri sapsarı kumun üstünde daha da güzel görünür.",
-<<<<<<< HEAD
 	"sortorder": 2875,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Sumeru Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Sumeru Yöresel Ürünü",
+	"source": [
 		"Sumeru'nun çöllerinde bulunur."
 	]
 }

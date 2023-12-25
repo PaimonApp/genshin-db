@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Karahindiba Ayracı",
 	"description": "\"Sonsuz Mavinin Şarkısı\" için özel saflaştırma malzemesi.\nKarahindibalar birçok şiir ve hikayede uzak diyarlara seyahati, sınır tanımayan özgürlüğü temsil eder. Üzerinde bir Karahindiba resmi olan ayracı kitabın arasına koymak onu oraya mahkum etmez, aksine onun kendi dünyamıza kıyasla çok daha büyük bir yerde dolaşmasını sağlar.",
 	"sortorder": 2768,
@@ -7,14 +6,4 @@
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Saflaştırma Malzemesi",
 	"source": []
-=======
-	"id": 200117,
-	"name": "Karahindiba Ayracı",
-	"rarity": 4,
-	"sortRank": 90,
-	"description": "\"Sonsuz Mavinin Şarkısı\" için özel saflaştırma malzemesi.\nKarahindibalar birçok şiir ve hikayede uzak diyarlara seyahati, sınır tanımayan özgürlüğü temsil eder. Üzerinde bir Karahindiba resmi olan ayracı kitabın arasına koymak onu oraya mahkum etmez, aksine onun kendi dünyamıza kıyasla çok daha büyük bir yerde dolaşmasını sağlar.",
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Saflaştırma Malzemesi",
-	"sources": []
->>>>>>> upstream/main
 }

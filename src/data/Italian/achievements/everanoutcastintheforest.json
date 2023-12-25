@@ -1,18 +1,14 @@
 {
-	"id": [
-		81234
-	],
 	"name": "Reietto della foresta",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1220,
+	"achievementgroup": "Meraviglie del mondo",
+	"ishidden": true,
+	"sortorder": 1220,
 	"stages": 1,
 	"stage1": {
 		"title": "Reietto della foresta",
 		"description": "Ora il problema è risolto.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}

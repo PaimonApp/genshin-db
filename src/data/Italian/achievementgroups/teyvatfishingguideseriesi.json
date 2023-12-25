@@ -1,13 +1,7 @@
 {
-	"id": 25,
 	"name": "Guida di pesca di Teyvat: Serie I",
-<<<<<<< HEAD
 	"sortorder": 37,
-=======
-	"sortOrder": 37,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210098,
 		"name": "Obiettivo: Chiodi"
 	}
 }

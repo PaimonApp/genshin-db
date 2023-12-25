@@ -1,15 +1,10 @@
 {
-	"id": 110005,
 	"name": "Giăm Bông",
-	"sortRank": 322,
 	"description": "Thịt đùi được xông khói. Một miếng mỏng thôi cũng thơm lừng cả miệng.",
-<<<<<<< HEAD
 	"sortorder": 2951,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Nhận khi gia công nấu nướng"
 	]
 }

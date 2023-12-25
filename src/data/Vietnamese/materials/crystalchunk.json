@@ -1,15 +1,10 @@
 {
-	"id": 101003,
 	"name": "Mảnh Pha Lê",
-	"sortRank": 301,
 	"description": "Tinh thể chưa qua gọt giũa. Sau khi xử lý mới có thể tỏ rõ giá trị.",
-<<<<<<< HEAD
 	"sortorder": 2823,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Quặng Đúc",
-	"sources": [
+	"materialtype": "Quặng Đúc",
+	"source": [
 		"Thu Thập Bên Ngoài",
 		"Kiến nghị: Thu thập trong Phế Tích Phong Long"
 	]

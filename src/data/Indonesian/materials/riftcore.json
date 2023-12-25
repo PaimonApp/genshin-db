@@ -1,21 +1,9 @@
 {
-	"id": 112089,
 	"name": "Rift Core",
-	"rarity": 2,
-	"sortRank": 10131,
 	"description": "Pecahan yang ditinggalkan oleh Breacher Primus.\nSama sekali tidak mirip dengan jenis makhluk hidup apa pun yang ada di dunia.",
-<<<<<<< HEAD
 	"sortorder": 3125,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Penguatan Senjata dan Karakter",
-	"sources": [
-		"Dijatuhkan oleh Breacher Primus",
-		"Penukaran Stardust"
-	]
->>>>>>> upstream/main
 }

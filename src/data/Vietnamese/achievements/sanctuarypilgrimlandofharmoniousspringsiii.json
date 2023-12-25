@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Thánh Đường Hành Hương - Vùng Đất Trăm Suối Hài Hòa III",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (III)",
 	"sortorder": 264,
-=======
-	"id": [
-		80288
-	],
-	"name": "Thánh Đường Hành Hương - Vùng Đất Trăm Suối Hài Hòa III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (III)",
-	"sortOrder": 264,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Thánh Đường Hành Hương - Vùng Đất Trăm Suối Hài Hòa III",
 		"description": "Mở phong ấn tất cả Đền Địa Linh ở Khu Morte, Khu Rừng Erinnyes trong khu vực Fontaine.",
 		"progress": 2,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 10
 		}

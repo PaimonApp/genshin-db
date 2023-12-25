@@ -1,10 +1,7 @@
 {
-	"id": 70200014,
 	"name": "Yujing Terası",
-	"areaId": 2701,
-	"areaName": "Liyue Limanı",
+	"area": "Liyue Limanı",
 	"description": "Hareketli limandan uzaktaki Yujing Terası, Tianheng Dağı ile göğe uzanıyor. Burada Yedi Yıldız ve birçok şirketin lideri azimle Liyue'nin refahını ve istikrarını sürdürmeye çalışıyor.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 104
+	"region": "Liyue",
+	"sortorder": 104
 }

@@ -1,24 +1,17 @@
 {
-	"id": 104333,
 	"name": "Anleitung zur „Findigkeit“",
-	"rarity": 3,
-	"sortRank": 13111,
 	"description": "Material zur Verbesserung von Talenten.\n„Findigkeit“ ist die Vene des Reichs der Weisheit.\nFindigkeit führt zu aufrichtigen Worten. Wer aus gutem Willen denkt und klug überlegt, dessen Worte werden nie den Pfad des Wohlergehens verlassen. Wer aber aus Rücksichtslosigkeit und Boshaftigkeit spricht, dessen Worte werden verachtenswert und unwürdig.",
-<<<<<<< HEAD
 	"sortorder": 3248,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für Figurentalente",
-	"dropDomainId": 4441,
-	"dropDomainName": "Sphäre des Verständnisses: Gewitztheit",
-	"daysOfWeek": [
+	"materialtype": "Material für Figurentalente",
+	"dropdomain": "Sphäre des Verständnisses: Gewitztheit",
+	"daysofweek": [
 		"Dienstag",
 		"Freitag",
 		"Sonntag"
 	],
-	"sources": [
+	"source": [
 		"Kann hergestellt werden"
 	]
 }

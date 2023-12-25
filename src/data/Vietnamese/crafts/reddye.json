@@ -1,13 +1,11 @@
 {
-	"id": 30002,
 	"name": "Thuốc Nhuộm Đỏ",
-	"filterText": "Nguyên liệu chế tạo đồ trang trí",
-	"sortOrder": 170010,
-	"unlockRank": 28,
-	"resultCount": 1,
+	"filter": "Nguyên liệu chế tạo đồ trang trí",
+	"sortorder": 170010,
+	"unlockrank": 28,
+	"resultcount": 1,
 	"recipe": [
 		{
-			"id": 100002,
 			"name": "Quả Nhật Lạc",
 			"count": 1
 		}
@@ -15,14 +13,12 @@
 	"altrecipes": [
 		[
 			{
-				"id": 100013,
 				"name": "Cà Rốt",
 				"count": 1
 			}
 		],
 		[
 			{
-				"id": 100022,
 				"name": "Quả Dâu Đỏ",
 				"count": 1
 			}

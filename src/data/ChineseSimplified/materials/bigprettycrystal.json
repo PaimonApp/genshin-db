@@ -1,11 +1,10 @@
 {
-	"id": 111022,
 	"name": "漂亮的大结晶",
-	"sortRank": 430051,
 	"description": "合成额外产物",
+	"sortorder": 4958,
 	"category": "CONSUME",
-	"typeText": "合成产物",
-	"sources": [
+	"materialtype": "合成产物",
+	"source": [
 		"合成获得"
 	]
 }

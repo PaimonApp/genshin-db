@@ -1,9 +1,7 @@
 {
-	"id": 38,
 	"name": "Sumeru: The Gilded Desert - Series II",
-	"sortOrder": 42,
+	"sortorder": 42,
 	"reward": {
-		"id": 210151,
 		"name": "Sumeru: Sandstorm"
 	}
 }

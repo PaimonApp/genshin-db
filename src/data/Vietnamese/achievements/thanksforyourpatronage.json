@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Cảm Ơn Đã Ủng Hộ!",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1386,
-=======
-	"id": [
-		81402
-	],
-	"name": "Cảm Ơn Đã Ủng Hộ!",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1386,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Cảm Ơn Đã Ủng Hộ!",
 		"description": "Rút được Quẻ May Mắn gấp đôi may mắn.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

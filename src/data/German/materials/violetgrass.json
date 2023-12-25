@@ -1,15 +1,10 @@
 {
-	"id": 100034,
 	"name": "Glasglöckchen",
-	"sortRank": 312,
 	"description": "Eine kleine Blume mit großer Lebenskraft. Sie neigt ihre Blüte angeblich nach unten, damit ihr Duft nicht so schnell vergeht.",
-<<<<<<< HEAD
 	"sortorder": 2860,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Liyue",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Liyue",
+	"source": [
 		"An Klippen in Liyue zu finden"
 	]
 }

@@ -1,15 +1,9 @@
 {
-	"id": 223,
 	"name": "Yazgı Taşı",
-	"rarity": 5,
-	"sortRank": 410003,
 	"description": "Rüyaları birbirine bağlayan mukadder bir taş.\nParıltıları sayesinde kaderleri ilişkilendirebilir ve rüyaları birbirine bağlayabilir, tıpkı yıldızları kalbin arzularına bağlaması gibi.",
-<<<<<<< HEAD
 	"sortorder": 4850,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sınırlı Dilek Eşyası",
-	"sources": []
+	"materialtype": "Sınırlı Dilek Eşyası",
+	"source": []
 }

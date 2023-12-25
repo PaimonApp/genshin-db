@@ -1,13 +1,8 @@
 {
-	"id": 107002,
 	"name": "Elemental Dust",
-	"sortRank": 406,
 	"description": "Shattered fragments of the Oculus Crystal. Shows hidden treasure nearby.",
-<<<<<<< HEAD
 	"sortorder": 3033,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Adventure Item",
-	"sources": []
+	"materialtype": "Adventure Item",
+	"source": []
 }

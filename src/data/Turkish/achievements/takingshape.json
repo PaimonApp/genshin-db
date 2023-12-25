@@ -1,24 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Şekil Almaya Başladı",
 	"achievementgroup": "Macera Sanatı",
 	"sortorder": 7,
-=======
-	"id": [
-		80007
-	],
-	"name": "Şekil Almaya Başladı",
-	"achievementGroupId": 2,
-	"achievementGroupName": "Macera Sanatı",
-	"sortOrder": 7,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Şekil Almaya Başladı",
 		"description": "4 yıldızlı bir silah yap.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}

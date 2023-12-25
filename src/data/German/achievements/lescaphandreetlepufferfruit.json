@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Pummelfrucht und Taucherglocke",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1376,
-=======
-	"id": [
-		81392
-	],
-	"name": "Pummelfrucht und Taucherglocke",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1376,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Pummelfrucht und Taucherglocke",
 		"description": "Schließe das fortgeschrittene Unterwasser-Training ab.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Bavaroise de café",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos que regeneran Vida",
 	"foodcategory": "Recovery_HpAddAll",
-=======
-	"id": 3410,
-	"name": "Bavaroise de café",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Platos que regeneran Vida",
->>>>>>> upstream/main
 	"effect": "Restaura un 26%-30% de Vida Máx. al personaje seleccionado.\nRegenera 450-790 pts. de Vida cada 5 s durante 30 s.",
 	"description": "Un postre refrescante. Como postre típico de Fontaine, es tan fácil de hacer que es prácticamente imposible fallar si los ingredientes se emplean en las proporciones adecuadas. Es delicado, pero también tiene un sabor refrescante que levanta el ánimo al instante.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "Granos de café",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100078,
->>>>>>> upstream/main
 			"name": "Leche",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Huevo de pájaro",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "Crema batida",
 			"count": 2
 		}

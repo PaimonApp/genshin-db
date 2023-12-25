@@ -1,10 +1,9 @@
 {
-	"id": 2110,
 	"name": "Prelibatezze del Porto di pietra",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Piatto ATT+",
+	"foodfilter": "Piatto ATT+",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Aumenta di un 6-12% il tasso di CRIT di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Del cibo vegetariano fritto nel wok. Una selezione di ingredienti provenienti da Liyue saltati in padella. Sebbene la tecnica di cottura sia semplice, mette in risalto i sapori intensi e innati degli ingredienti, al punto da rivaleggiare con alcune prelibatezze d'alta classe.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100080,
 			"name": "Patata",
 			"count": 2
 		},
 		{
-			"id": 100034,
 			"name": "Campaviola",
 			"count": 1
 		},
 		{
-			"id": 100063,
 			"name": "Matsutake",
 			"count": 1
 		}

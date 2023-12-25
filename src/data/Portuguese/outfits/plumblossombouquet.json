@@ -1,8 +1,6 @@
 {
-	"id": 204600,
 	"name": "Fragrância das Ameixeiras Quebradas",
 	"description": "Vestuário de Hutao. Uma roupa casual de trabalho da diretora da Funerária de Wangsheng.",
-	"isDefault": true,
-	"characterId": 10000046,
-	"characterName": "Hutao"
+	"isdefault": true,
+	"character": "Hutao"
 }

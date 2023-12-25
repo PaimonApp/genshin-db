@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Tripes du port",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatti rigenerativi",
 	"foodcategory": "Recovery_Revive",
-=======
-	"id": 3411,
-	"name": "Tripes du port",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Piatti rigenerativi",
->>>>>>> upstream/main
 	"effect": "Rianima il personaggio selezionato.\nRipristina 900-1.500 PS.",
 	"description": "Un piatto di frattaglie. Taglia a pezzi gli ingredienti, mettili in una pentola, sigilla con dell'impasto e cuoci. Questa ricetta deve le sue origini a una città portuale. La storia di tale città è stata da tempo inghiottita dall'innalzamento dei mari, ma questa prelibatezza sopravvive ancora sulle tavole di Fontaine.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Pezzo di carne cruda",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100013,
->>>>>>> upstream/main
 			"name": "Carota",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "Cipolla",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100099,
->>>>>>> upstream/main
 			"name": "Succo fermentato",
 			"count": 1
 		}

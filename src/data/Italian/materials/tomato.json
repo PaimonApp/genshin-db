@@ -1,15 +1,10 @@
 {
-	"id": 100079,
 	"name": "Pomodoro",
-	"sortRank": 321,
 	"description": "Un ingrediente rosso acceso dal sapore inconfondibile. Già, il dibattito \"frutto o verdura\" è ancora in corso...",
-<<<<<<< HEAD
 	"sortorder": 2921,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Acquistabile negli empori"
 	]
 }

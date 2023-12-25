@@ -1,13 +1,7 @@
 {
-	"id": 12,
 	"name": "Taş Limanın Nostaljisi: I. Seri",
-<<<<<<< HEAD
 	"sortorder": 25,
-=======
-	"sortOrder": 25,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210032,
 		"name": "Başarım: Arkası Yarın"
 	}
 }

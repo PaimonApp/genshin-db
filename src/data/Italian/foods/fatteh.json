@@ -1,10 +1,9 @@
 {
-	"id": 2311,
 	"name": "Fatteh",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Piatti rigenerativi",
+	"foodfilter": "Piatti rigenerativi",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Rianima il personaggio selezionato.\nRipristina 250-550 PS.",
 	"description": "Un'antica specialità di Sumeru. Il pane cotto al forno viene sbriciolato e mescolato con fagioli glabri lessati e salsa allo yogurt. La ricetta è stata tramandata per lungo tempo e ne esistono diverse versioni, ma tutte hanno due cose in comune: la semplicità e il gusto.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Farina",
 			"count": 3
 		},
 		{
-			"id": 100096,
 			"name": "Fagioli glabri",
 			"count": 2
 		},
 		{
-			"id": 100078,
 			"name": "Latte",
 			"count": 2
 		},
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 1
 		}

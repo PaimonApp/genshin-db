@@ -1,13 +1,7 @@
 {
-	"id": 38,
 	"name": "Sumeru, il deserto dorato: Serie II",
-<<<<<<< HEAD
 	"sortorder": 42,
-=======
-	"sortOrder": 42,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210151,
 		"name": "Sumeru: Tempesta di sabbia"
 	}
 }

@@ -1,17 +1,11 @@
 {
-	"id": 104162,
 	"name": "Shivada Jade Fragment",
-	"rarity": 3,
-	"sortRank": 12107,
 	"description": "วัสดุเลื่อนขั้นตัวละคร\n\"...ขอโทษ...\"",
-<<<<<<< HEAD
 	"sortorder": 3211,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "วัสดุเลื่อนขั้นตัวละคร",
-	"sources": [
+	"materialtype": "วัสดุเลื่อนขั้นตัวละคร",
+	"source": [
 		"ดรอปจาก Cryo Regisvine Lv.40 ขึ้นไป",
 		"ดรอปจาก Cryo Hypostasis Lv.40 ขึ้นไป",
 		"ได้รับจากการสรรสร้าง"

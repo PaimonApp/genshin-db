@@ -1,15 +1,10 @@
 {
-	"id": 100099,
 	"name": "Fermented Juice",
-	"sortRank": 321,
 	"description": "A fermented juice with a unique fruity scent. It is often used as a marinade.",
-<<<<<<< HEAD
 	"sortorder": 2936,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Sold at general goods shops in Fontaine"
 	]
 }

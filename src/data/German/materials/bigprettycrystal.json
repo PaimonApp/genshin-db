@@ -1,15 +1,10 @@
 {
-	"id": 111022,
 	"name": "Hübscher großer Kristall",
-	"sortRank": 430051,
 	"description": "Zusätzlich hergestelltes Produkt",
-<<<<<<< HEAD
 	"sortorder": 4958,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Hergestelltes Produkt",
-	"sources": [
+	"materialtype": "Hergestelltes Produkt",
+	"source": [
 		"Kann hergestellt werden"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 110004,
 	"name": "Butter",
-	"sortRank": 322,
 	"description": "Der fetthaltigste Teil von Milch. In der richtigen Menge bringt es selbst dem einfachsten Gericht einen reichen, cremigen Geschmack.",
-<<<<<<< HEAD
 	"sortorder": 2950,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beim Verarbeiten von Gerichten zu erhalten"
 	]
 }

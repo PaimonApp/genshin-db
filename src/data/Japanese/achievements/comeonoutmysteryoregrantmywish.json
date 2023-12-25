@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "出でよ謎鉱石！",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1365,
-=======
-	"id": [
-		81381
-	],
-	"name": "出でよ謎鉱石！",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1365,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "出でよ謎鉱石！",
 		"description": "黄緑色の鉱石を七つ揃える。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

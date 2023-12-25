@@ -1,17 +1,11 @@
 {
-	"id": 104122,
 	"name": "Varunada Lazurite Fragment",
-	"rarity": 3,
-	"sortRank": 12103,
 	"description": "Character Ascension material.\n\"My ideals have no stains.\"",
-<<<<<<< HEAD
 	"sortorder": 3195,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character Ascension Material",
-	"sources": [
+	"materialtype": "Character Ascension Material",
+	"source": [
 		"Dropped by Lv. 40+ Oceanids",
 		"Dropped by Lv. 40+ Hydro Hypostases",
 		"Dropped by Lv. 40+ Hydro Tulpas",

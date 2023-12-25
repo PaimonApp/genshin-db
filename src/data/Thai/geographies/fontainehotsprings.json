@@ -1,11 +1,8 @@
 {
-	"id": 70400068,
 	"name": "\"น้ำพุร้อน Fontaine\"",
-	"areaId": 50200,
-	"areaName": "Beryl Region",
+	"area": "Beryl Region",
 	"description": "Salsa เคยมาชมทิวทัศน์ที่นี่\nท่ามกลางไอหมอกที่พวยพุ่งจากบ่อน้ำพุร้อน จะสามารถมองเห็นภูเขา Automnequi ที่สูงตระหง่านและเส้นทางเดินเรือ Clementine ที่ไหลผ่านไปได้",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 368
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 368
 }

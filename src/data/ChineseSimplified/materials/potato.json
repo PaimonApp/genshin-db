@@ -1,11 +1,10 @@
 {
-	"id": 100080,
 	"name": "土豆",
-	"sortRank": 321,
 	"description": "块状的草本植物。来自大地的馈赠，是不管怎样加工都永远吃不腻的一味神奇食材。",
+	"sortorder": 2922,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"杂货店购买"
 	]
 }

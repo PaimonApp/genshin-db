@@ -1,23 +1,11 @@
 {
-	"id": 112054,
 	"name": "Spectral Heart",
-	"rarity": 2,
-	"sortRank": 10118,
 	"description": "An energy core that allows the Specters to float.\nThese elemental life-forms have strange behavioral patterns and will periodically surge in number before disappearing.",
-<<<<<<< HEAD
 	"sortorder": 3085,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character and Weapon Enhancement Material",
 	"source": [
 		"Crafted"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Character and Weapon Enhancement Material",
-	"sources": [
-		"Crafted",
-		"Dropped by Lv. 40+ Specters",
-		"Stardust Exchange"
->>>>>>> upstream/main
 	]
 }

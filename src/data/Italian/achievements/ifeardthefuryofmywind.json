@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Temo che la furia del mio vento...",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1403,
-=======
-	"id": [
-		81419
-	],
-	"name": "Temo che la furia del mio vento...",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1403,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Temo che la furia del mio vento...",
 		"description": "Farà appassire i leggiadri fiori.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

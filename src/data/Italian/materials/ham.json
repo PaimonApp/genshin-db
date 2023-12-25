@@ -1,15 +1,10 @@
 {
-	"id": 110005,
 	"name": "Prosciutto",
-	"sortRank": 322,
 	"description": "Una coscia di carne affumicata. Anche la fettina più sottile è ricca di sapore.",
-<<<<<<< HEAD
 	"sortorder": 2951,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Lavorato"
 	]
 }

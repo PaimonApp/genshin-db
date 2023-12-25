@@ -21,7 +21,6 @@
 		"ahawhatsonthehook": "¡Ajá! ¿Han picado?",
 		"ahollowsoul": "Un alma vacía",
 		"ahouseillfounded": "Malos cimientos",
-		"ahumandrama": "Una obra de teatro humana",
 		"akashapulsesthekalpaflamerises": "Pulso de Akasha, fuego que arrasa",
 		"alavolontedupeuple": "La canción del pueblo",
 		"aleisurelyjourney": "Espíritu viajero",
@@ -976,7 +975,6 @@
 		"¡Ajá! ¿Han picado?": "ahawhatsonthehook",
 		"Un alma vacía": "ahollowsoul",
 		"Malos cimientos": "ahouseillfounded",
-		"Una obra de teatro humana": "ahumandrama",
 		"Pulso de Akasha, fuego que arrasa": "akashapulsesthekalpaflamerises",
 		"La canción del pueblo": "alavolontedupeuple",
 		"Espíritu viajero": "aleisurelyjourney",
@@ -1927,7 +1925,6 @@
 			"ahawhatsonthehook",
 			"ahollowsoul",
 			"ahouseillfounded",
-			"ahumandrama",
 			"akashapulsesthekalpaflamerises",
 			"alavolontedupeuple",
 			"aleisurelyjourney",
@@ -2960,7 +2957,7 @@
 		]
 	},
 	"properties": {
-		"achievementGroupName": [
+		"achievementgroup": [
 			"Maravillas del mundo",
 			"Dominios y Espiral del Abismo: Parte 1",
 			"Invocación de los Sabios",

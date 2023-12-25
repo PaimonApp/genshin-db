@@ -1,15 +1,10 @@
 {
-	"id": 100027,
 	"name": "Jueyun Biberi",
-	"sortRank": 312,
 	"description": "Liyue'ye özgü acı bir bitki. Sadece koklamak bile insanı yakar ve susatır.",
-<<<<<<< HEAD
 	"sortorder": 2854,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Liyue Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Liyue Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Qingce Köyü'nde bulunur."
 	]

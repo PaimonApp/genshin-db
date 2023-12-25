@@ -1,10 +1,9 @@
 {
-	"id": 2008,
 	"name": "Tostada del pescador",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Platos que mejoran la defensa",
+	"foodfilter": "Platos que mejoran la defensa",
+	"foodcategory": "Def_Add",
 	"effect": "Aumenta la DEF de todos los miembros del equipo en 88-126 pts. durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Tostada cubierta de cebolla. Uno de los platos favoritos de los pescadores, los cuales llenan sus mochilas de tostadas y pasan el día sentados junto al río.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Harina",
 			"count": 3
 		},
 		{
-			"id": 100079,
 			"name": "Tomate",
 			"count": 2
 		},
 		{
-			"id": 100076,
 			"name": "Cebolla",
 			"count": 1
 		},
 		{
-			"id": 100078,
 			"name": "Leche",
 			"count": 1
 		}

@@ -1,10 +1,7 @@
 {
-	"id": 70300012,
 	"name": "Mehtaplı Derinlikler",
-	"areaId": 3501,
-	"areaName": "Sangonomiya Tapınağı",
+	"area": "Sangonomiya Tapınağı",
 	"description": "Enkanomiya'nın girişi. Bu havuzdaki sular yıl boyunca ay gibi parlar. \"Mehtaplı\" adı buradan gelir.",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"sortOrder": 217
+	"region": "Inazuma",
+	"sortorder": 217
 }

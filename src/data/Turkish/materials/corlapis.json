@@ -1,15 +1,10 @@
 {
-	"id": 100058,
 	"name": "Cor Lapis",
-	"sortRank": 312,
 	"description": "Genellikle diğer minerallerle birlikte büyüyen yoğunlaştırılmış saf Toprak elementinin değerli bir kristali. \"Kalp Taşı\" olarak da bilinir.",
-<<<<<<< HEAD
 	"sortorder": 2861,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Liyue Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Liyue Yöresel Ürünü",
+	"source": [
 		"Liyue'deki uçurumların altında bulunur.",
 		"Öneri: Hulao Dağı'nda bulunur."
 	]

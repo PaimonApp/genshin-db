@@ -1,21 +1,9 @@
 {
-	"id": 112050,
 	"name": "Düsteres Prisma",
-	"rarity": 2,
-	"sortRank": 10117,
 	"description": "Dies war einst ein Prisma, das Licht polarisieren konnte, aber im Laufe der Jahre ist es stumpf geworden.",
-<<<<<<< HEAD
 	"sortorder": 3083,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material zur Verbesserung von Figuren und Waffen",
-	"sources": [
-		"Beute von Jungfrauen aus Snezhnaya von den Fatui",
-		"Mit Sternenstaub kaufen"
-	]
->>>>>>> upstream/main
 }

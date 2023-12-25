@@ -1,24 +1,17 @@
 {
-	"id": 104331,
 	"name": "Philosophie der „Ermahnung“",
-	"rarity": 4,
-	"sortRank": 13110,
 	"description": "Material zur Verbesserung von Talenten.\n„Ermahnung“ ist der Zweig des Reiches der Weisheit.\nErmahnung sollte mit den ehrlichsten Worten und Taten praktiziert werden. Taten geben Worten wahre Bedeutung. Die Bäume der Weisheit lassen sich am besten kultivieren, wenn Worte, Gedanken und Taten miteinander übereinstimmen.",
-<<<<<<< HEAD
 	"sortorder": 3244,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für Figurentalente",
-	"dropDomainId": 4433,
-	"dropDomainName": "Sphäre des Verständnisses: Vollmond",
-	"daysOfWeek": [
+	"materialtype": "Material für Figurentalente",
+	"dropdomain": "Sphäre des Verständnisses: Vollmond",
+	"daysofweek": [
 		"Montag",
 		"Donnerstag",
 		"Sonntag"
 	],
-	"sources": [
+	"source": [
 		"Kann hergestellt werden"
 	]
 }

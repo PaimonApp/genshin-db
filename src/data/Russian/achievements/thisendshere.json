@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Закончим на этом",
 	"achievementgroup": "Фонтейн: Танец источников белых рос II",
 	"sortorder": 261,
-=======
-	"id": [
-		80285
-	],
-	"name": "Закончим на этом",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Фонтейн: Танец источников белых рос II",
-	"sortOrder": 261,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Закончим на этом",
 		"description": "Станьте свидетелем истории Научно-исследовательского института кинетической энергии Фонтейна.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 10
 		}

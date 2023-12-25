@@ -1,11 +1,10 @@
 {
-	"id": 100072,
 	"name": "Butterfly Wings",
-	"sortRank": 320,
 	"description": "Brightly colored wings. The powder that falls from them shimmers a little. Perhaps this is what allows them to fly?",
+	"sortorder": 2892,
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild"
 	]
 }

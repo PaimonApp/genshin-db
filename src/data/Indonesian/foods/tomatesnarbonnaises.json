@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Tomates Narbonnaises",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Makanan Penyerangan",
 	"foodcategory": "Atk_Add",
-=======
-	"id": 3412,
-	"name": "Tomates Narbonnaises",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Makanan Penyerangan",
->>>>>>> upstream/main
 	"effect": "Meningkatkan 160–228 ATK seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Hidangan dengan porsi seimbang antara daging dan sayuran. Kupas tomat dan masukkan daging giling ke dalamnya, lalu panggang sampai matang. Hasilnya, jadilah hidangan bertekstur lembut dengan rasa asam. Ini adalah hidangan yang cukup populer di Fontaine.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Raw Meat",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100079,
->>>>>>> upstream/main
 			"name": "Tomato",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110010,
->>>>>>> upstream/main
 			"name": "Bacon",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "Onion",
 			"count": 1
 		}

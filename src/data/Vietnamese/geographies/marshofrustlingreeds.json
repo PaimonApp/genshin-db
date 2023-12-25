@@ -1,10 +1,7 @@
 {
-	"id": 70200003,
 	"name": "Đồng Cỏ Lau Nước",
-	"areaId": 2503,
-	"areaName": "Địch Hoa Châu",
+	"area": "Địch Hoa Châu",
 	"description": "Đây là nơi cất lên tiếng xào xạc của ếch nhái, đồng thời cũng là nơi yên nghỉ cuối cùng của vô số hiệp sĩ thời xa xưa.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 106
+	"region": "Liyue",
+	"sortorder": 106
 }

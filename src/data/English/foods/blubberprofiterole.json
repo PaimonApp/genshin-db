@@ -1,10 +1,9 @@
 {
-	"id": 3417,
 	"name": "Blubber Profiterole",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "ATK-Boosting Dish",
+	"foodfilter": "ATK-Boosting Dish",
+	"foodcategory": "Atk_Add",
 	"effect": "Increases all party members' Physical DMG by 20–40% for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A cream-filled dessert. Fluffy, flaky crust cradles a rich cream within. Round and nearly bursting, it's as cute as a Blubberbeast's belly. Few hearts can escape being ensnared by the thick, soft cream within.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Bird Egg",
 			"count": 4
 		},
 		{
-			"id": 100078,
 			"name": "Milk",
 			"count": 3
 		},
 		{
-			"id": 110001,
 			"name": "Flour",
 			"count": 3
 		},
 		{
-			"id": 110002,
 			"name": "Cream",
 			"count": 2
 		}

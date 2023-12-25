@@ -1,13 +1,7 @@
 {
-	"id": 33,
 	"name": "Encuentros fuera de este mundo: Parte 3",
-<<<<<<< HEAD
 	"sortorder": 28,
-=======
-	"sortOrder": 28,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210129,
 		"name": "Logro - Encuentro predestinado"
 	}
 }

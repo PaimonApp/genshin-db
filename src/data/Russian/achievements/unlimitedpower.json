@@ -1,11 +1,7 @@
 {
-	"id": [
-		80069
-	],
 	"name": "Неограниченная мощь!",
-	"achievementGroupId": 22,
-	"achievementGroupName": "Скитания по миру II",
-	"sortOrder": 69,
+	"achievementgroup": "Скитания по миру II",
+	"sortorder": 69,
 	"stages": 1,
 	"stage1": {
 		"title": "Неограниченная мощь!",
@@ -13,7 +9,6 @@
 		"description": "Получите силу элемента Электро.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

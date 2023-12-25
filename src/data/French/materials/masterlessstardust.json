@@ -1,17 +1,11 @@
 {
-	"id": 222,
 	"name": "Astrion libre",
-	"rarity": 4,
-	"sortRank": 410002,
 	"description": "Une monnaie qui peut être échangée contre des ressources précieuses dans la boutique.\nLa poussière d'étoile du destin. Peut-être qu'elle peut créer de nouveaux destins en l'accumulant.",
-<<<<<<< HEAD
 	"sortorder": 4849,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Coupon d'échange commun",
-	"sources": [
+	"materialtype": "Coupon d'échange commun",
+	"source": [
 		"Vœux"
 	]
 }

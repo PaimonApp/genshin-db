@@ -1,11 +1,8 @@
 {
-	"id": [
-		81352
-	],
 	"name": "ความงามอันอัปลักษณ์",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1338,
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1338,
 	"stages": 1,
 	"stage1": {
 		"title": "ความงามอันอัปลักษณ์",
@@ -13,7 +10,6 @@
 		"description": "Fontaine ได้ก้าวไปสู่ความงามอีกขั้น",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

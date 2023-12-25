@@ -1,20 +1,13 @@
 {
-	"id": 101304,
 	"name": "Sandbearer Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Timber from the Sandbearer Tree. Said to be an exceptionally hardy plant resistant to wind and rain with a long lifespan.\nCan be used to create furnishings.",
-<<<<<<< HEAD
 	"sortorder": 2963,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Cut from Minlin",
-		"Recommendation: Cut from Lisha",
-		"Convert Wood"
+		"Recommendation: Cut from Lisha"
 	]
 }

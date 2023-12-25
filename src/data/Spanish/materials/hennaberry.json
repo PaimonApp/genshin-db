@@ -1,15 +1,10 @@
 {
-	"id": 101220,
 	"name": "Añoraescarlata",
-	"sortRank": 314,
 	"description": "El fruto de una planta que es capaz de sobrevivir hasta en el inhóspito entorno del desierto. Este fruto escarlata se ve incluso más impresionante con el contraste de las arenas doradas del desierto.",
-<<<<<<< HEAD
 	"sortorder": 2875,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Sumeru",
-	"sources": [
+	"materialtype": "Objeto típico de Sumeru",
+	"source": [
 		"Recolectar en el desierto de Sumeru"
 	]
 }

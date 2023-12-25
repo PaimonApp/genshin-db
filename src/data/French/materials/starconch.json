@@ -1,15 +1,10 @@
 {
-	"id": 100033,
 	"name": "Conque d'étoile",
-	"sortRank": 312,
 	"description": "Un coquillage creux échoué sur la plage. Plaquez-le contre votre oreille et vous entendrez l'appel de la mer.",
-<<<<<<< HEAD
 	"sortorder": 2859,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Liyue",
-	"sources": [
+	"materialtype": "Produit de Liyue",
+	"source": [
 		"Plages de Liyue"
 	]
 }

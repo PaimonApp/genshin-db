@@ -1,15 +1,10 @@
 {
-	"id": 100015,
 	"name": "Goldfischkraut",
-	"sortRank": 321,
 	"description": "Zubereitet eine essbare Pflanze. Als würzende Zutat gibt sie deinem Essen das gewisse Etwas.",
-<<<<<<< HEAD
 	"sortorder": 2904,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"An Flussufern und Seen zu finden"
 	]
 }

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Pengunjung Akuarium",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 5083,
-=======
-	"id": [
-		84304
-	],
-	"name": "Pengunjung Akuarium",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 5083,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Pengunjung Akuarium",
 		"description": "Setelah menyelesaikan administrasi, pergi ke Benteng Meropide.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

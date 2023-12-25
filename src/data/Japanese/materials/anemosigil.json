@@ -1,17 +1,11 @@
 {
-	"id": 305,
 	"name": "風の印",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "モンドの風に認められ、授かった印記。\nモンド城の記念品ショップで特別なアイテムと交換できる。",
-<<<<<<< HEAD
 	"sortorder": 4931,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "七国の印",
-	"sources": [
+	"materialtype": "七国の印",
+	"source": [
 		"モンド地域探索報酬"
 	]
 }

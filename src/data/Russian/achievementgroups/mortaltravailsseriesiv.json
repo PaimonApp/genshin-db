@@ -1,9 +1,7 @@
 {
-	"id": 43,
 	"name": "Скитания по миру IV",
-	"sortOrder": 6,
+	"sortorder": 6,
 	"reward": {
-		"id": 210170,
 		"name": "Мореход"
 	}
 }

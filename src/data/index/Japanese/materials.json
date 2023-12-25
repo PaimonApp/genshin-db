@@ -492,14 +492,9 @@
 		"sumerurose": "スメールローズ",
 		"sunsetcloudangler": "夕雲コオニフグ",
 		"sunsettia": "夕暮れの実",
-<<<<<<< HEAD
-=======
-		"superduperinvincibleshiningsparklymagiccrystal": "「スーパーキラキラ無敵魔晶」",
->>>>>>> upstream/main
 		"surgingsacredchalice": "湧き出づる聖杯",
 		"sweetflower": "スイートフラワー",
 		"sweetflowermedaka": "スイートグッピー",
-		"swirlingsceneinabottle": "「旋流の瓶景」",
 		"tailofboreas": "北風のしっぽ",
 		"teachingsofadmonition": "「忠言」の教え",
 		"teachingsofballad": "「詩文」の教え",
@@ -1064,14 +1059,9 @@
 		"スメールローズ": "sumerurose",
 		"夕雲コオニフグ": "sunsetcloudangler",
 		"夕暮れの実": "sunsettia",
-<<<<<<< HEAD
-=======
-		"「スーパーキラキラ無敵魔晶」": "superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 		"湧き出づる聖杯": "surgingsacredchalice",
 		"スイートフラワー": "sweetflower",
 		"スイートグッピー": "sweetflowermedaka",
-		"「旋流の瓶景」": "swirlingsceneinabottle",
 		"北風のしっぽ": "tailofboreas",
 		"「忠言」の教え": "teachingsofadmonition",
 		"「詩文」の教え": "teachingsofballad",
@@ -1527,13 +1517,7 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
-<<<<<<< HEAD
 			"surgingsacredchalice",
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
-			"surgingsacredchalice",
-			"swirlingsceneinabottle",
->>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1865,7 +1849,6 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
-			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2232,10 +2215,6 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2489,10 +2468,6 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3064,7 +3039,6 @@
 			"naturestruefruit",
 			"plumeofpurifyinglight",
 			"silkenprint",
-			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"煉武秘境：雲纏": [
@@ -3360,11 +3334,11 @@
 	},
 	"properties": {
 		"rarity": [
-			3,
-			5,
-			1,
-			2,
-			4
+			"3",
+			"5",
+			"1",
+			"2",
+			"4"
 		],
 		"category": [
 			"EXCHANGE",
@@ -3379,7 +3353,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"typeText": [
+		"materialtype": [
 			"魚",
 			"祈願アイテム",
 			"食べ物",
@@ -3420,7 +3394,7 @@
 			"雪山素材",
 			"便利アイテム"
 		],
-		"dropDomainName": [
+		"dropdomain": [
 			"煉武秘境：雷の試練場",
 			"煉武秘境：沈んだ谷",
 			"煉武秘境：奇械",
@@ -3452,7 +3426,7 @@
 			"煉武秘境：砂の祭場",
 			"煉武秘境：思惑"
 		],
-		"daysOfWeek": [
+		"daysofweek": [
 			"水曜",
 			"土曜",
 			"日曜",

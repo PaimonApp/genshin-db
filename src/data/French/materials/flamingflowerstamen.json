@@ -1,15 +1,10 @@
 {
-	"id": 100053,
 	"name": "Pistil de fleur enflammée",
-	"sortRank": 320,
 	"description": "Un pistil de fleur enflammée. Il émet de la chaleur même éteint.",
-<<<<<<< HEAD
 	"sortorder": 2890,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Matériau",
-	"sources": [
+	"materialtype": "Matériau",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Temple des Mille Vents"
 	]

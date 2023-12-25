@@ -1,20 +1,13 @@
 {
-	"id": [
-		81068,
-		81069,
-		81070
-	],
 	"name": "Decorazione d'interni",
-	"achievementGroupId": 18,
-	"achievementGroupName": "Un regno al di fuori: Serie I",
-	"sortOrder": 1069,
+	"achievementgroup": "Un regno al di fuori: Serie I",
+	"sortorder": 1069,
 	"stages": 3,
 	"stage1": {
 		"title": "Decorazione d'interni",
 		"description": "Apprendi 60 progetti decorativi.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Impara 120 progetti decorativi.",
 		"progress": 120,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Impara 180 progetti decorativi.",
 		"progress": 180,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 20
 		}

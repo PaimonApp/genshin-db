@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Até Caesar Não Poderia Comprar Isso",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1415,
-=======
-	"id": [
-		81431
-	],
-	"name": "Até Caesar Não Poderia Comprar Isso",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1415,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Até Caesar Não Poderia Comprar Isso",
 		"description": "Obtenha a maior obra de arte desse mundo.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

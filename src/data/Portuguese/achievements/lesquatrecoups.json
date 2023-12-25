@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Impetus Quattuor Frugum",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1363,
-=======
-	"id": [
-		81379
-	],
-	"name": "Impetus Quattuor Frugum",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1363,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Impetus Quattuor Frugum",
 		"description": "Conclua a \"Ordem das Frutas\" e a história de Blanche.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

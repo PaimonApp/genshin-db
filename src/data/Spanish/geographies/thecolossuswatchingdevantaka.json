@@ -1,11 +1,8 @@
 {
-	"id": 70400008,
 	"name": "El coloso custodio de Devantaka",
-	"areaId": 4204,
-	"areaName": "Montaña Devantaka",
+	"area": "Montaña Devantaka",
 	"description": "“¡Damas y caballeros, los miles de años de la historia de Khaenri'ah nos contemplan!”.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 308
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 308
 }

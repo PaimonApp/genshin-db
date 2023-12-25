@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Finisce qui",
 	"achievementgroup": "Fontaine: Danza delle sorgenti rugiadose (II)",
 	"sortorder": 261,
-=======
-	"id": [
-		80285
-	],
-	"name": "Finisce qui",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Danza delle sorgenti rugiadose (II)",
-	"sortOrder": 261,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Finisce qui",
 		"description": "Assisti alla storia dell'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 10
 		}

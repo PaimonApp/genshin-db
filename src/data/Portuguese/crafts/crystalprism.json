@@ -1,14 +1,12 @@
 {
-	"id": 11033,
 	"name": "Prisma Cristalino",
-	"filterText": "Material de Fortalecimento de Arma e Personagem",
-	"sortOrder": 140080,
-	"unlockRank": 5,
-	"resultCount": 1,
-	"moraCost": 25,
+	"filter": "Material de Fortalecimento de Arma e Personagem",
+	"sortorder": 140080,
+	"unlockrank": 5,
+	"resultcount": 1,
+	"moracost": 25,
 	"recipe": [
 		{
-			"id": 112050,
 			"name": "Prisma Sombrio",
 			"count": 3
 		}

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Kisahnya Usai Sudah, Tapi ....",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1401,
-=======
-	"id": [
-		81417
-	],
-	"name": "Kisahnya Usai Sudah, Tapi ....",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1401,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Kisahnya Usai Sudah, Tapi ....",
 		"description": "\"Petualangan yang bernama kehidupan masih terus berlanjut.\"",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

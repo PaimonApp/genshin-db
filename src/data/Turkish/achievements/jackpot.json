@@ -1,11 +1,8 @@
 {
-	"id": [
-		81124
-	],
 	"name": "Bingo",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1120,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1120,
 	"stages": 1,
 	"stage1": {
 		"title": "Bingo",
@@ -13,7 +10,6 @@
 		"description": "Bir defineyi ortaya çıkarmak için Kamuijima Topunu kullan.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

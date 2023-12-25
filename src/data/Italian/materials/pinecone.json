@@ -1,15 +1,10 @@
 {
-	"id": 100020,
 	"name": "Pigna",
-	"sortRank": 321,
 	"description": "Ricca di semi oleosi. Di certo non diventerà un albero da dentro lo stomaco di uno scoiattolo.",
-<<<<<<< HEAD
 	"sortorder": 2909,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Presente in natura"
 	]
 }

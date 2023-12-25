@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "¡Gracias por su compra!",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1386,
-=======
-	"id": [
-		81402
-	],
-	"name": "¡Gracias por su compra!",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1386,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "¡Gracias por su compra!",
 		"description": "Saca un papelito de suerte doble.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

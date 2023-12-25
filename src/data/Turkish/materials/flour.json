@@ -1,15 +1,10 @@
 {
-	"id": 110001,
 	"name": "Un",
-	"sortRank": 322,
 	"description": "Buğdayın öğütülmesiyle elde edilen toz. Hangi yemekte kullanılırsa kullanılsın yiyenleri memnun bırakır.",
-<<<<<<< HEAD
 	"sortorder": 2947,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"İşlenerek elde edilir."
 	]
 }

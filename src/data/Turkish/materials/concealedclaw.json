@@ -1,21 +1,9 @@
 {
-	"id": 112056,
 	"name": "Gizli Pençe",
-	"rarity": 2,
-	"sortRank": 10119,
 	"description": "Hiçlik Kurtlarından düşen vücut parçası.\nNormal olmayan bu yaratıklar yeryüzünden silindiğinde mantıken dünyaya yabancı olan bu nesnelerin de ortadan kalkması gerekirdi.",
-<<<<<<< HEAD
 	"sortorder": 3089,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Karakter ve Silah Geliştirme Malzemesi",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter ve Silah Geliştirme Malzemesi",
-	"sources": [
-		"Hiçlik Kurtlarından düşer.",
-		"Yıldız Tozu Takası"
-	]
->>>>>>> upstream/main
 }

@@ -1,11 +1,8 @@
 {
-	"id": 70400067,
 	"name": "\"View From Mont Automnequi\"",
-	"areaId": 50104,
-	"areaName": "West Slopes of Mont Automnequi",
+	"area": "West Slopes of Mont Automnequi",
 	"description": "Salsa once painted the scenery here.\nFrom Mont Automnequi, one can see the ridge of Elynas. Beneath the peaks and lakes, the homeland of the Melusines is hidden.",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 367
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 367
 }

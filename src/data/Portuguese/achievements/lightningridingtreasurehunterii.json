@@ -1,20 +1,13 @@
 {
-	"id": [
-		80105,
-		80106,
-		80107
-	],
 	"name": "Caçador de Tesouros dos Trovões - II",
-	"achievementGroupId": 26,
-	"achievementGroupName": "Inazuma: A Ilha de Trovões e Eternidade - Parte II",
-	"sortOrder": 105,
+	"achievementgroup": "Inazuma: A Ilha de Trovões e Eternidade - Parte II",
+	"sortorder": 105,
 	"stages": 3,
 	"stage1": {
 		"title": "Caçador de Tesouros dos Trovões - II",
 		"description": "Abra 40 baús na Ilha Watatsumi e Ilha Seirai em Inazuma.",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Abra 80 baús na Ilha Watatsumi e Ilha Seirai em Inazuma.",
 		"progress": 80,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Abra 160 baús na Ilha Watatsumi e Ilha Seirai em Inazuma.",
 		"progress": 160,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 20
 		}

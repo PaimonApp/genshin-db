@@ -1,21 +1,9 @@
 {
-	"id": 112035,
 	"name": "Insígnia dos Ladrões de Tesouro",
-	"rarity": 1,
-	"sortRank": 10112,
 	"description": "Uma insígnia que orgulhosamente representa a posição de seus proprietários como membro dos Ladrões de Tesouro. A busca por tesouros não tem limites. Dito isso... ser ladrão é algo para se orgulhar?",
-<<<<<<< HEAD
 	"sortorder": 3068,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Fortalecimento de Arma e Personagem",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Fortalecimento de Arma e Personagem",
-	"sources": [
-		"Dropado pelos Ladrões de Tesouro",
-		"Resgate de Poeira Estrelar"
-	]
->>>>>>> upstream/main
 }

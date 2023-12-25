@@ -1,15 +1,10 @@
 {
-	"id": 101221,
 	"name": "Quả Ajilenakh",
-	"sortRank": 321,
 	"description": "Quả của cây thường xanh trong ốc đảo sa mạc. Dưới lớp vỏ cứng là lớp thịt dày, ngọt và thơm ngon, là nguồn lương thực quan trọng của người dân nơi biển cát.",
-<<<<<<< HEAD
 	"sortorder": 2942,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Thu thập ở ốc đảo sa mạc Sumeru"
 	]
 }

@@ -492,14 +492,9 @@
 		"sumerurose": "Sumeru Rose",
 		"sunsetcloudangler": "Sunset Cloud Angler",
 		"sunsettia": "Sunsettia",
-<<<<<<< HEAD
-=======
-		"superduperinvincibleshiningsparklymagiccrystal": "Super-Duper Invincible Shining Sparkly Magic Crystal",
->>>>>>> upstream/main
 		"surgingsacredchalice": "Surging Sacred Chalice",
 		"sweetflower": "Sweet Flower",
 		"sweetflowermedaka": "Sweet-Flower Medaka",
-		"swirlingsceneinabottle": "\"Swirling Scene in a Bottle\"",
 		"tailofboreas": "Tail of Boreas",
 		"teachingsofadmonition": "Teachings of Admonition",
 		"teachingsofballad": "Teachings of Ballad",
@@ -1064,14 +1059,9 @@
 		"Sumeru Rose": "sumerurose",
 		"Sunset Cloud Angler": "sunsetcloudangler",
 		"Sunsettia": "sunsettia",
-<<<<<<< HEAD
-=======
-		"Super-Duper Invincible Shining Sparkly Magic Crystal": "superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 		"Surging Sacred Chalice": "surgingsacredchalice",
 		"Sweet Flower": "sweetflower",
 		"Sweet-Flower Medaka": "sweetflowermedaka",
-		"\"Swirling Scene in a Bottle\"": "swirlingsceneinabottle",
 		"Tail of Boreas": "tailofboreas",
 		"Teachings of Admonition": "teachingsofadmonition",
 		"Teachings of Ballad": "teachingsofballad",
@@ -1527,13 +1517,7 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
-<<<<<<< HEAD
 			"surgingsacredchalice",
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
-			"surgingsacredchalice",
-			"swirlingsceneinabottle",
->>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1865,7 +1849,6 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
-			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2232,10 +2215,6 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2489,10 +2468,6 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3062,7 +3037,6 @@
 			"naturestruefruit",
 			"plumeofpurifyinglight",
 			"silkenprint",
-			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"Domain of Forgery: Tainted Clouds": [
@@ -3362,11 +3336,11 @@
 	},
 	"properties": {
 		"rarity": [
-			3,
-			5,
-			1,
-			2,
-			4
+			"3",
+			"5",
+			"1",
+			"2",
+			"4"
 		],
 		"category": [
 			"EXCHANGE",
@@ -3381,7 +3355,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"typeText": [
+		"materialtype": [
 			"Fish",
 			"Wishing Item",
 			"Food",
@@ -3423,7 +3397,7 @@
 			"Dragonspine Material",
 			"Gadget"
 		],
-		"dropDomainName": [
+		"dropdomain": [
 			"Domain of Forgery: Trial Grounds of Thunder",
 			"Domain of Forgery: Submerged Valley",
 			"Domain of Forgery: Curious Contraptions",
@@ -3455,7 +3429,7 @@
 			"Domain of Forgery: Altar of Sands",
 			"Domain of Forgery: Obsession"
 		],
-		"daysOfWeek": [
+		"daysofweek": [
 			"Wednesday",
 			"Saturday",
 			"Sunday",

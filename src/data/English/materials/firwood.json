@@ -1,20 +1,13 @@
 {
-	"id": 101308,
 	"name": "Fir Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Wood from the tree known as \"Faber's Fir.\" Widely used for its fine quality and attractive grain.\nCan be used to create furnishings.",
-<<<<<<< HEAD
 	"sortorder": 2967,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Cut from Starfell Valley",
-		"Recommendation: Cut from Galesong Hill",
-		"Convert Wood"
+		"Recommendation: Cut from Galesong Hill"
 	]
 }

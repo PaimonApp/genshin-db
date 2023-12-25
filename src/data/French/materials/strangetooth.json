@@ -1,13 +1,8 @@
 {
-	"id": 100618,
 	"name": "Dent étrange",
-	"sortRank": 200,
 	"description": "Une étrange dent recueillie aux Monts Dosdragon. Peut-être que quelqu'un en sait plus à son sujet...",
-<<<<<<< HEAD
 	"sortorder": 2776,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Matériau",
-	"sources": []
+	"materialtype": "Matériau",
+	"source": []
 }

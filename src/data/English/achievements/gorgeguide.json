@@ -1,20 +1,13 @@
 {
-	"id": [
-		80148,
-		80149,
-		80150
-	],
 	"name": "Gorge Guide",
-	"achievementGroupId": 30,
-	"achievementGroupName": "Chasmlighter",
-	"sortOrder": 148,
+	"achievementgroup": "Chasmlighter",
+	"sortorder": 148,
 	"stages": 3,
 	"stage1": {
 		"title": "Gorge Guide",
 		"description": "Follow 6 Seelie in The Chasm to their Seelie Courts.",
 		"progress": 6,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Follow 12 Seelie in The Chasm to their Seelie Courts.",
 		"progress": 12,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Follow 24 Seelie in The Chasm to their Seelie Courts.",
 		"progress": 24,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

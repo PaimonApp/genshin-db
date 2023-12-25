@@ -1,20 +1,13 @@
 {
-	"id": 101304,
 	"name": "Sandbearer Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Kayu dari Pohon Sandbearer. Kayu ini dikenal sangat kebal terhadap angin dan hujan, serta memiliki umur yang panjang.\nDapat digunakan untuk membuat perabotan.",
-<<<<<<< HEAD
 	"sortorder": 2963,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditebang dari Minlin",
-		"Rekomendasi: Ditebang dari Lisha",
-		"Konversi Kayu"
+		"Rekomendasi: Ditebang dari Lisha"
 	]
 }

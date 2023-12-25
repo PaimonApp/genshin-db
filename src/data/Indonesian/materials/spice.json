@@ -1,15 +1,10 @@
 {
-	"id": 110014,
 	"name": "Spice",
-	"sortRank": 322,
 	"description": "Penyedap dengan rasa yang kompleks. Terbuat dari Harra Fruit yang sudah dikeringkan dan diproses. Bumbu ini bisa memberikan beberapa lapis rasa pada hidangan, sehingga diberi nama \"Bumbu Sejuta Hidangan\".",
-<<<<<<< HEAD
 	"sortorder": 2959,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Didapatkan dari proses memasak"
 	]
 }

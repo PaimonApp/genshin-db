@@ -1,13 +1,7 @@
 {
-	"id": [
-		80260,
-		80261,
-		80262
-	],
 	"name": "Dalgaların Hakimi Hazine Avcısı (I)",
-	"achievementGroupId": 42,
-	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (I)",
-	"sortOrder": 240,
+	"achievementgroup": "Fontaine: Çiy Beyazı Pınarların Dansı (I)",
+	"sortorder": 240,
 	"stages": 3,
 	"stage1": {
 		"title": "Dalgaların Hakimi Hazine Avcısı (I)",
@@ -15,7 +9,6 @@
 		"description": "Fontaine Şehri Bölgesi, Belleau Bölgesi ve Beril Bölgesi'nde {param0} sandık aç.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Fontaine Şehri Bölgesi, Belleau Bölgesi ve Beril Bölgesi'nde {param0} sandık aç.",
 		"progress": 120,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Fontaine Şehri Bölgesi, Belleau Bölgesi ve Beril Bölgesi'nde {param0} sandık aç.",
 		"progress": 240,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 20
 		}

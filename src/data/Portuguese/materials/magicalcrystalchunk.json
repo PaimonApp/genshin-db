@@ -1,15 +1,10 @@
 {
-	"id": 101004,
 	"name": "Pedaço de Cristal Mágico",
-	"sortRank": 301,
 	"description": "Esses pedaços de cristal podem ser refinados em materiais de EXP de armas usando a resina original.\nOs cristais de minas que foram corroídos pela energia das linhas Ley não podem ser processados por meios comuns.",
-<<<<<<< HEAD
 	"sortorder": 2824,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Minério de Forjamento",
-	"sources": [
+	"materialtype": "Minério de Forjamento",
+	"source": [
 		"Encontrado na natureza"
 	]
 }

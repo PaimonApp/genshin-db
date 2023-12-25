@@ -1,8 +1,7 @@
 {
-	"id": 210084,
 	"name": "Inazuma: Lambang Raiden",
 	"description": "Style Kartu Nama.\nIni adalah lambang Shogun Ogosho, dan merupakan simbol bendera pasukannya sendiri, Electro Mitsudomoe.",
-	"sortOrder": 210084,
+	"sortorder": 210084,
 	"source": [
 		"Didapatkan saat Reputasi (Inazuma) mencapai Lv. 7"
 	]

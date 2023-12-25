@@ -1,17 +1,11 @@
 {
-	"id": 104154,
 	"name": "Tùng Thạch Tự Tại",
-	"rarity": 5,
-	"sortRank": 12106,
 	"description": "Nguyên liệu đột phá nhân vật.\n\"Nhưng hướng gió sẽ thay đổi.\n\"Sẽ có một ngày, sẽ thổi về hướng có ánh sáng hơn nữa.\n\"Từ nay về sau, đem theo sự chúc phúc của ta, sống tự do thoải mái hơn nữa nhé.\"",
-<<<<<<< HEAD
 	"sortorder": 3205,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
+	"source": [
 		"Phong Nguyên Bản cấp 75 trở lên rơi",
 		"Setekh Wenut Lv75 trở lên rơi",
 		"Ghép Nhận"

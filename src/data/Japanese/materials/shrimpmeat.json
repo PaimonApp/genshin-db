@@ -1,15 +1,10 @@
 {
-	"id": 100093,
 	"name": "エビのむき身",
-	"sortRank": 321,
 	"description": "深海エビのむき身。豊富な栄養と圧倒的な食感が特徴。",
-<<<<<<< HEAD
 	"sortorder": 2930,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"璃月雑貨屋で購入",
 		"稲妻雑貨屋で購入",
 		"スメール雑貨屋で購入"

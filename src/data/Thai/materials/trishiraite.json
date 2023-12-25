@@ -1,15 +1,10 @@
 {
-	"id": 101224,
 	"name": "Trishiraite",
-	"sortRank": 314,
 	"description": "หินระยิบระยับพิเศษที่กระจายตัวอยู่ในส่วนลึกของภูเขาที่รกร้าง ดูเหมือนจะก่อตัวขึ้นมาจากพลังงานธาตุที่รวมตัวกัน",
-<<<<<<< HEAD
 	"sortorder": 2878,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "ของพิเศษเฉพาะใน Sumeru",
-	"sources": [
+	"materialtype": "ของพิเศษเฉพาะใน Sumeru",
+	"source": [
 		"พบได้ที่ทะเลทรายของ Sumeru",
 		"คำแนะนำ: หาได้ที่ภูเขา Temir"
 	]

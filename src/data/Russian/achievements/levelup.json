@@ -1,17 +1,13 @@
 {
-	"id": [
-		84513
-	],
 	"name": "На этаж повыше...",
-	"achievementGroupName": "Чудеса света",
-	"sortOrder": 4037,
+	"achievementgroup": "Чудеса света",
+	"sortorder": 4037,
 	"stages": 1,
 	"stage1": {
 		"title": "На этаж повыше...",
 		"description": "Помогите Хуай Аню починить лестницу на постоялом дворе «Ваншу».",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

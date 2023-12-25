@@ -1,18 +1,14 @@
 {
-	"id": [
-		84525
-	],
 	"name": "นิยายเล่มนี้สุดยอดไปเลย!",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 4049,
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 4049,
 	"stages": 1,
 	"stage1": {
 		"title": "นิยายเล่มนี้สุดยอดไปเลย!",
 		"description": "แอบดูต้นฉบับของ Chang ที่เก้า",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

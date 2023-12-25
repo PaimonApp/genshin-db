@@ -1,10 +1,9 @@
 {
-	"id": 1006,
 	"name": "Peixe Grelhado de Mondstadt",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revive o Personagem selecionado.\nRestaura 50 - 150 de Vida.",
 	"description": "Peixe grelhado totalmente em fogo médio, tornando-o completamente seco e crocante. A adição de pimenta realça o seu sabor.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Peixe",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "Pimenta",
 			"count": 1
 		}

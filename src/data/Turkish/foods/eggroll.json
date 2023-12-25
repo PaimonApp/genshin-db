@@ -1,10 +1,9 @@
 {
-	"id": 1201,
 	"name": "Rulo Omlet",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Seçili karakteri diriltir.\n50 ila 150 Can yeniler.",
 	"description": "Kızartılmış yumurta yemeği. Yumurtaları iyice çırp, baharat ekle, derin bir tavada ağır ağır kızarttıktan sonra yuvarlayarak sabit bir şekil ver. Yumurta karışımını tekrar dök ve belli bir yoğunluğa ulaşana kadar devam et, ardından yemeği tabağa almaya hazır ol. İşte karşında sıradan ama samimi bir Inazuma lezzeti.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Kuş Yumurtası",
 			"count": 1
 		},
 		{
-			"id": 110006,
 			"name": "Şeker",
 			"count": 1
 		}

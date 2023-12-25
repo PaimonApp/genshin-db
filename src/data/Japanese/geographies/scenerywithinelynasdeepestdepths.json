@@ -1,11 +1,8 @@
 {
-	"id": 70400055,
 	"name": "エリナスの最奥の風景",
-	"areaId": 50203,
-	"areaName": "「とてもあったかい場所」",
+	"area": "「とてもあったかい場所」",
 	"description": "「出会えてうれしい！」",
-	"regionId": 5,
-	"regionName": "フォンテーヌ",
-	"showOnlyUnlocked": true,
-	"sortOrder": 355
+	"region": "フォンテーヌ",
+	"showonlyunlocked": true,
+	"sortorder": 355
 }

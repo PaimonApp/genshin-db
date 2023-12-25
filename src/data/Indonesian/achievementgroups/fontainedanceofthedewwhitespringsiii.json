@@ -1,15 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
 	"sortorder": 47,
 	"reward": {
-=======
-	"id": 46,
-	"name": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
-	"sortOrder": 47,
-	"reward": {
-		"id": 210182,
->>>>>>> upstream/main
 		"name": "Fontaine: Kelengkapan"
 	}
 }

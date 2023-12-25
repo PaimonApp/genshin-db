@@ -1,11 +1,8 @@
 {
-	"id": 70300017,
 	"name": "Владения временной настоятельницы",
-	"areaId": 3402,
-	"areaName": "Святилище Асасэ",
+	"area": "Святилище Асасэ",
 	"description": "«Хибики вернётся».\n«Благодаря вам святилище выглядит замечательно. Она вернётся очень скоро».",
-	"regionId": 3,
-	"regionName": "Инадзума",
-	"showOnlyUnlocked": true,
-	"sortOrder": 213
+	"region": "Инадзума",
+	"showonlyunlocked": true,
+	"sortorder": 213
 }

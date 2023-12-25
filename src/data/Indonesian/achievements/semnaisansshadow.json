@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Semnai Tanpa Bayangan",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
 	"sortorder": 274,
-=======
-	"id": [
-		80298
-	],
-	"name": "Semnai Tanpa Bayangan",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
-	"sortOrder": 274,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Semnai Tanpa Bayangan",
@@ -19,10 +9,6 @@
 		"description": "Bertemu dengan peri misterius di Erinnyes.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

@@ -1,17 +1,11 @@
 {
-	"id": 221,
 	"name": "無主のスターライト",
-	"rarity": 5,
-	"sortRank": 410001,
 	"description": "ショップでレアなものと交換できるコイン。\n過剰な運命の星の光。その輝きは宇宙の至るところを照らせるかもしれない。",
-<<<<<<< HEAD
 	"sortorder": 4847,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "高級交換アイテム",
-	"sources": [
+	"materialtype": "高級交換アイテム",
+	"source": [
 		"祈願"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 101217,
 	"name": "Lótus Kalpalata",
-	"sortRank": 314,
 	"description": "Flor de videiras que crescem no topo das falésias das montanhas. É chamada de lótus apenas por causa de sua aparência, mas o fato é que elas duas não têm relação nenhuma.",
-<<<<<<< HEAD
 	"sortorder": 2874,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Sumeru",
-	"sources": [
+	"materialtype": "Especialidade de Sumeru",
+	"source": [
 		"Encontrado nas montanhas de Sumeru"
 	]
 }

@@ -1,10 +1,9 @@
 {
-	"id": 3415,
 	"name": "桔桔薄饼",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "冒险类料理",
+	"foodfilter": "冒险类料理",
+	"foodcategory": "Other_SPReduceConsume",
 	"effect": "队伍中所有角色滑翔和冲刺消耗的体力降低15%-25%，持续900秒。\n多人游戏时，仅对自己的角色生效。",
 	"description": "带有馅料的薄饼。先煎好饼皮，再加入果酱、奶油和水果切片。其实做法并不单一，根据加入的食材不同，口味也是五花八门。",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 101230,
 			"name": "泡泡桔",
 			"count": 2
 		},
 		{
-			"id": 110002,
 			"name": "奶油",
 			"count": 1
 		},
 		{
-			"id": 110008,
 			"name": "果酱",
 			"count": 1
 		},
 		{
-			"id": 110001,
 			"name": "面粉",
 			"count": 1
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 100030,
 	"name": "Lirio de cristal",
-	"sortRank": 312,
 	"description": "Una flor milenaria que solía encontrarse comúnmente en Liyue. Transforma los recuerdos de la tierra en su fragancia durante la floración.",
-<<<<<<< HEAD
 	"sortorder": 2857,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Liyue",
-	"sources": [
+	"materialtype": "Objeto típico de Liyue",
+	"source": [
 		"Recolectar en la naturaleza",
 		"Recolectar en la Terraza Yujing de Liyue",
 		"Recolectar en la Aldea Chingtsé"

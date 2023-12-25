@@ -1,11 +1,8 @@
 {
-	"id": [
-		84024
-	],
 	"name": "Yeni Bir Yıldız Yaklaşıyor",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 4025,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 4025,
 	"stages": 1,
 	"stage1": {
 		"title": "Yeni Bir Yıldız Yaklaşıyor",
@@ -13,7 +10,6 @@
 		"description": "\"Yeni Bir Yıldız Yaklaşıyor\" görevini tamamla.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

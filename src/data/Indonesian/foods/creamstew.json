@@ -1,10 +1,9 @@
 {
-	"id": 2004,
 	"name": "Cream Stew",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Makanan Petualangan",
+	"foodfilter": "Makanan Petualangan",
+	"foodcategory": "Other_SPReduceConsume",
 	"effect": "Mengurangi 15–25% jumlah Stamina yang dikonsumsi seluruh anggota party saat berlari selama 900 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Sup yang berisi daging dan sayuran. Kuahnya yang kental terasa sangat gurih dan lembut di mulut.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Raw Meat",
 			"count": 2
 		},
 		{
-			"id": 110002,
 			"name": "Cream",
 			"count": 2
 		},
 		{
-			"id": 100015,
 			"name": "Snapdragon",
 			"count": 1
 		}

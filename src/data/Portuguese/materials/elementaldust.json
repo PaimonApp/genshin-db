@@ -1,13 +1,8 @@
 {
-	"id": 107002,
 	"name": "Poeira Elemental",
-	"sortRank": 406,
 	"description": "Fragmentos dispersos do Cristal do Oráculo. Mostra tesouros ocultos por perto.",
-<<<<<<< HEAD
 	"sortorder": 3033,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Item de Aventura",
-	"sources": []
+	"materialtype": "Item de Aventura",
+	"source": []
 }

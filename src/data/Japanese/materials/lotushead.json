@@ -1,15 +1,10 @@
 {
-	"id": 100026,
 	"name": "ハスの花托",
-	"sortRank": 321,
 	"description": "璃月地域の水辺に咲くハスは二つの花が咲く。一つは香りを放ち、もう一つは少し苦い花托になる。薬にも使えるらしい。",
-<<<<<<< HEAD
 	"sortorder": 2910,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"水辺で採集"
 	]
 }

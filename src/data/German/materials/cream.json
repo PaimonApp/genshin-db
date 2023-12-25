@@ -1,15 +1,10 @@
 {
-	"id": 110002,
 	"name": "Sahne",
-	"sortRank": 322,
 	"description": "Ein durch kräftiges Schlagen entstehendes Milchprodukt. Eine unentbehrliche Zutat bei der Herstellung von Süßspeisen.",
-<<<<<<< HEAD
 	"sortorder": 2948,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beim Verarbeiten von Gerichten zu erhalten"
 	]
 }

@@ -1,10 +1,9 @@
 {
-	"id": 1006,
 	"name": "Рыбный шашлычок",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Восстанавливающее блюдо",
+	"foodfilter": "Восстанавливающее блюдо",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Воскрешает выбранного персонажа.\nВосстанавливает 50-150 HP.",
 	"description": "Пожаренная на среднем огне хрустящая рыбка, щедро приправленная душистым перцем.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Рыба",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "Перец",
 			"count": 1
 		}

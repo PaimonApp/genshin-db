@@ -1,13 +1,7 @@
 {
-	"id": 31,
 	"name": "Sumeru : Selve de connaissances",
-<<<<<<< HEAD
 	"sortorder": 40,
-=======
-	"sortOrder": 40,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210130,
 		"name": "Sumeru - Bois scintillants"
 	}
 }

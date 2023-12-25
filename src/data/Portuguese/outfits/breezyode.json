@@ -1,8 +1,6 @@
 {
-	"id": 202200,
 	"name": "Poesias do Vento",
 	"description": "Vestuário de Venti. Uma roupa relaxada casual do Bardo.",
-	"isDefault": true,
-	"characterId": 10000022,
-	"characterName": "Venti"
+	"isdefault": true,
+	"character": "Venti"
 }

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Ảo Cảnh Trong Mơ",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 5084,
-=======
-	"id": [
-		84305
-	],
-	"name": "Ảo Cảnh Trong Mơ",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 5084,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Ảo Cảnh Trong Mơ",
 		"description": "Trong giấc mơ, trải nghiệm \"góc nhìn\" mà Childe từng trải qua.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

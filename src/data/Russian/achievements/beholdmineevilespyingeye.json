@@ -1,19 +1,14 @@
 {
-	"id": [
-		84028
-	],
 	"name": "Знаток нечисти",
-	"achievementGroupId": 17,
-	"achievementGroupName": "Воспоминания сердца",
-	"isHidden": true,
-	"sortOrder": 6110,
+	"achievementgroup": "Воспоминания сердца",
+	"ishidden": true,
+	"sortorder": 6110,
 	"stages": 1,
 	"stage1": {
 		"title": "Знаток нечисти",
 		"description": "Безошибочно истолкуйте все подсказки.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

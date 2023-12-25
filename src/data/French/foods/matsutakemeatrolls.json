@@ -1,10 +1,9 @@
 {
-	"id": 2104,
 	"name": "Rouleaux de viande au matsutake",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Récupération",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Restaure 20 % à 24 % des PV max du personnage sélectionné et 900 à 1 500 PV supplémentaires.",
 	"description": "Un plat de viande hachée, poêlée avec des champignons matsutake à feu doux. Ces derniers absorbent le jus de la viande et en font saliver plus d'un.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100063,
 			"name": "Matsutake",
 			"count": 2
 		},
 		{
-			"id": 100061,
 			"name": "Viande crue",
 			"count": 2
 		}

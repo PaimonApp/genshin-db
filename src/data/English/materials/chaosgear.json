@@ -1,21 +1,9 @@
 {
-	"id": 112047,
 	"name": "Chaos Gear",
-	"rarity": 2,
-	"sortRank": 10116,
 	"description": "Comes from a now-inactive ancient Ruin machine.\nThis is the energy source of that biomimetic mechanism.",
-<<<<<<< HEAD
 	"sortorder": 3080,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character and Weapon Enhancement Material",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Character and Weapon Enhancement Material",
-	"sources": [
-		"Dropped by Ruin Sentinels",
-		"Stardust Exchange"
-	]
->>>>>>> upstream/main
 }

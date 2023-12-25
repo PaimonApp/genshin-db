@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Gegrillte Rippchen",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gericht zur LP-Wiederherstellung",
 	"foodcategory": "Recovery_HpAdd",
-=======
-	"id": 2407,
-	"name": "Gegrillte Rippchen",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Gericht zur LP-Wiederherstellung",
->>>>>>> upstream/main
 	"effect": "Stellt der gewählten Figur 20 bis 24 % LP sowie zusätzlich 900 bis 1.500 LP wieder her.",
 	"description": "Ein mit knuspriger Haut umhülltes Fleischgericht. Man brate zuerst die Oberseite der Rippen leicht an, bestreiche danach die nun knusprige Haut mit einer Soße und brate sie anschließend schonend bei niedriger Temperatur. Vergiss nicht, das Feuer stetig im Auge zu behalten, damit die Haut knusprig und das Fleisch zart und saftig bleibt.",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Rohes Fleisch",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100077,
->>>>>>> upstream/main
 			"name": "Pfeffer",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

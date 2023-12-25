@@ -1,18 +1,13 @@
 {
-	"id": [
-		80157
-	],
 	"name": "Un espectáculo brillante",
-	"achievementGroupId": 30,
-	"achievementGroupName": "Cuevas luminosas",
-	"sortOrder": 157,
+	"achievementgroup": "Cuevas luminosas",
+	"sortorder": 157,
 	"stages": 1,
 	"stage1": {
 		"title": "Un espectáculo brillante",
 		"description": "Fortalece el Canalizador lumínico al nivel máximo.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 20
 		}

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Per Anhalter durch die Galaxis",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 2187,
-=======
-	"id": [
-		82188
-	],
-	"name": "Per Anhalter durch die Galaxis",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 2187,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Per Anhalter durch die Galaxis",
 		"description": "Gelange während einer Herausforderung zweimal in den Bauch der Bestie.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 10
 		}

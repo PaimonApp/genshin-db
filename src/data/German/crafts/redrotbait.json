@@ -1,18 +1,15 @@
 {
-	"id": 22034,
 	"name": "Rotpastenköder",
-	"filterText": "Fischköder",
-	"sortOrder": 160010,
-	"unlockRank": 28,
-	"resultCount": 10,
+	"filter": "Fischköder",
+	"sortorder": 160010,
+	"unlockrank": 28,
+	"resultcount": 10,
 	"recipe": [
 		{
-			"id": 101204,
 			"name": "Dendrobium",
 			"count": 1
 		},
 		{
-			"id": 100064,
 			"name": "Rohes Geflügel",
 			"count": 1
 		}

@@ -1,18 +1,14 @@
 {
-	"id": [
-		84563
-	],
 	"name": "Kaybolmayan Bir Koku",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 4087,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 4087,
 	"stages": 1,
 	"stage1": {
 		"title": "Kaybolmayan Bir Koku",
 		"description": "Nermin'in hikayesine şahit ol.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

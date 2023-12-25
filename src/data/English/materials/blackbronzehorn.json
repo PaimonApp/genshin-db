@@ -1,15 +1,11 @@
 {
-	"id": 112015,
 	"name": "Black Bronze Horn",
-	"rarity": 3,
-	"sortRank": 10105,
 	"description": "A metallic monster horn that can only be obtained from especially strong hilichurls, since blowing on the horn takes real strength.",
+	"sortorder": 3049,
+	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character and Weapon Enhancement Material",
-	"sources": [
-		"Crafted",
-		"Dropped by Lv. 40+ mitachurls",
-		"Dropped by Lv. 40+ lawachurls",
-		"Stardust Exchange"
+	"materialtype": "Character and Weapon Enhancement Material",
+	"source": [
+		"Crafted"
 	]
 }

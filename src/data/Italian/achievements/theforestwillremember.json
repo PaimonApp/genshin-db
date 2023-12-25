@@ -1,11 +1,7 @@
 {
-	"id": [
-		80174
-	],
 	"name": "La foresta non dimenticherà",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru: Miti della foresta pluviale",
-	"sortOrder": 174,
+	"achievementgroup": "Sumeru: Miti della foresta pluviale",
+	"sortorder": 174,
 	"stages": 1,
 	"stage1": {
 		"title": "La foresta non dimenticherà",
@@ -13,7 +9,6 @@
 		"description": "Completa Aranyaka.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 10
 		}

@@ -1,391 +1,314 @@
 {
 	"seabreezedandelion": {
-		"filename_card": "UI_AvatarIcon_QinCostumeSea_Card",
-		"filename_icon": "UI_AvatarIcon_QinCostumeSea",
-		"filename_splash": "UI_Costume_QinCostumeSea",
-		"filename_sideIcon": "UI_AvatarIcon_Side_QinCostumeSea",
-		"filename_iconCircle": "UI_AvatarIcon_QinCostumeSea_Circle"
+		"namecard": "UI_AvatarIcon_QinCostumeSea_Card",
+		"nameicon": "UI_AvatarIcon_QinCostumeSea",
+		"namesplash": "UI_Costume_QinCostumeSea",
+		"namesideicon": "UI_AvatarIcon_Side_QinCostumeSea"
 	},
 	"summertimesparkle": {
-		"filename_card": "UI_AvatarIcon_BarbaraCostumeSummertime_Card",
-		"filename_icon": "UI_AvatarIcon_BarbaraCostumeSummertime",
-		"filename_splash": "UI_Costume_BarbaraCostumeSummertime",
-		"filename_sideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime",
-		"filename_iconCircle": "UI_AvatarIcon_BarbaraCostumeSummertime_Circle"
+		"namecard": "UI_AvatarIcon_BarbaraCostumeSummertime_Card",
+		"nameicon": "UI_AvatarIcon_BarbaraCostumeSummertime",
+		"namesplash": "UI_Costume_BarbaraCostumeSummertime",
+		"namesideicon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
 	},
 	"orchidseveninggown": {
-		"filename_card": "UI_AvatarIcon_NingguangCostumeFloral_Card",
-		"filename_icon": "UI_AvatarIcon_NingguangCostumeFloral",
-		"filename_splash": "UI_Costume_NingguangCostumeFloral",
-		"filename_sideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral",
-		"filename_iconCircle": "UI_AvatarIcon_NingguangCostumeFloral_Circle"
+		"namecard": "UI_AvatarIcon_NingguangCostumeFloral_Card",
+		"nameicon": "UI_AvatarIcon_NingguangCostumeFloral",
+		"namesplash": "UI_Costume_NingguangCostumeFloral",
+		"namesideicon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
 	},
 	"opulentsplendor": {
-		"filename_card": "UI_AvatarIcon_KeqingCostumeFeather_Card",
-		"filename_icon": "UI_AvatarIcon_KeqingCostumeFeather",
-		"filename_splash": "UI_Costume_KeqingCostumeFeather",
-		"filename_sideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather",
-		"filename_iconCircle": "UI_AvatarIcon_KeqingCostumeFeather_Circle"
+		"namecard": "UI_AvatarIcon_KeqingCostumeFeather_Card",
+		"nameicon": "UI_AvatarIcon_KeqingCostumeFeather",
+		"namesplash": "UI_Costume_KeqingCostumeFeather",
+		"namesideicon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
 	},
 	"flawlessradiance": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Ayaka_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"favoniandevotion": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Qin_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"risingstaraether": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_PlayerBoy_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"purplerose": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Lisa_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"risingstarlumine": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_PlayerGirl_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"innocentlonging": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Barbara_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"icyfeatherflight": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Kaeya_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"darknightblaze": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Diluc_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"wildsprint": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Razor_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
-	"staroutrider": {},
+	"staroutrider": {
+		"namecard": "UI_AvatarIcon_Costume_Card"
+	},
 	"breezyode": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Venti_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"redpepperandturmeric": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Xiangling_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"rollingwaves": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Beidou_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"azuresilk": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Xingqiu_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"endurerofeons": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Xiao_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"goldleafandpearlyjade": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Ningguang_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"shootingspark": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Klee_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"hermitofmortallife": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Zhongli_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"dunkelnachtsakrament": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Fischl_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"fortunesfavor": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Bennett_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"bladesofglory": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Tartaglia_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"armoredrose": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Noel_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"summerchilldreams": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Qiqi_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"purespirit": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Chongyun_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"frostdewtrail": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Ganyu_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"newmoonstarlight": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Albedo_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"sugarybrew": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Diona_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"flowingfate": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Mona_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"piercingthunderbolt": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Keqing_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"germinatingwind": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Sucrose_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"ardentsoul": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Xinyan_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"executorsthorns": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Rosaria_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"plumblossombouquet": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Hutao_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"fallingleaves": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Kazuha_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"goldenrule": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Feiyan_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"goldfishfirecracker": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Yoimiya_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"warriorofflame": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Tohma_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"wavecrestwaltz": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Eula_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"narukamislaw": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Shougun_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"minimujina": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Sayu_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"sparklingcoralbone": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Kokomi_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"panoplyofahundredhunts": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Gorou_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"solemnpurity": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Sara_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"eccentriconi": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Itto_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
-	"defaultoutfit": {},
+	"defaultoutfit": {
+		"namecard": "UI_AvatarIcon_Costume_Card"
+	},
 	"machinehunter": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Aloy_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"theworldsshackles": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Shenhe_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"mistcloudstage": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Yunjin_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"gunnhildrslegacy": {
-		"filename_card": "UI_AvatarIcon_QinCostumeWic_Card",
-		"filename_icon": "UI_AvatarIcon_QinCostumeWic",
-		"filename_splash": "UI_Costume_QinCostumeWic",
-		"filename_sideIcon": "UI_AvatarIcon_Side_QinCostumeWic",
-		"filename_iconCircle": "UI_AvatarIcon_QinCostumeWic_Circle"
+		"namecard": "UI_AvatarIcon_QinCostumeWic_Card",
+		"nameicon": "UI_AvatarIcon_QinCostumeWic",
+		"namesplash": "UI_Costume_QinCostumeWic",
+		"namesideicon": "UI_AvatarIcon_Side_QinCostumeWic"
 	},
-	"outrider": {},
+	"outrider": {
+		"namecard": "UI_AvatarIcon_AmborCostumeWic_Card",
+		"nameicon": "UI_AvatarIcon_AmborCostumeWic",
+		"namesplash": "UI_Costume_AmborCostumeWic",
+		"namesideicon": "UI_AvatarIcon_Side_AmborCostumeWic"
+	},
 	"pactofstarsandmoon": {
-		"filename_card": "UI_AvatarIcon_MonaCostumeWic_Card",
-		"filename_icon": "UI_AvatarIcon_MonaCostumeWic",
-		"filename_splash": "UI_Costume_MonaCostumeWic",
-		"filename_sideIcon": "UI_AvatarIcon_Side_MonaCostumeWic",
-		"filename_iconCircle": "UI_AvatarIcon_MonaCostumeWic_Circle"
+		"namecard": "UI_AvatarIcon_MonaCostumeWic_Card",
+		"nameicon": "UI_AvatarIcon_MonaCostumeWic",
+		"namesplash": "UI_Costume_MonaCostumeWic",
+		"namesideicon": "UI_AvatarIcon_Side_MonaCostumeWic"
 	},
 	"tothechurchsfreespirit": {
-		"filename_card": "UI_AvatarIcon_RosariaCostumeWic_Card",
-		"filename_icon": "UI_AvatarIcon_RosariaCostumeWic",
-		"filename_splash": "UI_Costume_RosariaCostumeWic",
-		"filename_sideIcon": "UI_AvatarIcon_Side_RosariaCostumeWic",
-		"filename_iconCircle": "UI_AvatarIcon_RosariaCostumeWic_Circle"
+		"namecard": "UI_AvatarIcon_RosariaCostumeWic_Card",
+		"nameicon": "UI_AvatarIcon_RosariaCostumeWic",
+		"namesplash": "UI_Costume_RosariaCostumeWic",
+		"namesideicon": "UI_AvatarIcon_Side_RosariaCostumeWic"
 	},
 	"mikosinstruction": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Yae_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"silksplendor": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Ayato_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"thewaningpoint": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Yelan_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"aratakisdemonicdeputy": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Shinobu_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"reddeadofnight": {
-		"filename_card": "UI_AvatarIcon_DilucCostumeFlamme_Card",
-		"filename_icon": "UI_AvatarIcon_DilucCostumeFlamme",
-		"filename_splash": "UI_Costume_DilucCostumeFlamme",
-		"filename_sideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme",
-		"filename_iconCircle": "UI_AvatarIcon_DilucCostumeFlamme_Circle"
+		"namecard": "UI_AvatarIcon_DilucCostumeFlamme_Card",
+		"nameicon": "UI_AvatarIcon_DilucCostumeFlamme",
+		"namesplash": "UI_Costume_DilucCostumeFlamme",
+		"namesideicon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
 	},
 	"einimmernachtstraum": {
-		"filename_card": "UI_AvatarIcon_FischlCostumeHighness_Card",
-		"filename_icon": "UI_AvatarIcon_FischlCostumeHighness",
-		"filename_splash": "UI_Costume_FischlCostumeHighness",
-		"filename_sideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness",
-		"filename_iconCircle": "UI_AvatarIcon_FischlCostumeHighness_Circle"
+		"namecard": "UI_AvatarIcon_FischlCostumeHighness_Card",
+		"nameicon": "UI_AvatarIcon_FischlCostumeHighness",
+		"namesplash": "UI_Costume_FischlCostumeHighness",
+		"namesideicon": "UI_AvatarIcon_Side_FischlCostumeHighness"
 	},
 	"spiritedvalor": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Heizo_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"anewleaf": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Collei_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"ilovemora": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Dori_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"woodlandsong": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Tighnari_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"100outrider": {
-		"filename_card": "UI_AvatarIcon_AmborCostumeWic_Card",
-		"filename_icon": "UI_AvatarIcon_AmborCostumeWic",
-		"filename_splash": "UI_Costume_AmborCostumeWic",
-		"filename_sideIcon": "UI_AvatarIcon_Side_AmborCostumeWic",
-		"filename_iconCircle": "UI_AvatarIcon_AmborCostumeWic_Circle"
+		"namecard": "UI_AvatarIcon_AmborCostumeWic_Card",
+		"nameicon": "UI_AvatarIcon_AmborCostumeWic",
+		"namesplash": "UI_Costume_AmborCostumeWic",
+		"namesideicon": "UI_AvatarIcon_Side_AmborCostumeWic"
 	},
 	"5staroutrider": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Ambor_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"neitherflowernormist": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Nilou_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"heartofthescales": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Cyno_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"desertandnight": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Candace_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"forallknowledgeaverse": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Nahida_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"dreamingstar": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Layla_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"awrathfulvoid": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Wanderer_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"pristineelegance": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Faruzan_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"springbloommissive": {
-		"filename_card": "UI_AvatarIcon_AyakaCostumeFruhling_Card",
-		"filename_icon": "UI_AvatarIcon_AyakaCostumeFruhling",
-		"filename_splash": "UI_Costume_AyakaCostumeFruhling",
-		"filename_sideIcon": "UI_AvatarIcon_Side_AyakaCostumeFruhling",
-		"filename_iconCircle": "UI_AvatarIcon_AyakaCostumeFruhling_Circle"
+		"namecard": "UI_AvatarIcon_AyakaCostumeFruhling_Card",
+		"nameicon": "UI_AvatarIcon_AyakaCostumeFruhling",
+		"namesplash": "UI_Costume_AyakaCostumeFruhling",
+		"namesideicon": "UI_AvatarIcon_Side_AyakaCostumeFruhling"
 	},
 	"asobriquetundershade": {
-		"filename_card": "UI_AvatarIcon_LisaCostumeStudentin_Card",
-		"filename_icon": "UI_AvatarIcon_LisaCostumeStudentin",
-		"filename_splash": "UI_Costume_LisaCostumeStudentin",
-		"filename_sideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin",
-		"filename_iconCircle": "UI_AvatarIcon_LisaCostumeStudentin_Circle"
+		"namecard": "UI_AvatarIcon_LisaCostumeStudentin_Card",
+		"nameicon": "UI_AvatarIcon_LisaCostumeStudentin",
+		"namesplash": "UI_Costume_LisaCostumeStudentin",
+		"namesideicon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
 	},
 	"cherubicosmanthus": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Yaoyao_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"therational": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Alhatham_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"thelionessandtheblazingsun": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Dehya_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"soaringbeacon": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Mika_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"goldpinionsinflamesbathed": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Kaveh_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"theapplicationsofmedicine": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Baizhuer_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"whirlingbloom": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Momoka_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"blossomingstarlight": {
-		"filename_card": "UI_AvatarIcon_KleeCostumeWitch_Card",
-		"filename_icon": "UI_AvatarIcon_KleeCostumeWitch",
-		"filename_splash": "UI_Costume_KleeCostumeWitch",
-		"filename_sideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch",
-		"filename_iconCircle": "UI_AvatarIcon_KleeCostumeWitch_Circle"
+		"namecard": "UI_AvatarIcon_KleeCostumeWitch_Card",
+		"nameicon": "UI_AvatarIcon_KleeCostumeWitch",
+		"namesplash": "UI_Costume_KleeCostumeWitch",
+		"namesideicon": "UI_AvatarIcon_Side_KleeCostumeWitch"
 	},
 	"sailwindshadow": {
-		"filename_card": "UI_AvatarIcon_KaeyaCostumeDancer_Card",
-		"filename_icon": "UI_AvatarIcon_KaeyaCostumeDancer",
-		"filename_splash": "UI_Costume_KaeyaCostumeDancer",
-		"filename_sideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer",
-		"filename_iconCircle": "UI_AvatarIcon_KaeyaCostumeDancer_Circle"
+		"namecard": "UI_AvatarIcon_KaeyaCostumeDancer_Card",
+		"nameicon": "UI_AvatarIcon_KaeyaCostumeDancer",
+		"namesplash": "UI_Costume_KaeyaCostumeDancer",
+		"namesideicon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
 	},
 	"phantomeow": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Linette_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"fantasticat": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Liney_Circle"
+		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"icyskin": {
-<<<<<<< HEAD
 		"namecard": "UI_AvatarIcon_Costume_Card"
 	},
 	"nightschillinghowl": {
@@ -399,33 +322,5 @@
 	},
 	"coronatedprimadonna": {
 		"namecard": "UI_AvatarIcon_Costume_Card"
-=======
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Freminet_Circle"
-	},
-	"nightschillinghowl": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Wriothesley_Circle"
-	},
-	"clearadjudication": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Neuvillette_Circle"
-	},
-	"allisovertthroughmylens": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Charlotte_Circle"
-	},
-	"coronatedprimadonna": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Furina_Circle"
-	},
-	"guardiansgun": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Chevreuse_Circle"
-	},
-	"yellowvelvetsalon": {
-		"filename_card": "UI_AvatarIcon_Costume_Card",
-		"filename_iconCircle": "UI_AvatarIcon_Navia_Circle"
->>>>>>> upstream/main
 	}
 }

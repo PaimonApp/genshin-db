@@ -1,11 +1,10 @@
 {
-	"id": 100013,
 	"name": "胡蘿蔔",
-	"sortRank": 321,
 	"description": "營養非常豐富的草本植物。易於種植與收穫的作物，口感清甜爽脆。",
+	"sortorder": 2902,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"野外採集"
 	]
 }

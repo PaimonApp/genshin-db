@@ -1,11 +1,8 @@
 {
-	"id": 70400044,
 	"name": "Временный штаб экспедиционных сил Фатуи",
-	"areaId": 5003,
-	"areaName": "Вади аль-Маджудж",
+	"area": "Вади аль-Маджудж",
 	"description": "Авангардный отряд из заснеженных земель на севере разбил лагерь здесь, среди шёпота древних святынь.",
-	"regionId": 4,
-	"regionName": "Сумеру",
-	"showOnlyUnlocked": true,
-	"sortOrder": 344
+	"region": "Сумеру",
+	"showonlyunlocked": true,
+	"sortorder": 344
 }

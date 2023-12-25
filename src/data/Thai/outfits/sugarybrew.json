@@ -1,8 +1,6 @@
 {
-	"id": 203900,
 	"name": "ค็อกเทลแสนหวาน",
 	"description": "คอสตูมของ Diona ชุดที่บาร์เทนเดอร์ชื่อดังแห่งร้าน Cat's Tail มักจะสวมใส่เป็นประจำเวลาทำงาน",
-	"isDefault": true,
-	"characterId": 10000039,
-	"characterName": "Diona"
+	"isdefault": true,
+	"character": "Diona"
 }

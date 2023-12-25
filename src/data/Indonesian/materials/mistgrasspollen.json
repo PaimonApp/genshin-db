@@ -1,21 +1,9 @@
 {
-	"id": 112026,
 	"name": "Mist Grass Pollen",
-	"rarity": 2,
-	"sortRank": 10109,
 	"description": "Spora aneh yang diciptakan oleh Mist Grass di tempat tertutup. Mereka adalah makanan favorit Cicin.",
-<<<<<<< HEAD
 	"sortorder": 3059,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Penguatan Senjata dan Karakter",
-	"sources": [
-		"Dijatuhkan oleh Fatui Cicin Mage",
-		"Penukaran Stardust"
-	]
->>>>>>> upstream/main
 }

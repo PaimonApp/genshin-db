@@ -21,7 +21,6 @@
 		"ahawhatsonthehook": "Ah! Cosa ho preso all'amo?",
 		"ahollowsoul": "Un'anima vuota",
 		"ahouseillfounded": "Pessime fondamenta",
-		"ahumandrama": "Una tragedia umana",
 		"akashapulsesthekalpaflamerises": "L'Akasha batte, la fiamma del kalpa sorge",
 		"alavolontedupeuple": "À la volonté du peuple",
 		"aleisurelyjourney": "Un viaggio rilassante",
@@ -976,7 +975,6 @@
 		"Ah! Cosa ho preso all'amo?": "ahawhatsonthehook",
 		"Un'anima vuota": "ahollowsoul",
 		"Pessime fondamenta": "ahouseillfounded",
-		"Una tragedia umana": "ahumandrama",
 		"L'Akasha batte, la fiamma del kalpa sorge": "akashapulsesthekalpaflamerises",
 		"À la volonté du peuple": "alavolontedupeuple",
 		"Un viaggio rilassante": "aleisurelyjourney",
@@ -1929,7 +1927,6 @@
 			"ahawhatsonthehook",
 			"ahollowsoul",
 			"ahouseillfounded",
-			"ahumandrama",
 			"akashapulsesthekalpaflamerises",
 			"alavolontedupeuple",
 			"aleisurelyjourney",
@@ -2962,7 +2959,7 @@
 		]
 	},
 	"properties": {
-		"achievementGroupName": [
+		"achievementgroup": [
 			"Meraviglie del mondo",
 			"Domini e Abisso a spirale: Serie I",
 			"GCC Invokazione del genio",

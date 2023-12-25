@@ -1,15 +1,10 @@
 {
-	"id": 101220,
 	"name": "Hennabeere",
-	"sortRank": 314,
 	"description": "Die Früchte einer Pflanze, die auch unter den widrigen Bedingungen der Wüste überleben kann. Der starke Kontrast zwischen gelbem Wüstensand und kräftig roten Früchten rührt die Betrachter sehr.",
-<<<<<<< HEAD
 	"sortorder": 2875,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheiten aus Sumeru",
-	"sources": [
+	"materialtype": "Regionale Besonderheiten aus Sumeru",
+	"source": [
 		"In der Wüste Sumerus zu finden"
 	]
 }

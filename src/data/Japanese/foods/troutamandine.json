@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "トラウト·アマンディーヌ",
 	"rarity": "1",
 	"foodtype": "NORMAL",
 	"foodfilter": "回復系料理",
 	"foodcategory": "Recovery_HpAddAll",
-=======
-	"id": 1402,
-	"name": "トラウト·アマンディーヌ",
-	"rarity": 1,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "回復系料理",
->>>>>>> upstream/main
 	"effect": "選択したキャラのHP上限の8%~10%を回復する。\nその後30秒間、5秒毎にHPを210~300回復する。",
 	"description": "油で焼いた大きな魚肉。まず、バターで魚のフィレをソテーし、杏仁をカリっと炒め、一緒に盛りつける。伝統的には、下処理したトラウトを丸ごとそのまま油で揚げるが、近年では魚のフィレをソテーするスタイルが流行っている。",
 	"suspicious": {
@@ -29,18 +20,10 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100084,
->>>>>>> upstream/main
 			"name": "魚肉",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "杏仁",
 			"count": 1
 		}

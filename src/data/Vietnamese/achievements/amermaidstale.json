@@ -1,18 +1,14 @@
 {
-	"id": [
-		81151
-	],
 	"name": "Cổ Tích Người Cá",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1137,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1137,
 	"stages": 1,
 	"stage1": {
 		"title": "Cổ Tích Người Cá",
 		"description": "Giúp Kumi mở khúc mắc trong lòng.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

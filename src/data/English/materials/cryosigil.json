@@ -1,17 +1,11 @@
 {
-	"id": 306,
 	"name": "Cryo Sigil",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "A token of recognition and appreciation that can be found around Mondstadt. Can be exchanged for rare items in the shop.",
-<<<<<<< HEAD
 	"sortorder": 4932,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "City States Sigil",
-	"sources": [
+	"materialtype": "City States Sigil",
+	"source": [
 		"Exploration Reward"
 	]
 }

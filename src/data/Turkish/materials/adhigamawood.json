@@ -1,19 +1,12 @@
 {
-	"id": 101315,
 	"name": "Adhigama Kütüğü",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Adhigama Ağacından elde edilen kütük. Her yerde bulunabildiği için sıradan görünür ama yapısı sağlam, işlemesi kolaydır.\nDekorasyon yapmak için kullanılabilir.",
-<<<<<<< HEAD
 	"sortorder": 2974,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Doğada bulunur.",
-		"Öneri: Sumeru ormanlarında kesilir.",
-		"Kütüğü Dönüştür"
+		"Öneri: Sumeru ormanlarında kesilir."
 	]
 }

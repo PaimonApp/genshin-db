@@ -1,13 +1,8 @@
 {
-	"id": 107022,
 	"name": "Plume of Purifying Light",
-	"sortRank": 420021,
 	"description": "Peninggalan Khvarena. Mengandung ingatan masa lampau.",
-<<<<<<< HEAD
 	"sortorder": 4890,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Konsumsi",
-	"sources": []
+	"materialtype": "Konsumsi",
+	"source": []
 }

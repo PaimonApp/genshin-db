@@ -1,15 +1,10 @@
 {
-	"id": 110009,
 	"name": "Phô Mai",
-	"sortRank": 322,
 	"description": "Được làm từ sữa bò lên men. Không những cung cấp năng lượng mà còn nấu được nhiều món.",
-<<<<<<< HEAD
 	"sortorder": 2954,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Nhận khi gia công nấu nướng"
 	]
 }

@@ -1,9 +1,7 @@
 {
-	"id": 3,
 	"name": "Reise eines Helden",
-	"sortOrder": 8,
+	"sortorder": 8,
 	"reward": {
-		"id": 210023,
 		"name": "Errungenschaft – Heldentum"
 	}
 }

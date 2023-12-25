@@ -1,20 +1,13 @@
 {
-	"id": [
-		80221,
-		80222,
-		80223
-	],
 	"name": "Дайс-шейкер",
-	"achievementGroupId": 37,
-	"achievementGroupName": "Священный призыв семерых",
-	"sortOrder": 202,
+	"achievementgroup": "Священный призыв семерых",
+	"sortorder": 202,
 	"stages": 3,
 	"stage1": {
 		"title": "Дайс-шейкер",
 		"description": "В победной игре нанесите 8 ед. урона за один ход ×{param0}.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "В победной игре нанесите 8 ед. урона за один ход ×{param0}.",
 		"progress": 5,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "В победной игре нанесите 8 ед. урона за один ход ×{param0}.",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 20
 		}

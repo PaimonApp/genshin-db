@@ -1,15 +1,10 @@
 {
-	"id": 100080,
 	"name": "Potato",
-	"sortRank": 321,
 	"description": "Sayuran yang tebal dan berbentuk agak bulat. Merupakan hadiah terbaik dari alam, dapat dibuat menjadi berbagai jenis masakan, membuatmu tidak pernah bosan memakannya.",
-<<<<<<< HEAD
 	"sortorder": 2922,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Dijual di toko barang kebutuhan"
 	]
 }

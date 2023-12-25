@@ -1,11 +1,8 @@
 {
-	"id": [
-		84024
-	],
 	"name": "Una nueva estrella en ascenso",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 4025,
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 4025,
 	"stages": 1,
 	"stage1": {
 		"title": "Una nueva estrella en ascenso",
@@ -13,7 +10,6 @@
 		"description": "Completa «Una nueva estrella en ascenso».",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}

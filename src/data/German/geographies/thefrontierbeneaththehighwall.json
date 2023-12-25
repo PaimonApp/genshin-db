@@ -1,10 +1,7 @@
 {
-	"id": 70400007,
 	"name": "Grenzposten hinter den hohen Mauern",
-	"areaId": 4404,
-	"areaName": "Karawanen-Ribat",
+	"area": "Karawanen-Ribat",
 	"description": "Die hohen und robusten Mauern widerstehen dem Eindringen von Sandstürmen, blockieren aber auch die Verbreitung von Wissen. Aber Gottes Gnade und Weisheit sollten jeden leiten, nicht wahr?",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"sortOrder": 307
+	"region": "Sumeru",
+	"sortorder": 307
 }

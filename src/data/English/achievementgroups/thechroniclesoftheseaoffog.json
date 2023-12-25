@@ -1,9 +1,7 @@
 {
-	"id": 27,
 	"name": "The Chronicles of the Sea of Fog",
-	"sortOrder": 36,
+	"sortorder": 36,
 	"reward": {
-		"id": 210103,
 		"name": "Inazuma: Eagleplume"
 	}
 }

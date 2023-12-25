@@ -1,15 +1,10 @@
 {
-	"id": 100073,
 	"name": "Crab",
-	"sortRank": 321,
 	"description": "A shelled creature that lives near the ocean. Its flaky, delicious meat can easily be made into tasty dishes.",
-<<<<<<< HEAD
 	"sortorder": 2916,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Found near lakes, river banks, and beaches"
 	]
 }

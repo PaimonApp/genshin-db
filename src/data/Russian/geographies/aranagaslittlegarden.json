@@ -1,11 +1,8 @@
 {
-	"id": 70400012,
 	"name": "Маленький садик Аранаги",
-	"areaId": 4101,
-	"areaName": "Лес Мотийимы",
+	"area": "Лес Мотийимы",
 	"description": "Здесь гранатники поют под яблонь овации...",
-	"regionId": 4,
-	"regionName": "Сумеру",
-	"showOnlyUnlocked": true,
-	"sortOrder": 312
+	"region": "Сумеру",
+	"showonlyunlocked": true,
+	"sortorder": 312
 }

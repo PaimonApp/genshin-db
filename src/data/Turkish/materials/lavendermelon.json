@@ -1,15 +1,10 @@
 {
-	"id": 101211,
 	"name": "Eflatun Kavun",
-	"sortRank": 321,
 	"description": "Parlak renkli bir meyve. Etli kısmı pişirildiğinde ağızda eşsiz bir tat bırakır.",
-<<<<<<< HEAD
 	"sortorder": 2938,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Inazuma'da doğada bulunur."
 	]
 }

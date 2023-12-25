@@ -1,9 +1,7 @@
 {
-	"id": 1,
 	"name": "Fani Meseleleri: I. Seri",
-	"sortOrder": 3,
+	"sortorder": 3,
 	"reward": {
-		"id": 210021,
 		"name": "Başarım: Kaşif"
 	}
 }

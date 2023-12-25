@@ -1,13 +1,7 @@
 {
-	"id": 26,
 	"name": "Inazuma: Pulau Petir dan Keabadian (II)",
-<<<<<<< HEAD
 	"sortorder": 35,
-=======
-	"sortOrder": 35,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210097,
 		"name": "Inazuma: Lambang Sangonomiya"
 	}
 }

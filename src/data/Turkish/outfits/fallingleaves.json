@@ -1,8 +1,6 @@
 {
-	"id": 204700,
 	"name": "Dökülen Yapraklar",
 	"description": "Kaedehara Kazuha'nın giysisi. Bu gezgin samuray kıyafetinin öne çıkan özelliği üzerindeki akçaağaç yaprağı desenleridir.",
-	"isDefault": true,
-	"characterId": 10000047,
-	"characterName": "Kaedehara Kazuha"
+	"isdefault": true,
+	"character": "Kaedehara Kazuha"
 }

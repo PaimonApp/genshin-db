@@ -14,9 +14,5 @@
 	"sumeru": {
 		"filename_icon": "UI_Gcg_Cardtable_Xm",
 		"filename_bg": "UI_Gcg_Bg_Sumeru"
-	},
-	"fontaine": {
-		"filename_icon": "UI_Gcg_Cardtable_Fd",
-		"filename_bg": "UI_Gcg_Bg_Fontaine"
 	}
 }

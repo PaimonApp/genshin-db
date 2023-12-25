@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "カスレ",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "防御系料理",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3414,
-	"name": "カスレ",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "防御系料理",
->>>>>>> upstream/main
 	"effect": "チーム全員のシールド強化+20%~30%、継続時間300秒。\nマルチプレイ中、自分のキャラクターにのみ有効。",
 	"description": "素朴な郷土煮込み料理。土鍋に全ての食材を混ぜ合わせ、煮込むだけ。この料理の正式名称は「カスレの土鍋で煮たツルツル豆と鳥肉のコンフィと燻製ソーセージにマルコット草を添えて」。長いため、カスレと略して呼ばれている。",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 110011,
->>>>>>> upstream/main
 			"name": "ソーセージ",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100064,
->>>>>>> upstream/main
 			"name": "鳥肉",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100096,
->>>>>>> upstream/main
 			"name": "ツルツル豆",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "マルコット草",
 			"count": 1
 		}

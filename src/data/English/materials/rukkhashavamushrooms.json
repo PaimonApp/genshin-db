@@ -1,15 +1,10 @@
 {
-	"id": 101213,
 	"name": "Rukkhashava Mushrooms",
-	"sortRank": 314,
 	"description": "A fungus that grows in layers upon layers, like a sea of clouds, and which mostly grows on trees deep in the rainforest.",
-<<<<<<< HEAD
 	"sortorder": 2871,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Sumeru)",
-	"sources": [
+	"materialtype": "Local Specialty (Sumeru)",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found in the Ashavan Realm",
 		"Recommendation: Found in Lokapala Jungle"

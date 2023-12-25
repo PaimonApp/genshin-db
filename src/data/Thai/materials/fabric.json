@@ -1,13 +1,8 @@
 {
-	"id": 101401,
 	"name": "ผ้า",
-	"sortRank": 331,
 	"description": "ผ้าคุณภาพสูง สามารถนำไปใช้ในการตกแต่งได้",
-<<<<<<< HEAD
 	"sortorder": 2982,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัสดุ",
-	"sources": []
+	"materialtype": "วัสดุ",
+	"source": []
 }

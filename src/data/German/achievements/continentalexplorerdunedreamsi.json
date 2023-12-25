@@ -1,11 +1,7 @@
 {
-	"id": [
-		80179
-	],
 	"name": "Erkundung des Landes – Brennender Traum im Sandmeer I",
-	"achievementGroupId": 35,
-	"achievementGroupName": "Sumeru – Die goldene Wüste I",
-	"sortOrder": 179,
+	"achievementgroup": "Sumeru – Die goldene Wüste I",
+	"sortorder": 179,
 	"stages": 1,
 	"stage1": {
 		"title": "Erkundung des Landes – Brennender Traum im Sandmeer I",
@@ -13,7 +9,6 @@
 		"description": "Schalte die Karten von Hypostylwüste, Obere Setekh-Region und Niedere Setekh-Region in der Region um Sumeru frei.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}

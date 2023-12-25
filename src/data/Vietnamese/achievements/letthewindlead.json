@@ -1,11 +1,7 @@
 {
-	"id": [
-		80032
-	],
 	"name": "Lắng nghe tiếng gió",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt - Thành Phố Của Gió Và Những Bài Ca Du Mục",
-	"sortOrder": 32,
+	"achievementgroup": "Mondstadt - Thành phố của gió và những bài ca du mục",
+	"sortorder": 32,
 	"stages": 1,
 	"stage1": {
 		"title": "Lắng nghe tiếng gió",
@@ -13,7 +9,6 @@
 		"description": "Hiến tế Thất Thiên Thần Tượng Mondstadt đạt cấp tối đa.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 20
 		}

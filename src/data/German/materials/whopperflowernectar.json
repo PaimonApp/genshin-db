@@ -1,21 +1,9 @@
 {
-	"id": 112038,
 	"name": "Vaniloqua-Nektar",
-	"rarity": 1,
-	"sortRank": 10113,
 	"description": "Aus Staubblättern entnommener Nektar mit geringen Spuren von Elementen.\nDer Geschmack erinnert stark an den von Zuckerblumen.",
-<<<<<<< HEAD
 	"sortorder": 3071,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material zur Verbesserung von Figuren und Waffen",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material zur Verbesserung von Figuren und Waffen",
-	"sources": [
-		"Beute von Vaniloquen",
-		"Mit Sternenstaub kaufen"
-	]
->>>>>>> upstream/main
 }

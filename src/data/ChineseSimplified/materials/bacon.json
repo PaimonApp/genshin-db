@@ -1,11 +1,10 @@
 {
-	"id": 110010,
 	"name": "培根",
-	"sortRank": 322,
 	"description": "经过熏制的肋条兽肉。层次丰富、肥而不腻正是它广受欢迎的原因。",
+	"sortorder": 2955,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"烹饪加工获得"
 	]
 }

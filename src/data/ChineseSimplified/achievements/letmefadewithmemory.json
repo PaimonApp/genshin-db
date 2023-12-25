@@ -1,11 +1,8 @@
 {
-	"id": [
-		81242
-	],
 	"name": "…请悄悄将我忘记",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1228,
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 1228,
 	"stages": 1,
 	"stage1": {
 		"title": "…请悄悄将我忘记",
@@ -13,7 +10,6 @@
 		"description": "完成「吉祥具书」。",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 10
 		}

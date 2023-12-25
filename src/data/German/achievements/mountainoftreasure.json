@@ -1,13 +1,7 @@
 {
-	"id": [
-		80061,
-		80062,
-		80063
-	],
 	"name": "Schatzsuche in den Schneebergen",
-	"achievementGroupId": 16,
-	"achievementGroupName": "Besucher in den Schneebergen",
-	"sortOrder": 61,
+	"achievementgroup": "Besucher in den Schneebergen",
+	"sortorder": 61,
 	"stages": 3,
 	"stage1": {
 		"title": "Schatzsuche in den Schneebergen",
@@ -15,7 +9,6 @@
 		"description": "Öffne auf dem Drachengrat 40 Truhen.",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Öffne auf dem Drachengrat 80 Truhen.",
 		"progress": 80,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Öffne auf dem Drachengrat 160 Truhen.",
 		"progress": 160,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 20
 		}

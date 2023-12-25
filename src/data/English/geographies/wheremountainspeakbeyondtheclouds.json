@@ -1,10 +1,7 @@
 {
-	"id": 70200004,
 	"name": "Where Mountains Peak Beyond the Clouds",
-	"areaId": 2601,
-	"areaName": "Jueyun Karst",
+	"area": "Jueyun Karst",
 	"description": "They say that the adepti dwell somewhere within these countless towering, cloud-ringed peaks. Few mortals may set foot here.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 109
+	"region": "Liyue",
+	"sortorder": 109
 }

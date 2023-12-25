@@ -1,11 +1,7 @@
 {
-	"id": [
-		80030
-	],
 	"name": "Esplorazione continentale: Mondstadt",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt: la città del vento e delle canzoni",
-	"sortOrder": 30,
+	"achievementgroup": "Mondstadt: la città del vento e delle canzoni",
+	"sortorder": 30,
 	"stages": 1,
 	"stage1": {
 		"title": "Esplorazione continentale: Mondstadt",
@@ -13,7 +9,6 @@
 		"description": "Illumina l'intera mappa di Mondstadt (esclusa l'area del Picco del Drago).",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}

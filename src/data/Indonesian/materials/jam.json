@@ -1,15 +1,10 @@
 {
-	"id": 110008,
 	"name": "Jam",
-	"sortRank": 322,
 	"description": "Bahan makanan yang lembut, terbuat dari buah dan gula. Dengan takaran yang sedikit saja sudah bisa membuat lidah bergoyang.",
-<<<<<<< HEAD
 	"sortorder": 2953,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Didapatkan saat proses cooking"
 	]
 }

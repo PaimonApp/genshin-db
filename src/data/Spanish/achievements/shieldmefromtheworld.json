@@ -1,18 +1,13 @@
 {
-	"id": [
-		82062
-	],
 	"name": "Protección múltiple",
-	"achievementGroupId": 14,
-	"achievementGroupName": "Retador: Parte 2",
-	"sortOrder": 2062,
+	"achievementgroup": "Retador: Parte 2",
+	"sortorder": 2062,
 	"stages": 1,
 	"stage1": {
 		"title": "Protección múltiple",
 		"description": "Ten un personaje protegido por 3 o más tipos de escudos diferentes a la vez.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}

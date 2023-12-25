@@ -1,11 +1,7 @@
 {
-	"id": [
-		80191
-	],
 	"name": "...Cùng Họ Với Giấc Mơ",
-	"achievementGroupId": 35,
-	"achievementGroupName": "Sumeru - Sa Mạc Dát Vàng (I)",
-	"sortOrder": 193,
+	"achievementgroup": "Sumeru - Sa Mạc Dát Vàng (I)",
+	"sortorder": 193,
 	"stages": 1,
 	"stage1": {
 		"title": "...Cùng Họ Với Giấc Mơ",
@@ -13,7 +9,6 @@
 		"description": "Hoàn thành \"Cõi Mộng Hoàng Kim\".",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 10
 		}

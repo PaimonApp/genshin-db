@@ -1,22 +1,11 @@
 {
-	"id": 112013,
 	"name": "Weathered Arrowhead",
-	"rarity": 3,
-	"sortRank": 10104,
 	"description": "Ujung anak panah yang penuh dengan noda darah, dan telah kehilangan ketajamannya dan fungsinya sebagai senjata.\nTetapi di dalamnya terkandung kebanggaan seorang pemburu, kini berfungsi sebagai jimat dan medali.",
-<<<<<<< HEAD
 	"sortorder": 3045,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": [
 		"Didapatkan melalui Craft"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Penguatan Senjata dan Karakter",
-	"sources": [
-		"Didapatkan melalui Craft",
-		"Dijatuhkan oleh Hilichurl Shooter Lv. 60+"
->>>>>>> upstream/main
 	]
 }

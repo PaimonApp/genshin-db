@@ -1,11 +1,8 @@
 {
-	"id": 70400055,
 	"name": "Landschaft in den Tiefen von Elynas",
-	"areaId": 50203,
-	"areaName": "„Sehr warmer Ort“",
+	"area": "„Sehr warmer Ort“",
 	"description": "„Schön, dass du hier bist!“",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 355
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 355
 }

@@ -1,13 +1,8 @@
 {
-	"id": 107002,
 	"name": "Polvere elementale",
-	"sortRank": 406,
 	"description": "Frammenti polverizzati dell'Oculus di cristallo. Rivela i tesori nascosti nelle vicinanze.",
-<<<<<<< HEAD
 	"sortorder": 3033,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Oggetto dell'avventura",
-	"sources": []
+	"materialtype": "Oggetto dell'avventura",
+	"source": []
 }

@@ -1,11 +1,8 @@
 {
-	"id": [
-		81355
-	],
 	"name": "Ini Salah Satu Benda ....",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1341,
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1341,
 	"stages": 1,
 	"stage1": {
 		"title": "Ini Salah Satu Benda ....",
@@ -13,7 +10,6 @@
 		"description": "... Favoritku.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

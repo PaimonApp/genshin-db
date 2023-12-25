@@ -11,10 +11,6 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
-<<<<<<< HEAD
-=======
-		"chevreuse": "Chevreuse",
->>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -48,10 +44,6 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
-<<<<<<< HEAD
-=======
-		"navia": "Navia",
->>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -100,10 +92,6 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
-<<<<<<< HEAD
-=======
-		"Chevreuse": "chevreuse",
->>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -137,10 +125,6 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
-<<<<<<< HEAD
-=======
-		"Navia": "navia",
->>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -191,10 +175,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -228,10 +208,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -344,10 +320,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -381,10 +353,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -767,10 +735,6 @@
 		],
 		"Ingranaggio dentato": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -782,10 +746,6 @@
 		],
 		"Ingranaggio cilindrico": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -797,40 +757,11 @@
 		],
 		"Ingranaggio dinamico artificiato": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Filo di seta senza luce": [
-<<<<<<< HEAD
 			"charlotte"
-=======
-			"charlotte",
-			"navia"
-		],
-		"Insegnamenti dell'ordine": [
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"Guida all'ordine": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"Filosofie dell'ordine": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"Occhio del vortice senza luce": [
-			"chevreuse"
->>>>>>> upstream/main
 		],
 		"Insegnamenti della diligenza": [
 			"chongyun",
@@ -971,28 +902,16 @@
 		],
 		"Perla transoceanica": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Frammento transoceanico": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Cristallo xenocromatico": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1150,7 +1069,6 @@
 			"razor",
 			"xiangling"
 		],
-<<<<<<< HEAD
 		"Insegnamenti dell'ordine": [
 			"lynette",
 			"wriothesley"
@@ -1167,29 +1085,16 @@
 		],
 		"Insegnamenti di equità": [
 			"lyney",
-=======
-		"Insegnamenti di equità": [
-			"lyney",
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Guida all'equità": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Filosofie di equità": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1276,13 +1181,6 @@
 			"Filosofie della giustizia",
 			"Ingranaggio dinamico artificiato",
 			"Filo di seta senza luce",
-<<<<<<< HEAD
-=======
-			"Insegnamenti dell'ordine",
-			"Guida all'ordine",
-			"Filosofie dell'ordine",
-			"Occhio del vortice senza luce",
->>>>>>> upstream/main
 			"Insegnamenti della diligenza",
 			"Maschera danneggiata",
 			"Guida alla diligenza",
@@ -1325,12 +1223,9 @@
 			"Filosofie della fugacità",
 			"Ambra perenne",
 			"Artiglio di Dvalin",
-<<<<<<< HEAD
 			"Insegnamenti dell'ordine",
 			"Guida all'ordine",
 			"Filosofie dell'ordine",
-=======
->>>>>>> upstream/main
 			"Insegnamenti di equità",
 			"Guida all'equità",
 			"Filosofie di equità",

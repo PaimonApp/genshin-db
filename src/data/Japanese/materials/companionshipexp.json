@@ -1,15 +1,9 @@
 {
-	"id": 105,
 	"name": "好感度経験値",
-	"rarity": 3,
-	"sortRank": 11,
 	"description": "好感度のLvUPに使用できる。",
-<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "好感度成長",
-	"sources": []
+	"materialtype": "好感度成長",
+	"source": []
 }

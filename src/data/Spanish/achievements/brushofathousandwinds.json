@@ -1,11 +1,7 @@
 {
-	"id": [
-		80031
-	],
 	"name": "La caricia de mil vientos",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt: la ciudad del viento y la poesía",
-	"sortOrder": 31,
+	"achievementgroup": "Mondstadt: la ciudad del viento y la poesía",
+	"sortorder": 31,
 	"stages": 1,
 	"stage1": {
 		"title": "La caricia de mil vientos",
@@ -13,7 +9,6 @@
 		"description": "Desbloquea todos los Puntos de teletransporte de Mondstadt (excepto Espinadragón).",
 		"progress": 22,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}

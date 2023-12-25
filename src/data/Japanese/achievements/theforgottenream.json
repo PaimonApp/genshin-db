@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "フォーゴトン·テープ",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1370,
-=======
-	"id": [
-		81386
-	],
-	"name": "フォーゴトン·テープ",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1370,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "フォーゴトン·テープ",
 		"description": "ブロイを手伝い、すべての「水文観測データ」を回収して整理する。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

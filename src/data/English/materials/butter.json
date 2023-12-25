@@ -1,11 +1,10 @@
 {
-	"id": 110004,
 	"name": "Butter",
-	"sortRank": 322,
 	"description": "An extract from milk. With the appropriate application, it can bring rich aromas to even the most basic ingredients.",
+	"sortorder": 2950,
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Processed"
 	]
 }

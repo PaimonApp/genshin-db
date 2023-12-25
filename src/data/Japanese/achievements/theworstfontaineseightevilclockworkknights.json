@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "最凶！クロックワーク·マシナリーの八魔将",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1372,
-=======
-	"id": [
-		81388
-	],
-	"name": "最凶！クロックワーク·マシナリーの八魔将",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1372,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "最凶！クロックワーク·マシナリーの八魔将",
 		"description": "「不完全な」クロックワーク·マシナリーの遺産を獲得する。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

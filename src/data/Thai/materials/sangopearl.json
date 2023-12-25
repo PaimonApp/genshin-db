@@ -1,15 +1,10 @@
 {
-	"id": 101207,
 	"name": "Sango Pearl",
-	"sortRank": 313,
 	"description": "ไข่มุกล้ำค่าที่เกิดมาเคียงคู่ปะการังบนเกาะ Watatsumi มันเปล่งประกายเยือกเย็นดุจแสงจันทร์",
-<<<<<<< HEAD
 	"sortorder": 2868,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "ของพิเศษเฉพาะใน Inazuma",
-	"sources": [
+	"materialtype": "ของพิเศษเฉพาะใน Inazuma",
+	"source": [
 		"พบได้ในโลกกว้าง",
 		"คำแนะนำ: หาได้ที่เกาะ Watatsumi"
 	]

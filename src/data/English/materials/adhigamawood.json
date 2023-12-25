@@ -1,14 +1,12 @@
 {
-	"id": 101315,
 	"name": "Adhigama Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "The wood of the Adhigama Tree. Can be found everywhere and therefore appears rather ordinary, but the wood is durable and easy to handle.\nCan be used to create furnishings.",
+	"sortorder": 2974,
+	"rarity": "1",
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
-		"Recommendation: Cut from the forests of Sumeru",
-		"Convert Wood"
+		"Recommendation: Cut from the forests of Sumeru"
 	]
 }

@@ -1,24 +1,17 @@
 {
-	"id": 114012,
 	"name": "獅牙戦士の理想",
-	"rarity": 5,
-	"sortRank": 15103,
 	"description": "武器に突破の力を付与する材料。\nヴァネッサは自由を手に入れたが、結局彼女を縛るものは大きくなった。一族はモンドになり、そして「自由」になり、世界となった。\nこの世界はもっと強くなってほしいと、彼女は本気で願った。",
-<<<<<<< HEAD
 	"sortorder": 3285,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "武器突破素材",
-	"dropDomainId": 4333,
-	"dropDomainName": "煉武秘境：渇水の廃都",
-	"daysOfWeek": [
+	"materialtype": "武器突破素材",
+	"dropdomain": "煉武秘境：渇水の廃都",
+	"daysofweek": [
 		"水曜",
 		"土曜",
 		"日曜"
 	],
-	"sources": [
+	"source": [
 		"合成で獲得"
 	]
 }

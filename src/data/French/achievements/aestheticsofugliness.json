@@ -1,11 +1,8 @@
 {
-	"id": [
-		81352
-	],
 	"name": "Esthétique de la laideur",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1338,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1338,
 	"stages": 1,
 	"stage1": {
 		"title": "Esthétique de la laideur",
@@ -13,7 +10,6 @@
 		"description": "Et Fontaine fait ainsi deux pas de plus vers la beauté...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Всех вод источник III",
 	"achievementgroup": "Фонтейн: Танец источников белых рос III",
 	"sortorder": 263,
-=======
-	"id": [
-		80287
-	],
-	"name": "Всех вод источник III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Фонтейн: Танец источников белых рос III",
-	"sortOrder": 263,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Всех вод источник III",
@@ -19,10 +9,6 @@
 		"description": "Откройте все точки телепортации в Морте и в лесу Эриний.",
 		"progress": 24,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

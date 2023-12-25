@@ -1,15 +1,9 @@
 {
-	"id": 200101,
 	"name": "Rime-Worn Fragment",
-	"rarity": 3,
-	"sortRank": 430061,
 	"description": "คริสตัลชิ้นเล็ก ๆ ที่มาจากมอนสเตอร์ใน Dragonspine\nมักจะเกิดในช่วงเวลาที่พิเศษเสมอ",
-<<<<<<< HEAD
 	"sortorder": 4960,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "วัสดุสำหรับ Dragonspine",
-	"sources": []
+	"materialtype": "วัสดุสำหรับ Dragonspine",
+	"source": []
 }

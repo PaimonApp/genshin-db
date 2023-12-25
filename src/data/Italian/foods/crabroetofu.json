@@ -1,10 +1,9 @@
 {
-	"id": 2112,
 	"name": "Tofu con uova di granchio",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Piatti rigenerativi",
+	"foodfilter": "Piatti rigenerativi",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Rianima il personaggio selezionato.\nRipristina 250-550 PS.",
 	"description": "Un piatto dalla consistenza tenera. Le uova di granchio sono saltate in padella finché l'olio all'interno non fuoriesce, per poi essere aggiunte al tofu bollito e aromatizzate con il brodo. Semplice, sì, ma gloriosamente fresco.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100074,
 			"name": "Uova di granchio",
 			"count": 1
 		},
 		{
-			"id": 100088,
 			"name": "Tofu",
 			"count": 1
 		}

@@ -1,21 +1,9 @@
 {
-	"id": 112002,
 	"name": "Слизь слайма",
-	"rarity": 1,
-	"sortRank": 10101,
 	"description": "Толстый слой слизи, покрывающий слайма. Обычно используется в элементальных мастерских.",
-<<<<<<< HEAD
 	"sortorder": 3038,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Улучшение персонажей/оружия",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Улучшение персонажей/оружия",
-	"sources": [
-		"Слаймы",
-		"Покупается за Звёздную пыль"
-	]
->>>>>>> upstream/main
 }

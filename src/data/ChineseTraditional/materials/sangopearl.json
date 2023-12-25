@@ -1,11 +1,10 @@
 {
-	"id": 101207,
 	"name": "珊瑚真珠",
-	"sortRank": 313,
 	"description": "與海祇的珊瑚相伴而生的寶珠，散發著月光般的絲絲涼意。",
+	"sortorder": 2868,
 	"category": "EXCHANGE",
-	"typeText": "稻妻區域特產",
-	"sources": [
+	"materialtype": "稻妻區域特產",
+	"source": [
 		"野外採集",
 		"推薦：海祇島採集"
 	]

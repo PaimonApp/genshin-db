@@ -1,18 +1,14 @@
 {
-	"id": [
-		82111
-	],
 	"name": "Arma biomarina",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 2111,
+	"achievementgroup": "Meraviglie del mondo",
+	"ishidden": true,
+	"sortorder": 2111,
 	"stages": 1,
 	"stage1": {
 		"title": "Arma biomarina",
 		"description": "Fatti colpire da un certo animale creato dall'Ipostasi di Hydro...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}

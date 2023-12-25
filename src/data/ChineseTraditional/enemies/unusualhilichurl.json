@@ -1,21 +1,17 @@
 {
-	"id": 21011501,
 	"name": "奇怪的丘丘人",
-	"specialName": "別墅之災",
-	"enemyType": "COMMON",
+	"specialname": "別墅之災",
+	"enemytype": "COMMON",
 	"category": "丘丘部族",
 	"description": "「Homu, Homu, mimi domu!」",
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "冒險閱歷"
 		},
 		{
-			"id": 202,
 			"name": "摩拉"
 		},
 		{
-			"id": 100018,
 			"name": "高麗菜"
 		}
 	]

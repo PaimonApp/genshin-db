@@ -1,17 +1,11 @@
 {
-	"id": 202,
 	"name": "Mora",
-	"rarity": 3,
-	"sortRank": 10,
 	"description": "Mata uang biasa, semua orang di seluruh penjuru dunia mengakui nilai mata uang ini.",
-<<<<<<< HEAD
 	"sortorder": 482,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"typeText": "Mata Uang Umum",
-	"sources": [
+	"materialtype": "Mata Uang Umum",
+	"source": [
 		"Hadiah dari Blossom of Wealth"
 	]
 }

@@ -1,8 +1,6 @@
 {
-	"id": 203400,
 	"name": "Rosa de Aço",
 	"description": "Estilo de roupa de Noelle. Um vestido pesado com uma armadura e veludo grosso.",
-	"isDefault": true,
-	"characterId": 10000034,
-	"characterName": "Noelle"
+	"isdefault": true,
+	"character": "Noelle"
 }

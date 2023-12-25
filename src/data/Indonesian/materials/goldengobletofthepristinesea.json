@@ -1,25 +1,17 @@
 {
-	"id": 114060,
 	"name": "Golden Goblet of the Pristine Sea",
-<<<<<<< HEAD
 	"description": "Material Ascension Senjata.\nSaat tiran dari kota yang tenggelam memainkan melodi terakhir dari partitur emas, musisi yang menjadi kesayangannya itu malah mencuri piala emas yang penuh dengan Ichor.\nKarena terkejut dengan tindakan pengkhianatan Raja Dewa yang bodoh, musisi memanggil penjaganya yang terakhir, dan menggunakan Ichor yang tak bisa larut untuk menyegel naga di bawah menara yang tinggi, dan jatuh ke dalam jurang kedalaman bersama dengan ibu kota.\nSetelah itu, pencuri mulia ini diam-diam menghilang dari sejarah, dan hanya \"Golden Troupe\" yang mengingat ramalannya dengan setia.",
 	"sortorder": 3334,
 	"rarity": "5",
-=======
-	"rarity": 5,
-	"sortRank": 15115,
-	"description": "Material Ascension Senjata.\nSaat tiran dari kota yang tenggelam memainkan melodi terakhir dari partitur emas, musisi yang menjadi kesayangannya itu malah mencuri piala emas yang penuh dengan Ichor.\nKarena terkejut dengan tindakan pengkhianatan Raja Dewa yang bodoh, musisi memanggil penjaganya yang terakhir, dan menggunakan Ichor yang tak bisa larut untuk menyegel naga di bawah menara yang tinggi, dan jatuh ke dalam jurang kedalaman bersama dengan ibu kota.\nSetelah itu, pencuri mulia ini diam-diam menghilang dari sejarah, dan hanya \"Golden Troupe\" yang mengingat ramalannya dengan setia.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Senjata",
-	"dropDomainId": 4507,
-	"dropDomainName": "Domain of Forgery: Kecanggihan Mekanik",
-	"daysOfWeek": [
+	"materialtype": "Material Ascension Senjata",
+	"dropdomain": "Domain of Forgery: Kecanggihan Mekanik",
+	"daysofweek": [
 		"Rabu",
 		"Sabtu",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

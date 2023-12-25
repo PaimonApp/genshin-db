@@ -1,15 +1,9 @@
 {
-	"id": 222002,
 	"name": "Fruto Verdadeiro da Natureza",
-	"rarity": 4,
-	"sortRank": 410011,
 	"description": "Essa fruta foi trazida como uma lembrança de Sumeru pelo Espírito do Bule Viajador, ela possui uma fragrância fantástica.\nAo inalar sua doce fragrância, belas imagens se formam na mente, permitindo que se manipule o poder da Criação Sub-espacial para recriar as vistas fantásticas de Sumeru no Paraíso Mágico...",
-<<<<<<< HEAD
 	"sortorder": 4855,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumível",
-	"sources": []
+	"materialtype": "Consumível",
+	"source": []
 }

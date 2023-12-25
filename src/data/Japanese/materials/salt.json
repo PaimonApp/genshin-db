@@ -1,15 +1,10 @@
 {
-	"id": 100075,
 	"name": "塩",
-	"sortRank": 321,
 	"description": "塩味の調味料。料理の中に「適量」を加えるだけで、メニューの質を高められる。",
-<<<<<<< HEAD
 	"sortorder": 2917,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"雑貨屋で購入"
 	]
 }

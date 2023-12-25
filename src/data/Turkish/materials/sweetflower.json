@@ -1,15 +1,10 @@
 {
-	"id": 100012,
 	"name": "Tatlı Çiçek",
-	"sortRank": 321,
 	"description": "Güçlü kokuya sahip bir çiçek. Karanlıkta bile kolayca bulunabilir. Sadece kokuyu takip et.",
-<<<<<<< HEAD
 	"sortorder": 2901,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Doğada bulunur."
 	]
 }

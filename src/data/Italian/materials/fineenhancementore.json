@@ -1,12 +1,11 @@
 {
-	"id": 104012,
 	"name": "Minerale di potenziamento di qualità",
-	"rarity": 2,
-	"sortRank": 5,
 	"description": "Materiale per l'ESP delle armi. Fornisce 2.000 ESP.\nPer ragioni ignote, questo speciale minerale raffinato può essere assorbito dalle armi per aumentare notevolmente la loro forza.",
+	"sortorder": 2,
+	"rarity": "2",
 	"category": "WEAPON_EXP_STONE",
-	"typeText": "Materiale di potenziamento armi",
-	"sources": [
+	"materialtype": "Materiale di potenziamento armi",
+	"source": [
 		"Forgiabile",
 		"Ricompensa evento casuale"
 	]

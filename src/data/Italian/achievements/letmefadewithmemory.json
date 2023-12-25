@@ -1,11 +1,8 @@
 {
-	"id": [
-		81242
-	],
 	"name": "Memorie spente",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1228,
+	"achievementgroup": "Meraviglie del mondo",
+	"ishidden": true,
+	"sortorder": 1228,
 	"stages": 1,
 	"stage1": {
 		"title": "Memorie spente",
@@ -13,7 +10,6 @@
 		"description": "Completa Vimana Agama.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 10
 		}

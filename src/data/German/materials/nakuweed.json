@@ -1,15 +1,10 @@
 {
-	"id": 101205,
 	"name": "Naku-Kraut",
-	"sortRank": 313,
 	"description": "Selbst an windstillen Tagen zittert diese Pflanze leicht inmitten von Donnerschlägen. Der Teil der Pflanze, der den Blütenblättern ähnelt, sind in Wirklichkeit Verlängerungen der Blätter, die die zerbrechliche Blüte schützen sollen.",
-<<<<<<< HEAD
 	"sortorder": 2866,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Inazuma",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Inazuma",
+	"source": [
 		"In der freien Natur zu finden",
 		"Empfohlen: In Tatarasuna zu finden"
 	]

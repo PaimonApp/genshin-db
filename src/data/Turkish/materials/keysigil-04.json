@@ -1,14 +1,9 @@
 {
-	"id": 100938,
 	"name": "Anahtar Mührü",
 	"dupealias": "Anahtar Mührü 4",
-	"sortRank": 430041,
 	"description": "Watatsumi Adası ve Enkanomiya'nın dört bir yanında bulunan bir mühür. Bazı sırlar saklıyor.",
-<<<<<<< HEAD
 	"sortorder": 4955,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sarf Malzemesi",
-	"sources": []
+	"materialtype": "Sarf Malzemesi",
+	"source": []
 }

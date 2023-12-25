@@ -1,27 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Cassoulet",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de DEF",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3414,
-	"name": "Cassoulet",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Pratos de DEF",
->>>>>>> upstream/main
 	"effect": "Aumenta a Força do Escudo de todos os membros da Equipe em 20%-30% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Um cozido rural comum. Basta colocar os ingredientes numa caçarola, misturar e cozinhar até ficarem prontos para servir. Vale a pena lembrar que o nome inteiro desse prato é: Feijões Glabros, Confit de Carne de Ave, Salsichas Defumadas numa Caçarola Cassoulet com toque de Marcotte. O nome intimidador fez as pessoas só chamarem de Cassoulet.",
 	"suspicious": {
 		"effect": "Aumenta a Força do Escudo de todos os membros da Equipe em 20% por 300s. No modo multijogador, terá efeito apenas em si mesmo.",
-<<<<<<< HEAD
 		"description": "Um cozido rústico simples. Apesar da aparência parecer ok, enquanto come, você percebe um gosto levemente queimado, antes de perceber que a camada do fundo dos ingredientes queimou tanto que se fundiu com a panela. Ugh... Lembre o chef de mexer os ingredientes ocasionalmente ao cozinhar..."
-=======
-		"description": "Um cozido simples e rústico. Embora tenha uma boa aparência de relance, conforme você começa a comer, você percebe um gosto levemente queimado, antes de perceber que a camada do fundo dos ingredientes ficou tão queimada que todos se fundiram à panela. Ugh... da próxima vez, mexa os ingredientes ocasionalmente enquanto cozinha..."
->>>>>>> upstream/main
 	},
 	"normal": {
 		"effect": "Aumenta a Força do Escudo de todos os membros da Equipe em 25% por 300s. No modo multijogador, terá efeito apenas em si mesmo.",
@@ -33,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 110011,
->>>>>>> upstream/main
 			"name": "Salsicha",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100064,
->>>>>>> upstream/main
 			"name": "Carne de Ave",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100096,
->>>>>>> upstream/main
 			"name": "Feijões Glabros",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

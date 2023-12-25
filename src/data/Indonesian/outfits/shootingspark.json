@@ -1,8 +1,6 @@
 {
-	"id": 202900,
 	"name": "Shooting Spark",
 	"description": "Model pakaian Klee. Pakaian anak-anak dengan tas berbahan kulit.",
-	"isDefault": true,
-	"characterId": 10000029,
-	"characterName": "Klee"
+	"isdefault": true,
+	"character": "Klee"
 }

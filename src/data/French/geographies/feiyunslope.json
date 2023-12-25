@@ -1,10 +1,7 @@
 {
-	"id": 70200016,
 	"name": "Pente Feiyun",
-	"areaId": 2701,
-	"areaName": "Port de Liyue",
+	"area": "Port de Liyue",
 	"description": "Les habitants de ces lieux sont prospères et insouciants. Les lumières y sont vives et ne s'éteignent jamais.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 102
+	"region": "Liyue",
+	"sortorder": 102
 }

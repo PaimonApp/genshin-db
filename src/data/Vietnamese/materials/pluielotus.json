@@ -1,15 +1,10 @@
 {
-	"id": 101229,
 	"name": "Sen Pluie",
-	"sortRank": 320,
 	"description": "Thực vật sinh trưởng ở nơi tập trung nhiều nguyên tố Thủy. Sau mùa mưa dai dẳng ở Fontaine, sẽ có thể bắt gặp nó ở khắp mọi nơi.",
-<<<<<<< HEAD
 	"sortorder": 2899,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu thập ở hồ nước bờ sông"
 	]
 }

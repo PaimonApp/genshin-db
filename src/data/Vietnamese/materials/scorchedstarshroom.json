@@ -1,15 +1,10 @@
 {
-	"id": 101227,
 	"name": "Nấm Sao Cháy Khô",
-	"sortRank": 90000,
 	"description": "Loại nấm có hình ngôi sao năm cánh, có tán, sức sống rất ngoan cường. Trông như bị nướng cháy.",
-<<<<<<< HEAD
 	"sortorder": 3420,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Thực phẩm",
-	"sources": [
+	"materialtype": "Thực phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Nagadus Emerald Sliver",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "วัสดุเลื่อนขั้นตัวละคร",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "วัสดุเลื่อนขั้นตัวละคร",
-	"sources": [
+	"materialtype": "วัสดุเลื่อนขั้นตัวละคร",
+	"source": [
 		"ดรอปจาก Jadeplume Terrorshroom",
 		"ดรอปจาก Dendro Hypostases"
 	]

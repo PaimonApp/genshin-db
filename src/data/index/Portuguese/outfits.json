@@ -37,7 +37,6 @@
 		"goldfishfirecracker": "Fogos de Artifício do Peixe Dourado",
 		"goldleafandpearlyjade": "Jade Dourado",
 		"goldpinionsinflamesbathed": "Penas Douradas Banhadas em Chamas",
-		"guardiansgun": "Arma da Guardiã",
 		"gunnhildrslegacy": "Legado de Gunnhildr",
 		"heartofthescales": "Coração das Balanças",
 		"hermitofmortallife": "Corpo Elegante Mortal",
@@ -90,8 +89,7 @@
 		"wavecrestwaltz": "Valsa das Ondas",
 		"whirlingbloom": "Dança Floral",
 		"wildsprint": "Correndo na Floresta",
-		"woodlandsong": "Melodia da Floresta",
-		"yellowvelvetsalon": "Salão de Veludo Amarelo"
+		"woodlandsong": "Melodia da Floresta"
 	},
 	"names": {
 		"100% Aventureira": "100outrider",
@@ -131,7 +129,6 @@
 		"Fogos de Artifício do Peixe Dourado": "goldfishfirecracker",
 		"Jade Dourado": "goldleafandpearlyjade",
 		"Penas Douradas Banhadas em Chamas": "goldpinionsinflamesbathed",
-		"Arma da Guardiã": "guardiansgun",
 		"Legado de Gunnhildr": "gunnhildrslegacy",
 		"Coração das Balanças": "heartofthescales",
 		"Corpo Elegante Mortal": "hermitofmortallife",
@@ -183,8 +180,7 @@
 		"Valsa das Ondas": "wavecrestwaltz",
 		"Dança Floral": "whirlingbloom",
 		"Correndo na Floresta": "wildsprint",
-		"Melodia da Floresta": "woodlandsong",
-		"Salão de Veludo Amarelo": "yellowvelvetsalon"
+		"Melodia da Floresta": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
@@ -303,9 +299,6 @@
 		],
 		"Kaveh": [
 			"goldpinionsinflamesbathed"
-		],
-		"Chevreuse": [
-			"guardiansgun"
 		],
 		"Cyno": [
 			"heartofthescales"
@@ -432,13 +425,10 @@
 		],
 		"Tighnari": [
 			"woodlandsong"
-		],
-		"Navia": [
-			"yellowvelvetsalon"
 		]
 	},
 	"properties": {
-		"characterName": [
+		"character": [
 			"Amber",
 			"Charlotte",
 			"Collei",
@@ -474,7 +464,6 @@
 			"Yoimiya",
 			"Ningguang",
 			"Kaveh",
-			"Chevreuse",
 			"Cyno",
 			"Zhongli",
 			"Kaeya",
@@ -515,8 +504,7 @@
 			"Eula",
 			"Kirara",
 			"Razor",
-			"Tighnari",
-			"Navia"
+			"Tighnari"
 		]
 	}
 }

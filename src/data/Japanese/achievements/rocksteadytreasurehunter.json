@@ -1,13 +1,7 @@
 {
-	"id": [
-		80050,
-		80051,
-		80052
-	],
 	"name": "磐岩のトレジャーハンター",
-	"achievementGroupId": 5,
-	"achievementGroupName": "璃月·岩と契約の港",
-	"sortOrder": 50,
+	"achievementgroup": "璃月·岩と契約の港",
+	"sortorder": 50,
 	"stages": 3,
 	"stage1": {
 		"title": "磐岩のトレジャーハンター",
@@ -15,7 +9,6 @@
 		"description": "璃月で宝箱を200個開ける（層岩巨淵は別途カウント）。",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "璃月で宝箱を400個開ける（層岩巨淵は別途カウント）。",
 		"progress": 400,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "璃月で宝箱を800個開ける（層岩巨淵は別途カウント）。",
 		"progress": 800,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 20
 		}

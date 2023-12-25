@@ -1,11 +1,8 @@
 {
-	"id": [
-		80092
-	],
 	"name": "เลื่องลือทั่วแดนสายฟ้า",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1026,
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1026,
 	"stages": 1,
 	"stage1": {
 		"title": "เลื่องลือทั่วแดนสายฟ้า",
@@ -13,7 +10,6 @@
 		"description": "ระดับชื่อเสียงประจำเมือง Inazuma ถึง Lv.10",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

@@ -1,10 +1,9 @@
 {
-	"id": 1301,
 	"name": "Sopa de Feijão com Menta",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Regenera o Personagem selecionado.\nRestaura 50 - 150 de Vida.",
 	"description": "Uma sopa bem rica, com ingredientes simples. Mentas e feijões foram fervidos e moídos juntos para criar uma textura suave. A sopa então foi deixada em fogo baixo até que ficasse grossa. Por fim, alguns feijões e mentas foram jogados por cima. Essa iguaria refrescante tem um gosto incrível seja ela servida quente ou fria.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100096,
 			"name": "Feijões Glabros",
 			"count": 2
 		},
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 2
 		}
