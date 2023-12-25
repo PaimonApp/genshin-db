@@ -1,15 +1,10 @@
 {
-	"id": 100099,
 	"name": "Succo fermentato",
-	"sortRank": 321,
 	"description": "Succo fermentato dotato di uno speciale aroma alla frutta. Viene spesso impiegato come salamoia.",
-<<<<<<< HEAD
 	"sortorder": 2936,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Acquistabile negli empori di Fontaine"
 	]
 }

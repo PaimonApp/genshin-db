@@ -1,15 +1,10 @@
 {
-	"id": 100026,
 	"name": "Cabeças de Lótus",
-	"sortRank": 321,
 	"description": "Uma planta aquática originária de Liyue que cresce e floresce em pares. Uma delas é aromática enquanto que a outra é amarga. Dizem que é boa como erva medicinal.",
-<<<<<<< HEAD
 	"sortorder": 2910,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Encontrado perto dos lagos e encostas de rios"
 	]
 }

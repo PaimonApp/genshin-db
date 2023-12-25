@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Das schöne Gestern",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1385,
-=======
-	"id": [
-		81401
-	],
-	"name": "Das schöne Gestern",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1385,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Das schöne Gestern",
 		"description": "Der gestrige Tag, man kann ihn nicht festhalten ...",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

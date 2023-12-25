@@ -1,17 +1,11 @@
 {
-	"id": 104121,
 	"name": "Scheggia di lazurite Varunada",
-	"rarity": 2,
-	"sortRank": 12103,
 	"description": "Materiale d'ascensione personaggi.",
-<<<<<<< HEAD
 	"sortorder": 3196,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale d'ascensione personaggi",
-	"sources": [
+	"materialtype": "Materiale d'ascensione personaggi",
+	"source": [
 		"Ottenibile dalle Oceanidi",
 		"Ottenibile dalle Ipostasi di Hydro",
 		"Ottenibile dai Tulpa di Hydro",

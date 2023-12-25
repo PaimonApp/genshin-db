@@ -1,15 +1,10 @@
 {
-	"id": 100011,
 	"name": "Champignon",
-	"sortRank": 321,
 	"description": "Vor Lebenskraft nur so strotzend und sehr häufig anzutreffen. Er braucht lediglich genug Schatten und Wasser. Ansonsten wächst er fast überall.",
-<<<<<<< HEAD
 	"sortorder": 2900,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

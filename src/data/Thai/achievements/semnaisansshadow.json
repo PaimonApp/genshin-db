@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Semnai ที่ไร้เงา",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว III",
 	"sortorder": 274,
-=======
-	"id": [
-		80298
-	],
-	"name": "Semnai ที่ไร้เงา",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว III",
-	"sortOrder": 274,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Semnai ที่ไร้เงา",
@@ -19,10 +9,6 @@
 		"description": "ทำความรู้จักกับภูตลึกลับตนหนึ่งบนเกาะ Erinnyes",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

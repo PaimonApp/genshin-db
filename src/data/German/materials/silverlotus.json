@@ -1,15 +1,10 @@
 {
-	"id": 100019,
 	"name": "Himmelsanemone",
-	"sortRank": 321,
 	"description": "Eine sehr wertvolle Pflanze, die an steilen Hängen wächst und nachts hell leuchtet.",
-<<<<<<< HEAD
 	"sortorder": 2908,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

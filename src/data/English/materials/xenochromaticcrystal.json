@@ -1,22 +1,11 @@
 {
-	"id": 112082,
 	"name": "Xenochromatic Crystal",
-	"rarity": 3,
-	"sortRank": 10128,
 	"description": "A large crystal obtained from a defeated Fontemer Aberrant.\nIt contains a mysterious energy.\nAll rivers and seas originate in Fontaine, but the water loses all its unique properties once it flows outside Fontaine's borders.",
-<<<<<<< HEAD
 	"sortorder": 3114,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character and Weapon Enhancement Material",
 	"source": [
 		"Crafted"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Character and Weapon Enhancement Material",
-	"sources": [
-		"Crafted",
-		"Dropped by Lv. 60+ Fontemer Aberrants"
->>>>>>> upstream/main
 	]
 }

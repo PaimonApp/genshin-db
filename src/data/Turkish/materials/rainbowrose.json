@@ -1,15 +1,10 @@
 {
-	"id": 101236,
 	"name": "Gökkuşağı Gülü",
-	"sortRank": 315,
 	"description": "Narin ve yumuşak pembe bir çiçek. İsminin aksine Gökkuşağı Gülleri daha çok Zambağa benzer.",
-<<<<<<< HEAD
 	"sortorder": 2883,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Fontaine Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Fontaine Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Beril Bölgesi'nde bulunur."
 	]

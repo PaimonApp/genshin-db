@@ -1,15 +1,9 @@
 {
-	"id": 101693,
 	"name": "Light Realm Core",
-	"rarity": 4,
-	"sortRank": 430041,
 	"description": "เมื่อสำรวจและตรวจสอบ Enkanomiya ที่ปกคลุมไปด้วยความมืดมิด ก็เจอเข้ากับหินประหลาด\nภพแห่งแสงจะมอบความช่วยเหลือให้กับเหล่ามนุษย์ เพื่อต่อกรกับพวก Abyss",
-<<<<<<< HEAD
 	"sortorder": 4949,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "วัสดุใช้งาน",
-	"sources": []
+	"materialtype": "วัสดุใช้งาน",
+	"source": []
 }

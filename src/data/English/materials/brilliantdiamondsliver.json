@@ -1,12 +1,11 @@
 {
-	"id": 104101,
 	"name": "Brilliant Diamond Sliver",
-	"rarity": 2,
-	"sortRank": 12101,
 	"description": "Character Ascension material.\n\"Welcome to this world.\"",
+	"sortorder": 3188,
+	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character Ascension Material",
-	"sources": [
+	"materialtype": "Character Ascension Material",
+	"source": [
 		"Adventure Rank Reward"
 	]
 }

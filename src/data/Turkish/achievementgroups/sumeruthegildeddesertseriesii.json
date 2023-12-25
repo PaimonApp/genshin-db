@@ -1,13 +1,7 @@
 {
-	"id": 38,
 	"name": "Sumeru: Yaldızlı Çöl - II. Seri",
-<<<<<<< HEAD
 	"sortorder": 42,
-=======
-	"sortOrder": 42,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210151,
 		"name": "Sumeru: Kum Fırtınası"
 	}
 }

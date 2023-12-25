@@ -1,15 +1,10 @@
 {
-	"id": 101004,
 	"name": "Magical Crystal Chunk",
-	"sortRank": 301,
 	"description": "These crystal chunks can be refined into Weapon EXP materials by using Original Resin.\nCrystals from mines that were eroded by the energy of the Ley Lines cannot be processed by ordinary means.",
-<<<<<<< HEAD
 	"sortorder": 2824,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Forging Ore",
-	"sources": [
+	"materialtype": "Forging Ore",
+	"source": [
 		"Found in the wild"
 	]
 }

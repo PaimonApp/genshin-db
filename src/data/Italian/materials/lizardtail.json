@@ -1,15 +1,10 @@
 {
-	"id": 100083,
 	"name": "Coda di lucertola",
-	"sortRank": 320,
 	"description": "La coda di una lucertola arricciata dopo essersi staccata. Molto amara, ma la sua pelle vanta proprietà dermatologiche.",
-<<<<<<< HEAD
 	"sortorder": 2895,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Materiale",
-	"sources": [
+	"materialtype": "Materiale",
+	"source": [
 		"Si raccoglie cacciando lucertole"
 	]
 }

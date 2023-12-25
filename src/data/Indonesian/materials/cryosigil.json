@@ -1,17 +1,11 @@
 {
-	"id": 306,
 	"name": "Cryo Sigil",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Sebuah tanda pengakuan dan tanda penghormatan, di area sekitar Mondstadt. Dapat ditukarkan menjadi item langka di beberapa lokasi tertentu.",
-<<<<<<< HEAD
 	"sortorder": 4932,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sigil Elemental",
-	"sources": [
+	"materialtype": "Sigil Elemental",
+	"source": [
 		"Hadiah Eksplorasi"
 	]
 }

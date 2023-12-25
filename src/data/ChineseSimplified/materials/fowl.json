@@ -1,11 +1,10 @@
 {
-	"id": 100064,
 	"name": "禽肉",
-	"sortRank": 321,
 	"description": "禽类的新鲜肉块。经过适当处理可以制成让人精神一振的佳肴。",
+	"sortorder": 2915,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"动物掉落"
 	]
 }

@@ -1,18 +1,13 @@
 {
-	"id": [
-		80001
-	],
 	"name": "Angin dan Sang Pengembara",
-	"achievementGroupId": 1,
-	"achievementGroupName": "Penderitaan Fana: Seri I",
-	"sortOrder": 1,
+	"achievementgroup": "Penderitaan Fana: Seri I",
+	"sortorder": 1,
 	"stages": 1,
 	"stage1": {
 		"title": "Angin dan Sang Pengembara",
 		"description": "Gunakan Anemo untuk meniup biji-biji Dandelion.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

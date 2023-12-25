@@ -1,15 +1,10 @@
 {
-	"id": 110011,
 	"name": "Salchicha",
-	"sortRank": 322,
 	"description": "Carne picada y compactada en una forma alargada. Gracias a su fácil conservación, satisface las necesidades diarias de cualquier amante de la carne.",
-<<<<<<< HEAD
 	"sortorder": 2956,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Procesar comida"
 	]
 }

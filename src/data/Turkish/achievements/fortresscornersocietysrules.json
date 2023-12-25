@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Kalede Olan Kalede Kalır",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 5085,
-=======
-	"id": [
-		84306
-	],
-	"name": "Kalede Olan Kalede Kalır",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 5085,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Kalede Olan Kalede Kalır",
 		"description": "Hapishanedeki \"gizli kurallardan\" ikisini araştır.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

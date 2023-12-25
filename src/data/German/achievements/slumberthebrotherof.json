@@ -1,11 +1,7 @@
 {
-	"id": [
-		80191
-	],
 	"name": "Die Familie des Schlummers",
-	"achievementGroupId": 35,
-	"achievementGroupName": "Sumeru – Die goldene Wüste I",
-	"sortOrder": 193,
+	"achievementgroup": "Sumeru – Die goldene Wüste I",
+	"sortorder": 193,
 	"stages": 1,
 	"stage1": {
 		"title": "Die Familie des Schlummers",
@@ -13,7 +9,6 @@
 		"description": "Schließ „Das goldene Traumland“ ab.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 10
 		}

@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "\"Consomme Purete\"",
 	"rarity": "3",
 	"foodtype": "SPECIALTY",
@@ -11,47 +10,18 @@
 	"character": "Neuvillette",
 	"ingredients": [
 		{
-=======
-	"id": 10000087,
-	"name": "\"Consomme Purete\"",
-	"rarity": 3,
-	"foodtype": "SPECIALTY",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "เมนูการโจมตี",
-	"effect": "เพิ่มอัตราคริให้กับ สมาชิกทีมทั้งหมด 20% และเพิ่มความแรงคริ 20% เป็นเวลา 300 วินาที เมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
-	"description": "เมนูพิเศษของ Neuvillette ได้ยินว่าเขาใช้น้ำจากภูเขาสูงที่สะอาดที่สุด เพื่อสร้างเมนูล้ำค่าที่ไม่ซ้ำใครในโลกขึ้นมา ชิมดูแล้วรู้สึกสดชื่นกลมกล่อมจริง ๆ ส่วนเรื่องที่รสชาติโดยรวมไม่ต่างจากน้ำซุปธรรมดา งั้นก็อย่าพูดถึงมันเลยดีกว่า...",
-	"baseDishId": 3413,
-	"baseDishName": "Consomme",
-	"characterId": 10000087,
-	"characterName": "Neuvillette",
-	"ingredients": [
-		{
-			"id": 100064,
->>>>>>> upstream/main
 			"name": "Fowl",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Bird Egg",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100013,
->>>>>>> upstream/main
 			"name": "Carrot",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

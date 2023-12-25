@@ -1,19 +1,12 @@
 {
-	"id": 101315,
 	"name": "Madeira da Adhigama",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madeira da Árvore Adhigama. Pode ser encontrada em qualquer lugar e, portanto, parece ser bem ordinária, mas sua madeira e durável e fácil de manusear.\nPode ser usada para fazer Decorações.",
-<<<<<<< HEAD
 	"sortorder": 2974,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
-		"Recomendação: Cortado nas Florestas de Sumeru",
-		"Converter Madeira"
+		"Recomendação: Cortado nas Florestas de Sumeru"
 	]
 }

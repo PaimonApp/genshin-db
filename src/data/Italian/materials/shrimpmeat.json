@@ -1,15 +1,10 @@
 {
-	"id": 100093,
 	"name": "Gamberetti",
-	"sortRank": 321,
 	"description": "Tutto il sapore del mare in un piccolo invertebrato. Ricco di nutrienti e dal sapore delizioso.",
-<<<<<<< HEAD
 	"sortorder": 2930,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Acquistabile negli empori di Liyue",
 		"Acquistabile negli empori di Inazuma",
 		"Acquistabile negli empori di Sumeru"

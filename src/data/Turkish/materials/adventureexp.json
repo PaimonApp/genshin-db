@@ -1,15 +1,9 @@
 {
-	"id": 102,
 	"name": "Macera TP",
-	"rarity": 3,
-	"sortRank": 13,
 	"description": "Macera TP, Macera Rütbesini geliştirmek için kullanılır.",
-<<<<<<< HEAD
 	"sortorder": 2670,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Sistem Erişimi",
-	"sources": []
+	"materialtype": "Sistem Erişimi",
+	"source": []
 }

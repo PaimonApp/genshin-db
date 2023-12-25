@@ -1,15 +1,10 @@
 {
-	"id": 110001,
 	"name": "Farinha",
-	"sortRank": 322,
 	"description": "Pó moído de trigo. Não importa que tipo de comida você faça, sempre trará uma grande satisfação no jantar.",
-<<<<<<< HEAD
 	"sortorder": 2947,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Processado"
 	]
 }

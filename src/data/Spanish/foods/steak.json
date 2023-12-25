@@ -1,10 +1,9 @@
 {
-	"id": 1004,
 	"name": "Filete a la barbacoa",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Platos que regeneran Vida",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revive al personaje seleccionado.\nRestaura 50-150 pts. de Vida.",
 	"description": "Un filete a la parrilla. El calor que ha absorbido al ser cocinado le da un toque muy jugoso, el cual se puede apreciar al cortarlo.",
 	"suspicious": {
@@ -21,7 +20,6 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Carne cruda",
 			"count": 2
 		}

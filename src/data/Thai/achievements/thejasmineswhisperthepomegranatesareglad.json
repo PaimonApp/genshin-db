@@ -1,11 +1,8 @@
 {
-	"id": [
-		81252
-	],
 	"name": "มะลิกระซิบหา ทาฑิมเริงร่า",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1238,
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1238,
 	"stages": 1,
 	"stage1": {
 		"title": "มะลิกระซิบหา ทาฑิมเริงร่า",
@@ -13,7 +10,6 @@
 		"description": "สำเร็จ \"ตำราอัคนิโฮตรสูตร\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

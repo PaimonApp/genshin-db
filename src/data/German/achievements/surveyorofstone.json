@@ -1,11 +1,7 @@
 {
-	"id": [
-		80044
-	],
 	"name": "Gestein, soweit das Auge reicht",
-	"achievementGroupId": 5,
-	"achievementGroupName": "Liyue: Der Hafen des Gesteins und der Verträge",
-	"sortOrder": 44,
+	"achievementgroup": "Liyue: Der Hafen des Gesteins und der Verträge",
+	"sortorder": 44,
 	"stages": 1,
 	"stage1": {
 		"title": "Gestein, soweit das Auge reicht",
@@ -13,7 +9,6 @@
 		"description": "Aktiviere alle Teleportationspunkte im Gebiet von Liyue (abgesehen von denen in der Großen Kluft).",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}

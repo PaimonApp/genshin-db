@@ -1,24 +1,17 @@
 {
-	"id": 104324,
 	"name": "Guide de l'Élégance",
-	"rarity": 3,
-	"sortRank": 13108,
 	"description": "Matériau d'amélioration d'aptitude.\nL'élégance est l'apparence de la nation du tonnerre.\nL'élégance évite l'arrogance. Les élégants sont toujours humbles, et ce n'est qu'en rejetant la vanité et la négligence que l'on voit la véritable beauté, même dans l'apparence la plus inesthétique.",
-<<<<<<< HEAD
 	"sortorder": 3239,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'aptitude de personnage",
-	"dropDomainId": 4411,
-	"dropDomainName": "Donjon de la maîtrise : Vallée foudroyée",
-	"daysOfWeek": [
+	"materialtype": "Matériau d'aptitude de personnage",
+	"dropdomain": "Donjon de la maîtrise : Vallée foudroyée",
+	"daysofweek": [
 		"Mardi",
 		"Vendredi",
 		"Dimanche"
 	],
-	"sources": [
+	"source": [
 		"Synthèse"
 	]
 }

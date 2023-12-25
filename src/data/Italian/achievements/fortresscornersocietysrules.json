@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Regole della società degli angoli del Forte",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 5085,
-=======
-	"id": [
-		84306
-	],
-	"name": "Regole della società degli angoli del Forte",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 5085,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Regole della società degli angoli del Forte",
 		"description": "Hai indagato su due delle \"regole segrete\" della prigione.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

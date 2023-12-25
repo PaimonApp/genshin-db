@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Même César ne pourrait pas acheter ça",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1415,
-=======
-	"id": [
-		81431
-	],
-	"name": "Même César ne pourrait pas acheter ça",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1415,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Même César ne pourrait pas acheter ça",
 		"description": "Obtenez la plus grande œuvre d'art du monde.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

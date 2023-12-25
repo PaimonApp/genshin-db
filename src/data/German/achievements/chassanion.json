@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "„Chassanion“",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1416,
-=======
-	"id": [
-		81432
-	],
-	"name": "„Chassanion“",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1416,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "„Chassanion“",
 		"description": "Besiege die Lokallegende Chassanion.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

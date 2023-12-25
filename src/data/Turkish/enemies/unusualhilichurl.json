@@ -1,21 +1,17 @@
 {
-	"id": 21011501,
 	"name": "Tuhaf Dağ Yabanisi",
-	"specialName": "Köşkün Belalısı",
-	"enemyType": "COMMON",
+	"specialname": "Köşkün Belalısı",
+	"enemytype": "COMMON",
 	"category": "Dağ Yabanileri",
 	"description": "\"Homu, homu, mimi domu!\"",
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "Macera TP"
 		},
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 100018,
 			"name": "Lahana"
 		}
 	]

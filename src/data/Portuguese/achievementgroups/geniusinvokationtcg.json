@@ -1,13 +1,7 @@
 {
-	"id": 37,
 	"name": "Chamado Sagrado dos Sete",
-<<<<<<< HEAD
 	"sortorder": 43,
-=======
-	"sortOrder": 43,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210145,
 		"name": "Conquista: Sete Sagrados"
 	}
 }

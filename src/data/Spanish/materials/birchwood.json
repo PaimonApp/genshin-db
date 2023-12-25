@@ -1,19 +1,12 @@
 {
-	"id": 101301,
 	"name": "Madera de abedul",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madera obtenida de abedules. Es fácil de procesar y cortar. Los muebles que se hacen con esta madera son bonitos y duraderos.\nPuede utilizarse para fabricar decoraciones.",
-<<<<<<< HEAD
 	"sortorder": 2960,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Recolectar en la naturaleza",
-		"Talando en la Meseta de la Ventisca",
-		"Transformar madera"
+		"Talando en la Meseta de la Ventisca"
 	]
 }

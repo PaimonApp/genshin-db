@@ -6,8 +6,6 @@
 		"crystalchunk": "Brocken Kristall",
 		"dandelionseed": "Löwenzahnsamen",
 		"dendrobium": "Dendrobium",
-		"dragonspinecrown": "Drachengrat – Krone",
-		"dragonspinetraces": "Drachengrat – Spurensuche",
 		"electrocrystal": "Elektrisierter Kristall",
 		"flamingflowerstamen": "Flammenblumenstaubblatt",
 		"fontaine": "Fontaine",
@@ -21,7 +19,6 @@
 		"mondstadt": "Mondstadt",
 		"origin": "Anbeginn",
 		"sumeru": "Sumeru",
-		"thefortressofmeropide": "Fort Méropide",
 		"treasuresofthedeck": "Schätze des Decks"
 	},
 	"names": {
@@ -31,8 +28,6 @@
 		"Brocken Kristall": "crystalchunk",
 		"Löwenzahnsamen": "dandelionseed",
 		"Dendrobium": "dendrobium",
-		"Drachengrat – Krone": "dragonspinecrown",
-		"Drachengrat – Spurensuche": "dragonspinetraces",
 		"Elektrisierter Kristall": "electrocrystal",
 		"Flammenblumenstaubblatt": "flamingflowerstamen",
 		"Fontaine": "fontaine",
@@ -46,7 +41,6 @@
 		"Mondstadt": "mondstadt",
 		"Anbeginn": "origin",
 		"Sumeru": "sumeru",
-		"Fort Méropide": "thefortressofmeropide",
 		"Schätze des Decks": "treasuresofthedeck"
 	},
 	"aliases": {},
@@ -58,8 +52,6 @@
 			"crystalchunk",
 			"dandelionseed",
 			"dendrobium",
-			"dragonspinecrown",
-			"dragonspinetraces",
 			"electrocrystal",
 			"flamingflowerstamen",
 			"fontaine",
@@ -73,7 +65,6 @@
 			"mondstadt",
 			"origin",
 			"sumeru",
-			"thefortressofmeropide",
 			"treasuresofthedeck"
 		]
 	},

@@ -1,23 +1,13 @@
 {
-	"id": [
-		80073
-	],
 	"name": "Um Especialista em Estudos Hilichurls",
-<<<<<<< HEAD
 	"achievementgroup": "Andarilho do Mundo Mortal - Série II",
 	"sortorder": 73,
-=======
-	"achievementGroupId": 22,
-	"achievementGroupName": "Andarilho do Mundo Mortal - Série II",
-	"sortOrder": 73,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Um Especialista em Estudos Hilichurls",
 		"description": "Colete toda a série “Costumes Culturais de Hilichurls”.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

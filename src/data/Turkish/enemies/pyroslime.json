@@ -1,8 +1,7 @@
 {
-	"id": 20011201,
 	"name": "Ateş Bodurlopu",
-	"specialName": "Yuvarlanan Element",
-	"enemyType": "COMMON",
+	"specialname": "Yuvarlanan Element",
+	"enemytype": "COMMON",
 	"category": "Element Yaşam Formları",
 	"description": "Doğanın dört bir yanına dağılmış Ateş tortularından oluşan küçük bir canavar.\nZekası neredeyse hiç gelişmemiş olan bu canavar, kendisine faydası olmasa da dağ yabanileri için çok kullanışlıdır.",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "Kolay",
 		"description": "Bodur bir element yaşam formu.\\nFarklı elementlerin bodurloplarından yapılan tatlıların son derece belirgin tatlara sahip olduğu söylenir."
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112002,
 			"name": "Bodurlop Özü",
 			"count": 0.6723
 		},
 		{
-			"id": 112003,
 			"name": "Bodurlop Salgıları",
 			"count": 0.1792
 		},
 		{
-			"id": 112004,
 			"name": "Yoğun Bodurlop Özü",
 			"count": 0.0448
 		}

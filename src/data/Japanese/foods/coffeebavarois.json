@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "コーヒーババロア",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "回復系料理",
 	"foodcategory": "Recovery_HpAddAll",
-=======
-	"id": 3410,
-	"name": "コーヒーババロア",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "回復系料理",
->>>>>>> upstream/main
 	"effect": "選択したキャラのHP上限の26%~30%を回復する。\nその後30秒間、5秒毎にHPを450~790回復する。",
 	"description": "爽やかなデザート。フォンテーヌの代表的なデザートで、作り方は簡単でお手軽。材料のバランスさえ適切であれば、失敗することはほぼない。なめらかな食感の中に、ちょっとした清涼感があり、食べた瞬間、元気になる。",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "コーヒー豆",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100078,
->>>>>>> upstream/main
 			"name": "牛乳",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "鳥の卵",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "クリーム",
 			"count": 2
 		}

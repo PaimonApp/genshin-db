@@ -1,19 +1,12 @@
 {
-	"id": 101319,
 	"name": "Madera de tilo silvestre",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madera obtenida de tilos silvestres. Posee una textura muy delicada, un color claro y deja poco serrín al ser procesada. Por estas razones, es muy usada para tallar figuras o para crear piezas mecánicas de madera compactas.\nPuede utilizarse para fabricar decoraciones.",
-<<<<<<< HEAD
 	"sortorder": 2978,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Recolectar en la naturaleza",
-		"Talar en Fontaine",
-		"Transformar madera"
+		"Talar en Fontaine"
 	]
 }

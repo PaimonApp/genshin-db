@@ -1,15 +1,10 @@
 {
-	"id": 101210,
 	"name": "Alga",
-	"sortRank": 321,
 	"description": "Una planta que crece en zonas poco profundas de la costa. Proporciona un sabor especial a la comida.",
-<<<<<<< HEAD
 	"sortorder": 2937,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en las costas de Inazuma"
 	]
 }

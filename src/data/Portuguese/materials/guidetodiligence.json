@@ -1,24 +1,17 @@
 {
-	"id": 104314,
 	"name": "Guia de Esforço",
-	"rarity": 3,
-	"sortRank": 13105,
 	"description": "Material de elevação de Talento.\nA diligência é a base da terra do Geo.\nA diligência é o catalisador que flui no sangue do povo de Liyue, capaz de transformar rochas em ouro. É o que está por trás da grandeza de seu grande porto comercial.",
-<<<<<<< HEAD
 	"sortorder": 3230,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Talento do Personagem",
-	"dropDomainId": 5259,
-	"dropDomainName": "Domínio da Proficiência: Coração das Chamas",
-	"daysOfWeek": [
+	"materialtype": "Material de Talento do Personagem",
+	"dropdomain": "Domínio da Proficiência: Coração das Chamas",
+	"daysofweek": [
 		"Terça-feira",
 		"Sexta-feira",
 		"Domingo"
 	],
-	"sources": [
+	"source": [
 		"Obtido na síntese"
 	]
 }

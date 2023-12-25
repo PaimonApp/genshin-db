@@ -1,14 +1,9 @@
 {
-	"id": 100938,
 	"name": "Padrão de Chave",
 	"dupealias": "Padrão de Chave 4",
-	"sortRank": 430041,
 	"description": "Um padrão de chave comum na Ilha Watatsumi e em Enkanomiya. Ele esconde algum segredo.",
-<<<<<<< HEAD
 	"sortorder": 4955,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumível",
-	"sources": []
+	"materialtype": "Consumível",
+	"source": []
 }

@@ -1,11 +1,7 @@
 {
-	"id": [
-		80031
-	],
 	"name": "Terre des mille vents",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt : Cité du vent et de la chanson",
-	"sortOrder": 31,
+	"achievementgroup": "Mondstadt : Cité du vent et de la chanson",
+	"sortorder": 31,
 	"stages": 1,
 	"stage1": {
 		"title": "Terre des mille vents",
@@ -13,7 +9,6 @@
 		"description": "Activez tous les points de téléportation de Mondstadt (sauf Monts Dosdragon).",
 		"progress": 22,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

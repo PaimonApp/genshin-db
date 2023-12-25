@@ -1,15 +1,10 @@
 {
-	"id": 101210,
 	"name": "海草",
-	"sortRank": 321,
 	"description": "浅海で育つ植物。料理に使うと不思議な味を堪能することができる。",
-<<<<<<< HEAD
 	"sortorder": 2937,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"稲妻海域で採集"
 	]
 }

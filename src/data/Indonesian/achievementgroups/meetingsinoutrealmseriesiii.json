@@ -1,13 +1,7 @@
 {
-	"id": 33,
 	"name": "Pertemuan Dunia Lain: Seri III",
-<<<<<<< HEAD
 	"sortorder": 28,
-=======
-	"sortOrder": 28,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210129,
 		"name": "Achievement: Pertemuan yang Ditakdirkan"
 	}
 }

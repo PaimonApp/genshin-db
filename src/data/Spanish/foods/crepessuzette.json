@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Crepes Suzette",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Platos para aventuras",
 	"foodcategory": "Other_SPReduceConsume",
-=======
-	"id": 3415,
-	"name": "Crepes Suzette",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Platos para aventuras",
->>>>>>> upstream/main
 	"effect": "Disminuye el Coste de Aguante de todos los miembros del equipo al volar y esprintar en un 15%-25% durante 900 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Una fina masa de tortilla rellena. Primero se fríe la tortilla y luego se añade mermelada, crema batida y trozos de fruta. Hay mil y una maneras de condimentarla, lo que da lugar a todo un abanico de posibles sabores.",
 	"suspicious": {
@@ -25,42 +16,22 @@
 	},
 	"delicious": {
 		"effect": "#Disminuye el Coste de Aguante de todos los miembros del equipo al esprintar y planear en un 25% durante 900{NON_BREAK_SPACE}s. En modo multijugador, solo tendrá efecto en tus propios personajes.",
-<<<<<<< HEAD
 		"description": "Una fina masa de tortilla rellena. La crema ligera y la mermelada densa se entrelazan en una larga melodía. La suave capa exterior, como de una grácil falda se tratara, atrae a la lengua, incapaz de resistirse a bailar con ella."
 	},
 	"ingredients": [
 		{
-=======
-		"description": "Una fina masa de tortilla rellena. La crema ligera y la mermelada densa se entrelazan en una larga melodía. La suave capa exterior, como si de una grácil falda se tratara, atrae a la lengua, incapaz de resistirse a bailar con ella."
-	},
-	"ingredients": [
-		{
-			"id": 101230,
->>>>>>> upstream/main
 			"name": "Burburanja",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "Crema batida",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110008,
->>>>>>> upstream/main
 			"name": "Mermelada",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Harina",
 			"count": 1
 		}

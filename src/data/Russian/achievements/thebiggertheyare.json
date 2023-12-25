@@ -1,18 +1,14 @@
 {
-	"id": [
-		82013
-	],
 	"name": "...тем они больше",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2013,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2013,
 	"stages": 1,
 	"stage1": {
 		"title": "...тем они больше",
 		"description": "Парализуйте стража руин атакой по его уязвимому месту.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 100016,
 	"name": "Menta",
-	"sortRank": 321,
 	"description": "Un ingrediente rinfrescante che può mitigare la piccantezza di molti piatti.",
-<<<<<<< HEAD
 	"sortorder": 2905,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Presente in natura"
 	]
 }

@@ -1,17 +1,11 @@
 {
-	"id": 104101,
 	"name": "Осколок бриллианта",
-	"rarity": 2,
-	"sortRank": 12101,
 	"description": "Материал возвышения персонажа.\n«Добро пожаловать в мир!»",
-<<<<<<< HEAD
 	"sortorder": 3188,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Возвышение персонажей",
-	"sources": [
+	"materialtype": "Возвышение персонажей",
+	"source": [
 		"Награда Ранга приключений"
 	]
 }

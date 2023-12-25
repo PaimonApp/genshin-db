@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "夢の中のビジョン",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 5084,
-=======
-	"id": [
-		84305
-	],
-	"name": "夢の中のビジョン",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 5084,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "夢の中のビジョン",
 		"description": "夢の中でタルタリヤの「視点」を追体験する。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

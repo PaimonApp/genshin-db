@@ -1,15 +1,9 @@
 {
-	"id": 223,
 	"name": "Destino entrelazado",
-	"rarity": 5,
-	"sortRank": 410003,
 	"description": "Una piedra fatídica que conecta los sueños.\nSus destellos pueden entrelazar el destino y conectar los sueños entre sí, de la misma manera que vinculan a las estrellas con los deseos de uno mismo.",
-<<<<<<< HEAD
 	"sortorder": 4850,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Cupón de Gachapón limitado",
-	"sources": []
+	"materialtype": "Cupón de Gachapón limitado",
+	"source": []
 }

@@ -1,10 +1,9 @@
 {
-	"id": 3310,
 	"name": "椰炭餅",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "恢復類料理",
+	"foodfilter": "恢復類料理",
+	"foodcategory": "Recovery_Revive",
 	"effect": "復甦選中的角色。\n為其恢復900-1500點生命值。",
 	"description": "烏漆墨黑的甜餅。先將棗椰燒製成粉狀，過篩後再加入麵糊，攪拌均勻後烤熟。其貌不揚的成品帶有淡淡的棗椰清香，搭配果醬尤為香甜。",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 101221,
 			"name": "棗椰",
 			"count": 2
 		},
 		{
-			"id": 110001,
 			"name": "麵粉",
 			"count": 1
 		},
 		{
-			"id": 110008,
 			"name": "果醬",
 			"count": 1
 		}

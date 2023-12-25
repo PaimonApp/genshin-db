@@ -1,9 +1,7 @@
 {
-	"id": 20,
 	"name": "Kẻ Khiêu Chiến - Phần IV",
-	"sortOrder": 17,
+	"sortorder": 17,
 	"reward": {
-		"id": 210088,
 		"name": "Thành Tựu - Rồng Đá"
 	}
 }

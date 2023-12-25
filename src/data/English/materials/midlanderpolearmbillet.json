@@ -1,17 +1,11 @@
 {
-	"id": 101115,
 	"name": "Midlander Polearm Billet",
-	"rarity": 4,
-	"sortRank": 300,
 	"description": "Weapon forging material. Can be used to forge 4-star polearms.\nPhilosophers believe that there are four purposes behind earthly things. The purpose of these billets is to become a weapon worthy of accompanying a hero.",
-<<<<<<< HEAD
 	"sortorder": 2820,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Sumeru and Fontaine Trounce Domain Challenge Reward"
 	]
 }

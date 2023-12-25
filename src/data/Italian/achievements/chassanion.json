@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Chassanion",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1416,
-=======
-	"id": [
-		81432
-	],
-	"name": "Chassanion",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1416,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Chassanion",
 		"description": "Sconfiggi la Leggenda locale: Chassanion",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

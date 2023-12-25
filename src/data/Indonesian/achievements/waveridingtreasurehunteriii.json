@@ -1,19 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Pemburu Harta, Pengendara Ombak (III)",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
 	"sortorder": 268,
-=======
-	"id": [
-		80292,
-		80293,
-		80294
-	],
-	"name": "Pemburu Harta, Pengendara Ombak (III)",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
-	"sortOrder": 268,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Pemburu Harta, Pengendara Ombak (III)",
@@ -21,10 +9,6 @@
 		"description": "Buka {param0} peti harta di Morte Region dan Erinnyes Forest.",
 		"progress": 40,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -35,10 +19,6 @@
 		"description": "Buka {param0} peti harta di Morte Region dan Erinnyes Forest.",
 		"progress": 80,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -49,10 +29,6 @@
 		"description": "Buka {param0} peti harta di Morte Region dan Erinnyes Forest.",
 		"progress": 160,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

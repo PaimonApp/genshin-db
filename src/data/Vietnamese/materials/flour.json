@@ -1,15 +1,10 @@
 {
-	"id": 110001,
 	"name": "Bột Mì",
-	"sortRank": 322,
 	"description": "Bột làm từ tiểu mạch. Làm thành món gì cũng giúp thực khách no bụng được một lúc.",
-<<<<<<< HEAD
 	"sortorder": 2947,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Nhận khi gia công nấu nướng"
 	]
 }

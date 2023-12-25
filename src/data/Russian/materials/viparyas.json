@@ -1,15 +1,10 @@
 {
-	"id": 101228,
 	"name": "Випариас",
-	"sortRank": 320,
 	"description": "Цветок без семян.\nЗемля вспомнит, и випариас расцветёт.",
-<<<<<<< HEAD
 	"sortorder": 2898,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Материал",
-	"sources": [
+	"materialtype": "Материал",
+	"source": [
 		"Дикая природа",
 		"Ванарана"
 	]

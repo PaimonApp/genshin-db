@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Nagadus Emerald Sliver",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Character Ascension material.",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character Ascension Material",
-	"sources": [
+	"materialtype": "Character Ascension Material",
+	"source": [
 		"Dropped by Jadeplume Terrorshroom",
 		"Dropped by Dendro Hypostases"
 	]

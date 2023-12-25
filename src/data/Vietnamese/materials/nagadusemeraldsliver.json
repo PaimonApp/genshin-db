@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Vụn Ngọc Bích Sinh Trưởng",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Nguyên Liệu Đột Phá Nhân Vật",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
+	"source": [
 		"Nấm Thúy Linh rơi",
 		"Thảo Nguyên Bản rơi"
 	]

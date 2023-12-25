@@ -1,15 +1,10 @@
 {
-	"id": 101203,
 	"name": "Kristallmark",
-	"sortRank": 313,
 	"description": "Ein Kristall, der einen Splitter mit der Kraft der Tatarigami enthält. Wenn du dieses Material beim Schmelzen hinzufügst, wird die Stärke und Zähigkeit von Metallen stark erhöht.",
-<<<<<<< HEAD
 	"sortorder": 2864,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Inazuma",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Inazuma",
+	"source": [
 		"In der freien Natur zu finden",
 		"Empfohlen: Auf Yashiori zu finden"
 	]

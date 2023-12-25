@@ -1,15 +1,10 @@
 {
-	"id": 100083,
 	"name": "Lizard Tail",
-	"sortRank": 320,
 	"description": "หางที่ขดตัวลงช้าๆ หลังจากหลุดออกจากตัวกิ้งก่า มีรสขมมาก แต่มีสรรพคุณในการ เสริมความแข็งให้แก่ผิวหนัง",
-<<<<<<< HEAD
 	"sortorder": 2895,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัสดุ",
-	"sources": [
+	"materialtype": "วัสดุ",
+	"source": [
 		"หาได้จากการจับกิ้งก่า"
 	]
 }

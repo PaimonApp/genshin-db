@@ -1,11 +1,8 @@
 {
-	"id": 70400055,
 	"name": "ทิวทัศน์ในส่วนลึกที่สุดของ Elynas",
-	"areaId": 50203,
-	"areaName": "\"สถานที่ที่อบอุ่นเป็นพิเศษ\"",
+	"area": "\"สถานที่ที่อบอุ่นเป็นพิเศษ\"",
 	"description": "\"ดีใจที่ได้เจอเธอ!\"",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 355
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 355
 }

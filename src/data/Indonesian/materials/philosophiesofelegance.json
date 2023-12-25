@@ -1,24 +1,17 @@
 {
-	"id": 104325,
 	"name": "Philosophies of Elegance",
-	"rarity": 4,
-	"sortRank": 13108,
 	"description": "Material Penguatan Talenta.\n\"Elegance\" adalah wujud bangsa petir.\nKeanggunan membenci hal-hal yang vulgar. Seseorang yang anggun akan selalu berjalan di jalan kebenarannya sendiri. Ia melawan kejahatan sekecil apa pun, tidak mudah diperdaya oleh cinta yang murahan, dan tidak pernah berlindung di balik pembenaran diri — itulah cara-cara yang digunakannya untuk membuat dirinya yang anggun terpisah dari mereka yang tidak terhormat.",
-<<<<<<< HEAD
 	"sortorder": 3238,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Talenta Karakter",
-	"dropDomainId": 4413,
-	"dropDomainName": "Domain of Mastery: Lembah Petir",
-	"daysOfWeek": [
+	"materialtype": "Material Talenta Karakter",
+	"dropdomain": "Domain of Mastery: Lembah Petir",
+	"daysofweek": [
 		"Selasa",
 		"Jumat",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

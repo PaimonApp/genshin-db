@@ -1,19 +1,12 @@
 {
-	"id": 101321,
 	"name": "Cypress Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Wood from the Cypress Tree. The core has a relatively large radius, with thinner sapwood. Though not solid or reliable as metal, the wood possesses unique advantages for buildings components with a large surface area.\nCan be used to create furnishings.",
-<<<<<<< HEAD
 	"sortorder": 2980,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
-		"Recommendation: Cut from the wilds of Fontaine",
-		"Convert Wood"
+		"Recommendation: Cut from the wilds of Fontaine"
 	]
 }

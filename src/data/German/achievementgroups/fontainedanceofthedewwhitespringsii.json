@@ -1,15 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Fontaine – Tanz der Weißtauquellen II",
 	"sortorder": 46,
 	"reward": {
-=======
-	"id": 45,
-	"name": "Fontaine – Tanz der Weißtauquellen II",
-	"sortOrder": 46,
-	"reward": {
-		"id": 210179,
->>>>>>> upstream/main
 		"name": "Fontaine – Sühne"
 	}
 }

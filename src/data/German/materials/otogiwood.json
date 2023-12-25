@@ -1,19 +1,12 @@
 {
-	"id": 101312,
 	"name": "Otogi-Holz",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Das Holz des Otogi-Baums. Es hat genau die richtige Menge an Feuchtigkeit und Öl und ist daher vielseitig verwendbar.\nKann zum Herstellen von Dekoration verwendet werden.",
-<<<<<<< HEAD
 	"sortorder": 2971,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"In der freien Natur zu finden",
-		"Empfohlen: Auf der Insel Yashiori zu finden",
-		"Holz umwandeln"
+		"Empfohlen: Auf der Insel Yashiori zu finden"
 	]
 }

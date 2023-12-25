@@ -1,8 +1,6 @@
 {
-	"id": 203200,
 	"name": "Talihin Lütfu",
 	"description": "Bennett'in giysisi. Çeşitli yerlerinden dikilip yamalanmış eski bir maceracının üniforması.",
-	"isDefault": true,
-	"characterId": 10000032,
-	"characterName": "Bennett"
+	"isdefault": true,
+	"character": "Bennett"
 }

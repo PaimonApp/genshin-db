@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "ナルボンヌのトマトファルシ",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "攻撃系料理",
 	"foodcategory": "Atk_Add",
-=======
-	"id": 3412,
-	"name": "ナルボンヌのトマトファルシ",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "攻撃系料理",
->>>>>>> upstream/main
 	"effect": "チーム全員の攻撃力+160~228、継続時間300秒。\nマルチプレイ中、自分のキャラクターにのみ有効。",
 	"description": "栄養バランスが良い料理。丸いトマトをくり抜き、ミンチにした肉を詰め、焼き上げる。出来上がりは甘酸っぱく、柔らかい。フォンテーヌの食卓に欠かせない人気の定番料理である。",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "獣肉",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100079,
->>>>>>> upstream/main
 			"name": "トマト",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110010,
->>>>>>> upstream/main
 			"name": "ベーコン",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "玉ねぎ",
 			"count": 1
 		}

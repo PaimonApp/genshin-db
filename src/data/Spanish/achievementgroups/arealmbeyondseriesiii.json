@@ -1,13 +1,7 @@
 {
-	"id": 23,
 	"name": "Un mundo interior: Parte 3",
-<<<<<<< HEAD
 	"sortorder": 33,
-=======
-	"sortOrder": 33,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210089,
 		"name": "Logro - Florecimiento"
 	}
 }

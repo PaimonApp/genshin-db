@@ -1,10 +1,9 @@
 {
-	"id": 2006,
 	"name": "Boulettes de radis frites",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Attaque",
+	"foodfilter": "Attaque",
+	"foodcategory": "Atk_Add",
 	"effect": "Augmente l'ATQ de tous les personnages de l'équipe de 66 à 95 pts pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
 	"description": "Parfumées et croustillantes, mangez-les tant qu'elles sont chaudes ! Cette recette est originaire de Liyue.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Farine",
 			"count": 3
 		},
 		{
-			"id": 100014,
 			"name": "Radis",
 			"count": 2
 		},
 		{
-			"id": 100077,
 			"name": "Poivre",
 			"count": 1
 		}

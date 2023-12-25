@@ -1,30 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "El último mar de fonta",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1383,
-=======
-	"id": [
-		81399,
-		81403,
-		81404
-	],
-	"name": "El último mar de fonta",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1383,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "El último mar de fonta",
 		"description": "¡Arriba, abajo, al centro y pa' dentro!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}
@@ -34,10 +18,6 @@
 		"description": "¡Arriba, abajo, al centro y pa' dentro!",
 		"progress": 13,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}
@@ -47,10 +27,6 @@
 		"description": "¡Arriba, abajo, al centro y pa' dentro!",
 		"progress": 16,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

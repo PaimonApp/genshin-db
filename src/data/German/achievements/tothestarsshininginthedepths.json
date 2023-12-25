@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Zu den leuchtenden Sternen tief im Wasser",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 5086,
-=======
-	"id": [
-		84307
-	],
-	"name": "Zu den leuchtenden Sternen tief im Wasser",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 5086,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Zu den leuchtenden Sternen tief im Wasser",
 		"description": "Schließ „Zu den leuchtenden Sternen tief im Wasser“ ab.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 10
 		}

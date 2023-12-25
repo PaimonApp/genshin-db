@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Перехожу в режим ожидания...",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1371,
-=======
-	"id": [
-		81387
-	],
-	"name": "Перехожу в режим ожидания...",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1371,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Перехожу в режим ожидания...",
 		"description": "Найдите секрет в Мастерской Кьюзеля.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

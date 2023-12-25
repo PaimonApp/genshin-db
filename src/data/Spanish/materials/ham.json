@@ -1,15 +1,10 @@
 {
-	"id": 110005,
 	"name": "Jamón",
-	"sortRank": 322,
 	"description": "Carne de muslo ahumada. Incluso el trozo más fino tiene un sabor increíble.",
-<<<<<<< HEAD
 	"sortorder": 2951,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Procesar comida"
 	]
 }

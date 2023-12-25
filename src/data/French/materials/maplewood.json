@@ -1,19 +1,12 @@
 {
-	"id": 101310,
 	"name": "Bois d'érable",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Bois obtenu à partir d'érable d'Inazuma, d'une couleur et texture fines.\nPeut être utilisé pour fabriquer des décorations.",
-<<<<<<< HEAD
 	"sortorder": 2969,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Matériau",
-	"sources": [
+	"materialtype": "Matériau",
+	"source": [
 		"Dans la nature",
-		"Zone conseillée : Île de Narukami",
-		"Conversion de bois"
+		"Zone conseillée : Île de Narukami"
 	]
 }

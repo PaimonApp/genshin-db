@@ -1,8 +1,7 @@
 {
-	"id": 210050,
 	"name": "Liyue: Tra le nuvole",
 	"description": "Stile per la carta giocatore.\nLe cime adornano la luna offuscata.",
-	"sortOrder": 210050,
+	"sortorder": 210050,
 	"source": [
 		"Ricompensa per aver raggiunto il liv. reputazione 7 a Liyue"
 	]

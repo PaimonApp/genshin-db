@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Der Mann in den Vorschriften",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1379,
-=======
-	"id": [
-		81395
-	],
-	"name": "Der Mann in den Vorschriften",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1379,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Der Mann in den Vorschriften",
 		"description": "Bestehe die „Letzte Prüfung“ des Forschungsinstituts Fontaine.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

@@ -1,10 +1,9 @@
 {
-	"id": 3011,
 	"name": "Kuzey Usulü Elmalı Güveç",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Seçili karakterin Maks. Canını %30 ila %34 yeniler, ardından 600 ila 1.900 Can verir.",
 	"description": "Kavurma ve elma ile yapılan bir yemek. Et kolayca çiğnenebilir ve yoğun bir lezzete sahiptir. Kesip açtığında dışarı akan et suyundan elma aroması gelir. Gerçekten göz kamaştıran ferahlatıcı bir yemek.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 3
 		},
 		{
-			"id": 100001,
 			"name": "Elma",
 			"count": 3
 		},
 		{
-			"id": 110004,
 			"name": "Tereyağı",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "Karabiber",
 			"count": 1
 		}

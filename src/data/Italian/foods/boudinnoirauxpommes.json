@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Boudin noir aux pommes",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatto dell'avventuriere",
 	"foodcategory": "Other_SPReduceConsume",
-=======
-	"id": 2408,
-	"name": "Boudin noir aux pommes",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Piatto dell'avventuriere",
->>>>>>> upstream/main
 	"effect": "Riduce di un 15-25% il vigore consumato da tutti i membri del gruppo durante gli scatti per 900 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Un piatto tipico di Fontaine. Friggi le fette di mela e le fette di sanguinaccio separatamente e servile in un piatto unico completo di salsa. Dal nome della pietanza, i turisti delle altre nazioni spesso pensano che sia un dolce; in realtà, il Boudin noir aux pommes è solo un altro nome dei sanguinacci.",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100001,
->>>>>>> upstream/main
 			"name": "Mela",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Pezzo di carne cruda",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110004,
->>>>>>> upstream/main
 			"name": "Burro",
 			"count": 1
 		}

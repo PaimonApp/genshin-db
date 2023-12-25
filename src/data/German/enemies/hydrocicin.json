@@ -1,9 +1,8 @@
 {
-	"id": 26060201,
 	"name": "Hydro-Cicin",
-	"specialName": "Flutsch",
-	"enemyType": "COMMON",
+	"specialname": "Flutsch",
+	"enemytype": "COMMON",
 	"category": "Mystische Bestien",
 	"description": "Kleine Kreaturen, die leichten Einfluss auf Hydro-Energie nehmen können.\nGemeinsam mit anderen Wesen werden sie Cicine genannt, sie vergöttern die seltene wie wunderschöne Eisnebelgraspflanze. Die Zauberinnen der Fatui nutzen diese Schwäche aus, um sie im Kampf zu befehligen.",
-	"rewardPreview": []
+	"rewardpreview": []
 }

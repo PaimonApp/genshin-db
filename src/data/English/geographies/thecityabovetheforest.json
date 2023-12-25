@@ -1,10 +1,7 @@
 {
-	"id": 70400002,
 	"name": "The City Above the Forest",
-	"areaId": 4501,
-	"areaName": "Gandharva Ville",
+	"area": "Gandharva Ville",
 	"description": "\"The city of wisdom is ours, as is the forest of ignorance. Atop the tree lies the remnants of the kingdom of lost dreams.\"",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"sortOrder": 302
+	"region": "Sumeru",
+	"sortorder": 302
 }

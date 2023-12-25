@@ -1,17 +1,11 @@
 {
-	"id": 104002,
 	"name": "Maceracının Tecrübesi",
-	"rarity": 3,
-	"sortRank": 100,
 	"description": "Karakter TP Malzemesi. 5.000 TP verir.\nBu tecrübeler bilinmeyene doğru çıkılan yolculuklarda oldukça faydalıdır.",
-<<<<<<< HEAD
 	"sortorder": 2771,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "EXP_FRUIT",
-	"typeText": "Karakter TP Malzemesi",
-	"sources": [
+	"materialtype": "Karakter TP Malzemesi",
+	"source": [
 		"Macera ve Keşif Ödülü",
 		"İlham Çiçeği Canlandırma Ödülü"
 	]

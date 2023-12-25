@@ -1,15 +1,10 @@
 {
-	"id": 110012,
 	"name": "Копчёная рыба",
-	"sortRank": 322,
 	"description": "",
-<<<<<<< HEAD
 	"sortorder": 2957,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Кухонный ингредиент",
-	"sources": [
+	"materialtype": "Кухонный ингредиент",
+	"source": [
 		"Заготовка ингредиентов"
 	]
 }

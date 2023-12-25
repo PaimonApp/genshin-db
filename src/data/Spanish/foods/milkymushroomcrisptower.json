@@ -1,10 +1,9 @@
 {
-	"id": 3306,
 	"name": "Tostadas crujientes de champiñones y queso",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Platos que regeneran Vida",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Restaura un 30%-34% de Vida Máx. al personaje seleccionado, además de 600-1900 pts. de Vida adicionales.",
 	"description": "Un aperitivo muy crujiente. Consiste básicamente en una esponjosa rebanada de pan horneado con champiñones y queso. El aroma de este plato le abre el apetito a cualquiera. Un bocado y serás la persona más feliz de todo Teyvat.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Harina",
 			"count": 4
 		},
 		{
-			"id": 100011,
 			"name": "Champiñón",
 			"count": 3
 		},
 		{
-			"id": 110009,
 			"name": "Queso",
 			"count": 2
 		},
 		{
-			"id": 110002,
 			"name": "Crema batida",
 			"count": 1
 		}

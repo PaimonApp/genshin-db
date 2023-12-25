@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "PB - Valse tournoyante",
 	"description": "Thème.\nMême si les mécanismes horlogoïdes s'arrêtent de tourner, même si les marionnettes cessent d'avancer... Même si nos souvenirs restent éternellement figés comme du corail... N'oublions pas nos aventures et le temps que nous avons passé ensemble.",
 	"sortorder": 210183,
-=======
-	"id": 210183,
-	"name": "PB - Valse tournoyante",
-	"description": "Thème.\nMême si les mécanismes horlogoïdes s'arrêtent de tourner, même si les marionnettes cessent d'avancer... Même si nos souvenirs restent éternellement figés comme du corail... N'oublions pas nos aventures et le temps que nous avons passé ensemble.",
-	"sortOrder": 210183,
->>>>>>> upstream/main
 	"source": [
 		"Récompense de Pass de bataille"
 	]

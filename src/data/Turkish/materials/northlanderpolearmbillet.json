@@ -1,17 +1,11 @@
 {
-	"id": 101105,
 	"name": "Kuzey Diyarı Mızrak Prototipi",
-	"rarity": 4,
-	"sortRank": 300,
 	"description": "Silah dövme malzemesi. 4 yıldızlı mızraklar yapmak için kullanılabilir. \nFilozoflar, mermerin yontularak güzel bir heykele dönüştürülme potansiyeline sahip olduğuna inanır. Benzer şekilde, bu prototipler de daha büyük bir şeye dönüşme potansiyelini taşır.",
-<<<<<<< HEAD
 	"sortorder": 2815,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Mondstadt, Liyue veya Inazuma'da Ezici Zindan Mücadelesini ya da Kurtların Hakimi Mücadelesini tamamlamanın ödülü."
 	]
 }

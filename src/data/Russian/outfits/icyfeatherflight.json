@@ -1,8 +1,6 @@
 {
-	"id": 201500,
 	"name": "Ледяное перо",
 	"description": "Наряд Кэйи. Стильная одежда, украшенная меховым воротником.",
-	"isDefault": true,
-	"characterId": 10000015,
-	"characterName": "Кэйа"
+	"isdefault": true,
+	"character": "Кэйа"
 }

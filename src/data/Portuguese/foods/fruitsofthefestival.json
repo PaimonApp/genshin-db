@@ -1,10 +1,9 @@
 {
-	"id": 3311,
 	"name": "Frutas do Festival",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Pratos de DEF",
+	"foodfilter": "Pratos de DEF",
+	"foodcategory": "Def_Add",
 	"effect": "Aumenta o Bônus de Cura de todos os membros da equipe em 15% - 20% por 300s.\nNo modo multijogador, este efeito é aplicado apenas ao(s) seu(s) próprio(s) personagem(ns)",
 	"description": "Uma bebida colorida não alcoólica. Sucos frescos de Fruto do Pôr do Sol e Gancho do Lobo são colocados em um copo em uma ordem específica. O sabor refrescante e a cor vibrante lembra as pessoas do período de festividades. Não erre a ordem se você quiser acertar no efeito gradiente!",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100021,
 			"name": "Gancho do Lobo",
 			"count": 2
 		},
 		{
-			"id": 100002,
 			"name": "Fruto do Pôr do Sol",
 			"count": 2
 		},
 		{
-			"id": 110006,
 			"name": "Açúcar",
 			"count": 1
 		}

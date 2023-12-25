@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Bintang yang Bersinar di Kedalaman",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 5086,
-=======
-	"id": [
-		84307
-	],
-	"name": "Bintang yang Bersinar di Kedalaman",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 5086,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Bintang yang Bersinar di Kedalaman",
 		"description": "Selesaikan \"Bintang yang Bersinar di Kedalaman\".",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Во имя всеобщих надежд",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1408,
-=======
-	"id": [
-		81424
-	],
-	"name": "Во имя всеобщих надежд",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1408,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Во имя всеобщих надежд",
 		"description": "Получите обещание радужной розы.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

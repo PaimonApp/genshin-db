@@ -1,18 +1,14 @@
 {
-	"id": [
-		81303
-	],
 	"name": "Naik Karpet Ajaib",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1290,
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1290,
 	"stages": 1,
 	"stage1": {
 		"title": "Naik Karpet Ajaib",
 		"description": "Dunia baru, yang penuh pesona baru!",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "PB - Estrella abisal",
 	"description": "Diseño de tarjeta de presentación.\nPide un deseo antes de lanzar la flecha, y si consigues meterla en la vasija, tal vez se haga realidad.",
 	"sortorder": 210176,
-=======
-	"id": 210176,
-	"name": "PB - Estrella abisal",
-	"description": "Diseño de tarjeta de presentación.\nPide un deseo antes de lanzar la flecha, y si consigues meterla en la vasija, tal vez se haga realidad.",
-	"sortOrder": 210176,
->>>>>>> upstream/main
 	"source": [
 		"Obtenido como recompensa con el PB."
 	]

@@ -1,15 +1,10 @@
 {
-	"id": 110005,
 	"name": "Presunto",
-	"sortRank": 322,
 	"description": "Carne de coxa defumada. Mesmo o pedaço mais fino pode trazer muito sabor à boca.",
-<<<<<<< HEAD
 	"sortorder": 2951,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Processado"
 	]
 }

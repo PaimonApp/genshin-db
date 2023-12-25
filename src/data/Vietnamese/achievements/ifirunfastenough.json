@@ -1,18 +1,14 @@
 {
-	"id": [
-		82099
-	],
 	"name": "Chỉ Cần Ta Chạy Đủ Nhanh",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 2100,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 2100,
 	"stages": 1,
 	"stage1": {
 		"title": "Chỉ Cần Ta Chạy Đủ Nhanh",
 		"description": "Đánh bại Maguu Kenki mà không bị Ảo Ảnh đánh trúng.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 10
 		}

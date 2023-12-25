@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Фурина",
 	"fullname": "Фурина",
 	"title": "Бесконечный танец одиночества",
@@ -15,27 +14,6 @@
 	"affiliation": "Кур-де-Фонтейн",
 	"birthdaymmdd": "10/13",
 	"birthday": "13 октября",
-=======
-	"id": 10000089,
-	"name": "Фурина",
-	"title": "Бесконечный танец одиночества",
-	"description": "В центре внимания на сцене театра правосудия вплоть до финального занавеса и оваций.",
-	"weaponType": "WEAPON_SWORD_ONE_HAND",
-	"weaponText": "Одноручное",
-	"bodyType": "BODY_GIRL",
-	"gender": "Женский",
-	"qualityType": "QUALITY_ORANGE",
-	"rarity": 5,
-	"birthdaymmdd": "10/13",
-	"birthday": "13 октября",
-	"elementType": "ELEMENT_HYDRO",
-	"elementText": "Гидро",
-	"affiliation": "Кур-де-Фонтейн",
-	"associationType": "ASSOC_FONTAINE",
-	"region": "Фонтейн",
-	"substatType": "FIGHT_PROP_CRITICAL",
-	"substatText": "Шанс крит. попадания",
->>>>>>> upstream/main
 	"constellation": "Капельмейстер",
 	"cv": {
 		"english": "Amber Lee Connors",
@@ -46,244 +24,128 @@
 	"costs": {
 		"ascend1": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Мора",
 				"count": 20000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104121,
->>>>>>> upstream/main
 				"name": "Осколок лазурита Варунада",
 				"count": 1
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Лилия озёрного света",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112038,
->>>>>>> upstream/main
 				"name": "Нектар попрыгуньи",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Мора",
 				"count": 40000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104122,
->>>>>>> upstream/main
 				"name": "Фрагмент лазурита Варунада",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Вода, не достигшая перехода",
 				"count": 2
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Лилия озёрного света",
 				"count": 10
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112038,
->>>>>>> upstream/main
 				"name": "Нектар попрыгуньи",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Мора",
 				"count": 60000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104122,
->>>>>>> upstream/main
 				"name": "Фрагмент лазурита Варунада",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Вода, не достигшая перехода",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Лилия озёрного света",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112039,
->>>>>>> upstream/main
 				"name": "Мерцающий нектар",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Мора",
 				"count": 80000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104123,
->>>>>>> upstream/main
 				"name": "Кусок лазурита Варунада",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Вода, не достигшая перехода",
 				"count": 8
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Лилия озёрного света",
 				"count": 30
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112039,
->>>>>>> upstream/main
 				"name": "Мерцающий нектар",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Мора",
 				"count": 100000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104123,
->>>>>>> upstream/main
 				"name": "Кусок лазурита Варунада",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Вода, не достигшая перехода",
 				"count": 12
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Лилия озёрного света",
 				"count": 45
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112040,
->>>>>>> upstream/main
 				"name": "Элементальный нектар",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Мора",
 				"count": 120000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104124,
->>>>>>> upstream/main
 				"name": "Драгоценный лазурит Варунада",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Вода, не достигшая перехода",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Лилия озёрного света",
 				"count": 60
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112040,
->>>>>>> upstream/main
 				"name": "Элементальный нектар",
 				"count": 24
 			}

@@ -1,18 +1,14 @@
 {
-	"id": [
-		84044
-	],
 	"name": "Cải Cách Dị Nhân",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 5023,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 5023,
 	"stages": 1,
 	"stage1": {
 		"title": "Cải Cách Dị Nhân",
 		"description": "Thuận lợi trà trộn vào quân kháng chiến.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

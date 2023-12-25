@@ -1,60 +1,43 @@
 {
-	"id": 5218,
 	"name": "Domain of Forgery: Reruntuhan Petir I",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"entranceId": 52,
-	"entranceName": "Hidden Palace of Lianshan Formula",
-	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
-	"domainText": "Material Ascension Senjata",
+	"region": "Liyue",
+	"domainentrance": "Hidden Palace of Lianshan Formula",
+	"domaintype": "Material Ascension Senjata",
 	"description": "Kekuatan energi Electro yang kuat mengalir melalui altar pengorbanan kuno yang bergemuruh ini.\nElemen Electro yang mengelilingi tempat ini membuat Energy dalam tubuhmu terus berkurang.\nKamu akan berhak mendapatkan item Ascension Senjata, apabila kamu berhasil melewati ujian ini.",
-	"recommendedLevel": 15,
-	"recommendedElements": [
+	"recommendedlevel": 15,
+	"recommendedelements": [
 		"Pyro",
 		"Cryo"
 	],
-	"daysOfWeek": [
+	"daysofweek": [
 		"Selasa",
 		"Jumat",
 		"Minggu"
 	],
-	"unlockRank": 1,
-	"rewardPreview": [
+	"unlockrank": 1,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "Adventure EXP",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 1125
 		},
 		{
-			"id": 105,
 			"name": "Companionship EXP",
 			"count": 10
 		},
 		{
-			"id": 114017,
 			"name": "Mist Veiled Lead Elixir"
 		}
 	],
 	"disorder": [
 		"Setiap beberapa saat, karakter yang bertarung akan terkena Engulfing Storm, yang menyebabkan Energy karakter terus berkurang sampai efek elemen Electro pada karakter dihilangkan."
 	],
-	"monsterList": [
-		{
-			"id": 20010501,
-			"name": "Electro Slime"
-		},
-		{
-			"id": 20010601,
-			"name": "Large Electro Slime"
-		},
-		{
-			"id": 20010701,
-			"name": "Mutant Electro Slime"
-		}
+	"monsterlist": [
+		"Electro Slime",
+		"Large Electro Slime",
+		"Mutant Electro Slime"
 	]
 }

@@ -1,10 +1,7 @@
 {
-	"id": 70400031,
 	"name": "Perkemahan Tanit",
-	"areaId": 5001,
-	"areaName": "Tanit Camps",
+	"area": "Tanit Camps",
 	"description": "Bagian dari reruntuhan bangunan kuno yang pernah menjadi rumah dari arwah orang-orang pada zaman dulu ....\nSekarang, tempat ini telah menjadi rumah bagi suku padang pasir yang dikenal sebagai Suku Tanit.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"sortOrder": 331
+	"region": "Sumeru",
+	"sortorder": 331
 }

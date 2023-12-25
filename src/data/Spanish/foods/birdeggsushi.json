@@ -1,10 +1,9 @@
 {
-	"id": 1205,
 	"name": "Sushi de huevo",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Platos que regeneran Vida",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Restaura un 8%-10% de Vida Máx. al personaje seleccionado, además de 800-1200 pts. de Vida adicionales.",
 	"description": "Una comida cotidiana de Inazuma. La forma de hacerla es muy sencilla, ya que solo hay que cortar en láminas el rollito de huevo y condimentar el arroz. Aun así, no por ello deja de tener un excelente sabor.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Huevo de pájaro",
 			"count": 1
 		},
 		{
-			"id": 100092,
 			"name": "Arroz",
 			"count": 1
 		}

@@ -1,20 +1,13 @@
 {
-	"id": 101308,
 	"name": "Fir Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Kayu dari Pohon \"Faber's Fir\". Sangat populer karena kualitas dan serat kayunya yang menarik.\nDapat digunakan untuk membuat perabotan.",
-<<<<<<< HEAD
 	"sortorder": 2967,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditebang dari Starfell Valley",
-		"Rekomendasi: Ditebang dari Galesong Hill",
-		"Konversi Kayu"
+		"Rekomendasi: Ditebang dari Galesong Hill"
 	]
 }

@@ -1,22 +1,15 @@
 {
-	"id": 114037,
 	"name": "Orman Çiyinin Bakır Tılsımı",
-	"rarity": 2,
-	"sortRank": 15110,
 	"description": "Silah Yükseltme Malzemesi.\nOrman insanlarının ataları, İlk Bilge'nin talimatıyla Yeşilliğin Efendisi anısına bu tılsımları solmuş ağaçlardan yapmışlardır.\nTılsımın şekli için orman çiyinden ilham alınmıştır ve bilgeliğin ölümlü zihinlere nüfuz etmesini sembolize etmektedir.",
-<<<<<<< HEAD
 	"sortorder": 3317,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Silah Yükseltme Malzemesi",
-	"dropDomainId": 4370,
-	"dropDomainName": "Döküm Zindanı: Lekeli Bulutlar",
-	"daysOfWeek": [
+	"materialtype": "Silah Yükseltme Malzemesi",
+	"dropdomain": "Döküm Zindanı: Lekeli Bulutlar",
+	"daysofweek": [
 		"Pazartesi",
 		"Perşembe",
 		"Pazar"
 	],
-	"sources": []
+	"source": []
 }

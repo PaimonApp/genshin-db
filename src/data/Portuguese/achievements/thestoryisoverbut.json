@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "A história acabou, mas...",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1401,
-=======
-	"id": [
-		81417
-	],
-	"name": "A história acabou, mas...",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1401,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "A história acabou, mas...",
 		"description": "\"A aventura que chamam de vida continua.\"",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

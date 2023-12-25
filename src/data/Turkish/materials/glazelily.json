@@ -1,15 +1,10 @@
 {
-	"id": 100030,
 	"name": "Parlak Zambak",
-	"sortRank": 312,
 	"description": "Liyue'de yaygın olarak görüldüğü söylenen son derece kadim bir çiçek. Çiçeklenme sırasında toprağın hatıralarını kokuya dönüştürür.",
-<<<<<<< HEAD
 	"sortorder": 2857,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Liyue Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Liyue Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Yujing Terası ve Liyue Limanı'nda bulunur.",
 		"Öneri: Qingce Köyü'nde bulunur."

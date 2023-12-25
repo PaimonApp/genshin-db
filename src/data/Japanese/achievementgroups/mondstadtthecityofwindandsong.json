@@ -1,9 +1,7 @@
 {
-	"id": 4,
 	"name": "モンド·風と牧歌の城",
-	"sortOrder": 9,
+	"sortorder": 9,
 	"reward": {
-		"id": 210024,
 		"name": "モンド·風吟"
 	}
 }

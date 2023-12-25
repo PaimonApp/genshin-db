@@ -1,17 +1,11 @@
 {
-	"id": 301,
 	"name": "Pyro-Siegel",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Ein äußerst begehrtes Sammelobjekt in und um Mondstadt, das du bei Händlern gegen seltene Objekte eintauschen kannst.",
-<<<<<<< HEAD
 	"sortorder": 4927,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Siegel der sieben Städte",
-	"sources": [
+	"materialtype": "Siegel der sieben Städte",
+	"source": [
 		"Erkundungsbelohnung"
 	]
 }

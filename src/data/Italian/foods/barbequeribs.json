@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Costolette al barbecue",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatti rigenerativi",
 	"foodcategory": "Recovery_HpAdd",
-=======
-	"id": 2407,
-	"name": "Costolette al barbecue",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Piatti rigenerativi",
->>>>>>> upstream/main
 	"effect": "Ripristina un 20-24% dei PS max del personaggio selezionato e 900-1.500 PS aggiuntivi.",
 	"description": "Un piatto di carne croccante. Friggi lievemente la superficie delle costolette finché non trasuderanno un leggero aroma, poi avvolgi l'esterno croccante con la salsa e, per finire, griglia il tutto a fuoco basso. Il meticoloso controllo della temperatura assicura un involucro croccante cotto alla perfezione, mentre la carne all'interno rimane tenera e succulenta.",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Pezzo di carne cruda",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100077,
->>>>>>> upstream/main
 			"name": "Pepe",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

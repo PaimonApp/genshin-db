@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "¿Cuervo o mirlo?",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1409,
-=======
-	"id": [
-		81425
-	],
-	"name": "¿Cuervo o mirlo?",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1409,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "¿Cuervo o mirlo?",
 		"description": "¡Es un pelícano!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

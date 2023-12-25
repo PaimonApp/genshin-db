@@ -1,13 +1,7 @@
 {
-	"id": 41,
 	"name": "Proteção dos Espíritos das Areias",
-<<<<<<< HEAD
 	"sortorder": 44,
-=======
-	"sortOrder": 44,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210157,
 		"name": "Conquista: Infinitas Sementes"
 	}
 }

@@ -1,15 +1,9 @@
 {
-	"id": 105,
 	"name": "Yoldaşlık TP",
-	"rarity": 3,
-	"sortRank": 11,
 	"description": "Yoldaşlık TP, Arkadaşlık seviyesini artırmak için kullanılır.",
-<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Arkadaşlığı Artırır",
-	"sources": []
+	"materialtype": "Arkadaşlığı Artırır",
+	"source": []
 }

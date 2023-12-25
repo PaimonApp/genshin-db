@@ -1,17 +1,11 @@
 {
-	"id": 200001,
 	"name": "Laternenpapierfasern",
-	"rarity": 3,
-	"sortRank": 100,
 	"description": "Wird als Material zum Bau von Laternen fürs Laternenritual verwendet.\nDer häufige Zellstoff kann zu Laternen verarbeitet werden, die wundervolle Wünsche in die Ferne tragen.",
-<<<<<<< HEAD
 	"sortorder": 2772,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material für das Laternenritual",
-	"sources": [
+	"materialtype": "Material für das Laternenritual",
+	"source": [
 		"Durch das Sammeln von Pflanzen zu erhalten"
 	]
 }

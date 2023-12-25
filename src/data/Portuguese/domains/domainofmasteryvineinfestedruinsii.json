@@ -1,45 +1,36 @@
 {
-	"id": 4421,
 	"name": "Domínio da Proficiência: Cidade Abandonada ao Kudzu II",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"entranceId": 310,
-	"entranceName": "Jardim Violeta",
-	"domainType": "UI_ABYSSUS_AVATAR_PROUD",
-	"domainText": "Material de Elevação de Talento",
+	"region": "Inazuma",
+	"domainentrance": "Jardim Violeta",
+	"domaintype": "Material de Elevação de Talento",
 	"description": "No altar da Sakura violeta florescida eternamente, escondem-se inimigos invasores.\nSe você passar neste Julgamento, poderá obter Materiais para a Elevação de Talentos.",
-	"recommendedLevel": 54,
-	"recommendedElements": [
+	"recommendedlevel": 54,
+	"recommendedelements": [
 		"Electro"
 	],
-	"daysOfWeek": [
+	"daysofweek": [
 		"Quarta-feira",
 		"Sábado",
 		"Domingo"
 	],
-	"unlockRank": 28,
-	"rewardPreview": [
+	"unlockrank": 28,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "EXP de Aventura",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 1800
 		},
 		{
-			"id": 105,
 			"name": "EXP de Amizade",
 			"count": 15
 		},
 		{
-			"id": 104326,
 			"name": "Ensinamentos da Luz Celeste"
 		},
 		{
-			"id": 104327,
 			"name": "Guia da Luz Celeste"
 		}
 	],
@@ -47,26 +38,11 @@
 		"Todos os Personagens da Equipe obterão 25% de Bônus de Dano Electro.",
 		"Durante o desafio, há uma cristalização Electro que periodicamente emergirá uma Pérola Electro. Depois do Personagem obter a Pérola Electro, ao seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental e Supremo acertar um inimigo, desencadearão um relampejamento que causará Dano Electro."
 	],
-	"monsterList": [
-		{
-			"id": 25080101,
-			"name": "Nobushi: Jintou-Ban"
-		},
-		{
-			"id": 25080201,
-			"name": "Nobushi: Hitsuke-Ban"
-		},
-		{
-			"id": 25080301,
-			"name": "Nobushi: Kikou-Ban"
-		},
-		{
-			"id": 25010301,
-			"name": "Ladrões de Tesouro - Mestre das Poções Pyro"
-		},
-		{
-			"id": 25010501,
-			"name": "Ladrões de Tesouro - Mestre das Poções Electro"
-		}
+	"monsterlist": [
+		"Nobushi: Jintou-Ban",
+		"Nobushi: Hitsuke-Ban",
+		"Nobushi: Kikou-Ban",
+		"Ladrões de Tesouro - Mestre das Poções Pyro",
+		"Ladrões de Tesouro - Mestre das Poções Electro"
 	]
 }

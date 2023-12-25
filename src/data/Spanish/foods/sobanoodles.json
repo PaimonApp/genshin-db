@@ -1,10 +1,9 @@
 {
-	"id": 1206,
 	"name": "Fideos soba",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Platos que regeneran Vida",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_HpAddAll",
 	"effect": "Restaura un 8%-10% de Vida Máx. al personaje seleccionado.\nRegenera 210-300 pts. de Vida cada 5 s durante 30 s.",
 	"description": "Un plato de fideos muy sencillo. Tras hervirlos, estos fideos de trigo se dejan secar al sol, lo que les da frescura y flexibilidad. Su popularidad se debe a que sus ingredientes son baratos y fáciles de cocinar.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Harina",
 			"count": 1
 		},
 		{
-			"id": 101210,
 			"name": "Alga",
 			"count": 1
 		}

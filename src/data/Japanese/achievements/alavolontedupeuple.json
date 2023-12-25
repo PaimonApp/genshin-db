@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "À la volonté du peuple",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1408,
-=======
-	"id": [
-		81424
-	],
-	"name": "À la volonté du peuple",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1408,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "À la volonté du peuple",
 		"description": "レインボーローズの約束を得る。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

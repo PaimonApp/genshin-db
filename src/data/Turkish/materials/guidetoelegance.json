@@ -1,24 +1,17 @@
 {
-	"id": 104324,
 	"name": "Zarafet Rehberi",
-	"rarity": 3,
-	"sortRank": 13108,
 	"description": "Yetenek Seviyesi Yükseltme malzemesi.\nZarafet, yıldırım ulusunun en önemli yönüdür.\nZarafet kibirden sakınır. Zarafet sahibi kişiler her daim mütevazıdır, insan ancak kendini beğenmişliği ve tembelliği bir kenara bırakırsa açık bir şekilde görebilir. En basit görünüşte bile bir güzellik ve hoşluk yok mudur?",
-<<<<<<< HEAD
 	"sortorder": 3239,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yeteneği Malzemesi",
-	"dropDomainId": 4411,
-	"dropDomainName": "Ustalık Zindanı: Uğultulu Vadi",
-	"daysOfWeek": [
+	"materialtype": "Karakter Yeteneği Malzemesi",
+	"dropdomain": "Ustalık Zindanı: Uğultulu Vadi",
+	"daysofweek": [
 		"Salı",
 		"Cuma",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

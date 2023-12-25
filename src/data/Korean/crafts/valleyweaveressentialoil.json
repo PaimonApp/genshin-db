@@ -1,12 +1,10 @@
 {
-	"id": 16004,
 	"name": "「산음금족」 정유",
-	"sortOrder": 91010,
-	"unlockRank": 1,
-	"resultCount": 1,
+	"sortorder": 91010,
+	"unlockrank": 1,
+	"resultcount": 1,
 	"recipe": [
 		{
-			"id": 100488,
 			"name": "「산음금족」",
 			"count": 1
 		}

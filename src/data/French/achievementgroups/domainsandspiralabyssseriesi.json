@@ -1,13 +1,7 @@
 {
-	"id": 9,
 	"name": "Donjons et Profondeurs spiralées - Partie I",
-<<<<<<< HEAD
 	"sortorder": 22,
-=======
-	"sortOrder": 22,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210029,
 		"name": "Succès - Secrets profonds"
 	}
 }

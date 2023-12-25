@@ -1,15 +1,10 @@
 {
-	"id": 100078,
 	"name": "Lait",
-	"sortRank": 321,
 	"description": "Du lait de vache riche et frais. N'en perdez pas une goutte, même pas celle qui coule sur votre menton.",
-<<<<<<< HEAD
 	"sortorder": 2920,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Épiceries"
 	]
 }

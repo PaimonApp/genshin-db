@@ -1,15 +1,10 @@
 {
-	"id": 110006,
 	"name": "Şeker",
-	"sortRank": 322,
 	"description": "Tatlı Çiçeklerden üretilen bir baharat. Hem enerji hem de mutluluk verir.",
-<<<<<<< HEAD
 	"sortorder": 2952,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"İşlenerek elde edilir."
 	]
 }

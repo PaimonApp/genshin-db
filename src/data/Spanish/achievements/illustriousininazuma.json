@@ -1,11 +1,8 @@
 {
-	"id": [
-		80092
-	],
 	"name": "Ídolo en Inazuma",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1026,
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1026,
 	"stages": 1,
 	"stage1": {
 		"title": "Ídolo en Inazuma",
@@ -13,7 +10,6 @@
 		"description": "Recompensa por alcanzar Nivel de reputación 10 en Inazuma.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 20
 		}

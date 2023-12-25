@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Nagadus Emerald Sliver",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Material Ascension Karakter.",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Karakter",
-	"sources": [
+	"materialtype": "Material Ascension Karakter",
+	"source": [
 		"Dijatuhkan oleh Jadeplume Terrorshroom",
 		"Dijatuhkan oleh Dendro Hypostasis"
 	]

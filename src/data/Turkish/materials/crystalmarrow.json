@@ -1,15 +1,10 @@
 {
-	"id": 101203,
 	"name": "Kristal Özü",
-	"sortRank": 313,
 	"description": "Bir parça Tatarigami gücü içeren bir kristal. Bu malzemeyi, eritme işlemi sırasında eklemek, metallerin sertliğini ve dayanıklılığını büyük ölçüde artırır.",
-<<<<<<< HEAD
 	"sortorder": 2864,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Inazuma Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Inazuma Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Yashiori Adası'nda bulunur."
 	]

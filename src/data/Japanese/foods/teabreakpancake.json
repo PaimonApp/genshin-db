@@ -1,10 +1,9 @@
 {
-	"id": 2005,
 	"name": "午後のパンケーキ",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "回復系料理",
+	"foodfilter": "回復系料理",
+	"foodcategory": "Recovery_Revive",
 	"effect": "選択したキャラを復活させる。\nさらにHPを250~550回復する。",
 	"description": "丸いパンケーキ。最初はアフタヌーンティーのおやつだったが、今は普通の主食になっている。飾りとして最高のラズベリーを使っている。",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100051,
 			"name": "ラズベリー",
 			"count": 3
 		},
 		{
-			"id": 110001,
 			"name": "小麦粉",
 			"count": 2
 		},
 		{
-			"id": 100062,
 			"name": "鳥の卵",
 			"count": 1
 		}

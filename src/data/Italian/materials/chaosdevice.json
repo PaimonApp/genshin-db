@@ -1,22 +1,9 @@
 {
-	"id": 112023,
 	"name": "Dispositivo del caos",
-	"rarity": 2,
-	"sortRank": 10108,
 	"description": "Proviene da antiche strutture scomparse. È una parte che serviva a tenere insieme la struttura. La sua ingegneria esteticamente gradevole è piuttosto raffinata.",
-<<<<<<< HEAD
 	"sortorder": 3056,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Materiale di potenziamento armi e personaggi",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale di potenziamento armi e personaggi",
-	"sources": [
-		"Ottenibile dalle Guardie delle rovine",
-		"Ottenibile dai Cacciatori delle rovine",
-		"Scambio di Polvere stellare"
-	]
->>>>>>> upstream/main
 }

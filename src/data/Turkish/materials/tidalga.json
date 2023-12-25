@@ -1,15 +1,10 @@
 {
-	"id": 101234,
 	"name": "Tidalga",
-	"sortRank": 321,
 	"description": "Dalgalarla birlikte sürüklenen ve diğer bitkilerin oluşturduğu maddelerle beslenerek hayatta kalan bir alg. Hayvansal planktonlarla sıkça karıştırılmasına rağmen doğasından ötürü Tidalga aslında bir tür bitki planktonudur.",
-<<<<<<< HEAD
 	"sortorder": 2944,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Fontaine'in su altı bölgelerinde bulunur."
 	]
 }

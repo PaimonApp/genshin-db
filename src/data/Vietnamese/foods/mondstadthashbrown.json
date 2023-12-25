@@ -1,10 +1,9 @@
 {
-	"id": 3007,
 	"name": "Bánh Khoai Tây Mondstadt",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Món Dạng Hồi Phục",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Hồi 30%-34% giới hạn HP cho nhân vật được chọn, và hồi thêm 600-1900 điểm HP.",
 	"description": "Bánh khoai tây chiên. Một ít quả thông giúp gia tăng khẩu vị. Có thể ăn chung với mứt, được nhiều lứa tuổi yêu thích.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100020,
 			"name": "Quả Thông",
 			"count": 2
 		},
 		{
-			"id": 100080,
 			"name": "Khoai Tây",
 			"count": 1
 		},
 		{
-			"id": 110008,
 			"name": "Mứt",
 			"count": 1
 		}

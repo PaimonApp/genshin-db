@@ -1,10 +1,9 @@
 {
-	"id": 2002,
 	"name": "Gà Nấu Hoa Ngọt",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Món Dạng Hồi Phục",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Hồi 20%-24% giới hạn HP cho nhân vật được chọn, và hồi thêm 900-1500 điểm HP.",
 	"description": "Thịt nướng chín sau khi tẩm ướp mật ong. Thịt gia cầm mềm ướp thêm chút mật của Hoa Ngọt, rất vừa miệng.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100064,
 			"name": "Thịt Gia Cầm",
 			"count": 2
 		},
 		{
-			"id": 100012,
 			"name": "Hoa Ngọt",
 			"count": 2
 		}

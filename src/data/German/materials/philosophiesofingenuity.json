@@ -1,24 +1,17 @@
 {
-	"id": 104334,
 	"name": "Philosophie der „Findigkeit“",
-	"rarity": 4,
-	"sortRank": 13111,
 	"description": "Material zur Verbesserung von Talenten.\n„Findigkeit“ ist die Vene des Reichs der Weisheit.\nFindigkeit findet ihre Vollendung im moralischen Verhalten. Was getan wird, vervollständigt, was gedacht wird. Die Weisheit blüht auf, wo Gedanken, Worte und Taten zusammentreffen.",
-<<<<<<< HEAD
 	"sortorder": 3247,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für Figurentalente",
-	"dropDomainId": 4443,
-	"dropDomainName": "Sphäre des Verständnisses: Gewitztheit",
-	"daysOfWeek": [
+	"materialtype": "Material für Figurentalente",
+	"dropdomain": "Sphäre des Verständnisses: Gewitztheit",
+	"daysofweek": [
 		"Dienstag",
 		"Freitag",
 		"Sonntag"
 	],
-	"sources": [
+	"source": [
 		"Kann hergestellt werden"
 	]
 }

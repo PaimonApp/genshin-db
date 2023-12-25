@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Я покорю грозу!",
 	"achievementgroup": "Победитель VIII",
 	"sortorder": 2185,
-=======
-	"id": [
-		82186
-	],
-	"name": "Я покорю грозу!",
-	"achievementGroupId": 40,
-	"achievementGroupName": "Победитель VIII",
-	"sortOrder": 2185,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Я покорю грозу!",
 		"description": "Одолейте Морского конька тысячелетней жемчужины, пока тот пытается восстановить жемчужину иноморья.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

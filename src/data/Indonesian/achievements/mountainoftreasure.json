@@ -1,13 +1,7 @@
 {
-	"id": [
-		80061,
-		80062,
-		80063
-	],
 	"name": "Pemburu Harta di Gunung Salju",
-	"achievementGroupId": 16,
-	"achievementGroupName": "Pengunjung Dragonspine",
-	"sortOrder": 61,
+	"achievementgroup": "Pengunjung Dragonspine",
+	"sortorder": 61,
 	"stages": 3,
 	"stage1": {
 		"title": "Pemburu Harta di Gunung Salju",
@@ -15,7 +9,6 @@
 		"description": "Buka 40 peti harta di Dragonspine.",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Buka 80 peti harta di Dragonspine.",
 		"progress": 80,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Buka 160 peti harta di Dragonspine.",
 		"progress": 160,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

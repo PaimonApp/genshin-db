@@ -1,10 +1,7 @@
 {
-	"id": 70400007,
 	"name": "Yüksek Duvarın Altındaki Sınır",
-	"areaId": 4404,
-	"areaName": "Ribat Kervanı",
+	"area": "Ribat Kervanı",
 	"description": "Güçlü duvar, kavurucu kum fırtınalarına karşı koruma sağlıyor ama bilgelik lütfunun yayılmasını da engelliyor. Kutsal bilgeliğin tüm insanların üzerinde parlaması gerekmez mi?",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"sortOrder": 307
+	"region": "Sumeru",
+	"sortorder": 307
 }

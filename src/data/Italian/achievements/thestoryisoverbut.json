@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "La storia è finita, ma...",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 1401,
-=======
-	"id": [
-		81417
-	],
-	"name": "La storia è finita, ma...",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1401,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "La storia è finita, ma...",
 		"description": "\"L'avventura che chiamano vita continua\".",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

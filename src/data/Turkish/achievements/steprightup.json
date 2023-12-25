@@ -1,18 +1,14 @@
 {
-	"id": [
-		81196
-	],
 	"name": "Hünerlerini Görelim!",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1182,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1182,
 	"stages": 1,
 	"stage1": {
 		"title": "Hünerlerini Görelim!",
 		"description": "Okçuluk mücadelesini tamamla.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

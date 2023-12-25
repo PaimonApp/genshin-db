@@ -1,15 +1,10 @@
 {
-	"id": 101228,
 	"name": "Viparyas",
-	"sortRank": 320,
 	"description": "Tohumsuz bir çiçek. \nToprak onu hatırladığı zaman Viparyas çiçek açar.",
-<<<<<<< HEAD
 	"sortorder": 2898,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Vanarana'da bulunur."
 	]

@@ -1,15 +1,10 @@
 {
-	"id": 101207,
 	"name": "Pérola Sango",
-	"sortRank": 313,
 	"description": "Uma pérola preciosa que cresce nos corais de Watatsumi. Emite um brilho frio como o do luar.",
-<<<<<<< HEAD
 	"sortorder": 2868,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Inazuma",
-	"sources": [
+	"materialtype": "Especialidade de Inazuma",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado na Ilha Watatsumi"
 	]

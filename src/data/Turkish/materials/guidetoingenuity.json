@@ -1,24 +1,17 @@
 {
-	"id": 104333,
 	"name": "Marifet Rehberi",
-	"rarity": 3,
-	"sortRank": 13111,
 	"description": "Yetenek Seviyesi Yükseltme malzemesi.\nMarifet, bilgelik ulusunun yaprak damarlarıdır.\nMarifet dürüstlüğe yönlendirir. İyi niyetle, akıllıca ve dikkatlice düşünen biri iyilik yolundan ayrılmaz. Küçümseyici ve kötü niyetli bir şekilde düşünen kişi ise kendi sözlerini ve eylemlerini değersizleştirir.",
-<<<<<<< HEAD
 	"sortorder": 3248,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yeteneği Malzemesi",
-	"dropDomainId": 4441,
-	"dropDomainName": "Ustalık Zindanı: Nükte",
-	"daysOfWeek": [
+	"materialtype": "Karakter Yeteneği Malzemesi",
+	"dropdomain": "Ustalık Zindanı: Nükte",
+	"daysofweek": [
 		"Salı",
 		"Cuma",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

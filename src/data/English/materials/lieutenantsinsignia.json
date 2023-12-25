@@ -1,24 +1,11 @@
 {
-	"id": 112034,
 	"name": "Lieutenant's Insignia",
-	"rarity": 3,
-	"sortRank": 10111,
 	"description": "An insignia to identify officers. The Fatui possess a colossal army, so there must be something extraordinary about the ones who achieved this rank within the group.",
-<<<<<<< HEAD
 	"sortorder": 3063,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character and Weapon Enhancement Material",
 	"source": [
 		"Crafted"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Character and Weapon Enhancement Material",
-	"sources": [
-		"Crafted",
-		"Dropped by Lv. 60+ Fatui Skirmishers",
-		"Dropped uncommonly by Lv. 60+ Fatui Agents",
-		"Dropped uncommonly by Lv. 60+ Fatui Cicin Mages"
->>>>>>> upstream/main
 	]
 }

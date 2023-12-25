@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Mükemmel Bir Dün",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1385,
-=======
-	"id": [
-		81401
-	],
-	"name": "Mükemmel Bir Dün",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1385,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Mükemmel Bir Dün",
 		"description": "Geçmiş bir günün gelecekte yeri yoktur...",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

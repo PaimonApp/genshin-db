@@ -1,15 +1,10 @@
 {
-	"id": 100054,
 	"name": "電気水晶",
-	"sortRank": 320,
 	"description": "電気を含んだ晶石。大気と大地に散逸している電気の塊。触るとビリビリしびれる。",
-<<<<<<< HEAD
 	"sortorder": 2891,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "素材",
-	"sources": [
+	"materialtype": "素材",
+	"source": [
 		"崖の下で採集",
 		"推奨：誓いの岬で採集"
 	]

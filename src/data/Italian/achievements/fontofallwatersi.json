@@ -1,11 +1,7 @@
 {
-	"id": [
-		80253
-	],
 	"name": "Fonte di tutte le acque (I)",
-	"achievementGroupId": 42,
-	"achievementGroupName": "Fontaine: Danza delle sorgenti rugiadose (I)",
-	"sortOrder": 233,
+	"achievementgroup": "Fontaine: Danza delle sorgenti rugiadose (I)",
+	"sortorder": 233,
 	"stages": 1,
 	"stage1": {
 		"title": "Fonte di tutte le acque (I)",
@@ -13,7 +9,6 @@
 		"description": "Sblocca tutti i Portali di Fontaine: Regione della Corte di Fontaine, Regione di Belleau e Regione di Béryl.",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}

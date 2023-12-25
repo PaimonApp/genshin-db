@@ -1,15 +1,10 @@
 {
-	"id": 100084,
 	"name": "Balık",
-	"sortRank": 321,
 	"description": "Taze balık filetosu. Uygun şekilde kullanıldığında besleyici bir yemek yapılabilir.",
-<<<<<<< HEAD
 	"sortorder": 2923,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Balık tutarak toplanır."
 	]
 }

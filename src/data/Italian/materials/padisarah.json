@@ -1,15 +1,10 @@
 {
-	"id": 101214,
 	"name": "Padisarah",
-	"sortRank": 314,
 	"description": "Pianta sacra e nobile, le cui condizioni di crescita nel suo ambiente sono molto esigenti. I boccioli dei suoi fiori possono essere lavorati per preparare spezie preziose.",
-<<<<<<< HEAD
 	"sortorder": 2872,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Specialità di Sumeru",
-	"sources": [
+	"materialtype": "Specialità di Sumeru",
+	"source": [
 		"Si trova nei pressi della Città di Sumeru"
 	]
 }

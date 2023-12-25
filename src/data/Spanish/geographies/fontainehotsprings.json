@@ -1,11 +1,8 @@
 {
-	"id": 70400068,
 	"name": "Aguas termales de Fontaine",
-	"areaId": 50200,
-	"areaName": "Condado Berilo",
+	"area": "Condado Berilo",
 	"description": "Sacha pintó algo desde aquí.\nA través de los vapores de las aguas termales, se puede divisar la imponente Montaña Equinoccio y la acualínea Clémentine atravesándola.",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 368
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 368
 }

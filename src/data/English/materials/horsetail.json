@@ -1,15 +1,10 @@
 {
-	"id": 100032,
 	"name": "Horsetail",
-	"sortRank": 320,
 	"description": "A purple plant that sometimes grows amidst Silvergrass but grows taller, straighter, and plumper — like an aristocrat among the paupers.",
-<<<<<<< HEAD
 	"sortorder": 2888,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in patches of Silvergrass and wetlands",
 		"Recommendation: Found in Dihua Marsh"
 	]

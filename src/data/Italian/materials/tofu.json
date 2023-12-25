@@ -1,15 +1,10 @@
 {
-	"id": 100088,
 	"name": "Tofu",
-	"sortRank": 321,
 	"description": "Prodotto fresco derivato dalla soya dalla consistenza soffice e vellutata.",
-<<<<<<< HEAD
 	"sortorder": 2926,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Acquistabile negli empori di Liyue",
 		"Acquistabile negli empori di Inazuma",
 		"Acquistabile negli empori di Sumeru"

@@ -1,15 +1,10 @@
 {
-	"id": 100093,
 	"name": "Shrimp Meat",
-	"sortRank": 321,
 	"description": "กุ้งจากทะเลลึกที่อุดมไปด้วยคุณค่าทางโภชนาการและรสชาติที่สดอร่อย",
-<<<<<<< HEAD
 	"sortorder": 2930,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัตถุดิบประกอบอาหาร",
-	"sources": [
+	"materialtype": "วัตถุดิบประกอบอาหาร",
+	"source": [
 		"ซื้อจากร้านขายของชำใน Liyue",
 		"ซื้อจากร้านขายของชำ Inazuma",
 		"ซื้อจากร้านขายของชำใน Sumeru"

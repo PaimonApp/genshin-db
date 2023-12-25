@@ -1,15 +1,9 @@
 {
-	"id": 116001,
 	"name": "EXP BP",
-	"rarity": 3,
-	"sortRank": 430061,
 	"description": "บันทึกการเดินทางคือการบันทึกประสบการณ์ทั้งหมดในการเดินทางอันแสนยาวนาน ซึ่งบันทึกเหล่านี้จะถูกนำมาเป็นข้อมูลในการเขียนบทกวี",
-<<<<<<< HEAD
 	"sortorder": 4959,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "EXP BP",
-	"sources": []
+	"materialtype": "EXP BP",
+	"source": []
 }

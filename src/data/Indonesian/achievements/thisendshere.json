@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Sudah Selesai",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
 	"sortorder": 261,
-=======
-	"id": [
-		80285
-	],
-	"name": "Sudah Selesai",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
-	"sortOrder": 261,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Sudah Selesai",
 		"description": "Saksikanlah kisah Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

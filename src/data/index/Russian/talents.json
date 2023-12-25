@@ -11,10 +11,6 @@
 		"bennett": "Беннет",
 		"candace": "Кандакия",
 		"charlotte": "Шарлотта",
-<<<<<<< HEAD
-=======
-		"chevreuse": "Шеврёз",
->>>>>>> upstream/main
 		"chongyun": "Чун Юнь",
 		"collei": "Коллеи",
 		"cyno": "Сайно",
@@ -48,10 +44,6 @@
 		"mika": "Мика",
 		"mona": "Мона",
 		"nahida": "Нахида",
-<<<<<<< HEAD
-=======
-		"navia": "Навия",
->>>>>>> upstream/main
 		"neuvillette": "Нёвиллет",
 		"nilou": "Нилу",
 		"ningguang": "Нин Гуан",
@@ -100,10 +92,6 @@
 		"Беннет": "bennett",
 		"Кандакия": "candace",
 		"Шарлотта": "charlotte",
-<<<<<<< HEAD
-=======
-		"Шеврёз": "chevreuse",
->>>>>>> upstream/main
 		"Чун Юнь": "chongyun",
 		"Коллеи": "collei",
 		"Сайно": "cyno",
@@ -137,10 +125,6 @@
 		"Мика": "mika",
 		"Мона": "mona",
 		"Нахида": "nahida",
-<<<<<<< HEAD
-=======
-		"Навия": "navia",
->>>>>>> upstream/main
 		"Нёвиллет": "neuvillette",
 		"Нилу": "nilou",
 		"Нин Гуан": "ningguang",
@@ -191,10 +175,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -228,10 +208,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -344,10 +320,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -381,10 +353,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -767,10 +735,6 @@
 		],
 		"Сцепляющаяся шестерня": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -782,10 +746,6 @@
 		],
 		"Шестерня механизма": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -797,40 +757,11 @@
 		],
 		"Изощрённая динамическая шестерня": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Тёмная шёлковая нить": [
-<<<<<<< HEAD
 			"charlotte"
-=======
-			"charlotte",
-			"navia"
-		],
-		"Учения о «Порядке»": [
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"Указания о «Порядке»": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"Философия о «Порядке»": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"Тёмный глаз вихря": [
-			"chevreuse"
->>>>>>> upstream/main
 		],
 		"Учения об «Усердии»": [
 			"chongyun",
@@ -971,28 +902,16 @@
 		],
 		"Жемчужина иноморья": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Обломок из иноморья": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Ксенохромный кристалл": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1150,7 +1069,6 @@
 			"razor",
 			"xiangling"
 		],
-<<<<<<< HEAD
 		"Учения о «Порядке»": [
 			"lynette",
 			"wriothesley"
@@ -1167,29 +1085,16 @@
 		],
 		"Учения о «Беспристрастии»": [
 			"lyney",
-=======
-		"Учения о «Беспристрастии»": [
-			"lyney",
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Указания о «Беспристрастии»": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"Философия о «Беспристрастии»": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1276,13 +1181,6 @@
 			"Философия о «Справедливости»",
 			"Изощрённая динамическая шестерня",
 			"Тёмная шёлковая нить",
-<<<<<<< HEAD
-=======
-			"Учения о «Порядке»",
-			"Указания о «Порядке»",
-			"Философия о «Порядке»",
-			"Тёмный глаз вихря",
->>>>>>> upstream/main
 			"Учения об «Усердии»",
 			"Разбитая маска",
 			"Указания об «Усердии»",
@@ -1325,12 +1223,9 @@
 			"Философия о «Бренности»",
 			"Вечный янтарь",
 			"Коготь Двалина",
-<<<<<<< HEAD
 			"Учения о «Порядке»",
 			"Указания о «Порядке»",
 			"Философия о «Порядке»",
-=======
->>>>>>> upstream/main
 			"Учения о «Беспристрастии»",
 			"Указания о «Беспристрастии»",
 			"Философия о «Беспристрастии»",

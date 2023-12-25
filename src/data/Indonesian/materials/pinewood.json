@@ -1,19 +1,12 @@
 {
-	"id": 101303,
 	"name": "Pine Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Kayu dari Pohon Pinus. Warna dan serat kayunya mungkin tidak mencolok, tapi justru kesederhanaan ini yang membuatnya menjadi elegan. Kayu ini juga sangat kokoh. Di tangan yang tepat, produk dari kayu ini seharusnya bisa menahan ngengat dan kebusukan.\nDapat digunakan untuk membuat perabotan.",
-<<<<<<< HEAD
 	"sortorder": 2962,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Ditemukan di alam liar",
-		"Rekomendasi: Ditebang dari Dragonspine",
-		"Konversi Kayu"
+		"Rekomendasi: Ditebang dari Dragonspine"
 	]
 }

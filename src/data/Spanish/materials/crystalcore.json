@@ -1,15 +1,10 @@
 {
-	"id": 100085,
 	"name": "Núcleo de cristal",
-	"sortRank": 320,
 	"description": "El núcleo de un cristalóptero. Absorbe elementos que habían escapado a la atmósfera.",
-<<<<<<< HEAD
 	"sortorder": 2896,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Recolectado al atrapar cristalópteros"
 	]
 }

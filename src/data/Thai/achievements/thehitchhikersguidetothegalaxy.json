@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "คู่มือโบกรถสู่กาแล็กซี",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 2187,
-=======
-	"id": [
-		82188
-	],
-	"name": "คู่มือโบกรถสู่กาแล็กซี",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 2187,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "คู่มือโบกรถสู่กาแล็กซี",
 		"description": "เข้าสู่ท้องของวาฬยักษ์ 2 ครั้ง ในการท้าทายหนึ่งครั้ง",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

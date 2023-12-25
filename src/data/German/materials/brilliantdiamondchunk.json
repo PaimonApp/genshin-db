@@ -1,17 +1,11 @@
 {
-	"id": 104103,
 	"name": "Brillantbrocken",
-	"rarity": 4,
-	"sortRank": 12101,
 	"description": "Material für den Figurenaufstieg.\n„Willkommen in dieser Welt!“",
-<<<<<<< HEAD
 	"sortorder": 3186,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für den Figurenaufstieg",
-	"sources": [
+	"materialtype": "Material für den Figurenaufstieg",
+	"source": [
 		"Belohnung für Abenteuerstufe"
 	]
 }

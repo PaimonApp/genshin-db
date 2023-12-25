@@ -1,10 +1,9 @@
 {
-	"id": 2007,
 	"name": "Insalata nutriente",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Piatto ATT+",
+	"foodfilter": "Piatto ATT+",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Aumenta di un 6-12% il tasso di CRIT di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Un'insalata di verdure. Oltre alle patate calde e alla verdura fresca, sono state aggiunte delle uova sode per coronare il tutto. È un piacere per la vista e per le papille gustative.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100018,
 			"name": "Cavolo",
 			"count": 2
 		},
 		{
-			"id": 100001,
 			"name": "Mela",
 			"count": 2
 		},
 		{
-			"id": 100062,
 			"name": "Uovo d'uccello",
 			"count": 1
 		},
 		{
-			"id": 100080,
 			"name": "Patata",
 			"count": 1
 		}

@@ -1,8 +1,7 @@
 {
-	"id": 210071,
 	"name": "Catatan Perjalanan: Penciptaan Alam",
 	"description": "Style kartu nama.\nSudah berapa lama kamu tidur menggunakan batu sebagai bantalmu?",
-	"sortOrder": 210071,
+	"sortorder": 210071,
 	"source": [
 		"Hadiah dari Battle Pass"
 	]

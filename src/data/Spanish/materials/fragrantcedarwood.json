@@ -1,19 +1,12 @@
 {
-	"id": 101307,
 	"name": "Madera de cedro fragante",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madera obtenida de cedros fragantes. Estos árboles se llaman así por los aceites aromáticos que contienen.\nPuede utilizarse para fabricar decoraciones.",
-<<<<<<< HEAD
 	"sortorder": 2966,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Recolectar en la naturaleza",
-		"Talando en el Valle Estelar",
-		"Transformar madera"
+		"Talando en el Valle Estelar"
 	]
 }

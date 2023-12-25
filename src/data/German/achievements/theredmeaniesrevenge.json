@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Die Rache des roten Übels",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1382,
-=======
-	"id": [
-		81398
-	],
-	"name": "Die Rache des roten Übels",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1382,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Die Rache des roten Übels",
 		"description": "Beseitige die roten und die kleinen Übel in „Bravais’ Schmiedewerkstatt“.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

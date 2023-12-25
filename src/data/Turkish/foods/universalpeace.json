@@ -1,10 +1,9 @@
 {
-	"id": 3109,
 	"name": "Dünya Barışı",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Seçili karakterin Maks. Canını %30 ila %34 yeniler, ardından 600 ila 1.900 Can verir.",
 	"description": "Rengarenk bir yemek. Yumuşak ve hoş kokulu pirinç ile özenle seçilmiş leziz malzemeler arasındaki kusursuz denge çok iyi korunmuş. Bu yemek genellikle tadından ziyade huzur ve refahın sembolü olarak bilinir. Arkasında böylesine asil düşünceler yatarken tadı seni hayal kırıklığına uğratmaz.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100092,
 			"name": "Pirinç",
 			"count": 4
 		},
 		{
-			"id": 100026,
 			"name": "Nilüfer Başı",
 			"count": 2
 		},
 		{
-			"id": 100013,
 			"name": "Havuç",
 			"count": 2
 		},
 		{
-			"id": 100051,
 			"name": "Böğürtlen",
 			"count": 2
 		}

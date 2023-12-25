@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Destruo o Relâmpago!",
 	"achievementgroup": "Desafiante - Série VIII",
 	"sortorder": 2185,
-=======
-	"id": [
-		82186
-	],
-	"name": "Destruo o Relâmpago!",
-	"achievementGroupId": 40,
-	"achievementGroupName": "Desafiante - Série VIII",
-	"sortOrder": 2185,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Destruo o Relâmpago!",
 		"description": "Derrote o Cavalo-marinho Perolado Milenar enquanto está tentando reconstruir a Pérola do Mar Primordial.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

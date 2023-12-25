@@ -1,10 +1,9 @@
 {
-	"id": 1003,
 	"name": "Teyvat Fried Egg",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Makanan Pemulihan",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 50–150 HP.",
 	"description": "Telur yang dimasak matang di satu sisi. Kuning telurnya mengalir indah saat dipotong, sangat memuaskan untuk disantap.",
 	"suspicious": {
@@ -21,7 +20,6 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Bird Egg",
 			"count": 1
 		}

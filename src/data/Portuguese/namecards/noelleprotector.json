@@ -1,8 +1,7 @@
 {
-	"id": 210014,
 	"name": "Noelle - Protetor",
 	"description": "Estilo de Cartão de Visita.\nA Noelle é especial, ela nunca vai deixar você se machucar.",
-	"sortOrder": 210014,
+	"sortorder": 210014,
 	"source": [
 		"Recompensa por alcançar Amizade Nv.10 com Noelle."
 	]

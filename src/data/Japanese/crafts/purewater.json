@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "「純潔の水」",
 	"filter": "食べ物",
 	"sortorder": 220000,
@@ -8,34 +7,14 @@
 	"moracost": 100,
 	"recipe": [
 		{
-=======
-	"id": 14101,
-	"name": "「純潔の水」",
-	"filterText": "食べ物",
-	"sortOrder": 220000,
-	"unlockRank": 10,
-	"resultCount": 1,
-	"moraCost": 100,
-	"recipe": [
-		{
-			"id": 100017,
->>>>>>> upstream/main
 			"name": "小麦",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100020,
->>>>>>> upstream/main
 			"name": "ナッツ",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101234,
->>>>>>> upstream/main
 			"name": "タイダルガ",
 			"count": 1
 		}

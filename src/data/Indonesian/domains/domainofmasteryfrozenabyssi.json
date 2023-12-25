@@ -1,60 +1,43 @@
 {
-	"id": 4220,
 	"name": "Domain Mastery: Belenggu Jurang Es I",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"entranceId": 29,
-	"entranceName": "Forsaken Rift",
-	"domainType": "UI_ABYSSUS_AVATAR_PROUD",
-	"domainText": "Material Penguatan Talenta",
+	"region": "Mondstadt",
+	"domainentrance": "Forsaken Rift",
+	"domaintype": "Material Penguatan Talenta",
 	"description": "Energi Cryo yang sangat kuat mengalir melalui altar kuno yang telah membeku ini.\nDingin yang sampai merasuk ke tulang membuat tempat ini sulit dilalui.\nMungkin kamu akan memperoleh Material Penguatan Talenta apabila kamu berhasil melewati ujian ini.",
-	"recommendedLevel": 38,
-	"recommendedElements": [
+	"recommendedlevel": 38,
+	"recommendedelements": [
 		"Electro",
 		"Pyro"
 	],
-	"daysOfWeek": [
+	"daysofweek": [
 		"Selasa",
 		"Jumat",
 		"Minggu"
 	],
-	"unlockRank": 1,
-	"rewardPreview": [
+	"unlockrank": 1,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "Adventure EXP",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 1575
 		},
 		{
-			"id": 105,
 			"name": "Companionship EXP",
 			"count": 15
 		},
 		{
-			"id": 104304,
 			"name": "Teachings of \"Resistance\""
 		}
 	],
 	"disorder": [
 		"Setiap beberapa saat, karakter yang bertarung akan terkena Condensed Ice, yang menyebabkan konsumsi Stamina Karakter jauh lebih besar sampai efek elemen Cryo terhilangkan."
 	],
-	"monsterList": [
-		{
-			"id": 20010801,
-			"name": "Cryo Slime"
-		},
-		{
-			"id": 20010901,
-			"name": "Large Cryo Slime"
-		},
-		{
-			"id": 22010201,
-			"name": "Cryo Abyss Mage"
-		}
+	"monsterlist": [
+		"Cryo Slime",
+		"Large Cryo Slime",
+		"Cryo Abyss Mage"
 	]
 }

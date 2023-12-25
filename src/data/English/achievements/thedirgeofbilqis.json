@@ -1,18 +1,13 @@
 {
-	"id": [
-		80227
-	],
 	"name": "The Dirge of Bilqis",
-	"achievementGroupId": 38,
-	"achievementGroupName": "Sumeru: The Gilded Desert - Series II",
-	"sortOrder": 217,
+	"achievementgroup": "Sumeru: The Gilded Desert - Series II",
+	"sortorder": 217,
 	"stages": 1,
 	"stage1": {
 		"title": "The Dirge of Bilqis",
 		"description": "Complete \"The Dirge of Bilqis.\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

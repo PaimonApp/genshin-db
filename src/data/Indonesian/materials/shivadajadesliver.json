@@ -1,17 +1,11 @@
 {
-	"id": 104161,
 	"name": "Shivada Jade Sliver",
-	"rarity": 2,
-	"sortRank": 12107,
 	"description": "Material Ascension Karakter.",
-<<<<<<< HEAD
 	"sortorder": 3212,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Karakter",
-	"sources": [
+	"materialtype": "Material Ascension Karakter",
+	"source": [
 		"Dijatuhkan oleh Cryo Regisvine",
 		"Dijatuhkan oleh Cryo Hypostasis",
 		"Dibeli dari Toko Suvenir"

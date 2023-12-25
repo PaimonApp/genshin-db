@@ -1,15 +1,10 @@
 {
-	"id": 101211,
 	"name": "Lavender Melon",
-	"sortRank": 321,
 	"description": "A brightly-colored fruit. The flesh within transforms into food with a unique mouthfeel when cooked.",
-<<<<<<< HEAD
 	"sortorder": 2938,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Found in the wild in Inazuma"
 	]
 }

@@ -1,13 +1,7 @@
 {
-	"id": 12,
 	"name": "바위 항구의 과거·제1집",
-<<<<<<< HEAD
 	"sortorder": 25,
-=======
-	"sortOrder": 25,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210032,
 		"name": "업적·부채"
 	}
 }

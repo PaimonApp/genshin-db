@@ -1,15 +1,10 @@
 {
-	"id": 101214,
 	"name": "Orquídea padishá",
-	"sortRank": 314,
 	"description": "Una flor noble e inmaculada. Exige unas condiciones de lo más estrictas para crecer. Con su estambre, se pueden crear especias realmente valiosas.",
-<<<<<<< HEAD
 	"sortorder": 2872,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Sumeru",
-	"sources": [
+	"materialtype": "Objeto típico de Sumeru",
+	"source": [
 		"Recolectar cerca de la Ciudad de Sumeru"
 	]
 }

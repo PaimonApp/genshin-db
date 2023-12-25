@@ -1,8 +1,6 @@
 {
-	"id": 204800,
 	"name": "Золотой закон",
 	"description": "Наряд Янь Фэй. Служебное платье консультанта по юридическим вопросам.",
-	"isDefault": true,
-	"characterId": 10000048,
-	"characterName": "Янь Фэй"
+	"isdefault": true,
+	"character": "Янь Фэй"
 }

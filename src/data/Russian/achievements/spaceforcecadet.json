@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Космический кадет",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1399,
-=======
-	"id": [
-		81415
-	],
-	"name": "Космический кадет",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1399,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Космический кадет",
 		"description": "Ни одного промаха!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

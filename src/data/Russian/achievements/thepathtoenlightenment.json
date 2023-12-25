@@ -1,11 +1,8 @@
 {
-	"id": [
-		81272
-	],
 	"name": "Дорога к свету",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1258,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1258,
 	"stages": 1,
 	"stage1": {
 		"title": "Дорога к свету",
@@ -13,7 +10,6 @@
 		"description": "Никто не знает, как были построены эти огромные руины и почему они оказались заброшены.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

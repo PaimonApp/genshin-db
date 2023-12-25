@@ -1,20 +1,13 @@
 {
-	"id": [
-		80246,
-		80247,
-		80248
-	],
 	"name": "Péripéties sur les terres arides",
-	"achievementGroupId": 41,
-	"achievementGroupName": "Hamada bénie",
-	"sortOrder": 227,
+	"achievementgroup": "Hamada bénie",
+	"sortorder": 227,
 	"stages": 3,
 	"stage1": {
 		"title": "Péripéties sur les terres arides",
 		"description": "Terminez {param0} défis du monde ouvert activés par mécanisme dans Gavireh Lajavard et le Royaume de Farakhkert.",
 		"progress": 4,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Terminez {param0} défis du monde ouvert activés par mécanisme dans Gavireh Lajavard et le Royaume de Farakhkert.",
 		"progress": 8,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Terminez {param0} défis du monde ouvert activés par mécanisme dans Gavireh Lajavard et le Royaume de Farakhkert.",
 		"progress": 16,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

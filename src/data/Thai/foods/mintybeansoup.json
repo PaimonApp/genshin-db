@@ -1,10 +1,9 @@
 {
-	"id": 1301,
 	"name": "Minty Bean Soup",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "เมนูฟื้นฟูพลังชีวิต",
+	"foodfilter": "เมนูฟื้นฟูพลังชีวิต",
+	"foodcategory": "Recovery_Revive",
 	"effect": "ฟื้นชีวิตให้แก่ตัวละครที่เลือก\nฟื้นฟูพลังชีวิต 50-150 หน่วย",
 	"description": "ซุปข้นที่ใช้ส่วนผสมแบบเรียบง่าย ต้ม Mint และ Bean จนสุกจากนั้นบดให้ละเอียด แล้วต้มต่อด้วยไฟอ่อนจนเข้ากัน สุดท้ายตกแต่งด้วย Bean และใบ Mint อาหารสำเร็จรูปที่ให้ความรู้สึกสดชื่น เหมาะสำหรับรับประทานทั้งแบบร้อนและแบบเย็น",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100096,
 			"name": "Glabrous Beans",
 			"count": 2
 		},
 		{
-			"id": 100016,
 			"name": "Mint",
 			"count": 2
 		}

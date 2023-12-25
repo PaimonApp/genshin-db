@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "O que há no fim do arco-íris...?",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1364,
-=======
-	"id": [
-		81380
-	],
-	"name": "O que há no fim do arco-íris...?",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1364,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "O que há no fim do arco-íris...?",
 		"description": "Siga a luz até onde ela leva.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

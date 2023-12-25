@@ -1,13 +1,7 @@
 {
-	"id": [
-		80037,
-		80038,
-		80039
-	],
 	"name": "Cazatesoros atrapavientos",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt: la ciudad del viento y la poesía",
-	"sortOrder": 37,
+	"achievementgroup": "Mondstadt: la ciudad del viento y la poesía",
+	"sortorder": 37,
 	"stages": 3,
 	"stage1": {
 		"title": "Cazatesoros atrapavientos",
@@ -15,7 +9,6 @@
 		"description": "Abre 100 cofres en Mondstadt (excepto Espinadragón).",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Abre 200 cofres en Mondstadt (excepto Espinadragón).",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Abre 400 cofres en Mondstadt (excepto Espinadragón).",
 		"progress": 400,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 20
 		}

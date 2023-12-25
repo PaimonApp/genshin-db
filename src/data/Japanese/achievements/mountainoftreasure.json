@@ -1,13 +1,7 @@
 {
-	"id": [
-		80061,
-		80062,
-		80063
-	],
 	"name": "雪山のトレジャーハンター",
-	"achievementGroupId": 16,
-	"achievementGroupName": "雪山の来客",
-	"sortOrder": 61,
+	"achievementgroup": "雪山の来客",
+	"sortorder": 61,
 	"stages": 3,
 	"stage1": {
 		"title": "雪山のトレジャーハンター",
@@ -15,7 +9,6 @@
 		"description": "ドラゴンスパインで宝箱を40個開ける。",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "ドラゴンスパインで宝箱を80個開ける。",
 		"progress": 80,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "ドラゴンスパインで宝箱を160個開ける。",
 		"progress": 160,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 20
 		}

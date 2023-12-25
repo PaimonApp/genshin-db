@@ -1,20 +1,11 @@
 {
-	"id": 101104,
 	"name": "Unbearbeiteter Katalysator des Nordens",
-	"rarity": 4,
-	"sortRank": 300,
 	"description": "Rohmaterial zum Herstellen von Waffen. Kann zu einem 4-Sterne-Katalysator geschmiedet werden.\nIn der Philosophie spricht man dem Marmor großes Potenzial zu, weil es sich zu den schönsten Figuren machen lässt. Auch dieses Rohmaterial birgt unzählige Möglichkeiten. Was wohl einmal daraus wird?",
-<<<<<<< HEAD
 	"sortorder": 2814,
 	"rarity": "4",
 	"category": "EXCHANGE",
 	"materialtype": "Material",
 	"source": [
-=======
-	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
->>>>>>> upstream/main
 		"Belohnung für „Gebietssäuberung“ oder „Herr von Wolfenlauf“ in Mondstadt, Liyue und Inazuma"
 	]
 }

@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Шире океана только небеса",
 	"achievementgroup": "Фонтейн: Танец источников белых рос II",
 	"sortorder": 260,
-=======
-	"id": [
-		80284
-	],
-	"name": "Шире океана только небеса",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Фонтейн: Танец источников белых рос II",
-	"sortOrder": 260,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Шире океана только небеса",
 		"description": "Помогите Лануар покинуть крепость Меропид.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 10
 		}

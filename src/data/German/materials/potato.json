@@ -1,15 +1,10 @@
 {
-	"id": 100080,
 	"name": "Kartoffel",
-	"sortRank": 321,
 	"description": "Ein Knollengemüse, das man zubereiten kann, wie man will. Es verliert nie seinen Reiz.",
-<<<<<<< HEAD
 	"sortorder": 2922,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In Gemischtwarenläden zu erstehen"
 	]
 }

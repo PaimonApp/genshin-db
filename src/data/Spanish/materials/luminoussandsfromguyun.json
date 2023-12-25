@@ -1,24 +1,17 @@
 {
-	"id": 114013,
 	"name": "Arena brillante de Guyun",
-	"rarity": 2,
-	"sortRank": 15104,
 	"description": "Material de ascensión de arma.\nLos imponentes pilares rocosos del Bosque de Piedra Guyun fueron una vez las lanzas de piedra que Morax usó para derrotar a sus enemigos. Con el paso del tiempo, el cuerpo del Arconte penetró en los pilares, otorgándoles una naturaleza divina. En la actualidad, de ellos a veces se derraman pedazos de odio y maldiciones.",
-<<<<<<< HEAD
 	"sortorder": 3292,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de ascensión de arma",
-	"dropDomainId": 5214,
-	"dropDomainName": "Dominio de la forja: Altar de las nubes eléctricas",
-	"daysOfWeek": [
+	"materialtype": "Material de ascensión de arma",
+	"dropdomain": "Dominio de la forja: Altar de las nubes eléctricas",
+	"daysofweek": [
 		"Lunes",
 		"Jueves",
 		"Domingo"
 	],
-	"sources": [
+	"source": [
 		"Comprado en la Tienda de recuerdos de Liyue"
 	]
 }

@@ -1,11 +1,8 @@
 {
-	"id": 70400044,
 	"name": "ศูนย์บัญชาการชั่วคราวของทีมสำรวจ Fatui",
-	"areaId": 5003,
-	"areaName": "Wadi Al-Majuj",
+	"area": "Wadi Al-Majuj",
 	"description": "ท่ามกลางเสียงกระซิบกระซาบของศาลาบูชาโบราณ ทีมสำรวจด่านหน้าจากแดนหิมะทางเหนืออันแสนห่างไกลก็ได้ปักเต็นท์ตั้งค่ายลงที่นี่",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 344
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 344
 }

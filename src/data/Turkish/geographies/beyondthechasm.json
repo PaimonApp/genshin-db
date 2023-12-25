@@ -1,10 +1,7 @@
 {
-	"id": 70200012,
 	"name": "Kanyon'un Ötesi",
-	"areaId": 2200,
-	"areaName": "Kanyon",
+	"area": "Kanyon",
 	"description": "Liyue Limanı ve Kanyon'daki büyük madenlerin kesiştiği yer. Kanyon'un derinliklerindeki bir hareketlilik yüzünden son zamanlarda burada işler durdu.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 114
+	"region": "Liyue",
+	"sortorder": 114
 }

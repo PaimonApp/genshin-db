@@ -1,11 +1,7 @@
 {
-	"id": [
-		80077
-	],
 	"name": "Tuono eterno",
-	"achievementGroupId": 24,
-	"achievementGroupName": "Inazuma, le isole del tuono e dell'eternità: Serie I",
-	"sortOrder": 78,
+	"achievementgroup": "Inazuma, le isole del tuono e dell'eternità: Serie I",
+	"sortorder": 78,
 	"stages": 1,
 	"stage1": {
 		"title": "Tuono eterno",
@@ -13,7 +9,6 @@
 		"description": "Potenzia le Statue dei Sette a Inazuma al livello massimo.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 20
 		}

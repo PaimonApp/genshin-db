@@ -1,10 +1,7 @@
 {
-	"id": 70200015,
 	"name": "Chihu Kayalığı",
-	"areaId": 2701,
-	"areaName": "Liyue Limanı",
+	"area": "Liyue Limanı",
 	"description": "Liyue Limanı'nın durmadan atan ve damarlarına kan pompalayan kalbi. Buradaki heyecan verici şehir manzarası Liyue Limanı'nın bitmek bilmez canlılığının kaynağı.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 103
+	"region": "Liyue",
+	"sortorder": 103
 }

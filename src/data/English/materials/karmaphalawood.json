@@ -1,19 +1,12 @@
 {
-	"id": 101314,
 	"name": "Karmaphala Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "The wood of the Karmaphala Tree. One can easily get a nice, smooth surface while working on this material and obtain a rather eye-pleasing result without going through any sophisticated processes.\nCan be used to create furnishings.",
-<<<<<<< HEAD
 	"sortorder": 2973,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
-		"Recommendation: Cut from the forests of Sumeru",
-		"Convert Wood"
+		"Recommendation: Cut from the forests of Sumeru"
 	]
 }

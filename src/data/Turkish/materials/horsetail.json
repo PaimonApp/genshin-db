@@ -1,15 +1,10 @@
 {
-	"id": 100032,
 	"name": "Atkuyruğu",
-	"sortRank": 320,
 	"description": "Bazen Gümüşotunun ortasında yetişen ama daha uzun, daha düz ve daha dolgun büyüyen mor bir bitki. Tıpkı yoksullar arasındaki bir aristokrat gibi.",
-<<<<<<< HEAD
 	"sortorder": 2888,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Gümüşotu yetişen topraklarda ve sulak arazilerde bulunur.",
 		"Öneri: Dihua Bataklığı'nda bulunur."
 	]

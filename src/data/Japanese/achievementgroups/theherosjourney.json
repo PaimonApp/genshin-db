@@ -1,9 +1,7 @@
 {
-	"id": 3,
 	"name": "英雄の旅",
-	"sortOrder": 8,
+	"sortorder": 8,
 	"reward": {
-		"id": 210023,
 		"name": "アチーブメント·侠行"
 	}
 }

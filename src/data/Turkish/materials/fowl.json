@@ -1,15 +1,10 @@
 {
-	"id": 100064,
 	"name": "Kuş Eti",
-	"sortRank": 321,
 	"description": "Taze bir kuş eti parçası. Doyurucu yemekler yapmak için kullanılabilir.",
-<<<<<<< HEAD
 	"sortorder": 2915,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Hayvanlardan düşer."
 	]
 }

@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Distance jusqu'à la lune",
 	"achievementgroup": "Au défi ! - Partie VIII",
 	"sortorder": 2180,
-=======
-	"id": [
-		82181
-	],
-	"name": "Distance jusqu'à la lune",
-	"achievementGroupId": 40,
-	"achievementGroupName": "Au défi ! - Partie VIII",
-	"sortOrder": 2180,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Distance jusqu'à la lune",
 		"description": "Faites 11 attaques plongeantes dans un seul champ de réduction de gravité en touchant un Générateur de champ expérimental.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

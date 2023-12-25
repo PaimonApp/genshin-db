@@ -1,10 +1,9 @@
 {
-	"id": 1102,
 	"name": "Et Tava",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Seçili karakteri diriltir.\n50 ila 150 Can yeniler.",
 	"description": "Yüksek ateşte sotelenmiş et dilimleri. Etin aroması, Jueyun biberinin hafif acılığıyla mükemmel bir uyum sağlamış. Garnitür olarak sunulabilir, yanına pilavla iyi gider.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 1
 		},
 		{
-			"id": 100027,
 			"name": "Jueyun Biberi",
 			"count": 1
 		}

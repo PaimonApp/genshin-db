@@ -1,15 +1,10 @@
 {
-	"id": 101210,
 	"name": "Rong Biển",
-	"sortRank": 321,
 	"description": "Loài thực vật sinh trưởng ở vùng biển cạn, có thể tăng thêm hương vị cho món ăn.",
-<<<<<<< HEAD
 	"sortorder": 2937,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu thập ở vùng biển Inazuma"
 	]
 }

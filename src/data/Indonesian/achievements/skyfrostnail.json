@@ -1,11 +1,7 @@
 {
-	"id": [
-		80067
-	],
 	"name": "Skyfrost Nail",
-	"achievementGroupId": 16,
-	"achievementGroupName": "Pengunjung Dragonspine",
-	"sortOrder": 67,
+	"achievementgroup": "Pengunjung Dragonspine",
+	"sortorder": 67,
 	"stages": 1,
 	"stage1": {
 		"title": "Skyfrost Nail",
@@ -13,7 +9,6 @@
 		"description": "Angkat \"strange column\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

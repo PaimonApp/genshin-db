@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Barbeque Ribs",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Makanan Pemulihan",
 	"foodcategory": "Recovery_HpAdd",
-=======
-	"id": 2407,
-	"name": "Barbeque Ribs",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Makanan Pemulihan",
->>>>>>> upstream/main
 	"effect": "Memulihkan 20–24% HP dan 900–1.500 HP Karakter yang dipilih.",
 	"description": "Hidangan daging garing. Goreng sedikit permukaan iga hingga mengeluarkan aroma yang samar, lalu bungkus bagian luar yang renyah dengan saus, dan terakhir panggang perlahan dengan api kecil. Atur panas dengan cermat dan pastikan bagian luar yang renyah sudah sempurna sambil tetap menjaga agar daging tetap berair dan empuk.",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Raw Meat",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100077,
->>>>>>> upstream/main
 			"name": "Pepper",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

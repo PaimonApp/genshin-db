@@ -1,15 +1,10 @@
 {
-	"id": 100064,
 	"name": "Fowl",
-	"sortRank": 321,
 	"description": "Daging burung unggas yang segar. Saat diolah dengan baik, dapat dibuat menjadi masakan yang lezat.",
-<<<<<<< HEAD
 	"sortorder": 2915,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Dijatuhkan oleh hewan"
 	]
 }

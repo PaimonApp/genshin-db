@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Haggis",
 	"rarity": "4",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatto DIF+",
 	"foodcategory": "Def_Add",
-=======
-	"id": 4402,
-	"name": "Haggis",
-	"rarity": 4,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Piatto DIF+",
->>>>>>> upstream/main
 	"effect": "Aumenta di 215-308 la DIF e di un 6-10% l'efficacia di guarigione di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Un piatto dai sapori forti e intensi. Trita le frattaglie di pecora, mescolale con i fiocchi d'avena, farcisci lo stomaco della pecora con diversi condimenti e spezie e avrai una pietanza a forma di sacca da cucinare. Quando servi questo piatto, la sacca dello stomaco viene normalmente rimossa, e si serve il ripieno accompagnandolo con un paté di ravanello e purea di patate. È una specialità locale caratteristica della cucina di Fontaine da offrire agli ospiti importanti.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Pezzo di carne cruda",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100080,
->>>>>>> upstream/main
 			"name": "Patata",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100014,
->>>>>>> upstream/main
 			"name": "Ravanello",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 2
 		}

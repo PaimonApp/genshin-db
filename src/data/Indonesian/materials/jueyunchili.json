@@ -1,15 +1,10 @@
 {
-	"id": 100027,
 	"name": "Jueyun Chili",
-	"sortRank": 312,
 	"description": "Tumbuhan pedas dari Liyue. Hanya menciumnya saja akan membuatmu kepedasan dan haus.",
-<<<<<<< HEAD
 	"sortorder": 2854,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk khas Liyue",
-	"sources": [
+	"materialtype": "Produk khas Liyue",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Qingce Village"
 	]

@@ -1,15 +1,10 @@
 {
-	"id": 100025,
 	"name": "Philanemo Mushroom",
-	"sortRank": 311,
 	"description": "Jamur yang tumbuh dengan sentuhan hangat angin. Sama abadinya dengan angin, memelihara kehidupan.",
-<<<<<<< HEAD
 	"sortorder": 2850,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk khas Mondstadt",
-	"sources": [
+	"materialtype": "Produk khas Mondstadt",
+	"source": [
 		"Ditemukan di atap rumah"
 	]
 }

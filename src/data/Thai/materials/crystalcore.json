@@ -1,15 +1,10 @@
 {
-	"id": 100085,
 	"name": "Crystal Core",
-	"sortRank": 320,
 	"description": "แกนกลางของคริสตัลผีเสื้อ ใช้เป็นเครื่องมือเพื่อดูดซับพลังงานธาตุที่ลอยอยู่ในอากาศ",
-<<<<<<< HEAD
 	"sortorder": 2896,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัสดุ",
-	"sources": [
+	"materialtype": "วัสดุ",
+	"source": [
 		"หาได้จากการจับ Crystalfly"
 	]
 }

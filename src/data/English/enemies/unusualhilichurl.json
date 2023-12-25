@@ -1,21 +1,17 @@
 {
-	"id": 21011501,
 	"name": "Unusual Hilichurl",
-	"specialName": "Menace of the Mansion",
-	"enemyType": "COMMON",
+	"specialname": "Menace of the Mansion",
+	"enemytype": "COMMON",
 	"category": "Hilichurls",
 	"description": "\"Homu, homu, mimi domu!\"",
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "Adventure EXP"
 		},
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 100018,
 			"name": "Cabbage"
 		}
 	]

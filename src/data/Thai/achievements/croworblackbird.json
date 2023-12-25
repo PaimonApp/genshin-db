@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "เป็นอีกาหรือแบล็กเบิร์ด?",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1409,
-=======
-	"id": [
-		81425
-	],
-	"name": "เป็นอีกาหรือแบล็กเบิร์ด?",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1409,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "เป็นอีกาหรือแบล็กเบิร์ด?",
 		"description": "เป็นนกกระทุง!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

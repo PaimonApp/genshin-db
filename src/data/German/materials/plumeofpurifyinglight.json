@@ -1,13 +1,8 @@
 {
-	"id": 107022,
 	"name": "Feder reinigenden Lichts",
-	"sortRank": 420021,
 	"description": "Bruchstücke geronnener Erinnerungen, zurückgelassen von unzähligen Khvarena.",
-<<<<<<< HEAD
 	"sortorder": 4890,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Verbrauchsgegenstände",
-	"sources": []
+	"materialtype": "Verbrauchsgegenstände",
+	"source": []
 }

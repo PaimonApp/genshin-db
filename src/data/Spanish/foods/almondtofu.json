@@ -1,10 +1,9 @@
 {
-	"id": 2101,
 	"name": "Tofu de almendras",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Platos que mejoran ataques",
+	"foodfilter": "Platos que mejoran ataques",
+	"foodcategory": "Atk_Add",
 	"effect": "Aumenta el ATQ de todos los miembros del equipo en 66-95 pts. durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Postre elaborado a base de almendras trituradas. Tiene una textura tierna, un dulzor distintivo y un fuerte aroma a almendras. Su nombre se debe a su consistencia.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100078,
 			"name": "Leche",
 			"count": 3
 		},
 		{
-			"id": 110006,
 			"name": "Azúcar",
 			"count": 1
 		},
 		{
-			"id": 100089,
 			"name": "Almendra",
 			"count": 1
 		}

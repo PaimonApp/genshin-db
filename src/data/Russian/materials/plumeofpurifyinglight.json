@@ -1,13 +1,8 @@
 {
-	"id": 107022,
 	"name": "Оперенье очищающего света",
-	"sortRank": 420021,
 	"description": "Фрагмент, оставленный Хварной и хранящий воспоминания о прошлом.",
-<<<<<<< HEAD
 	"sortorder": 4890,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Расходный предмет",
-	"sources": []
+	"materialtype": "Расходный предмет",
+	"source": []
 }

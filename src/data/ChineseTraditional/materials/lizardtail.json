@@ -1,11 +1,10 @@
 {
-	"id": 100083,
 	"name": "蜥蜴尾巴",
-	"sortRank": 320,
 	"description": "失去生命後微微捲曲的蜥蜴尾巴。含有強烈的藥性，能讓人皮膚變硬。味道很苦。",
+	"sortorder": 2895,
 	"category": "EXCHANGE",
-	"typeText": "素材",
-	"sources": [
+	"materialtype": "素材",
+	"source": [
 		"捕捉蜥蜴採集"
 	]
 }

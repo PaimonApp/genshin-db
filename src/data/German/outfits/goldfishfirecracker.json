@@ -1,8 +1,6 @@
 {
-	"id": 204900,
 	"name": "Goldfischfeuerwerk",
 	"description": "Yoimiyas Kleidung. Eine legere Kleidung, geschmückt mit Erinnerungsstücken von Festen der vergangenen Jahre.",
-	"isDefault": true,
-	"characterId": 10000049,
-	"characterName": "Yoimiya"
+	"isdefault": true,
+	"character": "Yoimiya"
 }

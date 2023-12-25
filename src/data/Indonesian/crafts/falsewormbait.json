@@ -1,18 +1,15 @@
 {
-	"id": 22035,
 	"name": "False Worm Bait",
-	"filterText": "Umpan Ikan",
-	"sortOrder": 160020,
-	"unlockRank": 28,
-	"resultCount": 10,
+	"filter": "Umpan Ikan",
+	"sortorder": 160020,
+	"unlockrank": 28,
+	"resultcount": 10,
 	"recipe": [
 		{
-			"id": 112002,
 			"name": "Slime Condensate",
 			"count": 1
 		},
 		{
-			"id": 100051,
 			"name": "Berry",
 			"count": 1
 		}

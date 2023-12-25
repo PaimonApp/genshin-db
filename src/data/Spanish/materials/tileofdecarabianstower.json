@@ -1,24 +1,17 @@
 {
-	"id": 114001,
 	"name": "Fragmento de azulejo de Decarabian",
-	"rarity": 2,
-	"sortRank": 15101,
 	"description": "Material de ascensión de arma.\nEn el pasado, el lugar actualmente conocido como la Guarida de Stormterror fue la capital construida por Decarabian, el Arconte de la Tempestad. Dado que este próspero sueño fue creado por su poder, las piezas rotas que quedaron cuando el sueño se hizo añicos todavía poseen un gran poder.",
-<<<<<<< HEAD
 	"sortorder": 3280,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de ascensión de arma",
-	"dropDomainId": 4310,
-	"dropDomainName": "Dominio de la forja: Ciudad de los reflejos I",
-	"daysOfWeek": [
+	"materialtype": "Material de ascensión de arma",
+	"dropdomain": "Dominio de la forja: Ciudad de los reflejos I",
+	"daysofweek": [
 		"Lunes",
 		"Jueves",
 		"Domingo"
 	],
-	"sources": [
+	"source": [
 		"Comprado en la Tienda de recuerdos de Mondstadt"
 	]
 }

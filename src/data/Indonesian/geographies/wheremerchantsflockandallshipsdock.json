@@ -1,10 +1,7 @@
 {
-	"id": 70200013,
 	"name": "Di Mana Perahu dan Pedagang Berkumpul",
-	"areaId": 2701,
-	"areaName": "Liyue Harbor",
+	"area": "Liyue Harbor",
 	"description": "Pelabuhan yang makmur di mana ribuan layar bersandar. Di bawah kontrak dan peraturan yang tak terhitung jumlahnya,",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 101
+	"region": "Liyue",
+	"sortorder": 101
 }

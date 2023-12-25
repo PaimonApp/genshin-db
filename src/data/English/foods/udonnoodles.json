@@ -1,10 +1,9 @@
 {
-	"id": 2210,
 	"name": "Udon Noodles",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Recovery Dish",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revives the selected character.\nRestores 250–550 HP.",
 	"description": "Highly springy noodles. After several rounds of rising and pulling, the result is silky smooth yet springy noodles. Unlike ramen, which prizes dense flavors, udon noodles use light flavors to heal the Inazuman soul.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Flour",
 			"count": 3
 		},
 		{
-			"id": 101210,
 			"name": "Seagrass",
 			"count": 1
 		},
 		{
-			"id": 100084,
 			"name": "Fish",
 			"count": 1
 		}

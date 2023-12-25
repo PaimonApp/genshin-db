@@ -12,10 +12,6 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
-<<<<<<< HEAD
-=======
-		"chevreuse": "Chevreuse",
->>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -50,10 +46,6 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
-<<<<<<< HEAD
-=======
-		"navia": "Navia",
->>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -98,10 +90,6 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
-<<<<<<< HEAD
-=======
-		"Chevreuse": "chevreuse",
->>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -136,10 +124,6 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
-<<<<<<< HEAD
-=======
-		"Navia": "navia",
->>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -195,11 +179,6 @@
 		"Cung Tiễn Thuẫn": "candace",
 		"Ống Kính Sự Thật": "charlotte",
 		"Cung Chân Thị Kính": "charlotte",
-<<<<<<< HEAD
-=======
-		"Người Thực Thi Công Lý": "chevreuse",
-		"Cung Kiếm Súng": "chevreuse",
->>>>>>> upstream/main
 		"Bóng Hình Băng Giá": "chongyun",
 		"Cung Càn Khôn Phong": "chongyun",
 		"Mầm Non Tái Sinh": "collei",
@@ -266,11 +245,6 @@
 		"Cung Ánh Thiên": "mona",
 		"Kết Tinh Bạch Thảo": "nahida",
 		"Cung Chủ Trí Tuệ": "nahida",
-<<<<<<< HEAD
-=======
-		"Bánh Lái Hoa Lệ": "navia",
-		"Cung Dã Tường Vi": "navia",
->>>>>>> upstream/main
 		"Tiếng Sóng Phán Quyết": "neuvillette",
 		"???": "neuvillette",
 		"Vũ Điệu Ánh Sen": "nilou",
@@ -340,10 +314,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"diona",
@@ -400,10 +370,6 @@
 			"lyney",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"qiqi",
@@ -421,11 +387,11 @@
 			"yoimiya",
 			"zhongli"
 		],
-		"ELEMENT_NONE": [
+		"Không": [
 			"aether",
 			"lumine"
 		],
-		"WEAPON_SWORD_ONE_HAND": [
+		"Kiếm Đơn": [
 			"aether",
 			"albedo",
 			"alhaitham",
@@ -446,7 +412,7 @@
 			"qiqi",
 			"xingqiu"
 		],
-		"FIGHT_PROP_ATTACK_PERCENT": [
+		"Tấn Công": [
 			"aether",
 			"amber",
 			"charlotte",
@@ -507,10 +473,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -545,10 +507,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -638,17 +596,16 @@
 			"aether",
 			"lumine"
 		],
-		"ELEMENT_GEO": [
+		"Nham": [
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"FIGHT_PROP_ROCK_ADD_HURT": [
+		"Tăng ST Nguyên Tố Nham": [
 			"albedo",
 			"gorou",
 			"ningguang",
@@ -686,7 +643,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -709,7 +665,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -734,7 +689,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -753,13 +707,12 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"ELEMENT_DENDRO": [
+		"Thảo": [
 			"alhaitham",
 			"baizhu",
 			"collei",
@@ -769,7 +722,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"FIGHT_PROP_GRASS_ADD_HURT": [
+		"Tăng ST Nguyên Tố Thảo": [
 			"alhaitham",
 			"tighnari"
 		],
@@ -865,7 +818,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"ELEMENT_CRYO": [
+		"Băng": [
 			"aloy",
 			"charlotte",
 			"chongyun",
@@ -882,7 +835,7 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"WEAPON_BOW": [
+		"Cung": [
 			"aloy",
 			"amber",
 			"collei",
@@ -899,7 +852,7 @@
 			"yelan",
 			"yoimiya"
 		],
-		"FIGHT_PROP_ICE_ADD_HURT": [
+		"Tăng ST Nguyên Tố Băng": [
 			"aloy",
 			"diona"
 		],
@@ -910,10 +863,6 @@
 			"beidou",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"collei",
 			"dehya",
 			"diona",
@@ -937,7 +886,6 @@
 			"lynette",
 			"mona",
 			"nahida",
-			"navia",
 			"nilou",
 			"ningguang",
 			"noelle",
@@ -1063,10 +1011,9 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"ELEMENT_PYRO": [
+		"Hỏa": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1083,13 +1030,11 @@
 			"faruzan",
 			"mika",
 			"mona",
-			"navia",
 			"ningguang"
 		],
 		"Vụn Mã Não Cháy": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1115,7 +1060,6 @@
 		"Mảnh Mã Não Cháy": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1144,7 +1088,6 @@
 		"Miếng Mã Não Cháy": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1165,7 +1108,6 @@
 		"Mã Não Cháy": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1177,7 +1119,7 @@
 			"yanfei",
 			"yoimiya"
 		],
-		"WEAPON_CLAYMORE": [
+		"Trọng Kiếm": [
 			"aratakiitto",
 			"beidou",
 			"chongyun",
@@ -1187,13 +1129,12 @@
 			"eula",
 			"freminet",
 			"kaveh",
-			"navia",
 			"noelle",
 			"razor",
 			"sayu",
 			"xinyan"
 		],
-		"FIGHT_PROP_CRITICAL": [
+		"Tỷ Lệ Bạo Kích": [
 			"aratakiitto",
 			"diluc",
 			"furina",
@@ -1265,7 +1206,7 @@
 			"yaoyao",
 			"zhongli"
 		],
-		"WEAPON_CATALYST": [
+		"Pháp Khí": [
 			"baizhu",
 			"barbara",
 			"charlotte",
@@ -1283,11 +1224,10 @@
 			"yaemiko",
 			"yanfei"
 		],
-		"FIGHT_PROP_HP_PERCENT": [
+		"HP": [
 			"baizhu",
 			"barbara",
 			"candace",
-			"chevreuse",
 			"dehya",
 			"dori",
 			"kirara",
@@ -1347,7 +1287,7 @@
 			"nilou",
 			"tighnari"
 		],
-		"ELEMENT_HYDRO": [
+		"Thủy": [
 			"barbara",
 			"candace",
 			"furina",
@@ -1434,7 +1374,7 @@
 			"xingqiu",
 			"yelan"
 		],
-		"ELEMENT_ELECTRO": [
+		"Lôi": [
 			"beidou",
 			"cyno",
 			"dori",
@@ -1447,7 +1387,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"FIGHT_PROP_ELEC_ADD_HURT": [
+		"Tăng ST Nguyên Tố Lôi": [
 			"beidou"
 		],
 		"Vụn Tử Tinh Thắng Lợi": [
@@ -1543,7 +1483,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"FIGHT_PROP_CHARGE_EFFICIENCY": [
+		"Hiệu Quả Nạp Nguyên Tố": [
 			"bennett",
 			"kaeya",
 			"mona",
@@ -1551,9 +1491,8 @@
 			"venti",
 			"yunjin"
 		],
-		"WEAPON_POLE": [
+		"Vũ Khí Cán Dài": [
 			"candace",
-			"chevreuse",
 			"cyno",
 			"hutao",
 			"mika",
@@ -1585,18 +1524,10 @@
 		],
 		"Fontaine": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"freminet",
 			"furina",
 			"lynette",
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1605,10 +1536,6 @@
 		],
 		"Bánh Răng Liên Kết": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -1618,41 +1545,14 @@
 		],
 		"Bánh Răng Chính": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Bánh Răng Lõi Trung Tâm": [
 			"charlotte",
-<<<<<<< HEAD
 			"lynette",
 			"wriothesley"
 		],
-=======
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"Tháng 1": [
-			"chevreuse",
-			"diona",
-			"kirara",
-			"rosaria",
-			"thoma",
-			"wanderer"
-		],
-		"Hoa Lumidouce": [
-			"chevreuse",
-			"lynette"
-		],
-		"Sừng Kỳ Lân Biển Sâu": [
-			"chevreuse",
-			"neuvillette"
-		],
->>>>>>> upstream/main
 		"Thạch Phách": [
 			"chongyun",
 			"keqing",
@@ -1674,7 +1574,7 @@
 			"collei",
 			"tighnari"
 		],
-		"FIGHT_PROP_CRITICAL_HURT": [
+		"ST Bạo Kích": [
 			"cyno",
 			"eula",
 			"ganyu",
@@ -1682,10 +1582,6 @@
 			"kamisatoayaka",
 			"kamisatoayato",
 			"keqing",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1723,6 +1619,13 @@
 			"tartaglia",
 			"yelan"
 		],
+		"Tháng 1": [
+			"diona",
+			"kirara",
+			"rosaria",
+			"thoma",
+			"wanderer"
+		],
 		"Hoa Calla Lily": [
 			"diona",
 			"kaeya"
@@ -1753,7 +1656,7 @@
 			"eula",
 			"jean"
 		],
-		"ELEMENT_ANEMO": [
+		"Phong": [
 			"faruzan",
 			"jean",
 			"kaedeharakazuha",
@@ -1818,30 +1721,17 @@
 		],
 		"Ngọc Vụn Đại Dương": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Linh Kiện Dây Cót - Coppelius": [
-			"freminet",
-			"navia"
+			"freminet"
 		],
 		"Kết Tinh Đại Dương": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Tinh Thạch Dị Sắc": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Lily Ánh Sáng Hồ Nước": [
@@ -1902,7 +1792,7 @@
 			"xiao",
 			"yanfei"
 		],
-		"FIGHT_PROP_HEAL_ADD": [
+		"Tăng Trị Liệu": [
 			"jean",
 			"qiqi"
 		],
@@ -1919,7 +1809,7 @@
 			"sucrose",
 			"venti"
 		],
-		"FIGHT_PROP_ELEMENT_MASTERY": [
+		"Tinh Thông Nguyên Tố": [
 			"kaedeharakazuha",
 			"kaveh",
 			"lisa",
@@ -1983,7 +1873,7 @@
 			"kirara",
 			"raidenshogun"
 		],
-		"FIGHT_PROP_FIRE_ADD_HURT": [
+		"Tăng ST Nguyên Tố Hỏa": [
 			"klee",
 			"yanfei"
 		],
@@ -2017,17 +1907,14 @@
 			"noelle",
 			"rosaria"
 		],
-		"FIGHT_PROP_WIND_ADD_HURT": [
+		"Tăng ST Nguyên Tố Phong": [
 			"lynette",
 			"shikanoinheizou",
 			"sucrose"
 		],
-<<<<<<< HEAD
 		"Hoa Lumidouce": [
 			"lynette"
 		],
-=======
->>>>>>> upstream/main
 		"Linh Kiện Dây Cót - Coppelia": [
 			"lynette"
 		],
@@ -2041,21 +1928,12 @@
 			"mika",
 			"razor"
 		],
-<<<<<<< HEAD
 		"Lumitoile": [
 			"neuvillette"
 		],
 		"Sừng Kỳ Lân Biển Sâu": [
 			"neuvillette"
 		],
-=======
-		"Giọt Sương Ban Sớm": [
-			"navia"
-		],
-		"Lumitoile": [
-			"neuvillette"
-		],
->>>>>>> upstream/main
 		"Padisarah": [
 			"nilou"
 		],
@@ -2063,13 +1941,13 @@
 			"ningguang",
 			"yunjin"
 		],
-		"FIGHT_PROP_DEFENSE_PERCENT": [
+		"Phòng Ngự": [
 			"noelle"
 		],
-		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
+		"Tăng Sát Thương Vật Lý": [
 			"razor"
 		],
-		"FIGHT_PROP_WATER_ADD_HURT": [
+		"Tăng ST Nguyên Tố Thủy": [
 			"sangonomiyakokomi",
 			"tartaglia"
 		],
@@ -2101,43 +1979,43 @@
 	},
 	"properties": {
 		"rarity": [
-			5,
-			4
+			"5",
+			"4"
 		],
-		"elementType": [
-			"ELEMENT_NONE",
-			"ELEMENT_GEO",
-			"ELEMENT_DENDRO",
-			"ELEMENT_CRYO",
-			"ELEMENT_PYRO",
-			"ELEMENT_HYDRO",
-			"ELEMENT_ELECTRO",
-			"ELEMENT_ANEMO"
+		"element": [
+			"Không",
+			"Nham",
+			"Thảo",
+			"Băng",
+			"Hỏa",
+			"Thủy",
+			"Lôi",
+			"Phong"
 		],
-		"weaponType": [
-			"WEAPON_SWORD_ONE_HAND",
-			"WEAPON_BOW",
-			"WEAPON_CLAYMORE",
-			"WEAPON_CATALYST",
-			"WEAPON_POLE"
+		"weapontype": [
+			"Kiếm Đơn",
+			"Cung",
+			"Trọng Kiếm",
+			"Pháp Khí",
+			"Vũ Khí Cán Dài"
 		],
-		"substatType": [
-			"FIGHT_PROP_ATTACK_PERCENT",
-			"FIGHT_PROP_ROCK_ADD_HURT",
-			"FIGHT_PROP_GRASS_ADD_HURT",
-			"FIGHT_PROP_ICE_ADD_HURT",
-			"FIGHT_PROP_CRITICAL",
-			"FIGHT_PROP_HP_PERCENT",
-			"FIGHT_PROP_ELEC_ADD_HURT",
-			"FIGHT_PROP_CHARGE_EFFICIENCY",
-			"FIGHT_PROP_CRITICAL_HURT",
-			"FIGHT_PROP_HEAL_ADD",
-			"FIGHT_PROP_ELEMENT_MASTERY",
-			"FIGHT_PROP_FIRE_ADD_HURT",
-			"FIGHT_PROP_WIND_ADD_HURT",
-			"FIGHT_PROP_DEFENSE_PERCENT",
-			"FIGHT_PROP_PHYSICAL_ADD_HURT",
-			"FIGHT_PROP_WATER_ADD_HURT"
+		"substat": [
+			"Tấn Công",
+			"Tăng ST Nguyên Tố Nham",
+			"Tăng ST Nguyên Tố Thảo",
+			"Tăng ST Nguyên Tố Băng",
+			"Tỷ Lệ Bạo Kích",
+			"HP",
+			"Tăng ST Nguyên Tố Lôi",
+			"Hiệu Quả Nạp Nguyên Tố",
+			"ST Bạo Kích",
+			"Tăng Trị Liệu",
+			"Tinh Thông Nguyên Tố",
+			"Tăng ST Nguyên Tố Hỏa",
+			"Tăng ST Nguyên Tố Phong",
+			"Phòng Ngự",
+			"Tăng Sát Thương Vật Lý",
+			"Tăng ST Nguyên Tố Thủy"
 		],
 		"gender": [
 			"nam",
@@ -2221,11 +2099,6 @@
 			"\"Thiết Bị Tourbillon\"",
 			"Bánh Răng Chính",
 			"Bánh Răng Lõi Trung Tâm",
-<<<<<<< HEAD
-=======
-			"Hoa Lumidouce",
-			"Sừng Kỳ Lân Biển Sâu",
->>>>>>> upstream/main
 			"Thạch Phách",
 			"Hạt Nhân Cực Hàn",
 			"Nấm Thánh Rukkhashava",
@@ -2275,21 +2148,13 @@
 			"Sen Nilotpala",
 			"Lõi Chuyển Động Vĩnh Viễn",
 			"Quả Dâu Đỏ",
-<<<<<<< HEAD
 			"Hoa Lumidouce",
-=======
->>>>>>> upstream/main
 			"Linh Kiện Dây Cót - Coppelia",
 			"Tường Vi Cầu Vồng",
 			"Phán Quyết Của Đế Vương",
 			"Quả Móc Câu",
-<<<<<<< HEAD
 			"Lumitoile",
 			"Sừng Kỳ Lân Biển Sâu",
-=======
-			"Giọt Sương Ban Sớm",
-			"Lumitoile",
->>>>>>> upstream/main
 			"Padisarah",
 			"Bách Hợp Lưu Ly",
 			"Vảy Giả Tộc Rồng",

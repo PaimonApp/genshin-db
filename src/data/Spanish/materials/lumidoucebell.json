@@ -1,15 +1,10 @@
 {
-	"id": 101235,
 	"name": "Campanilla lumidulce",
-	"sortRank": 315,
 	"description": "Una preciosa y apacible planta de color lavanda. Posee una fragancia duradera y suave, por lo que es perfecta para fabricar particulares perfumes.",
-<<<<<<< HEAD
 	"sortorder": 2882,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Fontaine",
-	"sources": [
+	"materialtype": "Objeto típico de Fontaine",
+	"source": [
 		"Recolectar en la naturaleza",
 		"Recolectar al norte de la Corte de Fontaine"
 	]

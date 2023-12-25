@@ -1,8 +1,7 @@
 {
-	"id": 20011401,
 	"name": "Geo Slime",
-	"specialName": "Rolling Elemental",
-	"enemyType": "COMMON",
+	"specialname": "Rolling Elemental",
+	"enemytype": "COMMON",
 	"category": "สิ่งมีชีวิตธาตุ",
 	"description": "มอนสเตอร์ขนาดเล็กที่เกิดจากการควบแน่นของธาตุหินที่กระจายอยู่ทั่วไปในธรรมชาติ\nโดยทั่วไปแล้ว บนเปลือกโลกนั้นอุดมสมบูรณ์ไปด้วยธาตุหิน ซึ่ง Geo Slime ที่ถือกำเนิดขึ้นจากสิ่งนี้ ก็ให้ความรู้สึกถึงความติดดินอยู่เหมือนกัน",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "ง่าย",
 		"description": "สิ่งมีชีวิตรูปแบบธาตุตัวกลม ๆ\\nว่ากันว่าหากนำ Slime ที่มีธาตุที่แตกต่างกันมาทำเป็นของหวาน จะทำให้ได้รสชาติที่สุดยอดแตกต่างกันไป"
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112002,
 			"name": "Slime Condensate",
 			"count": 0.6723
 		},
 		{
-			"id": 112003,
 			"name": "Slime Secretions",
 			"count": 0.1792
 		},
 		{
-			"id": 112004,
 			"name": "Slime Concentrate",
 			"count": 0.0448
 		}

@@ -1,18 +1,13 @@
 {
-	"id": [
-		80001
-	],
 	"name": "Ventos e Forasteiro",
-	"achievementGroupId": 1,
-	"achievementGroupName": "Andarilho do Mundo Mortal - Série I",
-	"sortOrder": 1,
+	"achievementgroup": "Andarilho do Mundo Mortal - Série I",
+	"sortorder": 1,
 	"stages": 1,
 	"stage1": {
 		"title": "Ventos e Forasteiro",
 		"description": "Sopre um Dandelion usando Anemo.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 100021,
 	"name": "Wolfhook",
-	"sortRank": 311,
 	"description": "ผลเบอร์รี่ที่มีเขา มักจะเห็นมันติดอยู่ตามขนของเจ้าหมาป่า ราวกับว่าจะได้ยินเสียงเห่าหอนของหมาป่าดังก้องมาเลย",
-<<<<<<< HEAD
 	"sortorder": 2846,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "ของพิเศษเฉพาะใน Mondstadt",
-	"sources": [
+	"materialtype": "ของพิเศษเฉพาะใน Mondstadt",
+	"source": [
 		"พบได้ในโลกกว้าง",
 		"คำแนะนำ: หาได้ที่ Wolvendom"
 	]

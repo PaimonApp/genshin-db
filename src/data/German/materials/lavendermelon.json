@@ -1,15 +1,10 @@
 {
-	"id": 101211,
 	"name": "Lavendelmelone",
-	"sortRank": 321,
 	"description": "Eine leuchtend farbige Frucht. Das Fruchtfleisch im Inneren verwandelt sich beim Kochen in ein Lebensmittel mit einem einzigartigen Mundgefühl.",
-<<<<<<< HEAD
 	"sortorder": 2938,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In der freien Natur in Inazuma zu finden"
 	]
 }

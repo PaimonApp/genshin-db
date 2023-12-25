@@ -1,15 +1,10 @@
 {
-	"id": 110009,
 	"name": "Queijo",
-	"sortRank": 322,
 	"description": "Feito com leite fermentado. Fornece grande quantidade de energia e inúmeras possibilidades de uso. É usado em grande diversidade de pratos.",
-<<<<<<< HEAD
 	"sortorder": 2954,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Processado"
 	]
 }

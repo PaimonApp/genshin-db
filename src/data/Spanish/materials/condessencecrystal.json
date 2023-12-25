@@ -1,15 +1,10 @@
 {
-	"id": 101009,
 	"name": "Esencialita",
-	"sortRank": 301,
 	"description": "Un impoluto cristal muy brillante. Su núcleo es a la vez resistente y dúctil.",
-<<<<<<< HEAD
 	"sortorder": 2827,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mineral de forja",
-	"sources": [
+	"materialtype": "Mineral de forja",
+	"source": [
 		"Recolectar en la naturaleza",
 		"Recolectar en la superficie de Elynas"
 	]

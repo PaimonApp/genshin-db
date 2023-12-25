@@ -1,24 +1,17 @@
 {
-	"id": 104327,
 	"name": "Işık Rehberi",
-	"rarity": 3,
-	"sortRank": 13109,
 	"description": "Yetenek Seviyesi Yükseltme malzemesi.\nIşık, yıldırım diyarının en büyük özlemidir.\nGüneş ışığının hüzmeleri katman katman bulutlar tarafından engellense de, yıldırım tanrısının diyarında her daim ilahi olanın görkemine ulaşmak için gazap dolu şimşek denizini delip geçmenin hayalini kuran kimseler olacaktır...",
-<<<<<<< HEAD
 	"sortorder": 3242,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yeteneği Malzemesi",
-	"dropDomainId": 4421,
-	"dropDomainName": "Ustalık Zindanı: Asmalı Harabeler",
-	"daysOfWeek": [
+	"materialtype": "Karakter Yeteneği Malzemesi",
+	"dropdomain": "Ustalık Zindanı: Asmalı Harabeler",
+	"daysofweek": [
 		"Çarşamba",
 		"Cumartesi",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

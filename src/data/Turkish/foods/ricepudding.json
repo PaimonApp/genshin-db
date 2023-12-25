@@ -1,10 +1,9 @@
 {
-	"id": 3209,
 	"name": "Sütlaç",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Maceracının Yemeği",
+	"foodfilter": "Maceracının Yemeği",
+	"foodcategory": "Other_SPAdd",
 	"effect": "70 ila 100 dayanıklılık yeniler.",
 	"description": "Pirinçten yapılan bir tatlı. Önceden pişirilen pirinç diğer malzemelerle birlikte bir tencereye konur, düzgünce karıştırılır ve buharda pişirilir. Her öğünün kapanışı olabilen bu mükemmel lezzet ağızda hoş kokulu ve yumuşak bir tat bırakır.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Kuş Yumurtası",
 			"count": 3
 		},
 		{
-			"id": 100092,
 			"name": "Pirinç",
 			"count": 2
 		},
 		{
-			"id": 100078,
 			"name": "Süt",
 			"count": 2
 		},
 		{
-			"id": 110006,
 			"name": "Şeker",
 			"count": 2
 		}

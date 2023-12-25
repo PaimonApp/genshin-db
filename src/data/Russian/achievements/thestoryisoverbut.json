@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "История закончилась, но...",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1401,
-=======
-	"id": [
-		81417
-	],
-	"name": "История закончилась, но...",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1401,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "История закончилась, но...",
 		"description": "«Приключение, что зовётся жизнью, не останавливается».",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

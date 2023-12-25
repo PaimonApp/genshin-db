@@ -1,8 +1,7 @@
 {
-	"id": 210103,
 	"name": "Inazuma - Pluma de águila",
 	"description": "Diseño de tarjeta de presentación.\n“Pirka chikappo! Kapatcir kamuy!”.",
-	"sortOrder": 210103,
+	"sortorder": 210103,
 	"source": [
 		"Recompensa por completar todos los logros de «A través de la niebla»."
 	]

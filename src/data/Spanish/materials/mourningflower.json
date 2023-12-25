@@ -1,15 +1,10 @@
 {
-	"id": 101223,
 	"name": "Flor funeraria",
-	"sortRank": 314,
 	"description": "Una flor de un intenso color rojo capaz de florecer en antiguos campos de batalla y en los más áridos desiertos. Los pétalos marchitos que se desprenden parecen entonar un pesaroso cántico en honor a los caídos.",
-<<<<<<< HEAD
 	"sortorder": 2877,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Sumeru",
-	"sources": [
+	"materialtype": "Objeto típico de Sumeru",
+	"source": [
 		"Recolectar en el desierto de Sumeru",
 		"Recolectar en la Manigua Asipattravana"
 	]

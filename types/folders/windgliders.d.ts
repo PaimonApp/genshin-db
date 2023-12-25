@@ -1,16 +1,16 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface WindGlider {
-		id: number;
 		name: string;
 		description: string;
-		rarity: 4;
+		rarity: '4';
 		story: string;
-		isHidden?: true;
+		sortorder: number;
+		ishidden?: true;
 		source: string[];
 		
 		images: {
-			filename_icon: string;
-			filename_gacha: string;
+			nameicon: string;
+			namegacha: string;
 		};
 
 		version: string;

@@ -1,15 +1,10 @@
 {
-	"id": 101215,
 	"name": "Nilotpala Lotus",
-	"sortRank": 314,
 	"description": "ดอกไม้ที่เปล่งประกายราวกับจันทรา เติบโตในพื้นที่ชื้นแฉะในผืนป่า และจะผลิบานเฉพาะในเวลากลางคืนเท่านั้น",
-<<<<<<< HEAD
 	"sortorder": 2873,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "ของพิเศษเฉพาะใน Sumeru",
-	"sources": [
+	"materialtype": "ของพิเศษเฉพาะใน Sumeru",
+	"source": [
 		"รวบรวมได้จากบริเวณแหล่งน้ำของ Sumeru"
 	]
 }

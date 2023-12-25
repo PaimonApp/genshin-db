@@ -1,810 +1,626 @@
 {
 	"pyroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Fire_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Fire_02"
 	},
 	"largepyroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Fire_03",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Fire_03"
 	},
 	"hydroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Water_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Water_02"
 	},
 	"largehydroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Water_03",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Water_03"
 	},
 	"anemoslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Wind_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Wind_02"
 	},
 	"largeanemoslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Wind_03",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Wind_03"
 	},
 	"electroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Electric_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Electric_02"
 	},
 	"largeelectroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Electric_03",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Electric_03"
 	},
 	"mutantelectroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Electric_03_Positive",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Electric_03_Positive"
 	},
 	"dendroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Grass_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Grass_02"
 	},
 	"largedendroslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Grass_03",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Grass_03"
 	},
 	"cryoslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Ice_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Ice_02"
 	},
 	"largecryoslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Ice_03",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Ice_03"
 	},
 	"geoslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Rock_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Rock_02"
 	},
 	"largegeoslime": {
-		"filename_icon": "UI_MonsterIcon_Slime_Rock_03",
-		"filename_investigationIcon": "UI_MonsterIcon_Slime_Water_03"
+		"nameicon": "UI_MonsterIcon_Slime_Rock_03"
 	},
 	"eyeofthestorm": {
-		"filename_icon": "UI_MonsterIcon_Elemental_Wind_01"
+		"nameicon": "UI_MonsterIcon_Elemental_Wind_01"
 	},
 	"pyrohypostasis": {
-		"filename_icon": "UI_MonsterIcon_Effigy_Fire",
-		"filename_investigationIcon": "UI_MonsterIcon_Effigy_Fire"
+		"nameicon": "UI_MonsterIcon_Effigy_Fire"
 	},
 	"hydrohypostasis": {
-		"filename_icon": "UI_MonsterIcon_Effigy_Water",
-		"filename_investigationIcon": "UI_MonsterIcon_Effigy_Water"
+		"nameicon": "UI_MonsterIcon_Effigy_Water"
 	},
 	"anemohypostasis": {
-		"filename_icon": "UI_MonsterIcon_Effigy_Wind",
-		"filename_investigationIcon": "UI_MonsterIcon_Effigy_Wind"
+		"nameicon": "UI_MonsterIcon_Effigy_Wind"
 	},
 	"electrohypostasis": {
-		"filename_icon": "UI_MonsterIcon_Effigy_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_Effigy_Electric"
+		"nameicon": "UI_MonsterIcon_Effigy_Electric"
 	},
 	"cryohypostasis": {
-		"filename_icon": "UI_MonsterIcon_Effigy_Ice",
-		"filename_investigationIcon": "UI_MonsterIcon_Effigy_Ice"
+		"nameicon": "UI_MonsterIcon_Effigy_Ice"
 	},
 	"geohypostasis": {
-		"filename_icon": "UI_MonsterIcon_Effigy_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_Effigy_Rock"
+		"nameicon": "UI_MonsterIcon_Effigy_Rock"
 	},
 	"oceanid": {
-		"filename_icon": "UI_MonsterIcon_Oceanid",
-		"filename_investigationIcon": "UI_MonsterIcon_Oceanid"
+		"nameicon": "UI_MonsterIcon_Oceanid"
 	},
 	"thundermanifestation": {
-		"filename_icon": "UI_MonsterIcon_Raijin",
-		"filename_investigationIcon": "UI_MonsterIcon_Raijin"
+		"nameicon": "UI_MonsterIcon_Raijin"
 	},
 	"hydrospecter": {
-		"filename_icon": "UI_MonsterIcon_Sylph_Water_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Sylph_Wind_01"
+		"nameicon": "UI_MonsterIcon_Sylph_Water_01"
 	},
 	"anemospecter": {
-		"filename_icon": "UI_MonsterIcon_Sylph_Wind_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Sylph_Wind_01"
+		"nameicon": "UI_MonsterIcon_Sylph_Wind_01"
 	},
 	"geospecter": {
-		"filename_icon": "UI_MonsterIcon_Sylph_Rock_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Sylph_Wind_01"
+		"nameicon": "UI_MonsterIcon_Sylph_Rock_01"
 	},
 	"hilichurl": {
-		"filename_icon": "UI_MonsterIcon_Hili_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_None_01"
 	},
 	"hilichurlfighter": {
-		"filename_icon": "UI_MonsterIcon_Hili_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_None_01"
 	},
 	"hilichurlberserker": {
-		"filename_icon": "UI_MonsterIcon_Hili_Fire_Range",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_Fire_Range"
 	},
 	"woodenshieldhilichurlguard": {
-		"filename_icon": "UI_MonsterIcon_Hili_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_None_01"
 	},
 	"iceshieldhilichurlguard": {
-		"filename_icon": "UI_MonsterIcon_Hili_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_None_01"
 	},
 	"rockshieldhilichurlguard": {
-		"filename_icon": "UI_MonsterIcon_Hili_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_None_01"
 	},
 	"hilichurlshooter": {
-		"filename_icon": "UI_MonsterIcon_Hili_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_Electric_Range"
+		"nameicon": "UI_MonsterIcon_Hili_None_01"
 	},
 	"pyrohilichurlshooter": {
-		"filename_icon": "UI_MonsterIcon_Hili_Fire_Range",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_Electric_Range"
+		"nameicon": "UI_MonsterIcon_Hili_Fire_Range"
 	},
 	"electrohilichurlshooter": {
-		"filename_icon": "UI_MonsterIcon_Hili_Electric_Range",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_Electric_Range"
+		"nameicon": "UI_MonsterIcon_Hili_Electric_Range"
 	},
 	"cryohilichurlshooter": {
-		"filename_icon": "UI_MonsterIcon_Hili_Ice_Range",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_Electric_Range"
+		"nameicon": "UI_MonsterIcon_Hili_Ice_Range"
 	},
 	"hilichurlgrenadier": {
-		"filename_icon": "UI_MonsterIcon_Hili_Fire_Range",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_Fire_Range"
 	},
 	"electrohilichurlgrenadier": {
-		"filename_icon": "UI_MonsterIcon_Hili_Electric_Range",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_Electric_Range"
 	},
 	"cryohilichurlgrenadier": {
-		"filename_icon": "UI_MonsterIcon_Hili_Ice_Range",
-		"filename_investigationIcon": "UI_MonsterIcon_Hili_None_01"
+		"nameicon": "UI_MonsterIcon_Hili_Ice_Range"
 	},
 	"unusualhilichurl": {
-		"filename_icon": "UI_MonsterIcon_Hili_Wei"
+		"nameicon": "UI_MonsterIcon_Hili_Wei"
 	},
 	"woodenshieldwallmitachurl": {
-		"filename_icon": "UI_MonsterIcon_Brute_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Brute_None_01"
+		"nameicon": "UI_MonsterIcon_Brute_None_01"
 	},
 	"rockshieldwallmitachurl": {
-		"filename_icon": "UI_MonsterIcon_Brute_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Brute_None_01"
+		"nameicon": "UI_MonsterIcon_Brute_None_01"
 	},
 	"iceshieldwallmitachurl": {
-		"filename_icon": "UI_MonsterIcon_Brute_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Brute_None_01"
+		"nameicon": "UI_MonsterIcon_Brute_None_01"
 	},
 	"blazingaxemitachurl": {
-		"filename_icon": "UI_MonsterIcon_Brute_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Brute_None_01"
+		"nameicon": "UI_MonsterIcon_Brute_None_01"
 	},
 	"cracklingaxemitachurl": {
-		"filename_icon": "UI_MonsterIcon_Brute_None_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Brute_None_01"
+		"nameicon": "UI_MonsterIcon_Brute_None_01"
 	},
 	"thunderhelmlawachurl": {
-		"filename_icon": "UI_MonsterIcon_Brute_Electric_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Brute_Rock_None"
+		"nameicon": "UI_MonsterIcon_Brute_Electric_01"
 	},
 	"frostarmlawachurl": {
-		"filename_icon": "UI_MonsterIcon_Brute_Ice_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Brute_Rock_None"
+		"nameicon": "UI_MonsterIcon_Brute_Ice_01"
 	},
 	"stonehidelawachurl": {
-		"filename_icon": "UI_MonsterIcon_Brute_Rock_None",
-		"filename_investigationIcon": "UI_MonsterIcon_Brute_Rock_None"
+		"nameicon": "UI_MonsterIcon_Brute_Rock_None"
 	},
 	"hydrosamachurl": {
-		"filename_icon": "UI_MonsterIcon_Shaman_Water_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Shaman_Wind_01"
+		"nameicon": "UI_MonsterIcon_Shaman_Water_01"
 	},
 	"anemosamachurl": {
-		"filename_icon": "UI_MonsterIcon_Shaman_Wind_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Shaman_Wind_01"
+		"nameicon": "UI_MonsterIcon_Shaman_Wind_01"
 	},
 	"electrosamachurl": {
-		"filename_icon": "UI_MonsterIcon_Shaman_Electric_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Shaman_Wind_01"
+		"nameicon": "UI_MonsterIcon_Shaman_Electric_01"
 	},
 	"dendrosamachurl": {
-		"filename_icon": "UI_MonsterIcon_Shaman_Grass_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Shaman_Wind_01"
+		"nameicon": "UI_MonsterIcon_Shaman_Grass_01"
 	},
 	"cryosamachurl": {
-		"filename_icon": "UI_MonsterIcon_Shaman_Ice_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Shaman_Wind_01"
+		"nameicon": "UI_MonsterIcon_Shaman_Ice_01"
 	},
 	"geosamachurl": {
-		"filename_icon": "UI_MonsterIcon_Shaman_Rock_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Shaman_Wind_01"
+		"nameicon": "UI_MonsterIcon_Shaman_Rock_01"
 	},
 	"pyroabyssmage": {
-		"filename_icon": "UI_MonsterIcon_Abyss_Fire_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Abyss_Water_01"
+		"nameicon": "UI_MonsterIcon_Abyss_Fire_01"
 	},
 	"hydroabyssmage": {
-		"filename_icon": "UI_MonsterIcon_Abyss_Water_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Abyss_Water_01"
+		"nameicon": "UI_MonsterIcon_Abyss_Water_01"
 	},
 	"electroabyssmage": {
-		"filename_icon": "UI_MonsterIcon_Abyss_Electric_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Abyss_Water_01"
+		"nameicon": "UI_MonsterIcon_Abyss_Electric_01"
 	},
 	"cryoabyssmage": {
-		"filename_icon": "UI_MonsterIcon_Abyss_Ice_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Abyss_Water_01"
+		"nameicon": "UI_MonsterIcon_Abyss_Ice_01"
 	},
 	"abyssheraldwickedtorrents": {
-		"filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01"
+		"nameicon": "UI_MonsterIcon_Invoker_Herald_Water_01"
 	},
 	"abysslectorvioletlightning": {
-		"filename_icon": "UI_MonsterIcon_Invoker_Deacon_Electric_01"
+		"nameicon": "UI_MonsterIcon_Invoker_Deacon_Electric_01"
 	},
 	"fatuiskirmisherpyroslingerbracer": {
-		"filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
+		"nameicon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
 	},
 	"fatuiskirmisherhydrogunnerlegionnaire": {
-		"filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Water_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
+		"nameicon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Water_01"
 	},
 	"fatuiskirmisheranemoboxervanguard": {
-		"filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
+		"nameicon": "UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01"
 	},
 	"fatuiskirmisherelectrohammervanguard": {
-		"filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
+		"nameicon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01"
 	},
 	"fatuiskirmishercryogunnerlegionnaire": {
-		"filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
+		"nameicon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01"
 	},
 	"fatuiskirmishergeochanterbracer": {
-		"filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
+		"nameicon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01"
 	},
 	"fatuipyroagent": {
-		"filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Fatuus_Fire_01"
+		"nameicon": "UI_MonsterIcon_Fatuus_Fire_01"
 	},
 	"fatuielectrocicinmage": {
-		"filename_icon": "UI_MonsterIcon_Fatuus_Summoner_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Fatuus_Summoner_01"
+		"nameicon": "UI_MonsterIcon_Fatuus_Summoner_01"
 	},
 	"fatuicryocicinmage": {
-		"filename_icon": "UI_MonsterIcon_Fatuus_Mage_Ice_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Fatuus_Summoner_01"
+		"nameicon": "UI_MonsterIcon_Fatuus_Mage_Ice_01"
 	},
 	"mirrormaiden": {
-		"filename_icon": "UI_MonsterIcon_Fatuus_Maiden_Water",
-		"filename_investigationIcon": "UI_MonsterIcon_Fatuus_Maiden_Water"
+		"nameicon": "UI_MonsterIcon_Fatuus_Maiden_Water"
 	},
 	"ruinguard": {
-		"filename_icon": "UI_MonsterIcon_Defender_Noner_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Defender_Noner_01"
+		"nameicon": "UI_MonsterIcon_Defender_Noner_01"
 	},
 	"ruinhunter": {
-		"filename_icon": "UI_MonsterIcon_Formathr_None",
-		"filename_investigationIcon": "UI_MonsterIcon_Formathr_None"
+		"nameicon": "UI_MonsterIcon_Formathr_None"
 	},
 	"ruingrader": {
-		"filename_icon": "UI_MonsterIcon_Konungmathr",
-		"filename_investigationIcon": "UI_MonsterIcon_Defender_Noner_01"
+		"nameicon": "UI_MonsterIcon_Konungmathr"
 	},
 	"ruincruiser": {
-		"filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone",
-		"filename_investigationIcon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta"
+		"nameicon": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone"
 	},
 	"ruindestroyer": {
-		"filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicFlora",
-		"filename_investigationIcon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta"
+		"nameicon": "UI_MonsterIcon_Apparatus_Enigma_BionicFlora"
 	},
 	"ruindefender": {
-		"filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta",
-		"filename_investigationIcon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta"
+		"nameicon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta"
 	},
 	"ruinscout": {
-		"filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler",
-		"filename_investigationIcon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta"
+		"nameicon": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler"
 	},
 	"perpetualmechanicalarray": {
-		"filename_icon": "UI_MonsterIcon_Apparatus_Perpetual",
-		"filename_investigationIcon": "UI_MonsterIcon_Apparatus_Perpetual"
+		"nameicon": "UI_MonsterIcon_Apparatus_Perpetual"
 	},
 	"maguukenki": {
-		"filename_icon": "UI_MonsterIcon_Samurai_Ningyo",
-		"filename_investigationIcon": "UI_MonsterIcon_Samurai_Ningyo"
+		"nameicon": "UI_MonsterIcon_Samurai_Ningyo"
 	},
 	"treasurehoardersscout": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
 	},
 	"treasurehoarderspyropotioneer": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01"
 	},
 	"treasurehoardershydropotioneer": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01"
 	},
 	"treasurehoarderselectropotioneer": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01"
 	},
 	"treasurehoarderscryopotioneer": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01"
 	},
 	"treasurehoardershandyman": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01"
 	},
 	"treasurehoardersmarksman": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Hunter_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Hunter_01"
 	},
 	"treasurehoardersgravedigger": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02"
 	},
 	"treasurehoardersseaman": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_Male_Sailor_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_Male_Sailor_01"
 	},
 	"treasurehoarderspugilist": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01"
 	},
 	"treasurehoarderscrusher": {
-		"filename_icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+		"nameicon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
 	},
 	"nobushijintouban": {
-		"filename_icon": "UI_MonsterIcon_Samurai_Ronin_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Samurai_Kairagi_02"
+		"nameicon": "UI_MonsterIcon_Samurai_Ronin_01"
 	},
 	"nobushihitsukeban": {
-		"filename_icon": "UI_MonsterIcon_Samurai_Ronin_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Samurai_Kairagi_02"
+		"nameicon": "UI_MonsterIcon_Samurai_Ronin_02"
 	},
 	"nobushikikouban": {
-		"filename_icon": "UI_MonsterIcon_Samurai_Ronin_03",
-		"filename_investigationIcon": "UI_MonsterIcon_Samurai_Kairagi_02"
+		"nameicon": "UI_MonsterIcon_Samurai_Ronin_03"
 	},
 	"kairagifierymight": {
-		"filename_icon": "UI_MonsterIcon_Samurai_Kairagi_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Samurai_Kairagi_02"
+		"nameicon": "UI_MonsterIcon_Samurai_Kairagi_02"
 	},
 	"kairagidancingthunder": {
-		"filename_icon": "UI_MonsterIcon_Samurai_Kairagi_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Samurai_Kairagi_02"
+		"nameicon": "UI_MonsterIcon_Samurai_Kairagi_01"
 	},
 	"pyrowhopperflower": {
-		"filename_icon": "UI_MonsterIcon_Mimik_Fire",
-		"filename_investigationIcon": "UI_MonsterIcon_Mimik_Ice"
+		"nameicon": "UI_MonsterIcon_Mimik_Fire"
 	},
 	"electrowhopperflower": {
-		"filename_icon": "UI_MonsterIcon_Mimik_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_Mimik_Ice"
+		"nameicon": "UI_MonsterIcon_Mimik_Electric"
 	},
 	"cryowhopperflower": {
-		"filename_icon": "UI_MonsterIcon_Mimik_Ice",
-		"filename_investigationIcon": "UI_MonsterIcon_Mimik_Ice"
+		"nameicon": "UI_MonsterIcon_Mimik_Ice"
 	},
 	"pyroregisvine": {
-		"filename_icon": "UI_MonsterIcon_Regisvine_Fire",
-		"filename_investigationIcon": "UI_MonsterIcon_Regisvine_Fire"
+		"nameicon": "UI_MonsterIcon_Regisvine_Fire"
 	},
 	"cryoregisvine": {
-		"filename_icon": "UI_MonsterIcon_Regisvine_Ice",
-		"filename_investigationIcon": "UI_MonsterIcon_Regisvine_Ice"
+		"nameicon": "UI_MonsterIcon_Regisvine_Ice"
 	},
 	"geovishaphatchling": {
-		"filename_icon": "UI_MonsterIcon_Wyrm_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_Wyrm_Rock"
+		"nameicon": "UI_MonsterIcon_Wyrm_Rock"
 	},
 	"geovishap": {
-		"filename_icon": "UI_MonsterIcon_Drake_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_Drake_Rock"
+		"nameicon": "UI_MonsterIcon_Drake_Rock"
 	},
 	"primogeovishap": {
-		"filename_icon": "UI_MonsterIcon_Drake_Primo_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_Drake_Primo_Rock"
+		"nameicon": "UI_MonsterIcon_Drake_Primo_Rock"
 	},
 	"hydrocicin": {
-		"filename_icon": "UI_MonsterIcon_Cicin_Water_01"
+		"nameicon": "UI_MonsterIcon_Cicin_Water_01"
 	},
 	"electrocicin": {
-		"filename_icon": "UI_MonsterIcon_Cicin_Thunder_01"
+		"nameicon": "UI_MonsterIcon_Cicin_Thunder_01"
 	},
 	"cryocicin": {
-		"filename_icon": "UI_MonsterIcon_Cicin_Ice_01"
+		"nameicon": "UI_MonsterIcon_Cicin_Ice_01"
 	},
 	"stormterror": {
-		"filename_icon": "UI_MonsterIcon_Dvalin"
+		"nameicon": "UI_MonsterIcon_Dvalin"
 	},
 	"lupusboreasdominatorofwolves": {
-		"filename_icon": "UI_MonsterIcon_LupiBoreas"
+		"nameicon": "UI_MonsterIcon_LupiBoreas"
 	},
 	"childe": {
-		"filename_icon": "UI_MonsterIcon_Tartaglia"
+		"nameicon": "UI_MonsterIcon_Tartaglia"
 	},
 	"azhdaha": {
-		"filename_icon": "UI_MonsterIcon_Dahaka"
+		"nameicon": "UI_MonsterIcon_Dahaka"
 	},
 	"lasignora": {
-		"filename_icon": "UI_MonsterIcon_LaSignora"
+		"nameicon": "UI_MonsterIcon_LaSignora"
 	},
 	"rockfondrifthoundwhelp": {
-		"filename_icon": "UI_MonsterIcon_Hound_Kanis_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_Hound_Riftstalker_Rock"
+		"nameicon": "UI_MonsterIcon_Hound_Kanis_Rock"
 	},
 	"thundercravenrifthoundwhelp": {
-		"filename_icon": "UI_MonsterIcon_Hound_Kanis_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_Hound_Riftstalker_Rock"
+		"nameicon": "UI_MonsterIcon_Hound_Kanis_Electric"
 	},
 	"rockfondrifthound": {
-		"filename_icon": "UI_MonsterIcon_Hound_Riftstalker_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_Hound_Riftstalker_Rock"
+		"nameicon": "UI_MonsterIcon_Hound_Riftstalker_Rock"
 	},
 	"thundercravenrifthound": {
-		"filename_icon": "UI_MonsterIcon_Hound_Riftstalker_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_Hound_Riftstalker_Rock"
+		"nameicon": "UI_MonsterIcon_Hound_Riftstalker_Electric"
 	},
 	"goldenwolflord": {
-		"filename_icon": "UI_MonsterIcon_Hound_Planelurker",
-		"filename_investigationIcon": "UI_MonsterIcon_Hound_Planelurker"
+		"nameicon": "UI_MonsterIcon_Hound_Planelurker"
 	},
 	"pyrospecter": {
-		"filename_icon": "UI_MonsterIcon_Sylph_Fire_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Sylph_Wind_01"
+		"nameicon": "UI_MonsterIcon_Sylph_Fire_01"
 	},
 	"electrospecter": {
-		"filename_icon": "UI_MonsterIcon_Sylph_Electric_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Sylph_Wind_01"
+		"nameicon": "UI_MonsterIcon_Sylph_Electric_01"
 	},
 	"cryospecter": {
-		"filename_icon": "UI_MonsterIcon_Sylph_Ice_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Sylph_Wind_01"
+		"nameicon": "UI_MonsterIcon_Sylph_Ice_01"
 	},
 	"abysslectorfathomlessflames": {
-		"filename_icon": "UI_MonsterIcon_Invoker_Deacon_Fire"
+		"nameicon": "UI_MonsterIcon_Invoker_Deacon_Fire"
 	},
 	"primordialbathysmalvishap": {
-		"filename_icon": "UI_MonsterIcon_Drake_Deepsea_Water",
-		"filename_investigationIcon": "UI_MonsterIcon_Drake_Deepsea_Water"
+		"nameicon": "UI_MonsterIcon_Drake_Deepsea_Water"
 	},
 	"rimebiterbathysmalvishap": {
-		"filename_icon": "UI_MonsterIcon_Drake_Deepsea_Ice",
-		"filename_investigationIcon": "UI_MonsterIcon_Drake_Deepsea_TwinBossFight"
+		"nameicon": "UI_MonsterIcon_Drake_Deepsea_Ice"
 	},
 	"bolteaterbathysmalvishap": {
-		"filename_icon": "UI_MonsterIcon_Drake_Deepsea_Electric"
+		"nameicon": "UI_MonsterIcon_Drake_Deepsea_Electric"
 	},
 	"shadowyhuskstandardbearer": {
-		"filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire",
-		"filename_investigationIcon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
+		"nameicon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
 	},
 	"shadowyhusklinebreaker": {
-		"filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water",
-		"filename_investigationIcon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
+		"nameicon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water"
 	},
 	"shadowyhuskdefender": {
-		"filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
-		"filename_investigationIcon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
+		"nameicon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice"
 	},
 	"magatsumitakenarukaminomikoto": {
-		"filename_icon": "UI_MonsterIcon_Shougun_Mitakenarukami"
+		"nameicon": "UI_MonsterIcon_Shougun_Mitakenarukami"
 	},
 	"blackserpentknightwindcutter": {
-		"filename_icon": "UI_MonsterIcon_Darkwraith_Strong_Wind",
-		"filename_investigationIcon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
+		"nameicon": "UI_MonsterIcon_Darkwraith_Strong_Wind"
 	},
 	"ruinserpent": {
-		"filename_icon": "UI_MonsterIcon_Nithhoggr_None",
-		"filename_investigationIcon": "UI_MonsterIcon_Nithhoggr_None"
+		"nameicon": "UI_MonsterIcon_Nithhoggr_None"
 	},
 	"floatinghydrofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
 	},
 	"dendrospecter": {
-		"filename_icon": "UI_MonsterIcon_Sylph_Grass_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Sylph_Wind_01"
+		"nameicon": "UI_MonsterIcon_Sylph_Grass_01"
 	},
 	"ruindrakeearthguard": {
-		"filename_icon": "UI_MonsterIcon_Gargoyle",
-		"filename_investigationIcon": "UI_MonsterIcon_Gargoyle"
+		"nameicon": "UI_MonsterIcon_Gargoyle"
 	},
 	"ruindrakeskywatch": {
-		"filename_icon": "UI_MonsterIcon_Gargoyle",
-		"filename_investigationIcon": "UI_MonsterIcon_Gargoyle"
+		"nameicon": "UI_MonsterIcon_Gargoyle"
 	},
 	"eremiteaxevanguard": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Female_Hatchet",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Female_Hatchet"
 	},
 	"eremitecrossbow": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow"
 	},
 	"eremiteravenbeakhalberdier": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Pole",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Male_Standard_Pole"
 	},
 	"eremitelinebreaker": {
-		"filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Gloves",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_MuscleMan_Gloves"
 	},
 	"eremitesworddancer": {
-		"filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar"
 	},
 	"eremitedesertclearwater": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Female_Slim_PushDagger",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Female_Slim_PushDagger"
 	},
 	"eremitesunfrost": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
 	},
 	"eremitedaythunder": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Polearm",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Male_Standard_Polearm"
 	},
 	"electroregisvine": {
-		"filename_icon": "UI_MonsterIcon_Regisvine_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_Regisvine_Electric"
+		"nameicon": "UI_MonsterIcon_Regisvine_Electric"
 	},
 	"floatingdendrofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Grass",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Un_Delta_Grass"
 	},
 	"whirlingelectrofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric"
 	},
 	"whirlingcryofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice"
 	},
 	"stretchypyrofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire"
 	},
 	"stretchyanemofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind"
 	},
 	"stretchygeofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock"
 	},
 	"groundedhydroshroom": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water"
 	},
 	"wingeddendroshroom": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass"
 	},
 	"wingedcryoshroom": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice"
 	},
 	"jadeplumeterrorshroom": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Raptor",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Raptor"
+		"nameicon": "UI_MonsterIcon_Fungus_Raptor"
 	},
 	"aeonblightdrake": {
-		"filename_icon": "UI_MonsterIcon_Gargoyle_Fafnir",
-		"filename_investigationIcon": "UI_MonsterIcon_Gargoyle_Fafnir"
+		"nameicon": "UI_MonsterIcon_Gargoyle_Fafnir"
 	},
 	"primalconstructrepulsor": {
-		"filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
-		"filename_investigationIcon": "UI_MonsterIcon_Monolith_Ordinator"
+		"nameicon": "UI_MonsterIcon_Monolith_Ordinator"
 	},
 	"primalconstructreshaper": {
-		"filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
-		"filename_investigationIcon": "UI_MonsterIcon_Monolith_Ordinator"
+		"nameicon": "UI_MonsterIcon_Monolith_Ordinator"
 	},
 	"primalconstructprospector": {
-		"filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
-		"filename_investigationIcon": "UI_MonsterIcon_Monolith_Ordinator"
+		"nameicon": "UI_MonsterIcon_Monolith_Ordinator"
 	},
 	"algorithmofsemiintransientmatrixofoverseernetwork": {
-		"filename_icon": "UI_MonsterIcon_Monolith_Starchild",
-		"filename_investigationIcon": "UI_MonsterIcon_Monolith_Starchild"
+		"nameicon": "UI_MonsterIcon_Monolith_Starchild"
 	},
 	"eremitegalehunter": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Female_Standard_Longbow"
 	},
 	"eremitestoneenchanter": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Male_Strong_Katar"
 	},
 	"floatinganemofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Un_Delta_Wind"
 	},
 	"whirlingpyrofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire"
 	},
 	"stretchyelectrofungus": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric"
 	},
 	"groundedgeoshroom": {
-		"filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+		"nameicon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock"
 	},
 	"dendrohypostasis": {
-		"filename_icon": "UI_MonsterIcon_Effigy_Grass",
-		"filename_investigationIcon": "UI_MonsterIcon_Effigy_Grass"
+		"nameicon": "UI_MonsterIcon_Effigy_Grass"
 	},
 	"shoukinokamitheprodigal": {
-		"filename_icon": "UI_MonsterIcon_Nada"
+		"nameicon": "UI_MonsterIcon_Nada"
 	},
 	"eremitescorchingloremaster": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Female_Standard_Oracle",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Female_Standard_Oracle"
 	},
 	"eremitefloralringdancer": {
-		"filename_icon": "UI_MonsterIcon_Eremite_Female_Standard_Dancer",
-		"filename_investigationIcon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+		"nameicon": "UI_MonsterIcon_Eremite_Female_Standard_Dancer"
 	},
 	"consecratedredvulture": {
-		"filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
-		"filename_investigationIcon": "UI_MonsterIcon_Vulture_Sacred_Fire"
+		"nameicon": "UI_MonsterIcon_Vulture_Sacred_Fire"
 	},
 	"consecratedscorpion": {
-		"filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_Vulture_Sacred_Fire"
+		"nameicon": "UI_MonsterIcon_Scorpion_Sacred_Electric"
 	},
 	"consecratedflyingserpent": {
-		"filename_icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind",
-		"filename_investigationIcon": "UI_MonsterIcon_Vulture_Sacred_Fire"
+		"nameicon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind"
 	},
 	"setekhwenut": {
-		"filename_icon": "UI_MonsterIcon_Sandworm",
-		"filename_investigationIcon": "UI_MonsterIcon_Sandworm"
+		"nameicon": "UI_MonsterIcon_Sandworm"
 	},
 	"abyssheraldfrostfall": {
-		"filename_icon": "UI_MonsterIcon_Invoker_Herald_Ice"
+		"nameicon": "UI_MonsterIcon_Invoker_Herald_Ice"
 	},
 	"blackserpentknightrockbreakerax": {
-		"filename_icon": "UI_MonsterIcon_Darkwraith_Fat_Rock",
-		"filename_investigationIcon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
+		"nameicon": "UI_MonsterIcon_Darkwraith_Fat_Rock"
 	},
 	"hydrohilichurlrogue": {
-		"filename_icon": "UI_MonsterIcon_Hilistray_Water",
-		"filename_investigationIcon": "UI_MonsterIcon_Hilistray_Wind"
+		"nameicon": "UI_MonsterIcon_Hilistray_Water"
 	},
 	"anemohilichurlrogue": {
-		"filename_icon": "UI_MonsterIcon_Hilistray_Wind",
-		"filename_investigationIcon": "UI_MonsterIcon_Hilistray_Wind"
+		"nameicon": "UI_MonsterIcon_Hilistray_Wind"
 	},
 	"iniquitousbaptist": {
-		"filename_icon": "UI_MonsterIcon_Invoker_Archdeacon"
+		"nameicon": "UI_MonsterIcon_Invoker_Archdeacon"
 	},
 	"consecratedhornedcrocodile": {
-		"filename_icon": "UI_MonsterIcon_Gator_Sacred_Water",
-		"filename_investigationIcon": "UI_MonsterIcon_Vulture_Sacred_Fire"
+		"nameicon": "UI_MonsterIcon_Gator_Sacred_Water"
 	},
 	"consecratedfangedbeast": {
-		"filename_icon": "UI_MonsterIcon_Panther_Sacred_Grass",
-		"filename_investigationIcon": "UI_MonsterIcon_Vulture_Sacred_Fire"
+		"nameicon": "UI_MonsterIcon_Panther_Sacred_Grass"
 	},
 	"guardianofapepsoasis": {
-		"filename_icon": "UI_MonsterIcon_Apep"
+		"nameicon": "UI_MonsterIcon_Apep"
 	},
 	"taintedwatersplittingphantasm": {
-		"filename_icon": "UI_MonsterIcon_Necalevia_Normal",
-		"filename_investigationIcon": "UI_MonsterIcon_Necalevia_Normal"
+		"nameicon": "UI_MonsterIcon_Necalevia_Normal"
 	},
 	"taintedwaterspoutingphantasm": {
-		"filename_icon": "UI_MonsterIcon_Necalevia_Big",
-		"filename_investigationIcon": "UI_MonsterIcon_Necalevia_Normal"
+		"nameicon": "UI_MonsterIcon_Necalevia_Big"
 	},
 	"largeshatterstonebreacherprimus": {
-		"filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Ovacua_Order_01"
+		"nameicon": "UI_MonsterIcon_Ovacua_Order_01"
 	},
 	"shatterstonebreacherprimus": {
-		"filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
-		"filename_investigationIcon": "UI_MonsterIcon_Ovacua_Order_01"
+		"nameicon": "UI_MonsterIcon_Ovacua_Order_02"
 	},
 	"largeovergrownbreacherprimus": {
-		"filename_icon": "UI_MonsterIcon_Ovacua_Chaos_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Ovacua_Order_01"
+		"nameicon": "UI_MonsterIcon_Ovacua_Chaos_01"
 	},
 	"reconlogmek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Sentry"
 	},
 	"arithmeticenhancermek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Pylon"
 	},
 	"underwatersurveymek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Recon",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Recon"
 	},
 	"geologicalsurveymek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Probe"
 	},
 	"underwaterpatrolmek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Nautilus",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Nautilus"
 	},
 	"nimbleharvestermek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Assimilator"
 	},
 	"areaalertmek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_LengthShifter"
 	},
 	"assaultspecialistmek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
 	},
 	"suppressionspecialistmek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02"
 	},
 	"annihilationspecialistmek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Bradamante"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Bradamante"
 	},
 	"constructionspecialistmek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Excavator"
 	},
 	"icewindsuite": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker"
+		"nameicon": "UI_MonsterIcon_MachinaIustitia_Nutcracker"
 	},
 	"blubberbeast": {
-		"filename_icon": "UI_MonsterIcon_Seal_Larva_01",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_Seal_Larva_01"
 	},
 	"huntersray": {
-		"filename_icon": "UI_MonsterIcon_MantaRay_Larva_01",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_MantaRay_Larva_01"
 	},
 	"armoredcrab": {
-		"filename_icon": "UI_MonsterIcon_HermitCrab_Larva_01",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_HermitCrab_Larva_01"
 	},
 	"sternshieldcrab": {
-		"filename_icon": "UI_MonsterIcon_HermitCrab_Mature",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_HermitCrab_Mature"
 	},
 	"emperoroffireandiron": {
-		"filename_icon": "UI_MonsterIcon_HermitCrab_Primo",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_HermitCrab_Primo"
 	},
 	"hatjellyfish": {
-		"filename_icon": "UI_MonsterIcon_JellyFish_Larva_01",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_JellyFish_Larva_01"
 	},
 	"bubblyseahorse": {
-		"filename_icon": "UI_MonsterIcon_SeaHorse_Larva_01",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_SeaHorse_Larva_01"
 	},
 	"bubblerseahorse": {
-		"filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_SeaHorse_Mature"
 	},
 	"balloctopus": {
-		"filename_icon": "UI_MonsterIcon_Octopus_Larva_01",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_Octopus_Larva_01"
 	},
 	"angelicseahare": {
-		"filename_icon": "UI_MonsterIcon_Aplysia_Larva_01",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
+		"nameicon": "UI_MonsterIcon_Aplysia_Larva_01"
 	},
 	"cherubicseahare": {
-<<<<<<< HEAD
 		"nameicon": "UI_MonsterIcon_Aplysia_Mature"
 	},
 	"windoperative": {
@@ -827,36 +643,5 @@
 	},
 	"alldevouringnarwhal": {
 		"nameicon": "UI_MonsterIcon_Ptahur_Devourer"
-=======
-		"filename_icon": "UI_MonsterIcon_Aplysia_Mature",
-		"filename_investigationIcon": "UI_MonsterIcon_HermitCrab_Larva_01"
-	},
-	"windoperative": {
-		"filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
-		"filename_investigationIcon": "UI_MonsterIcon_Fatuus_Escadron_Ice"
-	},
-	"frostoperative": {
-		"filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
-		"filename_investigationIcon": "UI_MonsterIcon_Fatuus_Escadron_Ice"
-	},
-	"deepwaterassaultmek": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Frigate",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
-	},
-	"experimentalfieldgenerator": {
-		"filename_icon": "UI_MonsterIcon_MachinaIustitia_Gravitas",
-		"filename_investigationIcon": "UI_MonsterIcon_MachinaIustitia_Gravitas"
-	},
-	"millennialpearlseahorse": {
-		"filename_icon": "UI_MonsterIcon_SeaHorse_Primo_Electric",
-		"filename_investigationIcon": "UI_MonsterIcon_SeaHorse_Primo_Electric"
-	},
-	"hydrotulpa": {
-		"filename_icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
-		"filename_investigationIcon": "UI_MonsterIcon_Narcissusborn_Normal_01"
-	},
-	"alldevouringnarwhal": {
-		"filename_icon": "UI_MonsterIcon_Ptahur_Devourer"
->>>>>>> upstream/main
 	}
 }

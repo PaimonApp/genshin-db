@@ -1,15 +1,10 @@
 {
-	"id": 100073,
 	"name": "Krebs",
-	"sortRank": 321,
 	"description": "Ein Krustentier, das in der Nähe des Meeres lebt. Unter der harten Schale verbirgt sich zartes Fleisch, das zu einer Delikatesse verarbeitet werden kann.",
-<<<<<<< HEAD
 	"sortorder": 2916,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"An Flussufern, Seen und Stränden zu finden"
 	]
 }

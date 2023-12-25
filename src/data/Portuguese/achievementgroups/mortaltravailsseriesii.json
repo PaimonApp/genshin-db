@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Andarilho do Mundo Mortal - Série II",
 	"sortorder": 4,
-=======
-	"id": 22,
-	"name": "Andarilho do Mundo Mortal - Série II",
-	"sortOrder": 4,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210087,
 		"name": "Conquista: Travessia"
 	}
 }

@@ -1,15 +1,10 @@
 {
-	"id": 110008,
 	"name": "Geleia",
-	"sortRank": 322,
 	"description": "Feito com frutas e açúcar. Até mesmo a menor quantidade pode despertar sabores incríveis.",
-<<<<<<< HEAD
 	"sortorder": 2953,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Processado"
 	]
 }

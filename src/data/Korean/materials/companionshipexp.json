@@ -1,15 +1,9 @@
 {
-	"id": 105,
 	"name": "호감도 경험치",
-	"rarity": 3,
-	"sortRank": 11,
 	"description": "호감도 경험치. 호감도 레벨을 올릴 때 필요하다",
-<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "호감도 성장",
-	"sources": []
+	"materialtype": "호감도 성장",
+	"source": []
 }

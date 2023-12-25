@@ -1,18 +1,8 @@
 {
-<<<<<<< HEAD
 	"name": "จักรพรรดิอมตะแห่งจักรวาลมรรตัย",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1393,
-=======
-	"id": [
-		81409
-	],
-	"name": "จักรพรรดิอมตะแห่งจักรวาลมรรตัย",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1393,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "จักรพรรดิอมตะแห่งจักรวาลมรรตัย",
@@ -20,10 +10,6 @@
 		"description": "เอาชนะ Narzissenkreuz",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

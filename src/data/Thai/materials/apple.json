@@ -1,15 +1,10 @@
 {
-	"id": 100001,
 	"name": "Apple",
-	"sortRank": 90000,
 	"description": "ผลไม้ที่ทั้งกรอบและหอม รสชาติเยี่ยมไม่ว่าจะทานสดหรือ หมักเป็นไวน์",
-<<<<<<< HEAD
 	"sortorder": 3416,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "อาหาร",
-	"sources": [
+	"materialtype": "อาหาร",
+	"source": [
 		"พบได้ในโลกกว้าง"
 	]
 }

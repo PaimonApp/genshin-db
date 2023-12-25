@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Marcha Santa: Terra das Fontes Harmoniosas III",
 	"achievementgroup": "Fontaine: Dança das Fontes Brancas de Orvalho III",
 	"sortorder": 264,
-=======
-	"id": [
-		80288
-	],
-	"name": "Marcha Santa: Terra das Fontes Harmoniosas III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho III",
-	"sortOrder": 264,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Marcha Santa: Terra das Fontes Harmoniosas III",
 		"description": "Desbloqueie todos os Santuários das Profundezas na Região Mortaine e Floresta de Erinnyes.",
 		"progress": 2,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 10
 		}

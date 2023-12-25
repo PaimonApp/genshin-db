@@ -1,11 +1,8 @@
 {
-	"id": 70300017,
 	"name": "Dimora della Gran Sacerdotessa provvisoria",
-	"areaId": 3402,
-	"areaName": "Santuario di Asase",
+	"area": "Santuario di Asase",
 	"description": "\"Hibiki tornerà.\"\n\"Grazie a voi, ora il santuario è in ottimo stato. Lei tornerà molto presto.\"",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"showOnlyUnlocked": true,
-	"sortOrder": 213
+	"region": "Inazuma",
+	"showonlyunlocked": true,
+	"sortorder": 213
 }

@@ -1,11 +1,7 @@
 {
-	"id": [
-		80161
-	],
 	"name": "Zwischen Wäldern hin und her",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru – Regenwald der Weisheit",
-	"sortOrder": 161,
+	"achievementgroup": "Sumeru – Regenwald der Weisheit",
+	"sortorder": 161,
 	"stages": 1,
 	"stage1": {
 		"title": "Zwischen Wäldern hin und her",
@@ -13,7 +9,6 @@
 		"description": "Aktiviere alle Teleportationspunkte in den Gebieten Avidya-Wald, Lokapala-Wald, Ardravi-Tal, Ashavan-Reich, Vissudha-Feld, Verlorene Baumschule und Vanarana von Sumeru.",
 		"progress": 46,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}

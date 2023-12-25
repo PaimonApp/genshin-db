@@ -1,13 +1,7 @@
 {
-	"id": 10,
 	"name": "Olah!: Seri I",
-<<<<<<< HEAD
 	"sortorder": 23,
-=======
-	"sortOrder": 23,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210030,
 		"name": "Achievement: Penghuni Bukit"
 	}
 }

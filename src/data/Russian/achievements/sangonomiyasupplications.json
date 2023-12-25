@@ -1,19 +1,14 @@
 {
-	"id": [
-		84139
-	],
 	"name": "Мольбы Сангономии",
-	"achievementGroupId": 17,
-	"achievementGroupName": "Воспоминания сердца",
-	"isHidden": true,
-	"sortOrder": 7311,
+	"achievementgroup": "Воспоминания сердца",
+	"ishidden": true,
+	"sortorder": 7311,
 	"stages": 1,
 	"stage1": {
 		"title": "Мольбы Сангономии",
 		"description": "Спросите Горо, знает ли Кокоми о событиях на острове Ватацуми.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

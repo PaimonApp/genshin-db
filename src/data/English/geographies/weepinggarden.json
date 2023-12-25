@@ -1,10 +1,7 @@
 {
-	"id": 70200008,
 	"name": "Weeping Garden",
-	"areaId": 2509,
-	"areaName": "Luhua Pool",
+	"area": "Luhua Pool",
 	"description": "Legend has it that a deep, pure affection filled this ancient garden, creating the Luhua Pool as it is known today.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 112
+	"region": "Liyue",
+	"sortorder": 112
 }

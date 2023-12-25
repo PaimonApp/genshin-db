@@ -1,19 +1,12 @@
 {
-	"id": 101305,
 	"name": "Segmento di bambù",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Segmento di bambù, leggero e molto più resistente di quanto possa suggerirne l'aspetto. Emana un leggero profumo.\nPuoi usarlo per creare mobili.",
-<<<<<<< HEAD
 	"sortorder": 2964,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Materiale",
-	"sources": [
+	"materialtype": "Materiale",
+	"source": [
 		"Presente in natura",
-		"Consiglio: si taglia nella Pianura di Bishui",
-		"Converti legno"
+		"Consiglio: si taglia nella Pianura di Bishui"
 	]
 }

@@ -1,11 +1,7 @@
 {
-	"id": [
-		80191
-	],
 	"name": "Tidur dan Mimpi",
-	"achievementGroupId": 35,
-	"achievementGroupName": "Sumeru: Lautan Pasir Emas (I)",
-	"sortOrder": 193,
+	"achievementgroup": "Sumeru: Lautan Pasir Emas (I)",
+	"sortorder": 193,
 	"stages": 1,
 	"stage1": {
 		"title": "Tidur dan Mimpi",
@@ -13,7 +9,6 @@
 		"description": "Selesaikan \"Mimpi Emas\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

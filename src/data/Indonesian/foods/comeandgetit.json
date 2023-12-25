@@ -1,10 +1,9 @@
 {
-	"id": 3105,
 	"name": "Come and Get It",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Makanan Penyerangan",
+	"foodfilter": "Makanan Penyerangan",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Meningkatkan 10-20% CRIT Rate seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Hidangan yang terbuat dari beragam bahan. Tidak ada yang khusus dari bahan ataupun cara pembuatan hidangan ini, tetapi hidangan ini sering muncul saat musim festival di Liyue. Nama hidangan ini diambil karena kapan pun hidangan ini disajikan, pemimpin perjamuan akan selalu mengatakan \"Ayo makan, makan\".",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Raw Meat",
 			"count": 3
 		},
 		{
-			"id": 100084,
 			"name": "Fish",
 			"count": 3
 		},
 		{
-			"id": 100092,
 			"name": "Rice",
 			"count": 3
 		},
 		{
-			"id": 100088,
 			"name": "Tofu",
 			"count": 1
 		}

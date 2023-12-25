@@ -1,11 +1,8 @@
 {
-	"id": [
-		84000
-	],
 	"name": "Başlangıcın Sonu",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 4001,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 4001,
 	"stages": 1,
 	"stage1": {
 		"title": "Başlangıcın Sonu",
@@ -13,7 +10,6 @@
 		"description": "Mondstadt Hükümdar Görevlerini tamamla.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 20
 		}

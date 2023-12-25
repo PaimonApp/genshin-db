@@ -1,10 +1,9 @@
 {
-	"id": 4001,
 	"name": "Mondkuchen",
-	"rarity": 4,
+	"rarity": "4",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Gerichte für Verteidigung",
+	"foodfilter": "Gerichte für Verteidigung",
+	"foodcategory": "Def_Add",
 	"effect": "Erhöht die Schildeffizienz aller Truppenmitglieder 300 s lang um 25 % bis 35 % und die VTD um 165 bis 235 Punkte.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Eine traditionelle Hauptmahlzeit aus Mondstadt. Das eingelegte Fleisch hat nicht nur einen kräftigen Geschmack. Nach dem Rösten entstehen Aromastoffe, die eine leichte Süße bringen. Auf Festen in Mondstadt darf diese Delikatesse nicht fehlen.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Rohes Fleisch",
 			"count": 4
 		},
 		{
-			"id": 100062,
 			"name": "Vogelei",
 			"count": 4
 		},
 		{
-			"id": 110004,
 			"name": "Butter",
 			"count": 3
 		},
 		{
-			"id": 110001,
 			"name": "Mehl",
 			"count": 2
 		}

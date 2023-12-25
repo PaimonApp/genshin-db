@@ -1279,7 +1279,7 @@
 		]
 	},
 	"properties": {
-		"filterText": [
+		"filter": [
 			"Material zur Verbesserung von Figuren und Waffen",
 			"Material für den Figurenaufstieg",
 			"Verbrauchsgegenstand",

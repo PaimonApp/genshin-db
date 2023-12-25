@@ -1,13 +1,7 @@
 {
-	"id": 24,
 	"name": "Inazuma: Pulau Petir dan Keabadian (I)",
-<<<<<<< HEAD
 	"sortorder": 34,
-=======
-	"sortOrder": 34,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210090,
 		"name": "Achievement: Lambang Kujou"
 	}
 }

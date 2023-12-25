@@ -1,24 +1,17 @@
 {
-	"id": 114001,
 	"name": "Tile of Decarabian's Tower",
-	"rarity": 2,
-	"sortRank": 15101,
 	"description": "Weapon Ascension Material.\nThe place now known as Stormterror's Lair was once the capital city of Decarabian, the God of Storms. Since this dream of prosperity was created entirely by his divine might, the broken pieces left behind by the shattering of that dream still possess great power.",
-<<<<<<< HEAD
 	"sortorder": 3280,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Weapon Ascension Material",
-	"dropDomainId": 4310,
-	"dropDomainName": "Domain of Forgery: City of Reflections",
-	"daysOfWeek": [
+	"materialtype": "Weapon Ascension Material",
+	"dropdomain": "Domain of Forgery: City of Reflections",
+	"daysofweek": [
 		"Monday",
 		"Thursday",
 		"Sunday"
 	],
-	"sources": [
+	"source": [
 		"Purchase from the Souvenir Shop in Mondstadt"
 	]
 }

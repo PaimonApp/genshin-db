@@ -1,20 +1,13 @@
 {
-	"id": [
-		80218,
-		80219,
-		80220
-	],
 	"name": "Au petit bonheur le jeton",
-	"achievementGroupId": 37,
-	"achievementGroupName": "Invocation des Sept : JCC",
-	"sortOrder": 196,
+	"achievementgroup": "Invocation des Sept : JCC",
+	"sortorder": 196,
 	"stages": 3,
 	"stage1": {
 		"title": "Au petit bonheur le jeton",
 		"description": "Obtenez un total de {param0} jetons de chance.",
 		"progress": 10000,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Obtenez un total de {param0} jetons de chance.",
 		"progress": 70000,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Obtenez un total de {param0} jetons de chance.",
 		"progress": 150000,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

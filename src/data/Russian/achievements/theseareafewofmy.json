@@ -1,11 +1,8 @@
 {
-	"id": [
-		81355
-	],
 	"name": "В жизни есть столько...",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1341,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1341,
 	"stages": 1,
 	"stage1": {
 		"title": "В жизни есть столько...",
@@ -13,7 +10,6 @@
 		"description": "...прекрасных вещей.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

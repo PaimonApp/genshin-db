@@ -1,10 +1,7 @@
 {
-	"id": 70100003,
 	"name": "Bibliothèque, Ordre de Favonius",
-	"areaId": 1102,
-	"areaName": "Cité de Mondstadt",
+	"area": "Cité de Mondstadt",
 	"description": "La bibliothèque ayant la plus vaste collection de livres des terres du nord. À l'exception de la zone à accès réservé, toutes les collections sont librement accessibles au public.",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 7
+	"region": "Mondstadt",
+	"sortorder": 7
 }

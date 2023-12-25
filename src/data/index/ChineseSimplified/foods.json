@@ -66,7 +66,6 @@
 		"extravagantslumber": "安眠奢想",
 		"faitheternal": "永恒的信仰",
 		"fatteh": "脆饼珐提",
-		"feastos": "圈圈圆圆",
 		"fishandchips": "炸鱼薯条",
 		"fishermanstoast": "渔人吐司",
 		"fishflavoredtoast": "鱼香吐司",
@@ -77,7 +76,6 @@
 		"fontaineaspic": "水乡肉冻",
 		"fontainianfoiegras": "枫丹肥肝",
 		"fontainianonionsoup": "枫丹洋葱汤",
-		"fontinaliamousse": "千灵慕斯",
 		"forestwatcherschoice": "巡林官精选",
 		"fragrantmashedpotatoes": "香浓土豆泥",
 		"friedradishballs": "炸萝卜丸子",
@@ -155,7 +153,6 @@
 		"padisarahpudding": "帕蒂沙兰布丁",
 		"panipuri": "绿汁脆球",
 		"patedefruit": "果果软糖",
-		"pickwhatyoulike": "「选你喜欢的！」",
 		"pileemup": "「堆高高」",
 		"pitapocket": "口袋饼",
 		"poissonchantpie": "鱼鱼咏唱派",
@@ -171,7 +168,6 @@
 		"radishandfishstew": "鲜鱼炖萝卜",
 		"radishveggiesoup": "萝卜时蔬汤",
 		"rainbowaster": "紫苑云霓",
-		"rainbowmacarons": "缤纷马卡龙",
 		"ricebuns": "米窝窝",
 		"ricecakesoup": "市井杂煮",
 		"ricepudding": "米饭布丁",
@@ -194,7 +190,6 @@
 		"shawarmawrap": "烤肉卷",
 		"shimichazuke": "真味茶泡饭",
 		"showmethemora": "摩拉急速来",
-		"sinthekindthatdoesntneedtobedealtwith": "罪恶·非必要处理型",
 		"slowcookedbambooshootsoup": "文火慢炖腌笃鲜",
 		"snowonthehearth": "「红炉一点雪」",
 		"sobanoodles": "荞麦面",
@@ -320,7 +315,6 @@
 		"安眠奢想": "extravagantslumber",
 		"永恒的信仰": "faitheternal",
 		"脆饼珐提": "fatteh",
-		"圈圈圆圆": "feastos",
 		"炸鱼薯条": "fishandchips",
 		"渔人吐司": "fishermanstoast",
 		"鱼香吐司": "fishflavoredtoast",
@@ -331,7 +325,6 @@
 		"水乡肉冻": "fontaineaspic",
 		"枫丹肥肝": "fontainianfoiegras",
 		"枫丹洋葱汤": "fontainianonionsoup",
-		"千灵慕斯": "fontinaliamousse",
 		"巡林官精选": "forestwatcherschoice",
 		"香浓土豆泥": "fragrantmashedpotatoes",
 		"炸萝卜丸子": "friedradishballs",
@@ -409,7 +402,6 @@
 		"帕蒂沙兰布丁": "padisarahpudding",
 		"绿汁脆球": "panipuri",
 		"果果软糖": "patedefruit",
-		"「选你喜欢的！」": "pickwhatyoulike",
 		"「堆高高」": "pileemup",
 		"口袋饼": "pitapocket",
 		"鱼鱼咏唱派": "poissonchantpie",
@@ -425,7 +417,6 @@
 		"鲜鱼炖萝卜": "radishandfishstew",
 		"萝卜时蔬汤": "radishveggiesoup",
 		"紫苑云霓": "rainbowaster",
-		"缤纷马卡龙": "rainbowmacarons",
 		"米窝窝": "ricebuns",
 		"市井杂煮": "ricecakesoup",
 		"米饭布丁": "ricepudding",
@@ -448,7 +439,6 @@
 		"烤肉卷": "shawarmawrap",
 		"真味茶泡饭": "shimichazuke",
 		"摩拉急速来": "showmethemora",
-		"罪恶·非必要处理型": "sinthekindthatdoesntneedtobedealtwith",
 		"文火慢炖腌笃鲜": "slowcookedbambooshootsoup",
 		"「红炉一点雪」": "snowonthehearth",
 		"荞麦面": "sobanoodles",
@@ -549,10 +539,6 @@
 		"久岐忍": "omuricewaltz",
 		"迪卢克": "onceuponatimeinmondstadt",
 		"安柏": "outriderschampionsteak",
-<<<<<<< HEAD
-=======
-		"娜维娅": "pickwhatyoulike",
->>>>>>> upstream/main
 		"芙宁娜": "pourlajustice",
 		"甘雨": "prosperouspeace",
 		"雷泽": "puppypawhashbrown",
@@ -565,7 +551,6 @@
 		"莱欧斯利": "secretsaucebbqribs",
 		"流浪者": "shimichazuke",
 		"多莉": "showmethemora",
-		"夏沃蕾": "sinthekindthatdoesntneedtobedealtwith",
 		"钟离": "slowcookedbambooshootsoup",
 		"神里绫华": "snowonthehearth",
 		"芭芭拉": "spicystew",
@@ -730,10 +715,6 @@
 			"duelsoul",
 			"energizingbento",
 			"exclusivescoopgourmetcolumn",
-<<<<<<< HEAD
-=======
-			"feastos",
->>>>>>> upstream/main
 			"fishandchips",
 			"fivepickledtreasures",
 			"fontainianfoiegras",
@@ -775,7 +756,6 @@
 			"oncidiumtofu",
 			"padisarahpudding",
 			"patedefruit",
-			"pickwhatyoulike",
 			"pileemup",
 			"pitapocket",
 			"poissonchantpie",
@@ -788,7 +768,6 @@
 			"qingcestirfry",
 			"quietelegance",
 			"rainbowaster",
-			"rainbowmacarons",
 			"ricecakesoup",
 			"ricepudding",
 			"sabzmeatstew",
@@ -800,7 +779,6 @@
 			"seabirdssojourn",
 			"shimichazuke",
 			"showmethemora",
-			"sinthekindthatdoesntneedtobedealtwith",
 			"slowcookedbambooshootsoup",
 			"snowonthehearth",
 			"squirrelfish",
@@ -836,7 +814,6 @@
 			"buttercrab",
 			"chickentofupudding",
 			"chilimincecornbreadbuns",
-			"fontinaliamousse",
 			"goldencrab",
 			"goldenfriedchicken",
 			"haggis",
@@ -899,7 +876,6 @@
 			"duckconfit",
 			"eggroll",
 			"fatteh",
-			"feastos",
 			"fishandchips",
 			"fishermanstoast",
 			"fishwithcreamsauce",
@@ -908,7 +884,6 @@
 			"fontaineaspic",
 			"fontainianfoiegras",
 			"fontainianonionsoup",
-			"fontinaliamousse",
 			"fragrantmashedpotatoes",
 			"friedradishballs",
 			"fruitsofthefestival",
@@ -977,7 +952,6 @@
 			"radishandfishstew",
 			"radishveggiesoup",
 			"rainbowaster",
-			"rainbowmacarons",
 			"ricebuns",
 			"ricecakesoup",
 			"ricepudding",
@@ -1032,7 +1006,7 @@
 			"wakatakeni",
 			"zhongyuanchopsuey"
 		],
-		"COOK_FOOD_FUNCTION": [
+		"冒险类料理": [
 			"aarumixedrice",
 			"abuoyantbreeze",
 			"barbatosratatouille",
@@ -1054,9 +1028,7 @@
 			"omuricewaltz",
 			"oncidiumtofu",
 			"padisarahpudding",
-			"pickwhatyoulike",
 			"rainbowaster",
-			"rainbowmacarons",
 			"ricepudding",
 			"sangayaki",
 			"selvasalad",
@@ -1067,43 +1039,17 @@
 			"utmostcare",
 			"zhongyuanchopsuey"
 		],
-		"冒险类料理": [
+		"Other_SPAdd": [
 			"aarumixedrice",
-			"abuoyantbreeze",
-			"barbatosratatouille",
-			"boudinnoirauxpommes",
-			"cloudshroudedjade",
 			"coldnoodleswithmountaindelicacies",
-<<<<<<< HEAD
-=======
-			"creamstew",
-			"crepessuzette",
->>>>>>> upstream/main
 			"exclusivescoopgourmetcolumn",
 			"fishandchips",
 			"fivepickledtreasures",
-			"fruitytrio",
-			"goulash",
-			"lotusseedandbirdeggsoup",
-			"mintymeatrolls",
 			"noodleswithmountaindelicacies",
 			"northernsmokedchicken",
-			"omeletterice",
-			"omuricewaltz",
 			"oncidiumtofu",
-			"padisarahpudding",
-			"pickwhatyoulike",
-			"rainbowaster",
-			"rainbowmacarons",
 			"ricepudding",
-			"sangayaki",
-			"selvasalad",
-			"spicystew",
-			"stickyhoneyroast",
-			"swirlingsteps",
-			"tulumba",
-			"utmostcare",
-			"zhongyuanchopsuey"
+			"utmostcare"
 		],
 		"稻米": [
 			"aarumixedrice",
@@ -1285,10 +1231,6 @@
 			"omuricewaltz",
 			"onceuponatimeinmondstadt",
 			"outriderschampionsteak",
-<<<<<<< HEAD
-=======
-			"pickwhatyoulike",
->>>>>>> upstream/main
 			"pourlajustice",
 			"prosperouspeace",
 			"puppypawhashbrown",
@@ -1301,7 +1243,6 @@
 			"secretsaucebbqribs",
 			"shimichazuke",
 			"showmethemora",
-			"sinthekindthatdoesntneedtobedealtwith",
 			"slowcookedbambooshootsoup",
 			"snowonthehearth",
 			"spicystew",
@@ -1323,7 +1264,6 @@
 			"woodlanddream",
 			"yearning"
 		],
-<<<<<<< HEAD
 		"Other_SPReduceConsume": [
 			"abuoyantbreeze",
 			"barbatosratatouille",
@@ -1346,8 +1286,6 @@
 			"tulumba",
 			"zhongyuanchopsuey"
 		],
-=======
->>>>>>> upstream/main
 		"胡萝卜": [
 			"abuoyantbreeze",
 			"alldelicacyparcels",
@@ -1372,10 +1310,6 @@
 			"derweisheitletzterschlusslife",
 			"duckconfit",
 			"exclusivescoopgourmetcolumn",
-<<<<<<< HEAD
-=======
-			"feastos",
->>>>>>> upstream/main
 			"fishandchips",
 			"fragrantmashedpotatoes",
 			"goldenshrimpballs",
@@ -1389,7 +1323,6 @@
 			"puppypawhashbrown",
 			"sakurashrimpcrackers",
 			"satisfyingsalad",
-			"sinthekindthatdoesntneedtobedealtwith",
 			"stoneharbordelicacies"
 		],
 		"洋葱": [
@@ -1398,7 +1331,6 @@
 			"bountifulyear",
 			"braisedmeat",
 			"curryshrimp",
-			"feastos",
 			"fishermanstoast",
 			"fishflavoredtoast",
 			"fontainianonionsoup",
@@ -1408,13 +1340,12 @@
 			"northernsmokedchicken",
 			"sabzmeatstew",
 			"scentedmeatballs",
-			"sinthekindthatdoesntneedtobedealtwith",
 			"steaktartare",
 			"tassesragout",
 			"tomatesnarbonnaises",
 			"tripesduport"
 		],
-		"COOK_FOOD_ATTACK": [
+		"攻击类料理": [
 			"adeptustemptation",
 			"adventurersbreakfastsandwich",
 			"almondtofu",
@@ -1435,7 +1366,6 @@
 			"dieheiligesinfonie",
 			"dragonbeardnoodles",
 			"fontaineaspic",
-			"fontinaliamousse",
 			"fragrantmashedpotatoes",
 			"friedradishballs",
 			"fruityduet",
@@ -1476,60 +1406,37 @@
 			"triflavoredskewer",
 			"vessiechicken"
 		],
-		"攻击类料理": [
+		"Atk_Add": [
 			"adeptustemptation",
 			"adventurersbreakfastsandwich",
 			"almondtofu",
-<<<<<<< HEAD
-=======
-			"baklava",
->>>>>>> upstream/main
 			"blubberprofiterole",
 			"bountifulyear",
 			"braisedmeat",
 			"butterchicken",
 			"chickentofupudding",
 			"coldcutplatter",
-			"comeandgetit",
-			"consomme",
-			"consommepurete",
 			"crabroekourayaki",
-			"cubictricks",
-			"curedporkdryhotpot",
-			"derweisheitletzterschlusslife",
 			"dieheiligesinfonie",
 			"dragonbeardnoodles",
-			"fontaineaspic",
-			"fontinaliamousse",
 			"fragrantmashedpotatoes",
 			"friedradishballs",
 			"fruityduet",
 			"garlicbaguette",
 			"goldenfriedchicken",
 			"heartstringnoodles",
-			"importedpoultry",
 			"jadeparcels",
-			"jueyunchilichicken",
 			"jueyunguoba",
 			"katsusandwich",
-			"masalacheeseballs",
 			"meatloversmushroompizza",
 			"mintsalad",
 			"moreandmore",
-			"notomorrow",
-			"onceuponatimeinmondstadt",
-			"patedefruit",
-			"pileemup",
 			"qingcehouseholddish",
 			"qingcestirfry",
-			"radishandfishstew",
-			"rockinriffinchicken",
 			"sashimiplatter",
-			"satisfyingsalad",
 			"sauteedmatsutake",
 			"shawarmawrap",
 			"showmethemora",
-			"stoneharbordelicacies",
 			"sunsetberrytea",
 			"supermagnificentpizza",
 			"surveyorsbreakfastsandwich",
@@ -1612,7 +1519,6 @@
 			"derweisheitletzterschlusslife",
 			"eggroll",
 			"faitheternal",
-			"fontinaliamousse",
 			"fruitytrio",
 			"fullmoonegg",
 			"goldencrab",
@@ -1624,13 +1530,8 @@
 			"moonpie",
 			"omeletterice",
 			"omuricewaltz",
-			"pickwhatyoulike",
 			"poissonchantpie",
 			"pourlajustice",
-<<<<<<< HEAD
-=======
-			"rainbowmacarons",
->>>>>>> upstream/main
 			"ricepudding",
 			"satisfyingsalad",
 			"steaktartare",
@@ -1644,52 +1545,6 @@
 			"tulumba",
 			"victoriouslegend"
 		],
-		"COOK_FOOD_DEFENSE": [
-			"aleisurelysip",
-			"aprizecatch",
-			"biryani",
-			"buttercrab",
-			"callalilyseafoodsoup",
-			"candiedajilenakhnut",
-			"cassoulet",
-			"chilimincecornbreadbuns",
-			"conchmadeleine",
-			"dewdippedshrimp",
-			"feastos",
-			"fishermanstoast",
-			"fishflavoredtoast",
-			"fontainianfoiegras",
-			"fontainianonionsoup",
-			"forestwatcherschoice",
-			"fruitsofthefestival",
-			"gildedtajine",
-			"goldencrab",
-			"goldflametajine",
-			"haggis",
-			"halvamazd",
-			"heatquellingsoup",
-			"jadefruitsoup",
-			"jewelrysoup",
-			"lalettreafocalors",
-			"lotusflowercrisp",
-			"mintyfruittea",
-			"moonpie",
-			"mushroomhodgepodge",
-			"pourlajustice",
-			"quietelegance",
-			"ricecakesoup",
-			"sakurashrimpcrackers",
-			"sakuratempura",
-			"shimichazuke",
-			"sinthekindthatdoesntneedtobedealtwith",
-			"stirfriedshrimp",
-			"stormcrestpie",
-			"sunshinesprat",
-			"triplelayeredconsomme",
-			"unagichazuke",
-			"wakatakeni",
-			"woodlanddream"
-		],
 		"防御类料理": [
 			"aleisurelysip",
 			"aprizecatch",
@@ -1701,7 +1556,6 @@
 			"chilimincecornbreadbuns",
 			"conchmadeleine",
 			"dewdippedshrimp",
-			"feastos",
 			"fishermanstoast",
 			"fishflavoredtoast",
 			"fontainianfoiegras",
@@ -1727,7 +1581,50 @@
 			"sakurashrimpcrackers",
 			"sakuratempura",
 			"shimichazuke",
-			"sinthekindthatdoesntneedtobedealtwith",
+			"stirfriedshrimp",
+			"stormcrestpie",
+			"sunshinesprat",
+			"triplelayeredconsomme",
+			"unagichazuke",
+			"wakatakeni",
+			"woodlanddream"
+		],
+		"Def_Add": [
+			"aleisurelysip",
+			"aprizecatch",
+			"biryani",
+			"buttercrab",
+			"callalilyseafoodsoup",
+			"candiedajilenakhnut",
+			"cassoulet",
+			"chilimincecornbreadbuns",
+			"conchmadeleine",
+			"dewdippedshrimp",
+			"fishermanstoast",
+			"fishflavoredtoast",
+			"fontainianfoiegras",
+			"fontainianonionsoup",
+			"forestwatcherschoice",
+			"fruitsofthefestival",
+			"gildedtajine",
+			"goldencrab",
+			"goldflametajine",
+			"haggis",
+			"halvamazd",
+			"heatquellingsoup",
+			"jadefruitsoup",
+			"jewelrysoup",
+			"lalettreafocalors",
+			"lotusflowercrisp",
+			"mintyfruittea",
+			"moonpie",
+			"mushroomhodgepodge",
+			"pourlajustice",
+			"quietelegance",
+			"ricecakesoup",
+			"sakurashrimpcrackers",
+			"sakuratempura",
+			"shimichazuke",
 			"stirfriedshrimp",
 			"stormcrestpie",
 			"sunshinesprat",
@@ -1769,7 +1666,6 @@
 			"eggroll",
 			"extravagantslumber",
 			"faitheternal",
-			"fontinaliamousse",
 			"fruitsofthefestival",
 			"fruityduet",
 			"fruitysmoothie",
@@ -1785,8 +1681,6 @@
 			"omuricewaltz",
 			"padisarahpudding",
 			"patedefruit",
-			"pickwhatyoulike",
-			"rainbowmacarons",
 			"ricepudding",
 			"rosecustard",
 			"sakuramochi",
@@ -1801,7 +1695,7 @@
 			"tianshumeat",
 			"tulumba"
 		],
-		"COOK_FOOD_HEAL": [
+		"恢复类料理": [
 			"alldelicacyparcels",
 			"allweatherbeauty",
 			"astunningstratagem",
@@ -1918,9 +1812,8 @@
 			"wayofthestrong",
 			"yearning"
 		],
-		"恢复类料理": [
+		"Recovery_HpAddAll": [
 			"alldelicacyparcels",
-<<<<<<< HEAD
 			"bambooshootsoup",
 			"berrymizumanjuu",
 			"blackbackperchstew",
@@ -1957,125 +1850,44 @@
 			"allweatherbeauty",
 			"astunningstratagem",
 			"barbequeribs",
-=======
-			"allweatherbeauty",
-			"astunningstratagem",
-			"bambooshootsoup",
-			"barbequeribs",
-			"berrymizumanjuu",
->>>>>>> upstream/main
 			"birdeggsushi",
-			"blackbackperchstew",
-			"charcoalbakedajilenakhcake",
 			"chickenmushroomskewer",
-			"coffeebavarois",
-			"crabhamveggiebake",
-			"crabroetofu",
-			"creamofmushroomsoup",
-			"crispypotatoshrimpplatter",
-			"crystalshrimp",
 			"curryshrimp",
-			"definitelynotbarfood",
 			"dinnerofjudgment",
-			"dizzinessbegonenojutsuversion20",
 			"drybraisedsaltedfish",
 			"duckconfit",
-			"duelsoul",
-			"eggroll",
-			"energizingbento",
-			"extravagantslumber",
-			"faitheternal",
-			"fatteh",
-			"fishwithcreamsauce",
-			"flamingredbolognese",
-			"flashfriedfilet",
 			"fruityskewers",
-			"fruitysmoothie",
-			"fukuuchiudon",
-			"fullmoonegg",
-			"ghostlymarch",
 			"goldenchickenburger",
-			"goldenshrimpballs",
 			"grilledtigerfish",
 			"grilledunagifillet",
 			"idealcircumstance",
-			"ileflottante",
-			"invigoratingkittymeal",
-			"invigoratingpizza",
-			"kondacuisine",
 			"lambadfishroll",
 			"lasagna",
-			"lighterthanairpancake",
 			"matsutakemeatrolls",
 			"milkymushroomcrisptower",
 			"mintjelly",
-			"mintybeansoup",
-			"misosoup",
-			"mixedyakisoba",
-			"mondstadtgrilledfish",
 			"mondstadthashbrown",
-			"morameat",
-			"mushroompizza",
-			"mysteriousbolognese",
-			"myway",
 			"northernapplestew",
-			"nutritiousmealv593",
-			"onigiri",
-			"outriderschampionsteak",
-			"panipuri",
 			"pitapocket",
-			"poissonchantpie",
-			"poissonseafoodsoup",
-			"potatoboat",
 			"prosperouspeace",
 			"puppypawhashbrown",
-			"qiankunmorameat",
-			"radishveggiesoup",
 			"ricebuns",
-			"rosecustard",
 			"sabzmeatstew",
-			"sakuramochi",
 			"samosa",
 			"satietygel",
 			"scentedmeatballs",
-<<<<<<< HEAD
 			"secretsaucebbqribs",
-=======
-			"seabirdssojourn",
-			"secretsaucebbqribs",
-			"slowcookedbambooshootsoup",
-			"snowonthehearth",
-			"sobanoodles",
->>>>>>> upstream/main
 			"squirrelfish",
-			"steak",
 			"steaktartare",
-			"stirfriedfilet",
-			"stirfriedfishnoodles",
 			"summerfestivalfish",
 			"survivalgrilledfish",
 			"sweetmadame",
-			"sweetshrimpsushi",
-			"tahchin",
-			"taiyaki",
 			"tassesragout",
-			"teabreakpancake",
-			"teyvatcharredegg",
-			"teyvatfriedegg",
-			"theendeavor",
 			"tonkotsuramen",
-			"traditionallymadecharcoalbakedajilenakhcake",
 			"tricolordango",
-			"tripesduport",
-			"troutamandine",
 			"tunasushi",
-			"udonnoodles",
 			"universalpeace",
-			"vegetarianabalone",
 			"victoriouslegend",
-			"wanminrestaurantsboiledfish",
-			"warmth",
-			"wayofthestrong",
 			"yearning"
 		],
 		"鱼肉": [
@@ -2089,10 +1901,6 @@
 			"duelsoul",
 			"energizingbento",
 			"exclusivescoopgourmetcolumn",
-<<<<<<< HEAD
-=======
-			"feastos",
->>>>>>> upstream/main
 			"fishandchips",
 			"fishwithcreamsauce",
 			"fontaineaspic",
@@ -2112,7 +1920,6 @@
 			"sangayaki",
 			"sashimiplatter",
 			"seabirdssojourn",
-			"sinthekindthatdoesntneedtobedealtwith",
 			"squirrelfish",
 			"stirfriedfishnoodles",
 			"sunshinesprat",
@@ -2171,13 +1978,7 @@
 			"halvamazd",
 			"lalettreafocalors",
 			"lotusflowercrisp",
-<<<<<<< HEAD
 			"pourlajustice",
-=======
-			"pickwhatyoulike",
-			"pourlajustice",
-			"rainbowmacarons",
->>>>>>> upstream/main
 			"sweetdream",
 			"troutamandine"
 		],
@@ -2207,7 +2008,6 @@
 			"selvasalad",
 			"theendeavor"
 		],
-<<<<<<< HEAD
 		"Atk_CritRate": [
 			"baklava",
 			"comeandgetit",
@@ -2229,8 +2029,6 @@
 			"satisfyingsalad",
 			"stoneharbordelicacies"
 		],
-=======
->>>>>>> upstream/main
 		"枣椰": [
 			"baklava",
 			"candiedajilenakhnut",
@@ -2403,10 +2201,6 @@
 			"creamstew",
 			"crepessuzette",
 			"fontaineaspic",
-<<<<<<< HEAD
-=======
-			"fontinaliamousse",
->>>>>>> upstream/main
 			"fragrantmashedpotatoes",
 			"milkymushroomcrisptower",
 			"nutritiousmealv593",
@@ -2429,7 +2223,6 @@
 			"dragonbeardnoodles",
 			"duckconfit",
 			"duelsoul",
-			"feastos",
 			"fontaineaspic",
 			"fontainianfoiegras",
 			"fruityskewers",
@@ -2442,7 +2235,6 @@
 			"oncidiumtofu",
 			"rockinriffinchicken",
 			"showmethemora",
-			"sinthekindthatdoesntneedtobedealtwith",
 			"sweetmadame",
 			"tahchin",
 			"tandooriroastchicken",
@@ -2480,7 +2272,6 @@
 			"coldcutplatter",
 			"dieheiligesinfonie",
 			"ricecakesoup"
-<<<<<<< HEAD
 		],
 		"Recovery_Revive": [
 			"charcoalbakedajilenakhcake",
@@ -2524,15 +2315,12 @@
 			"udonnoodles",
 			"vegetarianabalone",
 			"wayofthestrong"
-=======
->>>>>>> upstream/main
 		],
 		"果酱": [
 			"charcoalbakedajilenakhcake",
 			"crepessuzette",
 			"cubictricks",
 			"fontainianfoiegras",
-			"fontinaliamousse",
 			"fruityduet",
 			"fruitytrio",
 			"mondstadthashbrown",
@@ -2641,13 +2429,7 @@
 			"crepessuzette",
 			"cubictricks",
 			"fruitytrio",
-<<<<<<< HEAD
 			"patedefruit"
-=======
-			"patedefruit",
-			"pickwhatyoulike",
-			"rainbowmacarons"
->>>>>>> upstream/main
 		],
 		"甜甜花": [
 			"dinnerofjudgment",
@@ -2713,6 +2495,9 @@
 			"jadefruitsoup",
 			"tianshumeat"
 		],
+		"Climate_Heat": [
+			"goulash"
+		],
 		"「冷鲜肉」": [
 			"goulash"
 		],
@@ -2764,27 +2549,32 @@
 	},
 	"properties": {
 		"rarity": [
-			2,
-			3,
-			5,
-			1,
-			4
+			"2",
+			"3",
+			"5",
+			"1",
+			"4"
 		],
 		"foodtype": [
 			"NORMAL",
 			"SPECIALTY"
 		],
-		"filterType": [
-			"COOK_FOOD_FUNCTION",
-			"COOK_FOOD_ATTACK",
-			"COOK_FOOD_DEFENSE",
-			"COOK_FOOD_HEAL"
-		],
-		"filterText": [
+		"foodfilter": [
 			"冒险类料理",
 			"攻击类料理",
 			"防御类料理",
 			"恢复类料理"
+		],
+		"foodcategory": [
+			"Other_SPAdd",
+			"Other_SPReduceConsume",
+			"Atk_Add",
+			"Def_Add",
+			"Recovery_HpAddAll",
+			"Recovery_HpAdd",
+			"Atk_CritRate",
+			"Recovery_Revive",
+			"Climate_Heat"
 		],
 		"ingredients": [
 			"稻米",

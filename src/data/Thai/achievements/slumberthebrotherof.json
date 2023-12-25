@@ -1,11 +1,7 @@
 {
-	"id": [
-		80191
-	],
 	"name": "...เป็นหนึ่งเดียวกับความฝัน",
-	"achievementGroupId": 35,
-	"achievementGroupName": "Sumeru - ที่ราบทรายสีทอง: ตอนที่ 1",
-	"sortOrder": 193,
+	"achievementgroup": "Sumeru - ที่ราบทรายสีทอง: ตอนที่ 1",
+	"sortorder": 193,
 	"stages": 1,
 	"stage1": {
 		"title": "...เป็นหนึ่งเดียวกับความฝัน",
@@ -13,7 +9,6 @@
 		"description": "สำเร็จ \"แดนฝันทองคำ\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

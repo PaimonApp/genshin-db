@@ -1,18 +1,14 @@
 {
-	"id": [
-		84549
-	],
 	"name": "Entspannungstherapie",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 4073,
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 4073,
 	"stages": 1,
 	"stage1": {
 		"title": "Entspannungstherapie",
 		"description": "Erfülle die Wünsche von drei Patienten.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}

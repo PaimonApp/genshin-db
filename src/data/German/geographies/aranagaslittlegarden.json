@@ -1,11 +1,8 @@
 {
-	"id": 70400012,
 	"name": "Aranagas kleine Baumschule",
-	"areaId": 4101,
-	"areaName": "Mawtiyima-Dickicht",
+	"area": "Mawtiyima-Dickicht",
 	"description": "Hier singen die Granatäpfel und die Äpfel klatschen.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 312
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 312
 }

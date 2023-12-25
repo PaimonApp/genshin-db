@@ -1,17 +1,11 @@
 {
-	"id": 301,
 	"name": "Ateş Mührü",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Mondstadt çevresinde bulunabilecek özel bir hatıra parası. Dükkandaki nadir eşyalarla takas edilebilir.",
-<<<<<<< HEAD
 	"sortorder": 4927,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Şehir Devleti Mührü",
-	"sources": [
+	"materialtype": "Şehir Devleti Mührü",
+	"source": [
 		"Keşif Ödülü"
 	]
 }

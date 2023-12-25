@@ -1,15 +1,10 @@
 {
-	"id": 101008,
 	"name": "Amethyst Lump",
-	"sortRank": 301,
 	"description": "Kristal yang belum pernah diolah dan hanya dapat ditemukan di Inazuma. Potensi asli kristal ini hanya bisa dimunculkan oleh tangan seorang pengrajin profesional.",
-<<<<<<< HEAD
 	"sortorder": 2826,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mineral untuk Forge",
-	"sources": [
+	"materialtype": "Mineral untuk Forge",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Narukami Island"
 	]

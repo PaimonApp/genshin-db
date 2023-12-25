@@ -1,14 +1,12 @@
 {
-	"id": 11018,
 	"name": "Nebelgrasdocht",
-	"filterText": "Material zur Verbesserung von Figuren und Waffen",
-	"sortOrder": 140039,
-	"unlockRank": 20,
-	"resultCount": 1,
-	"moraCost": 125,
+	"filter": "Material zur Verbesserung von Figuren und Waffen",
+	"sortorder": 140039,
+	"unlockrank": 20,
+	"resultcount": 1,
+	"moracost": 125,
 	"recipe": [
 		{
-			"id": 112027,
 			"name": "Nebelgrassäckchen",
 			"count": 3
 		}

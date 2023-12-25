@@ -1,10 +1,9 @@
 {
-	"id": 1006,
 	"name": "Poisson grillé mondstadtois",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Récupération",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Réanime le personnage sélectionné.\nRestaure 50 à 150 PV.",
 	"description": "Poisson grillé à feu doux. Sa chair est ferme grâce à une cuisson maîtrisée, et le poivre fait ressortir toute sa saveur.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Poisson",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "Poivre",
 			"count": 1
 		}

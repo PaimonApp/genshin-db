@@ -1,18 +1,13 @@
 {
-	"id": [
-		80157
-	],
 	"name": "Que la lumière soit !",
-	"achievementGroupId": 30,
-	"achievementGroupName": "Gouffre éclairé",
-	"sortOrder": 157,
+	"achievementgroup": "Gouffre éclairé",
+	"sortorder": 157,
 	"stages": 1,
 	"stage1": {
 		"title": "Que la lumière soit !",
 		"description": "Renforcez l'Adjuvant de pierre de lumen au niveau maximum.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

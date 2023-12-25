@@ -1,10 +1,9 @@
 {
-	"id": 3001,
 	"name": "Sopa de marisco",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Platos que mejoran la defensa",
+	"foodfilter": "Platos que mejoran la defensa",
+	"foodcategory": "Def_Add",
 	"effect": "Aumenta la DEF de todos los miembros del equipo en 165-235 pts. durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Una equilibrada y rica combinación de mariscos. La delicadeza del cangrejo y la menta da lugar a una ligera sopa y el lirio cala aporta un sabor refrescante.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100073,
 			"name": "Cangrejo",
 			"count": 4
 		},
 		{
-			"id": 100056,
 			"name": "Lirio cala",
 			"count": 1
 		},
 		{
-			"id": 100016,
 			"name": "Menta",
 			"count": 2
 		}

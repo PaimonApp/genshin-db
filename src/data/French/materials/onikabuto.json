@@ -1,15 +1,10 @@
 {
-	"id": 101201,
 	"name": "Scarabuto",
-	"sortRank": 313,
 	"description": "Un scarabée étrange qui peuple les zones riches en énergie Électro. Son tempérament docile et sédentaire ne pourrait pas contraster plus avec la forme féroce et démoniaque qui orne sa carapace.",
-<<<<<<< HEAD
 	"sortorder": 2862,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit d'Inazuma",
-	"sources": [
+	"materialtype": "Produit d'Inazuma",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Île de Narukami",
 		"Zone conseillée : Tatarasuna"

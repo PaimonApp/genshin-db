@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Générateur de champ à supercalcul autonome",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1373,
-=======
-	"id": [
-		81389
-	],
-	"name": "Générateur de champ à supercalcul autonome",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1373,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Générateur de champ à supercalcul autonome",
 		"description": "Vainquez la légende locale : le Générateur de champ à supercalcul autonome.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

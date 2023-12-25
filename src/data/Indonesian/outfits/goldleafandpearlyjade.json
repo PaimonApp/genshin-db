@@ -1,8 +1,6 @@
 {
-	"id": 202700,
 	"name": "Gold Leaf and Pearly Jade",
 	"description": "Model pakaian Ningguang. Gaun anggun dan elegan dihiasi brokat yang indah.",
-	"isDefault": true,
-	"characterId": 10000027,
-	"characterName": "Ningguang"
+	"isdefault": true,
+	"character": "Ningguang"
 }

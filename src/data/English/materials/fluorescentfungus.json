@@ -1,15 +1,10 @@
 {
-	"id": 101209,
 	"name": "Fluorescent Fungus",
-	"sortRank": 313,
 	"description": "A mushroom that glows like a night-light. Some curious power lies hidden within it.",
-<<<<<<< HEAD
 	"sortorder": 2870,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Inazuma)",
-	"sources": [
+	"materialtype": "Local Specialty (Inazuma)",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found on Tsurumi Island"
 	]

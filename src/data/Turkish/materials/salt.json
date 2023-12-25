@@ -1,15 +1,10 @@
 {
-	"id": 100075,
 	"name": "Tuz",
-	"sortRank": 321,
 	"description": "Sadece bir tutamı bile yemeklere lezzet katar.",
-<<<<<<< HEAD
 	"sortorder": 2917,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Gıda pazarlarında satılır."
 	]
 }

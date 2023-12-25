@@ -1,23 +1,15 @@
 {
-	"id": 104344,
 	"name": "Teachings of Order",
-<<<<<<< HEAD
 	"description": "Talent Level-Up Material.\nThe shield of the Nation of Water is order.\nAll law in Fontaine ultimately serves to maintain a stable order. Without order, there is chaos, and there can be no fairness in chaos.",
 	"sortorder": 3261,
 	"rarity": "2",
-=======
-	"rarity": 2,
-	"sortRank": 13115,
-	"description": "Talent Level-Up Material.\nThe shield of the Nation of Water is order.\nAll law in Fontaine ultimately serves to maintain a stable order. Without order, there is chaos, and there can be no fairness in chaos.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character Talent Material",
-	"dropDomainId": 4494,
-	"dropDomainName": "Domain of Mastery: Chiming Recitation",
-	"daysOfWeek": [
+	"materialtype": "Character Talent Material",
+	"dropdomain": "Domain of Mastery: Chiming Recitation",
+	"daysofweek": [
 		"Wednesday",
 		"Saturday",
 		"Sunday"
 	],
-	"sources": []
+	"source": []
 }

@@ -1,13 +1,7 @@
 {
-	"id": 31,
 	"name": "Sumeru: Hutan Hikmat dan Pengetahuan",
-<<<<<<< HEAD
 	"sortorder": 40,
-=======
-	"sortOrder": 40,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210130,
 		"name": "Sumeru: Hutan Berkilauan"
 	}
 }

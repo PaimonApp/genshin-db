@@ -1,15 +1,10 @@
 {
-	"id": 100011,
 	"name": "Nấm Rơm",
-	"sortRank": 321,
 	"description": "Loại nấm thường thấy, chỉ cần đủ nước và bóng mát thì có thể sinh trưởng mạnh mẽ.",
-<<<<<<< HEAD
 	"sortorder": 2900,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

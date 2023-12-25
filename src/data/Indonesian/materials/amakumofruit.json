@@ -1,15 +1,10 @@
 {
-	"id": 101208,
 	"name": "Amakumo Fruit",
-	"sortRank": 313,
 	"description": "Buah dari Rumput Amakumo, yang tumbuh di Pulau Seirai. Kamu bisa mendengar derak arus listrik kecil saat mendekatkannya ke telingamu.",
-<<<<<<< HEAD
 	"sortorder": 2869,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk Khas Inazuma",
-	"sources": [
+	"materialtype": "Produk Khas Inazuma",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Seirai Island"
 	]

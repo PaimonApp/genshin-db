@@ -1279,7 +1279,7 @@
 		]
 	},
 	"properties": {
-		"filterText": [
+		"filter": [
 			"Karakter ve Silah Geliştirme Malzemesi",
 			"Karakter Yükseltme Malzemesi",
 			"Sarf Malzemesi",

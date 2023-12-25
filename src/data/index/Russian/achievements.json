@@ -21,7 +21,6 @@
 		"ahawhatsonthehook": "Что на крючке?",
 		"ahollowsoul": "Пустая душа",
 		"ahouseillfounded": "Слабый фундамент",
-		"ahumandrama": "Человеческая драма",
 		"akashapulsesthekalpaflamerises": "Пульс Акаши и пламя кальпы",
 		"alavolontedupeuple": "Во имя всеобщих надежд",
 		"aleisurelyjourney": "Беззаботное путешествие",
@@ -976,7 +975,6 @@
 		"Что на крючке?": "ahawhatsonthehook",
 		"Пустая душа": "ahollowsoul",
 		"Слабый фундамент": "ahouseillfounded",
-		"Человеческая драма": "ahumandrama",
 		"Пульс Акаши и пламя кальпы": "akashapulsesthekalpaflamerises",
 		"Во имя всеобщих надежд": "alavolontedupeuple",
 		"Беззаботное путешествие": "aleisurelyjourney",
@@ -1931,7 +1929,6 @@
 			"ahawhatsonthehook",
 			"ahollowsoul",
 			"ahouseillfounded",
-			"ahumandrama",
 			"akashapulsesthekalpaflamerises",
 			"alavolontedupeuple",
 			"aleisurelyjourney",
@@ -2964,7 +2961,7 @@
 		]
 	},
 	"properties": {
-		"achievementGroupName": [
+		"achievementgroup": [
 			"Чудеса света",
 			"Подземелья и Витая Бездна I",
 			"Священный призыв семерых",

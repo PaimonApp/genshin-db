@@ -1,8 +1,7 @@
 {
-	"id": 26155101,
 	"name": "Caballito Burbumarino",
-	"specialName": "Ser evolucionado del Fontamar",
-	"enemyType": "COMMON",
+	"specialname": "Ser evolucionado del Fontamar",
+	"enemytype": "COMMON",
 	"category": "Bestias exóticas",
 	"description": "Una criatura acuática que caza gracias a los proyectiles que lanza.\nEl Caballito Burbumarino es una de las grandes estrellas entre los amantes de las escasas especies de Engendros Fontamarinos. Claro está, al igual que ocurre con los amantes de los Mecabots, los de estas criaturas suelen mantener una tensa rivalidad con otros grupos de seguidores.",
 	"investigation": {
@@ -10,29 +9,19 @@
 		"category": "Normal",
 		"description": "Un animal acuático que se encuentra por toda Fontaine.\\nDebido a su entorno natural, parece que solo puede crecer en dicha nación."
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 112080,
->>>>>>> upstream/main
 			"name": "Condensado extramarino",
 			"count": 0.8404
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 112081,
->>>>>>> upstream/main
 			"name": "Fragmento extramarino",
 			"count": 0.2241
 		},
 		{
-			"id": 112082,
 			"name": "Cristalización cromática",
 			"count": 0.056
 		}

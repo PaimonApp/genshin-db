@@ -1,10 +1,9 @@
 {
-	"id": 2006,
 	"name": "Củ Cải Viên Chiên",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Món Dạng Tấn Công",
+	"foodfilter": "Món Dạng Tấn Công",
+	"foodcategory": "Atk_Add",
 	"effect": "Tấn công cả đội tăng 66-95 điểm, kéo dài 300s\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
 	"description": "Viên củ cải chiên. Giòn mềm thơm ngọt, thích hợp ăn nóng. Nghe nói là món đến từ Liyue.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Bột Mì",
 			"count": 3
 		},
 		{
-			"id": 100014,
 			"name": "Củ Cải Trắng",
 			"count": 2
 		},
 		{
-			"id": 100077,
 			"name": "Tiêu",
 			"count": 1
 		}

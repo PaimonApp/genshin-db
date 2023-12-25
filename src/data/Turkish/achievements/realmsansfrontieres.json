@@ -1,19 +1,14 @@
 {
-	"id": [
-		81049
-	],
 	"name": "Çaydanlığın Gizli Dünyası",
-	"achievementGroupId": 18,
-	"achievementGroupName": "Başka Bir Diyar: I. Seri",
-	"isHidden": true,
-	"sortOrder": 1050,
+	"achievementgroup": "Başka Bir Diyar: I. Seri",
+	"ishidden": true,
+	"sortorder": 1050,
 	"stages": 1,
 	"stage1": {
 		"title": "Çaydanlığın Gizli Dünyası",
 		"description": "Yaşam alanına girmek için Dinginçay Çaydanlığını kullan.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

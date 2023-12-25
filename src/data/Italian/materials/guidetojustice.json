@@ -1,25 +1,17 @@
 {
-	"id": 104342,
 	"name": "Guida alla giustizia",
-<<<<<<< HEAD
 	"description": "Materiale per l'aumento di livello dei talenti.\nLa giustizia è la spada della Nazione dell'Acqua\nLa legge di Fontaine cammina impugnando la spada della giustizia. La giustizia deve essere cieca, e coloro che brandiscono la spada della giustizia non devono essere fuorviati dai propri interessi o dalle proprie vicende.",
 	"sortorder": 3257,
 	"rarity": "3",
-=======
-	"rarity": 3,
-	"sortRank": 13114,
-	"description": "Materiale per l'aumento di livello dei talenti.\nLa giustizia è la spada della Nazione dell'Acqua\nLa legge di Fontaine cammina impugnando la spada della giustizia. La giustizia deve essere cieca, e coloro che brandiscono la spada della giustizia non devono essere fuorviati dai propri interessi o dalle proprie vicende.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale per talenti dei personaggi",
-	"dropDomainId": 4491,
-	"dropDomainName": "Dominio della maestria: Monito scolpito",
-	"daysOfWeek": [
+	"materialtype": "Materiale per talenti dei personaggi",
+	"dropdomain": "Dominio della maestria: Monito scolpito",
+	"daysofweek": [
 		"Martedì",
 		"Venerdì",
 		"Domenica"
 	],
-	"sources": [
+	"source": [
 		"Creato"
 	]
 }

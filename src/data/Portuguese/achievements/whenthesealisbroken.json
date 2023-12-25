@@ -1,18 +1,13 @@
 {
-	"id": [
-		80158
-	],
 	"name": "\"Quando o Selo se Quebra...\"",
-	"achievementGroupId": 30,
-	"achievementGroupName": "Chamas Luminosas",
-	"sortOrder": 158,
+	"achievementgroup": "Chamas Luminosas",
+	"sortorder": 158,
 	"stages": 1,
 	"stage1": {
 		"title": "\"Quando o Selo se Quebra...\"",
 		"description": "Remova os obstáculos em seu caminho para a entrada nas minas.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}

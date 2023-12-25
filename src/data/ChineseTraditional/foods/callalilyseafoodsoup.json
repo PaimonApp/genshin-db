@@ -1,10 +1,9 @@
 {
-	"id": 3001,
 	"name": "嘟嘟蓮海鮮羹",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "防禦類料理",
+	"foodfilter": "防禦類料理",
+	"foodcategory": "Def_Add",
 	"effect": "隊伍中所有角色防禦力提高165-235點，持續300秒。\n多人遊戲時，僅對自己的角色生效。",
 	"description": "營養均衡的海鮮羹。色澤清亮的湯汁每一口都淌著螃蟹的鮮美，薄荷和嘟嘟蓮又為它增添了幾分清雅爽口。",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100073,
 			"name": "螃蟹",
 			"count": 4
 		},
 		{
-			"id": 100056,
 			"name": "嘟嘟蓮",
 			"count": 1
 		},
 		{
-			"id": 100016,
 			"name": "薄荷",
 			"count": 2
 		}

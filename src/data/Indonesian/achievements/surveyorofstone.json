@@ -1,11 +1,7 @@
 {
-	"id": [
-		80044
-	],
 	"name": "Peninjau Bebatuan",
-	"achievementGroupId": 5,
-	"achievementGroupName": "Liyue: Pelabuhan Batu dan Kontrak",
-	"sortOrder": 44,
+	"achievementgroup": "Liyue: Pelabuhan Batu dan Kontrak",
+	"sortorder": 44,
 	"stages": 1,
 	"stage1": {
 		"title": "Peninjau Bebatuan",
@@ -13,7 +9,6 @@
 		"description": "Membuka semua Teleport Waypoint di Liyue (Chasm dihitung terpisah).",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

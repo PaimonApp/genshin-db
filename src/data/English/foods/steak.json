@@ -1,10 +1,9 @@
 {
-	"id": 1004,
 	"name": "Steak",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Recovery Dish",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revives the selected character.\nRestores 50–150 HP.",
 	"description": "A grilled steak. High heat has locked the juices in, giving one high expectations for when the meat is cut open.",
 	"suspicious": {
@@ -21,7 +20,6 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Raw Meat",
 			"count": 2
 		}

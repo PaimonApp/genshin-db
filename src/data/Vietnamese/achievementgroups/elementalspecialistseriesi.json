@@ -1,9 +1,7 @@
 {
-	"id": 6,
 	"name": "Chuyên Gia Nguyên Tố - Phần I",
-	"sortOrder": 11,
+	"sortorder": 11,
 	"reward": {
-		"id": 210026,
 		"name": "Thành tựu - Màu sắc cầu vồng"
 	}
 }

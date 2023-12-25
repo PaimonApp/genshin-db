@@ -1,15 +1,10 @@
 {
-	"id": 100025,
 	"name": "Filanemo Mantarı",
-	"sortRank": 311,
 	"description": "Rüzgarın sıcak dokunuşunda büyüyen bir mantar. Rüzgar gibi sonsuzdur ve yaşamı besler.",
-<<<<<<< HEAD
 	"sortorder": 2850,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mondstadt Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Mondstadt Yöresel Ürünü",
+	"source": [
 		"Evlerin çatısındaki saçakların altında bulunur."
 	]
 }

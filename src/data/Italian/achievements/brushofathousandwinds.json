@@ -1,11 +1,7 @@
 {
-	"id": [
-		80031
-	],
 	"name": "Carezza dei Mille Venti",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt: la città del vento e delle canzoni",
-	"sortOrder": 31,
+	"achievementgroup": "Mondstadt: la città del vento e delle canzoni",
+	"sortorder": 31,
 	"stages": 1,
 	"stage1": {
 		"title": "Carezza dei Mille Venti",
@@ -13,7 +9,6 @@
 		"description": "Sblocca tutti i Portali di Mondstadt (esclusa l'area del Picco del Drago).",
 		"progress": 22,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}

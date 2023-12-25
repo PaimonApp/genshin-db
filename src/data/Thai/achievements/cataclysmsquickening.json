@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "ช่วงเวลาสุดท้ายก่อนคำพยากรณ์จะถือกำเนิด",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 5090,
-=======
-	"id": [
-		84311
-	],
-	"name": "ช่วงเวลาสุดท้ายก่อนคำพยากรณ์จะถือกำเนิด",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 5090,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "ช่วงเวลาสุดท้ายก่อนคำพยากรณ์จะถือกำเนิด",
 		"description": "ทำเควสต์ \"ช่วงเวลาสุดท้ายก่อนคำพยากรณ์จะถือกำเนิด\" ให้สำเร็จ",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

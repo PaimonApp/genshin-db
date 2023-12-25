@@ -1,15 +1,9 @@
 {
-	"id": 200101,
 	"name": "Frammento di cristallo brinato",
-	"rarity": 3,
-	"sortRank": 430061,
 	"description": "Piccoli cristalli ottenuti dai mostri che abitano il Picco del Drago.\nVengono generati soltanto durante occasioni speciali.",
-<<<<<<< HEAD
 	"sortorder": 4960,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Materiale del Picco del Drago",
-	"sources": []
+	"materialtype": "Materiale del Picco del Drago",
+	"source": []
 }

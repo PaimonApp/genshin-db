@@ -1,15 +1,10 @@
 {
-	"id": 100016,
 	"name": "Мята",
-	"sortRank": 321,
 	"description": "Освежающие листья мяты. Помогают справиться с летним зноем.",
-<<<<<<< HEAD
 	"sortorder": 2905,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Кухонный ингредиент",
-	"sources": [
+	"materialtype": "Кухонный ингредиент",
+	"source": [
 		"Дикая природа"
 	]
 }

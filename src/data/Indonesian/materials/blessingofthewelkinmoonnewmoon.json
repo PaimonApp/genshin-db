@@ -1,15 +1,9 @@
 {
-	"id": 1202,
 	"name": "Blessing of the Welkin Moon - New Moon",
-	"rarity": 5,
-	"sortRank": 430011,
 	"description": "Doa ritual yang diucapkan saat terbitnya bulan baru pertama, untuk memohon restu bulan berupa harta dan rejeki. Demi tujuanmu, bulan baru yang harus kamu doakan adalah bulan baru pertama di Teyvat, karena ini adalah bulan pertama yang kamu lihat di sini.\n\nGunakan item ini untuk menerima Blessing of the Welkin Moon selama 30 hari.",
-<<<<<<< HEAD
 	"sortorder": 4943,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Material Aktivasi Fitur",
-	"sources": []
+	"materialtype": "Material Aktivasi Fitur",
+	"source": []
 }

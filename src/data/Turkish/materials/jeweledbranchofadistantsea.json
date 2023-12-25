@@ -1,24 +1,17 @@
 {
-	"id": 114026,
 	"name": "Uzak Denizlerin Kıymetli Dalı",
-	"rarity": 3,
-	"sortRank": 15107,
 	"description": "Silah Yükseltme Malzemesi.\nBu mercan Teyvat'ın hiçbir yerinde yetişmez. Büyük Yılan, Karanlık Deniz'e daldığında bunu hediye olarak aldı. Hiçlik yılanı için mercanla kaplanmak kudretli olmak anlamına geliyordu ve mercanlarını kaybederse gücü de azalırdı. Diğer bir deyişle o mercanlar, içlerinde anormal güç barındırıyordu.",
-<<<<<<< HEAD
 	"sortorder": 3303,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Silah Yükseltme Malzemesi",
-	"dropDomainId": 4341,
-	"dropDomainName": "Döküm Zindanı: Kum Bataklığı",
-	"daysOfWeek": [
+	"materialtype": "Silah Yükseltme Malzemesi",
+	"dropdomain": "Döküm Zindanı: Kum Bataklığı",
+	"daysofweek": [
 		"Pazartesi",
 		"Perşembe",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

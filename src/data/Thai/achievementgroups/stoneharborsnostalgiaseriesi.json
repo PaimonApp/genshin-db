@@ -1,13 +1,7 @@
 {
-	"id": 12,
 	"name": "เรื่องในอดีตของ Stone Harbor - ชุดที่ 1",
-<<<<<<< HEAD
 	"sortorder": 25,
-=======
-	"sortOrder": 25,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210032,
 		"name": "ความสำเร็จ - ติดตามตอนต่อไป"
 	}
 }

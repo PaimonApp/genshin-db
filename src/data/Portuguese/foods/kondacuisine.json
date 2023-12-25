@@ -1,10 +1,9 @@
 {
-	"id": 3206,
 	"name": "Cozido de Konda",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revive o Personagem selecionado.\nRestaura 900 - 1500 de Vida.",
 	"description": "Comida local cozinhada lentamente. Todos na Vila Konda sabem como fazer esse prato. Originalmente não tinha nenhum nome, mas ele se espalhava em Inazuma devido a ser delicioso e nutritivo. Isso eventualmente fez com que aqueles foram da vila lhe dessem seu nome \"Culinária de Konda\".",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100064,
 			"name": "Carne de Ave",
 			"count": 3
 		},
 		{
-			"id": 100015,
 			"name": "Flor Crânio de Dragão",
 			"count": 2
 		},
 		{
-			"id": 101211,
 			"name": "Melão de Lavanda",
 			"count": 2
 		},
 		{
-			"id": 100011,
 			"name": "Cogumelo",
 			"count": 1
 		}

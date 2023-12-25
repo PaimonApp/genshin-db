@@ -1,15 +1,10 @@
 {
-	"id": 110014,
 	"name": "Baharat",
-	"sortRank": 322,
 	"description": "Farklı tatlara sahip bir baharat. Kurutulmuş Harra Meyvelerinden yapılır ve yemeklerin tadını zenginleştirebilir. Bu yüzden, Sumeru yerlileri \"baharat her şeye iyi gider\" demektedir.",
-<<<<<<< HEAD
 	"sortorder": 2959,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"İşlenerek elde edilir."
 	]
 }

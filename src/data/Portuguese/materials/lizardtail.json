@@ -1,15 +1,10 @@
 {
-	"id": 100083,
 	"name": "Cauda de Lagarto",
-	"sortRank": 320,
 	"description": "Uma cauda de lagarto que se enrola após ser partida. Muito amarga, mas possui uma propriedade endurecedora eficiente de pele.",
-<<<<<<< HEAD
 	"sortorder": 2895,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Coletado ao caçar Lagartos"
 	]
 }

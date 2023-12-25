@@ -1,13 +1,7 @@
 {
-	"id": 21,
 	"name": "Dış Diyarlardaki Karşılaşmalar: II. Seri",
-<<<<<<< HEAD
 	"sortorder": 27,
-=======
-	"sortOrder": 27,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210086,
 		"name": "Başarım: Kapı"
 	}
 }

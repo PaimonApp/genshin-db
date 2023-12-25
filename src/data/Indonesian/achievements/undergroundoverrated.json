@@ -1,18 +1,14 @@
 {
-	"id": [
-		81104
-	],
 	"name": "Legenda Istana Bawah Tanah... Aneh Sekali!",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1102,
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1102,
 	"stages": 1,
 	"stage1": {
 		"title": "Legenda Istana Bawah Tanah... Aneh Sekali!",
 		"description": "Bukankah petualangan untuk menemukan ingatan yang telah lama hilang, bisa dianggap sebagai sebuah harta karun?",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

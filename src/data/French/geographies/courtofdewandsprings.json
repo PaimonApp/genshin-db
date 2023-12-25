@@ -1,10 +1,7 @@
 {
-	"id": 70400061,
 	"name": "La cour de la rosée et des sources",
-	"areaId": 50320,
-	"areaName": "Cour de Fontaine : Passage Vasari",
+	"area": "Cour de Fontaine : Passage Vasari",
 	"description": "« Cette ville seule se dresse au-dessus de toutes les eaux. »",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"sortOrder": 361
+	"region": "Fontaine",
+	"sortorder": 361
 }

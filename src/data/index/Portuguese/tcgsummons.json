@@ -1,10 +1,8 @@
 {
 	"namemap": {
-		"aftersalesservicerounds": "Munições Pós-venda",
 		"autumnwhirlwind": "Redemoinho do Outono",
 		"bakekurage": "Bake-Kurage",
 		"baronbunny": "Barão Coelho",
-		"bountifulcore": "Núcleo da Riqueza",
 		"burningflame": "Chamas Ardentes",
 		"chainsofwardingthunder": "Correntes do Trovão Protetor",
 		"clusterbloomarrow": "Flechas Florescentes",
@@ -16,17 +14,13 @@
 		"drunkenmist": "Névoa Embriagada",
 		"electrohilichurlshooter": "Hilichurl Atirador Electro",
 		"eyeofstormyjudgment": "Olho do Julgamento Tempestuoso",
-		"fierysanctumfield": "Prisão Flamejante",
 		"frostflakesekinoto": "Granizo Seki no To",
 		"gardenofpurity": "Jardim Puro",
-		"gossamersprite": "Espírito Sérico",
 		"guoba": "Guoba",
 		"healingrain": "Chuva da Cura",
 		"heraldoffrost": "Arauto da Floresta",
 		"hilichurlberserker": "Hilichurl Berserker",
 		"hydrosamachurl": "Samachurl Hydro",
-		"jinni-01": "Gênio da Lâmpada",
-		"jinni": "Gênio da Lâmpada",
 		"largewindspirit-01": "Grande Espírito do Vento",
 		"largewindspirit": "Grande Espírito do Vento",
 		"lightfallsword": "Espada Luminosa",
@@ -50,16 +44,12 @@
 		"tengujuuraiambush": "Tengu Juurai: Emboscada",
 		"tengujuuraistormcluster": "Tengu Juurai: Aglomerado de Tempestades",
 		"ushi": "Ushi",
-		"whirlwind": "Tornado",
-		"yueguithrowingmode-01": "Yuegui: Modo de Arremesso",
-		"yueguithrowingmode": "Yuegui: Modo de Arremesso"
+		"whirlwind": "Tornado"
 	},
 	"names": {
-		"Munições Pós-venda": "aftersalesservicerounds",
 		"Redemoinho do Outono": "autumnwhirlwind",
 		"Bake-Kurage": "bakekurage",
 		"Barão Coelho": "baronbunny",
-		"Núcleo da Riqueza": "bountifulcore",
 		"Chamas Ardentes": "burningflame",
 		"Correntes do Trovão Protetor": "chainsofwardingthunder",
 		"Flechas Florescentes": "clusterbloomarrow",
@@ -71,16 +61,13 @@
 		"Névoa Embriagada": "drunkenmist",
 		"Hilichurl Atirador Electro": "electrohilichurlshooter",
 		"Olho do Julgamento Tempestuoso": "eyeofstormyjudgment",
-		"Prisão Flamejante": "fierysanctumfield",
 		"Granizo Seki no To": "frostflakesekinoto",
 		"Jardim Puro": "gardenofpurity",
-		"Espírito Sérico": "gossamersprite",
 		"Guoba": "guoba",
 		"Chuva da Cura": "healingrain",
 		"Arauto da Floresta": "heraldoffrost",
 		"Hilichurl Berserker": "hilichurlberserker",
 		"Samachurl Hydro": "hydrosamachurl",
-		"Gênio da Lâmpada": "jinni-01",
 		"Grande Espírito do Vento": "largewindspirit-01",
 		"Espada Luminosa": "lightfallsword",
 		"Rosa do Relâmpago": "lightningrose",
@@ -102,16 +89,13 @@
 		"Tengu Juurai: Emboscada": "tengujuuraiambush",
 		"Tengu Juurai: Aglomerado de Tempestades": "tengujuuraistormcluster",
 		"Ushi": "ushi",
-		"Tornado": "whirlwind",
-		"Yuegui: Modo de Arremesso": "yueguithrowingmode-01"
+		"Tornado": "whirlwind"
 	},
 	"aliases": {},
 	"categories": {
 		"GCG_TOKEN_LIFE": [
-			"aftersalesservicerounds",
 			"autumnwhirlwind",
 			"bakekurage",
-			"bountifulcore",
 			"burningflame",
 			"chainsofwardingthunder",
 			"clusterbloomarrow",
@@ -123,17 +107,13 @@
 			"drunkenmist",
 			"electrohilichurlshooter",
 			"eyeofstormyjudgment",
-			"fierysanctumfield",
 			"frostflakesekinoto",
 			"gardenofpurity",
-			"gossamersprite",
 			"guoba",
 			"healingrain",
 			"heraldoffrost",
 			"hilichurlberserker",
 			"hydrosamachurl",
-			"jinni-01",
-			"jinni",
 			"largewindspirit-01",
 			"largewindspirit",
 			"lightningrose",
@@ -153,15 +133,11 @@
 			"tangleboltring",
 			"tengujuuraiambush",
 			"tengujuuraistormcluster",
-			"whirlwind",
-			"yueguithrowingmode-01",
-			"yueguithrowingmode"
+			"whirlwind"
 		],
 		"GCG_TOKEN_ICON_HOURGLASS": [
-			"aftersalesservicerounds",
 			"autumnwhirlwind",
 			"bakekurage",
-			"bountifulcore",
 			"burningflame",
 			"chainsofwardingthunder",
 			"clusterbloomarrow",
@@ -173,17 +149,13 @@
 			"drunkenmist",
 			"electrohilichurlshooter",
 			"eyeofstormyjudgment",
-			"fierysanctumfield",
 			"frostflakesekinoto",
 			"gardenofpurity",
-			"gossamersprite",
 			"guoba",
 			"healingrain",
 			"heraldoffrost",
 			"hilichurlberserker",
 			"hydrosamachurl",
-			"jinni-01",
-			"jinni",
 			"largewindspirit-01",
 			"largewindspirit",
 			"lightningrose",
@@ -203,22 +175,7 @@
 			"tangleboltring",
 			"tengujuuraiambush",
 			"tengujuuraistormcluster",
-			"whirlwind",
-			"yueguithrowingmode-01",
-			"yueguithrowingmode"
-		],
-		"GCG_HINT_ELECTRO": [
-			"aftersalesservicerounds",
-			"chainsofwardingthunder",
-			"electrohilichurlshooter",
-			"eyeofstormyjudgment",
-			"lightningrose",
-			"oz-01",
-			"oz",
-			"sesshousakura",
-			"tangleboltring",
-			"tengujuuraiambush",
-			"tengujuuraistormcluster"
+			"whirlwind"
 		],
 		"GCG_HINT_ANEMO": [
 			"autumnwhirlwind",
@@ -254,20 +211,27 @@
 			"baronbunny",
 			"burningflame",
 			"darkfirefurnace",
-			"fierysanctumfield",
 			"guoba",
 			"hilichurlberserker"
 		],
-		"GCG_HINT_DENDRO": [
-			"bountifulcore",
-			"clusterbloomarrow",
-			"cuileinanbar",
-			"gossamersprite",
-			"yueguithrowingmode-01",
-			"yueguithrowingmode"
-		],
 		"GCG_TAG_DENDRO_PRODUCE": [
 			"burningflame"
+		],
+		"GCG_HINT_ELECTRO": [
+			"chainsofwardingthunder",
+			"electrohilichurlshooter",
+			"eyeofstormyjudgment",
+			"lightningrose",
+			"oz-01",
+			"oz",
+			"sesshousakura",
+			"tangleboltring",
+			"tengujuuraiambush",
+			"tengujuuraistormcluster"
+		],
+		"GCG_HINT_DENDRO": [
+			"clusterbloomarrow",
+			"cuileinanbar"
 		],
 		"GCG_HINT_CRYO": [
 			"cryocicins",
@@ -281,8 +245,6 @@
 		],
 		"GCG_HINT_HEAL": [
 			"healingrain",
-			"jinni-01",
-			"jinni",
 			"melodyloop"
 		],
 		"GCG_TOKEN_COUNTER": [
@@ -312,10 +274,10 @@
 			"GCG_TOKEN_ICON_CLOCK"
 		],
 		"hinttype": [
-			"GCG_HINT_ELECTRO",
 			"GCG_HINT_ANEMO",
 			"GCG_HINT_HYDRO",
 			"GCG_HINT_PYRO",
+			"GCG_HINT_ELECTRO",
 			"GCG_HINT_DENDRO",
 			"GCG_HINT_CRYO",
 			"GCG_HINT_HEAL",

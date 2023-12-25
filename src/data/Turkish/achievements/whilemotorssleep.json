@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Motorlar Uykudayken...",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1371,
-=======
-	"id": [
-		81387
-	],
-	"name": "Motorlar Uykudayken...",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1371,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Motorlar Uykudayken...",
 		"description": "\"Kuisel'in Kurmalılar Atölyesi\"ndeki sırrı keşfet.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

@@ -1,10 +1,7 @@
 {
-	"id": 70400035,
 	"name": "L'ermitage perdu",
-	"areaId": 5021,
-	"areaName": "Palace d'Apep",
+	"area": "Palace d'Apep",
 	"description": "Il est dit qu'un ami du roi Deshret a construit sa cour dans une grande caverne sous les dunes.\nLes Wenuts y servaient comme fonctionnaires de la cour et les serpents volants comme compagnons. Mais aujourd'hui, ces deux créatures ont perdu leur esprit noble et leur vigueur.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"sortOrder": 335
+	"region": "Sumeru",
+	"sortorder": 335
 }

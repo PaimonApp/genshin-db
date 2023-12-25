@@ -1,15 +1,10 @@
 {
-	"id": 100019,
 	"name": "Loto plateado",
-	"sortRank": 321,
 	"description": "Una valiosa planta que crece orgullosamente en peñascos escarpados. Brilla magníficamente por la noche.",
-<<<<<<< HEAD
 	"sortorder": 2908,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en la naturaleza"
 	]
 }

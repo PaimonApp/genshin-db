@@ -1,10 +1,9 @@
 {
-	"id": 2210,
 	"name": "うどん",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "回復系料理",
+	"foodfilter": "回復系料理",
+	"foodcategory": "Recovery_Revive",
 	"effect": "選択したキャラを復活させる。\nさらにHPを250~550回復する。",
 	"description": "歯ごたえのある麺類。何度も寝かせて伸ばした生地は滑らかで、コシのある麺に変わった。味の濃いラーメンと違い、うどんはあっさりとした味付けで稲妻の人々を癒やしてくれる。",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "小麦粉",
 			"count": 3
 		},
 		{
-			"id": 101210,
 			"name": "海草",
 			"count": 1
 		},
 		{
-			"id": 100084,
 			"name": "魚肉",
 			"count": 1
 		}

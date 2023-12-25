@@ -1,15 +1,10 @@
 {
-	"id": 101236,
 	"name": "Tường Vi Cầu Vồng",
-	"sortRank": 315,
 	"description": "Đóa hoa màu hồng yểu điệu và mềm mại. Tuy được gọi là tường vi, nhưng bản chất thì giống với bách hợp hơn.",
-<<<<<<< HEAD
 	"sortorder": 2883,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Đặc Sản Khu Vực Fontaine",
-	"sources": [
+	"materialtype": "Đặc Sản Khu Vực Fontaine",
+	"source": [
 		"Thu Thập Bên Ngoài",
 		"Đề xuất: Thu thập ở Khu Beryl"
 	]

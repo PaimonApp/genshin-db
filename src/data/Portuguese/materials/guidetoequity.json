@@ -1,25 +1,17 @@
 {
-	"id": 104339,
 	"name": "Guia da Igualdade",
-<<<<<<< HEAD
 	"description": "Material de Elevação de Talento.\nA costa da Nação da Água é a justiça.\nA justiça é o alicerce sobre o qual Fontaine foi fundada. A equidade forma o padrão da lei. Se a lei perder a essência da justiça, ela se tornará um tabuleiro de xadrez jogado por lucro.",
 	"sortorder": 3254,
 	"rarity": "3",
-=======
-	"rarity": 3,
-	"sortRank": 13113,
-	"description": "Material de Elevação de Talento.\nA costa da Nação da Água é a justiça.\nA justiça é o alicerce sobre o qual Fontaine foi fundada. A equidade forma o padrão da lei. Se a lei perder a essência da justiça, ela se tornará um tabuleiro de xadrez jogado por lucro.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Talento do Personagem",
-	"dropDomainId": 4461,
-	"dropDomainName": "Domínio da Proficiência: Ritmo Melódico",
-	"daysOfWeek": [
+	"materialtype": "Material de Talento do Personagem",
+	"dropdomain": "Domínio da Proficiência: Ritmo Melódico",
+	"daysofweek": [
 		"Segunda-feira",
 		"Quinta-feira",
 		"Domingo"
 	],
-	"sources": [
+	"source": [
 		"Obtido na síntese"
 	]
 }

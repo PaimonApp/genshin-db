@@ -1,11 +1,8 @@
 {
-	"id": 70400008,
 	"name": "Devantaka'yı İzleyen Dev",
-	"areaId": 4204,
-	"areaName": "Devantaka Dağı",
+	"area": "Devantaka Dağı",
 	"description": "\"Bak! Binlerce yıllık kadim Khaenri'ah tarihi önümüzde uzanıyor!\"",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 308
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 308
 }

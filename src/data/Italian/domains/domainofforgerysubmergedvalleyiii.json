@@ -1,73 +1,51 @@
 {
-	"id": 4322,
 	"name": "Dominio della forgiatura: Valle sott'acqua III",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"entranceId": 37,
-	"entranceName": "Giardino di Cecilie",
-	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
-	"domainText": "Materiali d'ascensione armi",
+	"region": "Mondstadt",
+	"domainentrance": "Giardino di Cecilie",
+	"domaintype": "Materiali d'ascensione armi",
 	"description": "Un'enorme quantità di energia di Hydro scorre in questo umido e antico altare sacrificale.\nL'elevata umidità all'interno aumenta la durata del TdR delle tue abilità.\nSe, e solo se, riuscirai a superare la prova otterrai materiali d'ascensione delle armi.",
-	"recommendedLevel": 59,
-	"recommendedElements": [
+	"recommendedlevel": 59,
+	"recommendedelements": [
 		"Cryo",
 		"Pyro",
 		"Electro"
 	],
-	"daysOfWeek": [
+	"daysofweek": [
 		"Martedì",
 		"Venerdì",
 		"Domenica"
 	],
-	"unlockRank": 30,
-	"rewardPreview": [
+	"unlockrank": 30,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "ESP avventura",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 1850
 		},
 		{
-			"id": 105,
 			"name": "ESP affinità",
 			"count": 15
 		},
 		{
-			"id": 114005,
 			"name": "Dente da latte del Lupo boreale"
 		},
 		{
-			"id": 114006,
 			"name": "Dente rotto del Lupo boreale"
 		},
 		{
-			"id": 114007,
 			"name": "Zanna incrinata del Lupo boreale"
 		}
 	],
 	"disorder": [
 		"Il tuo personaggio verrà periodicamente colpito da Rallentamento acquatico, che aumenta notevolmente la durata del TdR delle tue abilità finché l'elemento Hydro inflitto non sarà rimosso."
 	],
-	"monsterList": [
-		{
-			"id": 20011001,
-			"name": "Melmoso di Hydro"
-		},
-		{
-			"id": 20011101,
-			"name": "Melmoso di Hydro gigante"
-		},
-		{
-			"id": 21030101,
-			"name": "Sciamachurl di Hydro"
-		},
-		{
-			"id": 22010301,
-			"name": "Mago dell'Abisso di Hydro"
-		}
+	"monsterlist": [
+		"Melmoso di Hydro",
+		"Melmoso di Hydro gigante",
+		"Sciamachurl di Hydro",
+		"Mago dell'Abisso di Hydro"
 	]
 }

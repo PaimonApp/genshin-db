@@ -1,15 +1,10 @@
 {
-	"id": 100085,
 	"name": "Tinh Hạt Nhân",
-	"sortRank": 320,
 	"description": "Nhân của Tinh Điệp, là cơ quan để Tinh Điệp hấp thu các Nguyên Tố cực nhỏ trong không khí.",
-<<<<<<< HEAD
 	"sortorder": 2896,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Bắt Tinh Điệp để thu thập"
 	]
 }

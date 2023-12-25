@@ -1,15 +1,10 @@
 {
-	"id": 101223,
 	"name": "Mourning Flower",
-	"sortRank": 314,
 	"description": "Crimson flowers that bloom on ancient battlefields. They can even flourish in the depths of the desert. Their drooping flowers seem to be in mourning for heroes long past.",
-<<<<<<< HEAD
 	"sortorder": 2877,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Sumeru)",
-	"sources": [
+	"materialtype": "Local Specialty (Sumeru)",
+	"source": [
 		"Found in the deserts of Sumeru",
 		"Recommendation: Found in the Asipattravana Swamp"
 	]

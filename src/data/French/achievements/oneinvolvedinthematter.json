@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Veni, vidi, resolvi",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1392,
-=======
-	"id": [
-		81408
-	],
-	"name": "Veni, vidi, resolvi",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1392,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Veni, vidi, resolvi",
 		"description": "Apprenez les secrets de l'Ordo Narzissenkreuz et battez Jakob.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

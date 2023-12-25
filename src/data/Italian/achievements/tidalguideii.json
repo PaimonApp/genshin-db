@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Guidamaree (II)",
 	"achievementgroup": "Fontaine: Danza delle sorgenti rugiadose (II)",
 	"sortorder": 251,
-=======
-	"id": [
-		80275,
-		80276,
-		80277
-	],
-	"name": "Guidamaree (II)",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Danza delle sorgenti rugiadose (II)",
-	"sortOrder": 251,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Guidamaree (II)",
 		"description": "Segui {param0} Seelie nella Regione di Liffey e nella Regione dell'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine e attiva i loro piedistalli.",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Segui {param0} Seelie nella Regione di Liffey e nella Regione dell'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine e attiva i loro piedistalli.",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Segui {param0} Seelie nella Regione di Liffey e nella Regione dell'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine e attiva i loro piedistalli.",
 		"progress": 9,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 20
 		}

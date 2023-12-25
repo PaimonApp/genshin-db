@@ -1,17 +1,11 @@
 {
-	"id": 104114,
 	"name": "Gema de Ágata Agnidus",
-	"rarity": 5,
-	"sortRank": 12102,
 	"description": "Material de Ascensão de Personagem.\n\"Peregrino por vontade própria...\n\"Alimentando o fogo dos sonhos.\"\n\"Se ainda assim as intenções permanecerem, terá encontrado a verdade sobre ██.",
-<<<<<<< HEAD
 	"sortorder": 3189,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Ascensão de Personagem",
-	"sources": [
+	"materialtype": "Material de Ascensão de Personagem",
+	"source": [
 		"Dropado por Regisvine Pyro Nv.75+",
 		"Dropado por Hypostasis Pyro Nv. 75+",
 		"Dropado por Imperador do Fogo e Ferro Nv. 75+",

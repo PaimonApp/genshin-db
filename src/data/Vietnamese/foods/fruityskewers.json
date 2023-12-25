@@ -1,24 +1,19 @@
 {
-	"id": 10000015,
 	"name": "Xiên Rau Củ Nướng",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "SPECIALTY",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Món Dạng Hồi Phục",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Hồi 16% giới hạn HP cho nhân vật được chọn, và hồi thêm 1350 điểm HP.",
 	"description": "Món độc quyền của Kaeya. Xiên nướng vừa miệng, có vị ngọt phảng phất. Đợi chút... đây là rau củ sao?",
-	"baseDishId": 1001,
-	"baseDishName": "Xiên Thịt Gà Nấm",
-	"characterId": 10000015,
-	"characterName": "Kaeya",
+	"basedish": "Xiên Thịt Gà Nấm",
+	"character": "Kaeya",
 	"ingredients": [
 		{
-			"id": 100011,
 			"name": "Nấm Rơm",
 			"count": 1
 		},
 		{
-			"id": 100064,
 			"name": "Thịt Gia Cầm",
 			"count": 1
 		}

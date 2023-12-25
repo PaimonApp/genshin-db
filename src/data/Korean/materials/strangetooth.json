@@ -1,13 +1,8 @@
 {
-	"id": 100618,
 	"name": "기이한 「이빨」",
-	"sortRank": 200,
 	"description": "설산에서 습득한 「이빨」. 누군가가 관련된 정보를 알고 있을지도…",
-<<<<<<< HEAD
 	"sortorder": 2776,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "소재",
-	"sources": []
+	"materialtype": "소재",
+	"source": []
 }

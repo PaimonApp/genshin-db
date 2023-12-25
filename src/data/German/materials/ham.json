@@ -1,15 +1,10 @@
 {
-	"id": 110005,
 	"name": "Schinken",
-	"sortRank": 322,
 	"description": "Geräuchertes Fleisch. Selbst die dünnste Scheibe ist voller Aroma.",
-<<<<<<< HEAD
 	"sortorder": 2951,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beim Verarbeiten von Gerichten zu erhalten"
 	]
 }

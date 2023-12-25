@@ -1,9 +1,7 @@
 {
-	"id": 28010102,
 	"name": "Cangrejo solar",
 	"description": "Un cangrejo que se puede encontrar por todo Teyvat.\nLos caparazones de estos cangrejos son de un bonito color rojo con muchos tonos diferentes que reflejan la luz del sol. Se ven especialmente bien cuando están cocinados.",
-	"categoryType": "SUBTYPE_CRITTER",
-	"categoryText": "Otros",
-	"countType": "COUNT_TYPE_CAPTURE",
-	"sortOrder": 13019
+	"category": "Otros",
+	"counttype": "CAPTURE",
+	"sortorder": 13019
 }

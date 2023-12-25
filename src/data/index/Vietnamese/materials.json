@@ -492,14 +492,9 @@
 		"sumerurose": "Tường Vi Sumeru",
 		"sunsetcloudangler": "Cá Nóc Mây Mù",
 		"sunsettia": "Quả Nhật Lạc",
-<<<<<<< HEAD
-=======
-		"superduperinvincibleshiningsparklymagiccrystal": "Ma Tinh Lấp Lánh Siêu Vô Địch",
->>>>>>> upstream/main
 		"surgingsacredchalice": "Chén Thánh Ào Ạt",
 		"sweetflower": "Hoa Ngọt",
 		"sweetflowermedaka": "Cá Khổng Tước Ngọt",
-		"swirlingsceneinabottle": "\"Dòng Xoáy Trong Bể\"",
 		"tailofboreas": "Lông Vũ Bắc Phong",
 		"teachingsofadmonition": "Bài Giảng Của \"Khuyên Nhủ\"",
 		"teachingsofballad": "Bài Giảng Của \"Thơ Văn\"",
@@ -1065,14 +1060,9 @@
 		"Tường Vi Sumeru": "sumerurose",
 		"Cá Nóc Mây Mù": "sunsetcloudangler",
 		"Quả Nhật Lạc": "sunsettia",
-<<<<<<< HEAD
-=======
-		"Ma Tinh Lấp Lánh Siêu Vô Địch": "superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 		"Chén Thánh Ào Ạt": "surgingsacredchalice",
 		"Hoa Ngọt": "sweetflower",
 		"Cá Khổng Tước Ngọt": "sweetflowermedaka",
-		"\"Dòng Xoáy Trong Bể\"": "swirlingsceneinabottle",
 		"Lông Vũ Bắc Phong": "tailofboreas",
 		"Bài Giảng Của \"Khuyên Nhủ\"": "teachingsofadmonition",
 		"Bài Giảng Của \"Thơ Văn\"": "teachingsofballad",
@@ -1528,13 +1518,7 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
-<<<<<<< HEAD
 			"surgingsacredchalice",
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
-			"surgingsacredchalice",
-			"swirlingsceneinabottle",
->>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1866,7 +1850,6 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
-			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2232,10 +2215,6 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2487,10 +2466,6 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3061,7 +3036,6 @@
 			"matchinvitationletter",
 			"naturestruefruit",
 			"plumeofpurifyinglight",
-			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"Bí Cảnh Luyện Võ: Mây Bẩn": [
@@ -3365,11 +3339,11 @@
 	},
 	"properties": {
 		"rarity": [
-			3,
-			5,
-			1,
-			2,
-			4
+			"3",
+			"5",
+			"1",
+			"2",
+			"4"
 		],
 		"category": [
 			"EXCHANGE",
@@ -3384,7 +3358,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"typeText": [
+		"materialtype": [
 			"Cá",
 			"Đạo cụ cầu nguyện",
 			"Thực phẩm",
@@ -3427,7 +3401,7 @@
 			"Nguyên Liệu Tuyết Sơn",
 			"Đạo Cụ Nhỏ"
 		],
-		"dropDomainName": [
+		"dropdomain": [
 			"Bí Cảnh Luyện Võ: Thử Thách Sấm Sét",
 			"Bí Cảnh Luyện Võ: Thâm Cốc",
 			"Bí Cảnh Luyện Võ: Máy Móc",
@@ -3459,7 +3433,7 @@
 			"Bí Cảnh Luyện Võ: Tế Đàn Cát",
 			"Bí Cảnh Luyện Võ: Tư Hoặc"
 		],
-		"daysOfWeek": [
+		"daysofweek": [
 			"Thứ 4",
 			"Thứ 7",
 			"Chủ Nhật",

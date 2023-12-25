@@ -1,10 +1,9 @@
 {
-	"id": 2201,
 	"name": "Thunfisch-Sushi",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Gericht zur LP-Wiederherstellung",
+	"foodfilter": "Gericht zur LP-Wiederherstellung",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Stellt der gewählten Figur 20 bis 24 % LP sowie zusätzlich 900 bis 1.500 LP wieder her.",
 	"description": "Ein traditionelles Gericht, das mit bloßen Händen zubereitet wird. Der weiche und leicht gegorene Reis ist mit dem frischen Fisch abgestimmt. Die Einheimischen betrachten dies als einen leicht luxuriösen Genuss.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Fisch",
 			"count": 3
 		},
 		{
-			"id": 100092,
 			"name": "Reis",
 			"count": 3
 		}

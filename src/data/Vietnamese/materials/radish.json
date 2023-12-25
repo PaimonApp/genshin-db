@@ -1,15 +1,10 @@
 {
-	"id": 100014,
 	"name": "Củ Cải Trắng",
-	"sortRank": 321,
 	"description": "Là thực vật có nhiều dinh dưỡng. Dễ trồng và thu hoạch, có hàm lượng vitamin cao.",
-<<<<<<< HEAD
 	"sortorder": 2903,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

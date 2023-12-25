@@ -1,15 +1,10 @@
 {
-	"id": 111020,
 	"name": "Pequeno Cristal Bonito",
-	"sortRank": 430051,
 	"description": "Item Adicional Forjado",
-<<<<<<< HEAD
 	"sortorder": 4956,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Produtos Combinados",
-	"sources": [
+	"materialtype": "Produtos Combinados",
+	"source": [
 		"Obtido na síntese"
 	]
 }

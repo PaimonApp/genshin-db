@@ -1,21 +1,17 @@
 {
-	"id": 21011501,
 	"name": "Hilichurl Extraño",
-	"specialName": "Abominación de la Mansión",
-	"enemyType": "COMMON",
+	"specialname": "Abominación de la Mansión",
+	"enemytype": "COMMON",
 	"category": "Hilichurls",
 	"description": "“Homu, Homu, mimi domu!”",
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "EXP de Aventura"
 		},
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 100018,
 			"name": "Repollo"
 		}
 	]

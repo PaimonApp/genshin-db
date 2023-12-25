@@ -1,15 +1,10 @@
 {
-	"id": 110009,
 	"name": "치즈",
-	"sortRank": 322,
 	"description": "우유를 발효시켜 만든 유제품. 칼로리를 공급하고 요리의 한계를 넓혀준다",
-<<<<<<< HEAD
 	"sortorder": 2954,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "식자재",
-	"sources": [
+	"materialtype": "식자재",
+	"source": [
 		"요리 가공 획득"
 	]
 }

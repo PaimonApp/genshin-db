@@ -1,11 +1,7 @@
 {
-	"id": [
-		80164
-	],
 	"name": "Puncak Impian Besar",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru: Hutan Hikmat dan Pengetahuan",
-	"sortOrder": 164,
+	"achievementgroup": "Sumeru: Hutan Hikmat dan Pengetahuan",
+	"sortorder": 164,
 	"stages": 1,
 	"stage1": {
 		"title": "Puncak Impian Besar",
@@ -13,7 +9,6 @@
 		"description": "Meningkatkan Tree of Dreams di Vanarana ke level tertinggi.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

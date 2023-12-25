@@ -1,13 +1,8 @@
 {
-	"id": 107022,
 	"name": "Plumas da Luz Purificadora",
-	"sortRank": 420021,
 	"description": "Fragmento deixado pelo Khvarena, contém recordações do passado.",
-<<<<<<< HEAD
 	"sortorder": 4890,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumível",
-	"sources": []
+	"materialtype": "Consumível",
+	"source": []
 }

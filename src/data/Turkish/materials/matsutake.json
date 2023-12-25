@@ -1,15 +1,10 @@
 {
-	"id": 100063,
 	"name": "Matsutake",
-	"sortRank": 321,
 	"description": "Genellikle çam ağaçlarının üzerinde veya yakınında yetişen nadir bir mantar. Ağızları sulandıran aroması konumunu ele verir.",
-<<<<<<< HEAD
 	"sortorder": 2914,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Doğada bulunur."
 	]
 }

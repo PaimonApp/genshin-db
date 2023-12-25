@@ -1,15 +1,10 @@
 {
-	"id": 110013,
 	"name": "Dried Fish",
-	"sortRank": 322,
 	"description": "",
-<<<<<<< HEAD
 	"sortorder": 2958,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัตถุดิบประกอบอาหาร",
-	"sources": [
+	"materialtype": "วัตถุดิบประกอบอาหาร",
+	"source": [
 		"ได้จากการทำอาหาร"
 	]
 }

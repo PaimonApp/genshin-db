@@ -1,15 +1,10 @@
 {
-	"id": 101235,
 	"name": "Lumidouce Çanı",
-	"sortRank": 315,
 	"description": "Huzur ve sakinlik veren bir mor renge sahip çiçek. Hafif, rahatsız etmeyen ve uzun süreli bir kokusu olduğundan lüks parfümler yapmak için kullanılır.",
-<<<<<<< HEAD
 	"sortorder": 2882,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Fontaine Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Fontaine Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Fontaine Şehri'nin kuzeyinde bulunur."
 	]

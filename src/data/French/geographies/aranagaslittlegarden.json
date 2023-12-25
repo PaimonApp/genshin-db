@@ -1,11 +1,8 @@
 {
-	"id": 70400012,
 	"name": "Petit jardin d'Aranaga",
-	"areaId": 4101,
-	"areaName": "Forêt de Mawtiyima",
+	"area": "Forêt de Mawtiyima",
 	"description": "Ici, les grenades chantent, les pommes applaudissent.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 312
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 312
 }

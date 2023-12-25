@@ -1,11 +1,7 @@
 {
-	"id": [
-		80267
-	],
 	"name": "Lukisan, Mimpi, dan Anjing Mesin",
-	"achievementGroupId": 42,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (I)",
-	"sortOrder": 247,
+	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (I)",
+	"sortorder": 247,
 	"stages": 1,
 	"stage1": {
 		"title": "Lukisan, Mimpi, dan Anjing Mesin",
@@ -13,7 +9,6 @@
 		"description": "Berhasil mengungkap rahasia di dalam Elynas.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

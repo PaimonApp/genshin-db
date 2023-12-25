@@ -1,13 +1,7 @@
 {
-	"id": 41,
 	"name": "Desierto de los espíritus",
-<<<<<<< HEAD
 	"sortorder": 44,
-=======
-	"sortOrder": 44,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210157,
 		"name": "Logro - Semillas infinitas"
 	}
 }

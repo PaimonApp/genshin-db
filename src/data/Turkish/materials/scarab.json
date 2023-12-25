@@ -1,15 +1,10 @@
 {
-	"id": 101225,
 	"name": "Firavun Böceği",
-	"sortRank": 314,
 	"description": "Uçsuz bucaksız kum denizinde yaşayan dayanıklı bir böcek. Bu böceklerin kabuklarındaki altın renkli desenler, çöldeki kadim harabelerle aralarında derin bir ilişki olduğuna işaret eder.",
-<<<<<<< HEAD
 	"sortorder": 2879,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Sumeru Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Sumeru Yöresel Ürünü",
+	"source": [
 		"Sumeru'nun çöl harabelerinde bulunur."
 	]
 }

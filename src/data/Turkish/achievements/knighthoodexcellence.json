@@ -1,18 +1,14 @@
 {
-	"id": [
-		84006
-	],
 	"name": "Şövalye Nişanı",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 4007,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 4007,
 	"stages": 1,
 	"stage1": {
 		"title": "Şövalye Nişanı",
 		"description": "Fahri Favonius Şövalyesi unvanını al.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

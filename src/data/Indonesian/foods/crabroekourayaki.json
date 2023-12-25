@@ -1,10 +1,9 @@
 {
-	"id": 2204,
 	"name": "Crab Roe Kourayaki",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Makanan Penyerangan",
+	"foodfilter": "Makanan Penyerangan",
+	"foodcategory": "Atk_Add",
 	"effect": "Meningkatkan 66–95 ATK seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Sajian daging kepiting yang dimasak langsung di atas api. Daging dan telur kepitingnya dicampur rata, lalu dihiasan pakai kaki kepiting yang banyak dagingnya. Kebahagiaan yang mengalir saat gigitan pertama menjadikan kesabaranmu menunggu lebih berarti.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100073,
 			"name": "Crab",
 			"count": 1
 		},
 		{
-			"id": 100074,
 			"name": "Crab Roe",
 			"count": 1
 		}

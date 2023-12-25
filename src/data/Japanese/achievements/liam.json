@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "「リアム」",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1419,
-=======
-	"id": [
-		81435
-	],
-	"name": "「リアム」",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1419,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "「リアム」",
 		"description": "地方伝説·リアムを倒す。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

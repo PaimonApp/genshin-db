@@ -1,24 +1,20 @@
 {
-	"id": 14101,
 	"name": "「纯洁之水」",
-	"filterText": "食物",
-	"sortOrder": 220000,
-	"unlockRank": 10,
-	"resultCount": 1,
-	"moraCost": 100,
+	"filter": "食物",
+	"sortorder": 220000,
+	"unlockrank": 10,
+	"resultcount": 1,
+	"moracost": 100,
 	"recipe": [
 		{
-			"id": 100017,
 			"name": "小麦",
 			"count": 3
 		},
 		{
-			"id": 100020,
 			"name": "松果",
 			"count": 2
 		},
 		{
-			"id": 101234,
 			"name": "汐藻",
 			"count": 1
 		}

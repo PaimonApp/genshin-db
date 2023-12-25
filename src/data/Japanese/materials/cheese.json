@@ -1,15 +1,10 @@
 {
-	"id": 110009,
 	"name": "チーズ",
-	"sortRank": 322,
 	"description": "牛乳を濃縮させて発酵させた乳製品。エネルギーを補充できるだけでなく、料理に無限の可能性を与えてくれる。",
-<<<<<<< HEAD
 	"sortorder": 2954,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"食材加工で獲得"
 	]
 }

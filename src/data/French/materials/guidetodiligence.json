@@ -1,24 +1,17 @@
 {
-	"id": 104314,
 	"name": "Guide de la Diligence",
-	"rarity": 3,
-	"sortRank": 13105,
 	"description": "Matériau d'amélioration d'aptitude.\nLe goût du travail est l'essence du pays de la roche.\nIl coule dans les veines des Liyuéens, qui deviennent capables de transformer la roche en or grâce à lui. La prospérité de son port commercial n'est guère étonnante.",
-<<<<<<< HEAD
 	"sortorder": 3230,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Matériau d'aptitude de personnage",
-	"dropDomainId": 5259,
-	"dropDomainName": "Donjon de la maîtrise : Au cœur des flammes",
-	"daysOfWeek": [
+	"materialtype": "Matériau d'aptitude de personnage",
+	"dropdomain": "Donjon de la maîtrise : Au cœur des flammes",
+	"daysofweek": [
 		"Mardi",
 		"Vendredi",
 		"Dimanche"
 	],
-	"sources": [
+	"source": [
 		"Synthèse"
 	]
 }

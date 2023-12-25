@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "ルール·コーナーソサエティ",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 5085,
-=======
-	"id": [
-		84306
-	],
-	"name": "ルール·コーナーソサエティ",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 5085,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "ルール·コーナーソサエティ",
 		"description": "監獄の「隠しルール」を2種類調べる。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

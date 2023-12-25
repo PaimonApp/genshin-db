@@ -1,15 +1,10 @@
 {
-	"id": 100097,
 	"name": "Mysteriöses Fleisch",
-	"sortRank": 321,
 	"description": "Frisches Fleisch, von dem ein mysteriöser Geruch ausgeht. Wie es wohl schmecken wird?",
-<<<<<<< HEAD
 	"sortorder": 2934,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beute von Tieren"
 	]
 }

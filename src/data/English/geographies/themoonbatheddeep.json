@@ -1,10 +1,7 @@
 {
-	"id": 70300012,
 	"name": "The Moon-Bathed Deep",
-	"areaId": 3501,
-	"areaName": "Sangonomiya Shrine",
+	"area": "Sangonomiya Shrine",
 	"description": "The entrance to Enkanomiya. The water in this pool shine year in and year out with light akin to that of the moon, hence the name \"Moon-Bathed.\"",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"sortOrder": 217
+	"region": "Inazuma",
+	"sortorder": 217
 }

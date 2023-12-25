@@ -1,17 +1,11 @@
 {
-	"id": 104132,
 	"name": "Nagadus Emerald Fragment",
-	"rarity": 3,
-	"sortRank": 12104,
 	"description": "Material Ascension Karakter.\n\"Aku bermimpi sangat panjang ....\"",
-<<<<<<< HEAD
 	"sortorder": 3199,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Karakter",
-	"sources": [
+	"materialtype": "Material Ascension Karakter",
+	"source": [
 		"Dijatuhkan oleh Jadeplume Terrorshroom Lv. 40+",
 		"Dijatuhkan oleh Dendro Hypostasis Lv. 40",
 		"Didapatkan melalui Craft"

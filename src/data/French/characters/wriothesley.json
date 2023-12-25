@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Wriothesley",
 	"fullname": "Wriothesley",
 	"title": "Émissaire de l'iniquité solitaire",
@@ -15,27 +14,6 @@
 	"affiliation": "Forteresse de Méropide",
 	"birthdaymmdd": "11/23",
 	"birthday": "23 novembre",
-=======
-	"id": 10000086,
-	"name": "Wriothesley",
-	"title": "Émissaire de l'iniquité solitaire",
-	"description": "Le duc de la Forteresse de Méropide est dans l'ombre le seigneur des profondeurs troubles.",
-	"weaponType": "WEAPON_CATALYST",
-	"weaponText": "Catalyseur",
-	"bodyType": "BODY_MALE",
-	"gender": "Homme",
-	"qualityType": "QUALITY_ORANGE",
-	"rarity": 5,
-	"birthdaymmdd": "11/23",
-	"birthday": "23 novembre",
-	"elementType": "ELEMENT_CRYO",
-	"elementText": "Cryo",
-	"affiliation": "Forteresse de Méropide",
-	"associationType": "ASSOC_FONTAINE",
-	"region": "Fontaine",
-	"substatType": "FIGHT_PROP_CRITICAL_HURT",
-	"substatText": "DGT CRIT",
->>>>>>> upstream/main
 	"constellation": "Cerberus",
 	"cv": {
 		"english": "Joe Zieja",
@@ -46,244 +24,128 @@
 	"costs": {
 		"ascend1": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104161,
->>>>>>> upstream/main
 				"name": "Éclat de jade shivada",
 				"count": 1
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unité de sous-détection",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112083,
->>>>>>> upstream/main
 				"name": "Engrenage de maillage",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104162,
->>>>>>> upstream/main
 				"name": "Fragment de jade shivada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "« Appareil Tourbillon »",
 				"count": 2
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unité de sous-détection",
 				"count": 10
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112083,
->>>>>>> upstream/main
 				"name": "Engrenage de maillage",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104162,
->>>>>>> upstream/main
 				"name": "Fragment de jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "« Appareil Tourbillon »",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unité de sous-détection",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112084,
->>>>>>> upstream/main
 				"name": "Engrenage à coupe droite",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104163,
->>>>>>> upstream/main
 				"name": "Morceau de jade shivada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "« Appareil Tourbillon »",
 				"count": 8
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unité de sous-détection",
 				"count": 30
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112084,
->>>>>>> upstream/main
 				"name": "Engrenage à coupe droite",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104163,
->>>>>>> upstream/main
 				"name": "Morceau de jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "« Appareil Tourbillon »",
 				"count": 12
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unité de sous-détection",
 				"count": 45
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112085,
->>>>>>> upstream/main
 				"name": "Engrenage dynamique artificié",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104164,
->>>>>>> upstream/main
 				"name": "Pierre de jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "« Appareil Tourbillon »",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unité de sous-détection",
 				"count": 60
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112085,
->>>>>>> upstream/main
 				"name": "Engrenage dynamique artificié",
 				"count": 24
 			}

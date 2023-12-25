@@ -1,15 +1,10 @@
 {
-	"id": 100013,
 	"name": "Havuç",
-	"sortRank": 321,
 	"description": "Gevrek, tatlı ve besleyici bir sebze. Yetiştirmesi ve hasadı kolay.",
-<<<<<<< HEAD
 	"sortorder": 2902,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Doğada bulunur."
 	]
 }

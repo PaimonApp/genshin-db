@@ -1,17 +1,11 @@
 {
-	"id": 104161,
 	"name": "Осколок нефрита Шивада",
-	"rarity": 2,
-	"sortRank": 12107,
 	"description": "Материал возвышения персонажа.",
-<<<<<<< HEAD
 	"sortorder": 3212,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Возвышение персонажей",
-	"sources": [
+	"materialtype": "Возвышение персонажей",
+	"source": [
 		"Крио папоротники",
 		"Крио гипостазисы",
 		"Сувенирные лавки"

@@ -1,12 +1,11 @@
 {
-	"id": 202,
 	"name": "摩拉",
-	"rarity": 3,
-	"sortRank": 10,
 	"description": "通行大陸的貨幣。世界通用的共同語言，誰人都能理解的貴金屬。",
+	"sortorder": 482,
+	"rarity": "3",
 	"category": "ADSORBATE",
-	"typeText": "通用貨幣",
-	"sources": [
+	"materialtype": "通用貨幣",
+	"source": [
 		"活化藏金之花獎勵"
 	]
 }

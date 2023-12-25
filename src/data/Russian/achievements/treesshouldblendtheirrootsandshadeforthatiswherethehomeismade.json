@@ -1,18 +1,14 @@
 {
-	"id": [
-		85006
-	],
 	"name": "Под густой тенью древа соберётся вся семья",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 5006,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 5006,
 	"stages": 1,
 	"stage1": {
 		"title": "Под густой тенью древа соберётся вся семья",
 		"description": "Станьте свидетелем истории дома Юань Хун.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

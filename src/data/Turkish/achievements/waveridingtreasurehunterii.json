@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Dalgaların Hakimi Hazine Avcısı (II)",
 	"achievementgroup": "Fontaine: Çiy Beyazı Pınarların Dansı (II)",
 	"sortorder": 254,
-=======
-	"id": [
-		80278,
-		80279,
-		80280
-	],
-	"name": "Dalgaların Hakimi Hazine Avcısı (II)",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (II)",
-	"sortOrder": 254,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Dalgaların Hakimi Hazine Avcısı (II)",
 		"description": "Liffey Bölgesi ve Fontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsü Bölgesinde {param0} hazine sandığını aç.",
 		"progress": 60,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Liffey Bölgesi ve Fontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsü Bölgesinde {param0} hazine sandığını aç.",
 		"progress": 120,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Liffey Bölgesi ve Fontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsü Bölgesinde {param0} hazine sandığını aç.",
 		"progress": 200,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 20
 		}

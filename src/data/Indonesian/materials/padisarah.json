@@ -1,15 +1,10 @@
 {
-	"id": 101214,
 	"name": "Padisarah",
-	"sortRank": 314,
 	"description": "Tumbuhan yang suci dan mulia. Membutuhkan lingkungan yang cukup kondusif untuk dapat tumbuh. Kuncup bunganya dapat diolah menjadi rempah-rempah yang berharga.",
-<<<<<<< HEAD
 	"sortorder": 2872,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk Khas Sumeru",
-	"sources": [
+	"materialtype": "Produk Khas Sumeru",
+	"source": [
 		"Ditemukan di sekitar Kota Sumeru"
 	]
 }

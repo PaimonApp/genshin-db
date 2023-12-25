@@ -1,15 +1,10 @@
 {
-	"id": 101203,
 	"name": "Medula de Cristal",
-	"sortRank": 313,
 	"description": "Um cristal que contém um pouco do poder do Tatarigami. Adicionar este material durante o forjamento aumentará muito a resistência e a dureza dos metais.",
-<<<<<<< HEAD
 	"sortorder": 2864,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Inazuma",
-	"sources": [
+	"materialtype": "Especialidade de Inazuma",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado na Ilha Yashiori"
 	]

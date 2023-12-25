@@ -1,15 +1,10 @@
 {
-	"id": 100026,
 	"name": "Lotus Head",
-	"sortRank": 321,
 	"description": "An aquatic plant native to Liyue that grows and blooms in pairs. One is fragrant, and the other bitter. It's said to make a good herbal medicine.",
-<<<<<<< HEAD
 	"sortorder": 2910,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Found near lakes and river banks"
 	]
 }

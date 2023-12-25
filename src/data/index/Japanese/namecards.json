@@ -59,10 +59,6 @@
 		"celebrationvastness": "祭典·浩瀚",
 		"celebrationwondrouscalculation": "祭典·妙算",
 		"charlotteexclusive": "シャルロット·独占",
-<<<<<<< HEAD
-=======
-		"chevreusetypeii": "シュヴルーズ·弐型",
->>>>>>> upstream/main
 		"childefoullegacy": "公子·魔装",
 		"chongyunspiritblade": "重雲·霊刃",
 		"colleigoodvirtue": "コレイ·春風駘蕩",
@@ -119,10 +115,6 @@
 		"mondstadtherosfame": "モンド·英名",
 		"mondstadtwhistlingwind": "モンド·風吟",
 		"nahidacrescent": "ナヒーダ·月を仰ぐ",
-<<<<<<< HEAD
-=======
-		"naviarosula": "ナヴィア·棘薔薇",
->>>>>>> upstream/main
 		"neuvillettesurge": "ヌヴィレット·浸透",
 		"niloulotusdance": "ニィロウ·蓮舞",
 		"ningguangphoenix": "凝光·鳳儀",
@@ -169,7 +161,6 @@
 		"travelnotessecrets": "紀行·秘典",
 		"travelnotesstellarrivers": "紀行·霊津",
 		"travelnotessubspacerecreation": "紀行·廻塵",
-		"travelnotestimeinscribed": "紀行·時彫り",
 		"travelnotesvividillumination": "紀行·溢彩",
 		"travelnoteswhirlingwaltz": "紀行·旋舞",
 		"travelnoteswindblume": "紀行·風花",
@@ -248,10 +239,6 @@
 		"祭典·浩瀚": "celebrationvastness",
 		"祭典·妙算": "celebrationwondrouscalculation",
 		"シャルロット·独占": "charlotteexclusive",
-<<<<<<< HEAD
-=======
-		"シュヴルーズ·弐型": "chevreusetypeii",
->>>>>>> upstream/main
 		"公子·魔装": "childefoullegacy",
 		"重雲·霊刃": "chongyunspiritblade",
 		"コレイ·春風駘蕩": "colleigoodvirtue",
@@ -308,10 +295,6 @@
 		"モンド·英名": "mondstadtherosfame",
 		"モンド·風吟": "mondstadtwhistlingwind",
 		"ナヒーダ·月を仰ぐ": "nahidacrescent",
-<<<<<<< HEAD
-=======
-		"ナヴィア·棘薔薇": "naviarosula",
->>>>>>> upstream/main
 		"ヌヴィレット·浸透": "neuvillettesurge",
 		"ニィロウ·蓮舞": "niloulotusdance",
 		"凝光·鳳儀": "ningguangphoenix",
@@ -358,7 +341,6 @@
 		"紀行·秘典": "travelnotessecrets",
 		"紀行·霊津": "travelnotesstellarrivers",
 		"紀行·廻塵": "travelnotessubspacerecreation",
-		"紀行·時彫り": "travelnotestimeinscribed",
 		"紀行·溢彩": "travelnotesvividillumination",
 		"紀行·旋舞": "travelnoteswhirlingwaltz",
 		"紀行·風花": "travelnoteswindblume",

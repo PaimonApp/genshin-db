@@ -1,11 +1,10 @@
 {
-	"id": 110003,
 	"name": "燻禽肉",
-	"sortRank": 322,
 	"description": "經過燻製的禽肉。緊實的肉質帶來別樣的味覺體驗。",
+	"sortorder": 2949,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"烹飪加工獲得"
 	]
 }

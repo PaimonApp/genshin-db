@@ -1,10 +1,7 @@
 {
-	"id": 70400034,
 	"name": "Solucan Tünelleri",
-	"areaId": 5014,
-	"areaName": "Solucan Tünelleri",
+	"area": "Solucan Tünelleri",
 	"description": "Ölümlü saraylar yıkılalı çok oldu, Solucanlar artık burayı yönetiyorlar ve burayı daha çok kendi zevklerine göre bir avluya ve bahçeye dönüştürüyorlar.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"sortOrder": 334
+	"region": "Sumeru",
+	"sortorder": 334
 }

@@ -1,15 +1,9 @@
 {
-	"id": 1202,
 	"name": "Bênção da Lua Nova - Lua Nova",
-	"rarity": 5,
-	"sortRank": 430011,
 	"description": "Uma oração ritual, que ocorre no surgimento da lua nova, para pedir as bênçãos de riqueza e boa sorte da lua. Você pode considerá-la como a primeira lua nova em Teyvat, pelo menos é a primeira que você já viu aqui.\n\nUse este item para receber 30 dias de recompensas da Benção da Lua Nova.",
-<<<<<<< HEAD
 	"sortorder": 4943,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Material de Ativação de Função",
-	"sources": []
+	"materialtype": "Material de Ativação de Função",
+	"source": []
 }

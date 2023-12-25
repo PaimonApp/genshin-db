@@ -1,8 +1,6 @@
 {
-	"id": 203200,
 	"name": "Diversion mal venue",
 	"description": "Tenue de Bennett. Un vieux costume d'aventurier tout rapiécé.",
-	"isDefault": true,
-	"characterId": 10000032,
-	"characterName": "Bennett"
+	"isdefault": true,
+	"character": "Bennett"
 }

@@ -1,18 +1,14 @@
 {
-	"id": [
-		84020
-	],
 	"name": "Лилия любит музыку",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 4021,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 4021,
 	"stages": 1,
 	"stage1": {
 		"title": "Лилия любит музыку",
 		"description": "Спойте песню Мондштадта глазурным лилиям...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

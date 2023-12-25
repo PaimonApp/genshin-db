@@ -1,9 +1,7 @@
 {
-	"id": 3,
 	"name": "La travesía de un héroe",
-	"sortOrder": 8,
+	"sortorder": 8,
 	"reward": {
-		"id": 210023,
 		"name": "Logro - Héroe"
 	}
 }

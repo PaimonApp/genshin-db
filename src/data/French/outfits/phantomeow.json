@@ -1,8 +1,6 @@
 {
-	"id": 208300,
 	"name": "Fantômiaou",
 	"description": "Tenue de Lynette. Un chat reste dans l'ombre jusqu'à ce qu'il souhaite se montrer... Indiscernable, tout comme l'assistante d'un magicien...",
-	"isDefault": true,
-	"characterId": 10000083,
-	"characterName": "Lynette"
+	"isdefault": true,
+	"character": "Lynette"
 }

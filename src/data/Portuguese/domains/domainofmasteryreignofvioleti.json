@@ -1,41 +1,33 @@
 {
-	"id": 4400,
 	"name": "Domínio da Proficiência: País Violeta I",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"entranceId": 310,
-	"entranceName": "Jardim Violeta",
-	"domainType": "UI_ABYSSUS_AVATAR_PROUD",
-	"domainText": "Material de Elevação de Talento",
+	"region": "Inazuma",
+	"domainentrance": "Jardim Violeta",
+	"domaintype": "Material de Elevação de Talento",
 	"description": "No altar da Sakura violeta florescida eternamente, escondem-se inimigos invasores.\nSe você passar neste Julgamento, poderá obter Materiais para a Elevação de Talentos.",
-	"recommendedLevel": 38,
-	"recommendedElements": [
+	"recommendedlevel": 38,
+	"recommendedelements": [
 		"Electro"
 	],
-	"daysOfWeek": [
+	"daysofweek": [
 		"Segunda-feira",
 		"Quinta-feira",
 		"Domingo"
 	],
-	"unlockRank": 1,
-	"rewardPreview": [
+	"unlockrank": 1,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "EXP de Aventura",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 1575
 		},
 		{
-			"id": 105,
 			"name": "EXP de Amizade",
 			"count": 15
 		},
 		{
-			"id": 104320,
 			"name": "Ensinamentos do Mundo Mortal"
 		}
 	],
@@ -43,22 +35,10 @@
 		"Todos os Personagens da Equipe obterão 25% de Bônus de Dano Electro.",
 		"Durante o desafio, há uma cristalização Electro que periodicamente emergirá uma Pérola Electro. Depois do Personagem obter a Pérola Electro, ao seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental e Supremo acertar um inimigo, desencadearão um relampejamento que causará Dano Electro."
 	],
-	"monsterList": [
-		{
-			"id": 21010101,
-			"name": "Hilichurl"
-		},
-		{
-			"id": 21011601,
-			"name": "Hilichurl Granadeiro Electro"
-		},
-		{
-			"id": 21011001,
-			"name": "Hilichurl Atirador Electro"
-		},
-		{
-			"id": 21020701,
-			"name": "Mitachurl do Machado Electro"
-		}
+	"monsterlist": [
+		"Hilichurl",
+		"Hilichurl Granadeiro Electro",
+		"Hilichurl Atirador Electro",
+		"Mitachurl do Machado Electro"
 	]
 }

@@ -1,15 +1,9 @@
 {
-	"id": 200101,
 	"name": "Băng Vụn Vỡ",
-	"rarity": 3,
-	"sortRank": 430061,
 	"description": "Mảnh kết tinh nhỏ được lấy trên người ma vật ở Long Tích Tuyết Sơn.\nNó được sinh ra trong một khoảnh khắc đặc biệt.",
-<<<<<<< HEAD
 	"sortorder": 4960,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Nguyên Liệu Tuyết Sơn",
-	"sources": []
+	"materialtype": "Nguyên Liệu Tuyết Sơn",
+	"source": []
 }

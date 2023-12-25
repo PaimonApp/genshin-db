@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Um Final Previsto",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1406,
-=======
-	"id": [
-		81422
-	],
-	"name": "Um Final Previsto",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1406,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Um Final Previsto",
 		"description": "Você ajuda o Instituto de Pesquisas de Fontaine a voltar para os trilhos...?",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

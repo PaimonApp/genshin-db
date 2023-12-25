@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Gặp ở thế giới khác - Phần I",
 	"sortorder": 26,
-=======
-	"id": 13,
-	"name": "Gặp Ở Thế Giới Khác - Phần I",
-	"sortOrder": 26,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210033,
 		"name": "Thành tựu - Gặp gỡ"
 	}
 }

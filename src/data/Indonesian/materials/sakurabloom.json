@@ -1,15 +1,10 @@
 {
-	"id": 101202,
 	"name": "Sakura Bloom",
-	"sortRank": 313,
 	"description": "Kelopak bunga yang jatuh dari Sacred Sakura di Kuil Agung Narukami. Setiap bagiannya penuh dengan berkah dari tanah Inazuma.",
-<<<<<<< HEAD
 	"sortorder": 2863,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk Khas Inazuma",
-	"sources": [
+	"materialtype": "Produk Khas Inazuma",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Narukami Island"
 	]

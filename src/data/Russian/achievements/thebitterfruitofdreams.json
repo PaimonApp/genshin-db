@@ -1,18 +1,14 @@
 {
-	"id": [
-		81255
-	],
 	"name": "Горький плод мечты",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1241,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1241,
 	"stages": 1,
 	"stage1": {
 		"title": "Горький плод мечты",
 		"description": "Используйте кусаву впервые.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

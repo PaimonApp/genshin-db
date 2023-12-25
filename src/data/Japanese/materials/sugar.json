@@ -1,15 +1,10 @@
 {
-	"id": 110006,
 	"name": "砂糖",
-	"sortRank": 322,
 	"description": "スイートフラワーから精製した調味料。その甘さは人間と共鳴する力があるかのように、心の翳りを取り払う。",
-<<<<<<< HEAD
 	"sortorder": 2952,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"食材加工で獲得"
 	]
 }

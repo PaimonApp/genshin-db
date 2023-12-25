@@ -492,14 +492,9 @@
 		"sumerurose": "Rosa de Sumeru",
 		"sunsetcloudangler": "Pez globo crepuscular",
 		"sunsettia": "Solsettia",
-<<<<<<< HEAD
-=======
-		"superduperinvincibleshiningsparklymagiccrystal": "Supercristal mágico supremo resplandeciente",
->>>>>>> upstream/main
 		"surgingsacredchalice": "Sacrocáliz rebosante",
 		"sweetflower": "Flor dulce",
 		"sweetflowermedaka": "Medaka flor dulce",
-		"swirlingsceneinabottle": "Botella del paisaje fluyente",
 		"tailofboreas": "Cola de Boreas",
 		"teachingsofadmonition": "Enseñanzas de la exhortación",
 		"teachingsofballad": "Enseñanzas de la poesía",
@@ -1064,14 +1059,9 @@
 		"Rosa de Sumeru": "sumerurose",
 		"Pez globo crepuscular": "sunsetcloudangler",
 		"Solsettia": "sunsettia",
-<<<<<<< HEAD
-=======
-		"Supercristal mágico supremo resplandeciente": "superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 		"Sacrocáliz rebosante": "surgingsacredchalice",
 		"Flor dulce": "sweetflower",
 		"Medaka flor dulce": "sweetflowermedaka",
-		"Botella del paisaje fluyente": "swirlingsceneinabottle",
 		"Cola de Boreas": "tailofboreas",
 		"Enseñanzas de la exhortación": "teachingsofadmonition",
 		"Enseñanzas de la poesía": "teachingsofballad",
@@ -1527,13 +1517,7 @@
 			"smolderingpearl",
 			"springofpuresacreddewdrop",
 			"stormbeads",
-<<<<<<< HEAD
 			"surgingsacredchalice",
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
-			"surgingsacredchalice",
-			"swirlingsceneinabottle",
->>>>>>> upstream/main
 			"thevisiblewinds",
 			"thunderclapfruitcore",
 			"tourbillondevice",
@@ -1865,7 +1849,6 @@
 			"rimewornfragment",
 			"silkenprint",
 			"smallprettycrystal",
-			"swirlingsceneinabottle",
 			"ultrahotburnerlamptestmodel",
 			"vialofadeptalspeed",
 			"voucherbox"
@@ -2232,10 +2215,6 @@
 			"sturdyboneshard",
 			"sturdyshell",
 			"sublimationofpuresacreddewdrop",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"tailofboreas",
 			"teachingsofadmonition",
@@ -2487,10 +2466,6 @@
 			"originalfishointment",
 			"parasoltalcum",
 			"plumeofthechangingwinds",
-<<<<<<< HEAD
-=======
-			"superduperinvincibleshiningsparklymagiccrystal",
->>>>>>> upstream/main
 			"surgingsacredchalice",
 			"thevisiblewinds",
 			"unfadingsilkygrace"
@@ -3066,7 +3041,6 @@
 			"naturestruefruit",
 			"plumeofpurifyinglight",
 			"silkenprint",
-			"swirlingsceneinabottle",
 			"vialofadeptalspeed"
 		],
 		"Dominio de la forja: Nubes ponzoñosas": [
@@ -3362,11 +3336,11 @@
 	},
 	"properties": {
 		"rarity": [
-			3,
-			5,
-			1,
-			2,
-			4
+			"3",
+			"5",
+			"1",
+			"2",
+			"4"
 		],
 		"category": [
 			"EXCHANGE",
@@ -3381,7 +3355,7 @@
 			"FISH_ROD",
 			"ADSORBATE"
 		],
-		"typeText": [
+		"materialtype": [
 			"Pez",
 			"Cupón Gachapón Normal",
 			"Comida",
@@ -3423,7 +3397,7 @@
 			"Material de Espinadragón",
 			"Artilugio"
 		],
-		"dropDomainName": [
+		"dropdomain": [
 			"Dominio de la forja: Campo de prueba del relámpago milenario",
 			"Dominio de la forja: Valle sumergido",
 			"Dominio de la forja: Sofisticación mecánica",
@@ -3455,7 +3429,7 @@
 			"Dominio de la forja: Altar de las arenas",
 			"Dominio de la forja: Raga"
 		],
-		"daysOfWeek": [
+		"daysofweek": [
 			"Miércoles",
 			"Sábado",
 			"Domingo",

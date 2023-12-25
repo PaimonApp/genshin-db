@@ -1,24 +1,17 @@
 {
-	"id": 114017,
 	"name": "Mist Veiled Lead Elixir",
-	"rarity": 2,
-	"sortRank": 15105,
 	"description": "Material Ascension Senjata.\nJueyun Karst adalah tempat tinggal bagi Adeptus yang agung dan maha kuasa. Menurut legenda, selain mempunyai kemampuan untuk mengendalikan unsur-unsur di dunia, Jueyun Karst juga menyimpan tiga rahasia yang tak pernah dapat dikatakan: Danding (Alkimia), Fulu (Jimat), dan Waijing (Penciptaan Ruang).",
-<<<<<<< HEAD
 	"sortorder": 3296,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Senjata",
-	"dropDomainId": 5218,
-	"dropDomainName": "Domain of Forgery: Reruntuhan Petir",
-	"daysOfWeek": [
+	"materialtype": "Material Ascension Senjata",
+	"dropdomain": "Domain of Forgery: Reruntuhan Petir",
+	"daysofweek": [
 		"Selasa",
 		"Jumat",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Dibeli dari Toko Suvenir di Liyue"
 	]
 }

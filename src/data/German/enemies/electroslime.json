@@ -1,8 +1,7 @@
 {
-	"id": 20010501,
 	"name": "Elektro-Schleim",
-	"specialName": "Elementarkraft in Kugelform",
-	"enemyType": "COMMON",
+	"specialname": "Elementarkraft in Kugelform",
+	"enemytype": "COMMON",
 	"category": "Elementare Lebensformen",
 	"description": "Ein kleines Monster, das durch die Elektro-Verbindungen in der Natur hervorgebracht wurde.\nAnalysen zufolge hängen die Sprünge des Elektro-Schleims vom Spannungsunterschied im Boden ab. In Gegenden mit starken Elektro-Vorkommen dienen ihre ungewöhnlichen Bewegungen als Gefahrenhinweis.",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "Normal",
 		"description": "Eine puddingartige elementare Lebensform.\\nEs wird gesagt, dass Desserts, die aus Schleim verschiedener Elemente hergestellt werden, einen unglaublich unverwechselbaren Geschmack haben."
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112002,
 			"name": "Schleimabsonderung",
 			"count": 0.6723
 		},
 		{
-			"id": 112003,
 			"name": "Schleimkondensat",
 			"count": 0.1792
 		},
 		{
-			"id": 112004,
 			"name": "Schleimkonzentrat",
 			"count": 0.0448
 		}

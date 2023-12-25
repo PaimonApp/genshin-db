@@ -1,13 +1,7 @@
 {
-	"id": 27,
 	"name": "Chroniques de la mer de brouillard",
-<<<<<<< HEAD
 	"sortorder": 36,
-=======
-	"sortOrder": 36,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210103,
 		"name": "Inazuma - Plume d'aigle"
 	}
 }

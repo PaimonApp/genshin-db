@@ -1,26 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "La porte pas si étroite",
 	"achievementgroup": "Merveilles du monde",
 	"sortorder": 1366,
-=======
-	"id": [
-		81382
-	],
-	"name": "La porte pas si étroite",
-	"achievementGroupName": "Merveilles du monde",
-	"sortOrder": 1366,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "La porte pas si étroite",
 		"description": "Vous avez ouvert la porte d'un certain bureau secret.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

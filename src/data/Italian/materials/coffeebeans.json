@@ -1,15 +1,10 @@
 {
-	"id": 100098,
 	"name": "Chicchi di caffè",
-	"sortRank": 321,
 	"description": "Un seme comune di Teyvat dall'aroma speciale. Una volta tritato, si può usare per preparare varie bevande.",
-<<<<<<< HEAD
 	"sortorder": 2935,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Acquistabile nei bar di Sumeru",
 		"Acquistabile nelle caffetterie di Fontaine"
 	]

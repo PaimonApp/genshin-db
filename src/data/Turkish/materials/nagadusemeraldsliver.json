@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Nagadus Zümrüdü Tozu",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Karakter Yükseltme Malzemesi.",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yükseltme Malzemesi",
-	"sources": [
+	"materialtype": "Karakter Yükseltme Malzemesi",
+	"source": [
 		"Yeşimkuyruk Mantar Kuşundan düşer.",
 		"Doğa Hipostazlarından düşer."
 	]

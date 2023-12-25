@@ -1,14 +1,9 @@
 {
-	"id": 100938,
 	"name": "Ấn Khóa",
 	"dupealias": "Ấn Khóa 4",
-	"sortRank": 430041,
 	"description": "Ấn Khóa được lưu truyền tại Đảo Watatsumi và Enkanomiya, ẩn chứa một bí mật nào đó.",
-<<<<<<< HEAD
 	"sortorder": 4955,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Vật phẩm tiêu hao",
-	"sources": []
+	"materialtype": "Vật phẩm tiêu hao",
+	"source": []
 }

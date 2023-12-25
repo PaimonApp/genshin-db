@@ -1,15 +1,10 @@
 {
-	"id": 100099,
 	"name": "Fermented Juice",
-	"sortRank": 321,
 	"description": "น้ำผลไม้จากการหมักบ่ม ที่มีกลิ่นหอมอันเป็นเอกลักษณ์ของผลไม้ มักจะใช้ปรุงรสตอนทำอาหารเมนูเนื้อสัตว์",
-<<<<<<< HEAD
 	"sortorder": 2936,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัตถุดิบประกอบอาหาร",
-	"sources": [
+	"materialtype": "วัตถุดิบประกอบอาหาร",
+	"source": [
 		"ซื้อจากร้านขายของชำใน Fontaine"
 	]
 }

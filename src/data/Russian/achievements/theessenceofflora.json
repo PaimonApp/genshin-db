@@ -1,11 +1,7 @@
 {
-	"id": [
-		80175
-	],
 	"name": "Сущность флоры",
-	"achievementGroupId": 32,
-	"achievementGroupName": "Скитания по миру III",
-	"sortOrder": 175,
+	"achievementgroup": "Скитания по миру III",
+	"sortorder": 175,
 	"stages": 1,
 	"stage1": {
 		"title": "Сущность флоры",
@@ -13,7 +9,6 @@
 		"description": "Получите силу элемента Дендро.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

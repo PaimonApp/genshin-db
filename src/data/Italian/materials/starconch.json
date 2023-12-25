@@ -1,15 +1,10 @@
 {
-	"id": 100033,
 	"name": "Conchistella",
-	"sortRank": 312,
 	"description": "Un tipo di conchiglia vuota portata a riva dalle maree. Avvicinala al tuo orecchio e ascolterai il dolce richiamo del mare.",
-<<<<<<< HEAD
 	"sortorder": 2859,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Specialità di Liyue",
-	"sources": [
+	"materialtype": "Specialità di Liyue",
+	"source": [
 		"Si trova sulle spiagge di Liyue"
 	]
 }

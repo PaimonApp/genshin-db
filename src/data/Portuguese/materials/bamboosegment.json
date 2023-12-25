@@ -1,19 +1,12 @@
 {
-	"id": 101305,
 	"name": "Segmento de Bambu",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Segmentos de bambu que são leves e muito mais fortes do que seu aspecto simples aparenta. Exalam uma leve fragrância.\nPode ser usado para fabricar Decorações.",
-<<<<<<< HEAD
 	"sortorder": 2964,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
-		"Recomendação: Talhado nas Planícies Bishui",
-		"Converter Madeira"
+		"Recomendação: Talhado nas Planícies Bishui"
 	]
 }

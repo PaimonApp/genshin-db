@@ -1,10 +1,9 @@
 {
-	"id": 2206,
 	"name": "Wakatakeni",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Défense",
+	"foodfilter": "Défense",
+	"foodcategory": "Def_Add",
 	"effect": "Augmente la DÉF de tous les personnages de l'équipe de 88 à 126 pts pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
 	"description": "Un plat végétarien aux couleurs claires. Du bouillon est versé dans la casserole avant d'y placer les pousses de bambou et les algues. Le tout forme un mets élégant dont la saveur légère convient à tous les palais. Il peut être servi en entrée ou en accompagnement.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100091,
 			"name": "Pousse de bambou",
 			"count": 3
 		},
 		{
-			"id": 101210,
 			"name": "Herbe marine",
 			"count": 2
 		}

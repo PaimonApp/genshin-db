@@ -1,8 +1,6 @@
 {
-	"id": 205100,
 	"name": "Танец волн",
 	"description": "Наряд Эолы. Аккуратность этой рыцарской формы подчеркивает её изящество.",
-	"isDefault": true,
-	"characterId": 10000051,
-	"characterName": "Эола"
+	"isdefault": true,
+	"character": "Эола"
 }

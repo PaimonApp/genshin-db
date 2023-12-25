@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Consomme",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Makanan Penyerangan",
 	"foodcategory": "Atk_CritRate",
-=======
-	"id": 3413,
-	"name": "Consomme",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Makanan Penyerangan",
->>>>>>> upstream/main
 	"effect": "Meningkatkan 10-20% CRIT Rate seluruh anggota party selama 300 detik.\nDalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
 	"description": "Sup dengan resep yang cukup rumit. Hancurkan bahan-bahannya, lalu rebus dan tumbuk dalam kaldu, lalu terakhir sajikan kuah bening dari rebusan tersebut. Ada gosip misterius yang tersebar di jalanan Fontaine bahwa penulis yang tidak punya inspirasi bisa tiba-tiba langsung terpikirkan sesuatu setelah meminum sup ini ... tapi efek yang luar biasa begitu, yakin bukan iklan yang dibuat-buat oleh restoran sup itu?",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100064,
->>>>>>> upstream/main
 			"name": "Fowl",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Bird Egg",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100013,
->>>>>>> upstream/main
 			"name": "Carrot",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

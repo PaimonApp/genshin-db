@@ -1,24 +1,17 @@
 {
-	"id": 114009,
 	"name": "Fetters of the Dandelion Gladiator",
-	"rarity": 2,
-	"sortRank": 15103,
 	"description": "Weapon Ascension Material.\nIt's a human thing to exaggerate a hero's story, even to the point of elevating the fetters that once bound the hero to the level of an enemy of true freedom.\nAs a result, these fetters were granted extraordinary powers.",
-<<<<<<< HEAD
 	"sortorder": 3288,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Weapon Ascension Material",
-	"dropDomainId": 4330,
-	"dropDomainName": "Domain of Forgery: Ruins of Thirsting Capital",
-	"daysOfWeek": [
+	"materialtype": "Weapon Ascension Material",
+	"dropdomain": "Domain of Forgery: Ruins of Thirsting Capital",
+	"daysofweek": [
 		"Wednesday",
 		"Saturday",
 		"Sunday"
 	],
-	"sources": [
+	"source": [
 		"Purchase from the Souvenir Shop in Mondstadt"
 	]
 }

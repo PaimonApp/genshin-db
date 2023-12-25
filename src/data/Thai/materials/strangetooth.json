@@ -1,13 +1,8 @@
 {
-	"id": 100618,
 	"name": "\"เขี้ยว\" ประหลาด",
-	"sortRank": 200,
 	"description": "\"เขี้ยวมังกร\" ที่เก็บมาจากภูเขา Dragonspine บางทีอาจจะมีคนที่พอรู้ข้อมูลเกี่ยวกับมัน...",
-<<<<<<< HEAD
 	"sortorder": 2776,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัสดุ",
-	"sources": []
+	"materialtype": "วัสดุ",
+	"source": []
 }

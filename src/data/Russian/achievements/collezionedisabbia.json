@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Собиратель камешков",
 	"achievementgroup": "Победитель VIII",
 	"sortorder": 2184,
-=======
-	"id": [
-		82185
-	],
-	"name": "Собиратель камешков",
-	"achievementGroupId": 40,
-	"achievementGroupName": "Победитель VIII",
-	"sortOrder": 2184,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Собиратель камешков",
 		"description": "Разрушьте жемчужину иноморья, не повредив резонирующую коралловую сферу, пока Морской конёк тысячелетней жемчужины направляет Древний гром Фонтмера.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

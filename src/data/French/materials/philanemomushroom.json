@@ -1,15 +1,10 @@
 {
-	"id": 100025,
 	"name": "Champignon anémophile",
-	"sortRank": 311,
 	"description": "Un champignon qui grandit sous les caresses de la brise. Il prospère comme le vent qui souffle toujours, nourrissant la vie.",
-<<<<<<< HEAD
 	"sortorder": 2850,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Mondstadt",
-	"sources": [
+	"materialtype": "Produit de Mondstadt",
+	"source": [
 		"Sous les corniches"
 	]
 }

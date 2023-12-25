@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Cá Hồi Hạnh Nhân",
 	"rarity": "1",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Hồi Phục",
 	"foodcategory": "Recovery_HpAddAll",
-=======
-	"id": 1402,
-	"name": "Cá Hồi Hạnh Nhân",
-	"rarity": 1,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Món Dạng Hồi Phục",
->>>>>>> upstream/main
 	"effect": "Hồi 8%-10% giới hạn HP cho nhân vật được chọn.\nTrong 30s tiếp theo, mỗi 5s hồi 210-300 HP.",
 	"description": "Món ăn làm từ miếng thịt cá lớn đem chiên. Trước tiên, dùng bơ chiên chín miếng phi lê cá, rồi cho hạnh nhân đã chiên giòn vào bày chung trên đĩa. Cách làm truyền thống là trực tiếp cho nguyên con cá đã làm sạch vào chảo dầu, nhưng gần đây cũng bắt đầu thịnh hành cách dùng phi lê cá để chiên.",
 	"suspicious": {
@@ -29,18 +20,10 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100084,
->>>>>>> upstream/main
 			"name": "Thịt Cá",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "Hạnh Nhân",
 			"count": 1
 		}

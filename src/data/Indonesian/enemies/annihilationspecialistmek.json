@@ -1,29 +1,8 @@
 {
-	"id": 24069001,
 	"name": "Annihilation Specialist Mek",
-	"specialName": "Meka, Cal. Countess Byron",
-	"enemyType": "COMMON",
+	"specialname": "Meka, Cal. Countess Byron",
+	"enemytype": "COMMON",
 	"category": "Automaton",
 	"description": "Meski Institut Penelitian Energi Kinetik Fontaine adalah pusat penelitian dan desain mekanisme roda gigi, ada banyak insinyur dan bengkel yang bukan merupakan bagian dari Institut tersebut.\nMesin ini awalnya dirancang oleh insinyur untuk mengenang kekasih dan sponsornya. Akhirnya mesin ini dipilih dan dibeli oleh Maison Gardiennage sebagai salah satu senjata keamanan kota atau disebut juga sebagai organisasi kekerasan publik.",
-	"rewardPreview": [
-		{
-			"id": 202,
-			"name": "Mora"
-		},
-		{
-			"id": 112083,
-			"name": "Meshing Gear",
-			"count": 3.3616
-		},
-		{
-			"id": 112084,
-			"name": "Mechanical Spur Gear",
-			"count": 0.8964
-		},
-		{
-			"id": 112085,
-			"name": "Artificed Dynamic Gear",
-			"count": 0.224
-		}
-	]
+	"rewardpreview": []
 }

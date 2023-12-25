@@ -1,14 +1,9 @@
 {
-	"id": 100935,
 	"name": "Sigil Kunci",
 	"dupealias": "Sigil Kunci 1",
-	"sortRank": 430041,
 	"description": "Sebuah sigil yang diturunkan melalui Pulau Watatsumi dan Enkanomiya. Dibuat dengan menguraikan berbagai lambang orang-orang Byakuyakoku zaman dulu.",
-<<<<<<< HEAD
 	"sortorder": 4952,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Konsumsi",
-	"sources": []
+	"materialtype": "Konsumsi",
+	"source": []
 }

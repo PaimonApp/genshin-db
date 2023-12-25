@@ -1,10 +1,9 @@
 {
-	"id": 3209,
 	"name": "米饭布丁",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "冒险类料理",
+	"foodfilter": "冒险类料理",
+	"foodcategory": "Other_SPAdd",
 	"effect": "恢复70-100点体力。",
 	"description": "由稻米制成的甜点。将稻米提前煮熟后，与其他食材一并放入锅中，搅拌均匀后蒸熟。口感香甜绵软，作为一餐的收尾刚好合适。",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "鸟蛋",
 			"count": 3
 		},
 		{
-			"id": 100092,
 			"name": "稻米",
 			"count": 2
 		},
 		{
-			"id": 100078,
 			"name": "牛奶",
 			"count": 2
 		},
 		{
-			"id": 110006,
 			"name": "糖",
 			"count": 2
 		}

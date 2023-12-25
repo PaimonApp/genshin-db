@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "La historia terminó, pero...",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1401,
-=======
-	"id": [
-		81417
-	],
-	"name": "La historia terminó, pero...",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1401,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "La historia terminó, pero...",
 		"description": "... la aventura llamada “vida” continúa.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

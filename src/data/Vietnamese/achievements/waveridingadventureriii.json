@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Nhà Mạo Hiểm Sóng Biển III",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (III)",
 	"sortorder": 271,
-=======
-	"id": [
-		80295,
-		80296,
-		80297
-	],
-	"name": "Nhà Mạo Hiểm Sóng Biển III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (III)",
-	"sortOrder": 271,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Nhà Mạo Hiểm Sóng Biển III",
 		"description": "Hoàn thành {param0} khiêu chiến Đại Thế Giới trong thời gian quy định tại Khu Morte và Khu Rừng Erinnyes.",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Hoàn thành {param0} khiêu chiến Đại Thế Giới trong thời gian quy định tại Khu Morte và Khu Rừng Erinnyes.",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Hoàn thành {param0} khiêu chiến Đại Thế Giới trong thời gian quy định tại Khu Morte và Khu Rừng Erinnyes.",
 		"progress": 9,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 20
 		}

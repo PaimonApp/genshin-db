@@ -1,15 +1,10 @@
 {
-	"id": 101207,
 	"name": "Sango Pearl",
-	"sortRank": 313,
 	"description": "A precious pearl that grows in the coral of Watatsumi. Gives off a cool sheen like that of the moonlight.",
-<<<<<<< HEAD
 	"sortorder": 2868,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Inazuma)",
-	"sources": [
+	"materialtype": "Local Specialty (Inazuma)",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found on Watatsumi Island"
 	]

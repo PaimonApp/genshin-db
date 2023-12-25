@@ -21,7 +21,6 @@
 		"ahawhatsonthehook": "啊哈…什麼上鉤了？",
 		"ahollowsoul": "無靈魂處的靈魂",
 		"ahouseillfounded": "基礎不牢，地動山搖！",
-		"ahumandrama": "人間劇",
 		"akashapulsesthekalpaflamerises": "虛空鼓動，劫火高揚",
 		"alavolontedupeuple": "為了眾人的願望",
 		"aleisurelyjourney": "悠遊旅情",
@@ -976,7 +975,6 @@
 		"啊哈…什麼上鉤了？": "ahawhatsonthehook",
 		"無靈魂處的靈魂": "ahollowsoul",
 		"基礎不牢，地動山搖！": "ahouseillfounded",
-		"人間劇": "ahumandrama",
 		"虛空鼓動，劫火高揚": "akashapulsesthekalpaflamerises",
 		"為了眾人的願望": "alavolontedupeuple",
 		"悠遊旅情": "aleisurelyjourney",
@@ -1927,7 +1925,6 @@
 			"ahawhatsonthehook",
 			"ahollowsoul",
 			"ahouseillfounded",
-			"ahumandrama",
 			"akashapulsesthekalpaflamerises",
 			"alavolontedupeuple",
 			"aleisurelyjourney",
@@ -2960,7 +2957,7 @@
 		]
 	},
 	"properties": {
-		"achievementGroupName": [
+		"achievementgroup": [
 			"天地萬象",
 			"秘境與深境螺旋·第一輯",
 			"七聖召喚",

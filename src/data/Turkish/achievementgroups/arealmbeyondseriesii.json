@@ -1,13 +1,7 @@
 {
-	"id": 19,
 	"name": "Başka Bir Diyar: II. Seri",
-<<<<<<< HEAD
 	"sortorder": 32,
-=======
-	"sortOrder": 32,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210075,
 		"name": "Başarım: Tatil Evi"
 	}
 }

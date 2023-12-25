@@ -1,15 +1,10 @@
 {
-	"id": 101220,
 	"name": "Quandong",
-	"sortRank": 314,
 	"description": "Un fruit qui pousse même dans les environnements désertiques les plus hostiles. Ces fruits pourpres vibrants sont rendus encore plus beaux sur un fond de sable jaune.",
-<<<<<<< HEAD
 	"sortorder": 2875,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Sumeru",
-	"sources": [
+	"materialtype": "Produit de Sumeru",
+	"source": [
 		"Déserts de Sumeru"
 	]
 }

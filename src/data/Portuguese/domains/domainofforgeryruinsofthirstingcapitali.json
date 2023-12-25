@@ -1,57 +1,43 @@
 {
-	"id": 4330,
 	"name": "Domínio da Forja: Capital Sedenta I",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"entranceId": 37,
-	"entranceName": "Jardim de Cecilia",
-	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
-	"domainText": "Material de Ascensão de Armas",
+	"region": "Mondstadt",
+	"domainentrance": "Jardim de Cecilia",
+	"domaintype": "Material de Ascensão de Armas",
 	"description": "Uma energia massiva Hydro está fluindo através deste altar de sacrifício antigo úmido.\nA umidade intensa aumentará o Tempo de Recarga das suas habilidades.\nVocê ganhará materiais de fortalecimento de equipamentos, apenas se você puder passar no teste.",
-	"recommendedLevel": 15,
-	"recommendedElements": [
+	"recommendedlevel": 15,
+	"recommendedelements": [
 		"Cryo",
 		"Pyro",
 		"Electro"
 	],
-	"daysOfWeek": [
+	"daysofweek": [
 		"Quarta-feira",
 		"Sábado",
 		"Domingo"
 	],
-	"unlockRank": 1,
-	"rewardPreview": [
+	"unlockrank": 1,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "EXP de Aventura",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 1125
 		},
 		{
-			"id": 105,
 			"name": "EXP de Amizade",
 			"count": 10
 		},
 		{
-			"id": 114009,
 			"name": "Grilhões de Dandelion"
 		}
 	],
 	"disorder": [
 		"Seu personagem será infligido periodicamente com Águas Lentas, aumentando consideravelmente a duração da Recarga de suas habilidades até que o elemento Hydro infligido seja removido."
 	],
-	"monsterList": [
-		{
-			"id": 20011001,
-			"name": "Slime Hydro"
-		},
-		{
-			"id": 20011101,
-			"name": "Grande Slime Hydro"
-		}
+	"monsterlist": [
+		"Slime Hydro",
+		"Grande Slime Hydro"
 	]
 }

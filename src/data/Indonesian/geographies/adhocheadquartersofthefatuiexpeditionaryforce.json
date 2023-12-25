@@ -1,11 +1,8 @@
 {
-	"id": 70400044,
 	"name": "Markas Sementara Pasukan Ekspedisi Fatui",
-	"areaId": 5003,
-	"areaName": "Wadi Al-Majuj",
+	"area": "Wadi Al-Majuj",
 	"description": "Pasukan pelopor dari tanah bersalju di ujung utara telah mendirikan kemah di sini di tengah bisikan kuil-kuil kuno.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 344
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 344
 }

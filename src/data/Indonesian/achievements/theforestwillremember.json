@@ -1,11 +1,7 @@
 {
-	"id": [
-		80174
-	],
 	"name": "Hutan Akan Selalu Mengingat Segalanya",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru: Hutan Hikmat dan Pengetahuan",
-	"sortOrder": 174,
+	"achievementgroup": "Sumeru: Hutan Hikmat dan Pengetahuan",
+	"sortorder": 174,
 	"stages": 1,
 	"stage1": {
 		"title": "Hutan Akan Selalu Mengingat Segalanya",
@@ -13,7 +9,6 @@
 		"description": "Selesaikan \"Aranyaka\".",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

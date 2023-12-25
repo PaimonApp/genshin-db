@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "커피 바바루아",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "회복류 요리",
 	"foodcategory": "Recovery_HpAddAll",
-=======
-	"id": 3410,
-	"name": "커피 바바루아",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "회복류 요리",
->>>>>>> upstream/main
 	"effect": "선택한 캐릭터 HP 최대치의 26%-30%를 회복한다\n이후 30초 동안 5초마다 HP를 450-790pt 회복한다",
 	"description": "시원한 디저트. 폰타인의 대표적인 디저트지만 레시피는 아주 간단해서 식자재의 비율만 정확하다면 실패할 리가 없다. 부드러운 식감에 시원함이 더해져 순식간에 기운이 난다",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "커피콩",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100078,
->>>>>>> upstream/main
 			"name": "우유",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "새알",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "크림",
 			"count": 2
 		}

@@ -1,17 +1,11 @@
 {
-	"id": 104131,
 	"name": "Scheggia di smeraldo Nagadus",
-	"rarity": 2,
-	"sortRank": 12104,
 	"description": "Materiale d'ascensione personaggi.",
-<<<<<<< HEAD
 	"sortorder": 3200,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale d'ascensione personaggi",
-	"sources": [
+	"materialtype": "Materiale d'ascensione personaggi",
+	"source": [
 		"Ottenibile dai Fungostri Cresta di giada",
 		"Ottenibile dalle Ipostasi di Dendro"
 	]

@@ -1,18 +1,14 @@
 {
-	"id": [
-		81120
-	],
 	"name": "Овадзамоно",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1116,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1116,
 	"stages": 1,
 	"stage1": {
 		"title": "Овадзамоно",
 		"description": "С лёгкостью одолейте Масанори.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

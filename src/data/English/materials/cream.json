@@ -1,15 +1,10 @@
 {
-	"id": 110002,
 	"name": "Cream",
-	"sortRank": 322,
 	"description": "A dairy product made from milk. An essential ingredient in making pastries.",
-<<<<<<< HEAD
 	"sortorder": 2948,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Processed"
 	]
 }

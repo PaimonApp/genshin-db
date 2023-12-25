@@ -1,19 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "นักล่าสมบัติแห่งเกลียวคลื่น III",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว III",
 	"sortorder": 268,
-=======
-	"id": [
-		80292,
-		80293,
-		80294
-	],
-	"name": "นักล่าสมบัติแห่งเกลียวคลื่น III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว III",
-	"sortOrder": 268,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "นักล่าสมบัติแห่งเกลียวคลื่น III",
@@ -21,10 +9,6 @@
 		"description": "เปิดหีบสมบัติ {param0} หีบ ในพื้นที่ Morte Region และ Erinnyes Forest",
 		"progress": 40,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -35,10 +19,6 @@
 		"description": "เปิดหีบสมบัติ {param0} หีบ ในพื้นที่ Morte Region และ Erinnyes Forest",
 		"progress": 80,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -49,10 +29,6 @@
 		"description": "เปิดหีบสมบัติ {param0} หีบ ในพื้นที่ Morte Region และ Erinnyes Forest",
 		"progress": 160,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

@@ -1,381 +1,380 @@
 {
 	"themarshofcelestialguardians": {
-		"filename_image": "UI_Codex_Scenery_MDxingluohu"
+		"nameimage": "UI_Codex_Scenery_MDxingluohu"
 	},
 	"thecityofwind": {
-		"filename_image": "UI_Codex_Scenery_MDmengdecheng"
+		"nameimage": "UI_Codex_Scenery_MDmengdecheng"
 	},
 	"knightsoffavoniuslibrary": {
-		"filename_image": "UI_Codex_Scenery_MDtushuguan"
+		"nameimage": "UI_Codex_Scenery_MDtushuguan"
 	},
 	"favoniuscathedral": {
-		"filename_image": "UI_Codex_Scenery_MDxifengdajiaotang"
+		"nameimage": "UI_Codex_Scenery_MDxifengdajiaotang"
 	},
 	"windsweptwilderness": {
-		"filename_image": "UI_Codex_Scenery_MDfengqidi"
+		"nameimage": "UI_Codex_Scenery_MDfengqidi"
 	},
 	"forgottenswordcemetery": {
-		"filename_image": "UI_Codex_Scenery_MDdadawupagu"
+		"nameimage": "UI_Codex_Scenery_MDdadawupagu"
 	},
 	"landofclearsprings": {
-		"filename_image": "UI_Codex_Scenery_MDqingquanzhen"
+		"nameimage": "UI_Codex_Scenery_MDqingquanzhen"
 	},
 	"manorofdaybreak": {
-		"filename_image": "UI_Codex_Scenery_MDchenxijiuzhuang"
+		"nameimage": "UI_Codex_Scenery_MDchenxijiuzhuang"
 	},
 	"ancientthousandwindstemple": {
-		"filename_image": "UI_Codex_Scenery_MDqianfengshendian"
+		"nameimage": "UI_Codex_Scenery_MDqianfengshendian"
 	},
 	"abandonedcapitalofhowlingwinds": {
-		"filename_image": "UI_Codex_Scenery_MDfenglongfeixu"
+		"nameimage": "UI_Codex_Scenery_MDfenglongfeixu"
 	},
 	"vigilantguardiansvantagepoint": {
-		"filename_image": "UI_Codex_Scenery_LYwangshukezhan"
+		"nameimage": "UI_Codex_Scenery_LYwangshukezhan"
 	},
 	"ahomeinthehills": {
-		"filename_image": "UI_Codex_Scenery_LYqingcezhuang"
+		"nameimage": "UI_Codex_Scenery_LYqingcezhuang"
 	},
 	"marshofrustlingreeds": {
-		"filename_image": "UI_Codex_Scenery_LYdihuazhou"
+		"nameimage": "UI_Codex_Scenery_LYdihuazhou"
 	},
 	"wheremountainspeakbeyondtheclouds": {
-		"filename_image": "UI_Codex_Scenery_LYjueyunjian"
+		"nameimage": "UI_Codex_Scenery_LYjueyunjian"
 	},
 	"mistveiledstoneforest": {
-		"filename_image": "UI_Codex_Scenery_LYhuaguanglin"
+		"nameimage": "UI_Codex_Scenery_LYhuaguanglin"
 	},
 	"moonlittree": {
-		"filename_image": "UI_Codex_Scenery_LYnantianmen"
+		"nameimage": "UI_Codex_Scenery_LYnantianmen"
 	},
 	"ruinsofguili": {
-		"filename_image": "UI_Codex_Scenery_LYguiliyuan"
+		"nameimage": "UI_Codex_Scenery_LYguiliyuan"
 	},
 	"weepinggarden": {
-		"filename_image": "UI_Codex_Scenery_LYluhuachi"
+		"nameimage": "UI_Codex_Scenery_LYluhuachi"
 	},
 	"ninepillarsofpeace": {
-		"filename_image": "UI_Codex_Scenery_LYjingshijiuzhu"
+		"nameimage": "UI_Codex_Scenery_LYjingshijiuzhu"
 	},
 	"qingxusforsakentower": {
-		"filename_image": "UI_Codex_Scenery_LYqingxupu"
+		"nameimage": "UI_Codex_Scenery_LYqingxupu"
 	},
 	"dunyuruins": {
-		"filename_image": "UI_Codex_Scenery_LYdunyuling"
+		"nameimage": "UI_Codex_Scenery_LYdunyuling"
 	},
 	"beyondthechasm": {
-		"filename_image": "UI_Codex_Scenery_LYkuangchang"
+		"nameimage": "UI_Codex_Scenery_LYkuangchang"
 	},
 	"wheremerchantsflockandallshipsdock": {
-		"filename_image": "UI_Codex_Scenery_LYliyuegang"
+		"nameimage": "UI_Codex_Scenery_LYliyuegang"
 	},
 	"yujingterrace": {
-		"filename_image": "UI_Codex_Scenery_LYyujingtai"
+		"nameimage": "UI_Codex_Scenery_LYyujingtai"
 	},
 	"chihurock": {
-		"filename_image": "UI_Codex_Scenery_LYchihuyan"
+		"nameimage": "UI_Codex_Scenery_LYchihuyan"
 	},
 	"feiyunslope": {
-		"filename_image": "UI_Codex_Scenery_LYfeiyunpo"
+		"nameimage": "UI_Codex_Scenery_LYfeiyunpo"
 	},
 	"adropintheocean": {
-		"filename_image": "UI_Codex_Scenery_LYguyunge"
+		"nameimage": "UI_Codex_Scenery_LYguyunge"
 	},
 	"ritounarukamiisland": {
-		"filename_image": "UI_Codex_Scenery_DQlidao"
+		"nameimage": "UI_Codex_Scenery_DQlidao"
 	},
 	"thesacredforestinthemoonlight": {
-		"filename_image": "UI_Codex_Scenery_DQshouhuzhisen"
+		"nameimage": "UI_Codex_Scenery_DQshouhuzhisen"
 	},
 	"tenryouinazumacity": {
-		"filename_image": "UI_Codex_Scenery_DQdaoqichengfujiao"
+		"nameimage": "UI_Codex_Scenery_DQdaoqichengfujiao"
 	},
 	"suburbsinazumacity": {
-		"filename_image": "UI_Codex_Scenery_DQdaoqichengyangjiao"
+		"nameimage": "UI_Codex_Scenery_DQdaoqichengyangjiao"
 	},
 	"grandnarukamishrinemtyougou": {
-		"filename_image": "UI_Codex_Scenery_DQmingshendashe"
+		"nameimage": "UI_Codex_Scenery_DQmingshendashe"
 	},
 	"tataraislandsvantagepoint": {
-		"filename_image": "UI_Codex_Scenery_DQgaolu"
+		"nameimage": "UI_Codex_Scenery_DQgaolu"
 	},
 	"frontlinekannazuka": {
-		"filename_image": "UI_Codex_Scenery_DQjiutiaozhenwu"
+		"nameimage": "UI_Codex_Scenery_DQjiutiaozhenwu"
 	},
 	"overlookingserpenthead": {
-		"filename_image": "UI_Codex_Scenery_DQlongtou"
+		"nameimage": "UI_Codex_Scenery_DQlongtou"
 	},
 	"tidalflatamidsttheflamesofwar": {
-		"filename_image": "UI_Codex_Scenery_DQmingzhuitan"
+		"nameimage": "UI_Codex_Scenery_DQmingzhuitan"
 	},
 	"riftvalleyyashioriisland": {
-		"filename_image": "UI_Codex_Scenery_DQwuxiangrenxiajian"
+		"nameimage": "UI_Codex_Scenery_DQwuxiangrenxiajian"
 	},
 	"thepearlescentpalace": {
-		"filename_image": "UI_Codex_Scenery_DQ2shanhugong"
+		"nameimage": "UI_Codex_Scenery_DQ2shanhugong"
 	},
 	"themoonbatheddeep": {
-		"filename_image": "UI_Codex_Scenery_DQ2yuanxiagong"
+		"nameimage": "UI_Codex_Scenery_DQ2yuanxiagong"
 	},
 	"villageofthepeopleofthedeep": {
-		"filename_image": "UI_Codex_Scenery_DQ2wanglongcun"
+		"nameimage": "UI_Codex_Scenery_DQ2wanglongcun"
 	},
 	"whereswirlingstormcloudsgather": {
-		"filename_image": "UI_Codex_Scenery_DQ2leibao"
+		"nameimage": "UI_Codex_Scenery_DQ2leibao"
 	},
 	"thestrandedflagship": {
-		"filename_image": "UI_Codex_Scenery_DQ2qinglaiwan"
+		"nameimage": "UI_Codex_Scenery_DQ2qinglaiwan"
 	},
 	"thesilentfishingvillage": {
-		"filename_image": "UI_Codex_Scenery_DQ2yueshicun"
+		"nameimage": "UI_Codex_Scenery_DQ2yueshicun"
 	},
 	"wheretheprovisionalheadpriestesslives": {
-		"filename_image": "UI_Codex_Scenery_DQ2qianlaishenshe"
+		"nameimage": "UI_Codex_Scenery_DQ2qianlaishenshe"
 	},
 	"tsurumiisland": {
-		"filename_image": "UI_Codex_Scenery_DQ3heguan"
+		"nameimage": "UI_Codex_Scenery_DQ3heguan"
 	},
 	"viewfromthechasmssurface": {
-		"filename_image": "UI_Codex_Scenery_CYCengYanJuYuanZhu"
+		"nameimage": "UI_Codex_Scenery_CYCengYanJuYuanZhu"
 	},
 	"mouthofthegreatmine": {
-		"filename_image": "UI_Codex_Scenery_CYJuYuanDongKouJieSuo"
+		"nameimage": "UI_Codex_Scenery_CYJuYuanDongKouJieSuo"
 	},
 	"theancientbattlefieldoffuaovale": {
-		"filename_image": "UI_Codex_Scenery_CYGuZhanChang"
+		"nameimage": "UI_Codex_Scenery_CYGuZhanChang"
 	},
 	"theundergroundmines": {
-		"filename_image": "UI_Codex_Scenery_JYKaiCaiKuangQuZhu"
+		"nameimage": "UI_Codex_Scenery_JYKaiCaiKuangQuZhu"
 	},
 	"theblockedpath": {
-		"filename_image": "UI_Codex_Scenery_JYQianXianZhanDao"
+		"nameimage": "UI_Codex_Scenery_JYQianXianZhanDao"
 	},
 	"undergroundwaterway": {
-		"filename_image": "UI_Codex_Scenery_JYDiXiaShuiZe"
+		"nameimage": "UI_Codex_Scenery_JYDiXiaShuiZe"
 	},
 	"crystalfragment": {
-		"filename_image": "UI_Codex_Scenery_JYXiaoSuiPianJieSuo"
+		"nameimage": "UI_Codex_Scenery_JYXiaoSuiPianJieSuo"
 	},
 	"theinvertedcity": {
-		"filename_image": "UI_Codex_Scenery_JYDianDaoYiJiJieSuo"
+		"nameimage": "UI_Codex_Scenery_JYDianDaoYiJiJieSuo"
 	},
 	"thegreatmushroomsplace": {
-		"filename_image": "UI_Codex_Scenery_JYDaMoGu"
+		"nameimage": "UI_Codex_Scenery_JYDaMoGu"
 	},
 	"thecourtofpillars": {
-		"filename_image": "UI_Codex_Scenery_JYDaSuiPianJieSuo"
+		"nameimage": "UI_Codex_Scenery_JYDaSuiPianJieSuo"
 	},
 	"thecitywhereallwisdomresides": {
-		"filename_image": "UI_Codex_Scenery_XMXuMiChengYuanJing"
+		"nameimage": "UI_Codex_Scenery_XMXuMiChengYuanJing"
 	},
 	"thecityabovetheforest": {
-		"filename_image": "UI_Codex_Scenery_XMHuaChengGuo"
+		"nameimage": "UI_Codex_Scenery_XMHuaChengGuo"
 	},
 	"thevillagebytheriver": {
-		"filename_image": "UI_Codex_Scenery_XMWeiMoZhuang"
+		"nameimage": "UI_Codex_Scenery_XMWeiMoZhuang"
 	},
 	"theharborbetwixtthetwotrees": {
-		"filename_image": "UI_Codex_Scenery_XMAoMoSiGang"
+		"nameimage": "UI_Codex_Scenery_XMAoMoSiGang"
 	},
 	"memoryofalcazarzaray": {
-		"filename_image": "UI_Codex_Scenery_XMDaBieShu"
+		"nameimage": "UI_Codex_Scenery_XMDaBieShu"
 	},
 	"thegardenofdeepthought": {
-		"filename_image": "UI_Codex_Scenery_XMChanNaHuaYuan"
+		"nameimage": "UI_Codex_Scenery_XMChanNaHuaYuan"
 	},
 	"thefrontierbeneaththehighwall": {
-		"filename_image": "UI_Codex_Scenery_XMFangShaBi"
+		"nameimage": "UI_Codex_Scenery_XMFangShaBi"
 	},
 	"thecolossuswatchingdevantaka": {
-		"filename_image": "UI_Codex_Scenery_XMDaJiQiRenYuanJin"
+		"nameimage": "UI_Codex_Scenery_XMDaJiQiRenYuanJin"
 	},
 	"varunastra": {
-		"filename_image": "UI_Codex_Scenery_XMHuiLiuZhiZhu"
+		"nameimage": "UI_Codex_Scenery_XMHuiLiuZhiZhu"
 	},
 	"therainsend": {
-		"filename_image": "UI_Codex_Scenery_XMYuDeJinTou"
+		"nameimage": "UI_Codex_Scenery_XMYuDeJinTou"
 	},
 	"thelandofmawtiyima": {
-		"filename_image": "UI_Codex_Scenery_XMDianDaoJuRenZhiBei"
+		"nameimage": "UI_Codex_Scenery_XMDianDaoJuRenZhiBei"
 	},
 	"aranagaslittlegarden": {
-		"filename_image": "UI_Codex_Scenery_XMZhengFaJuShuDeMiaoPu"
+		"nameimage": "UI_Codex_Scenery_XMZhengFaJuShuDeMiaoPu"
 	},
 	"theworldofthearanara": {
-		"filename_image": "UI_Codex_Scenery_XMHengNaLanNAMengJing"
+		"nameimage": "UI_Codex_Scenery_XMHengNaLanNAMengJing"
 	},
 	"nurseryoflostdreams": {
-		"filename_image": "UI_Codex_Scenery_XMWangXiDeHengNaLanNa"
+		"nameimage": "UI_Codex_Scenery_XMWangXiDeHengNaLanNa"
 	},
 	"thelittlestdream": {
-		"filename_image": "UI_Codex_Scenery_XMShaZhongGuLiMengJing"
+		"nameimage": "UI_Codex_Scenery_XMShaZhongGuLiMengJing"
 	},
 	"thegardensnewsprouts": {
-		"filename_image": "UI_Codex_Scenery_XMWuLiuTuoBOSSZhanChang"
+		"nameimage": "UI_Codex_Scenery_XMWuLiuTuoBOSSZhanChang"
 	},
 	"thebarrenlandwheresanddances": {
-		"filename_image": "UI_Codex_Scenery_XMShaMoQuanJing"
+		"nameimage": "UI_Codex_Scenery_XMShaMoQuanJing"
 	},
 	"towersofbetrayal": {
-		"filename_image": "UI_Codex_Scenery_XMJuDaFangJianBei"
+		"nameimage": "UI_Codex_Scenery_XMJuDaFangJianBei"
 	},
 	"refugeeshelters": {
-		"filename_image": "UI_Codex_Scenery_XMARuCun"
+		"nameimage": "UI_Codex_Scenery_XMARuCun"
 	},
 	"thamudoasis": {
-		"filename_image": "UI_Codex_Scenery_XMLvZhou"
+		"nameimage": "UI_Codex_Scenery_XMLvZhou"
 	},
 	"themausoleumofkingdeshret": {
-		"filename_image": "UI_Codex_Scenery_XMChiWangLing"
+		"nameimage": "UI_Codex_Scenery_XMChiWangLing"
 	},
 	"thethousandsofentombedchambers": {
-		"filename_image": "UI_Codex_Scenery_XMDiXiaDongXue"
+		"nameimage": "UI_Codex_Scenery_XMDiXiaDongXue"
 	},
 	"khajnisut": {
-		"filename_image": "UI_Codex_Scenery_XMSengXianTing"
+		"nameimage": "UI_Codex_Scenery_XMSengXianTing"
 	},
 	"thebottomlesshall": {
-		"filename_image": "UI_Codex_Scenery_XMDuETing"
+		"nameimage": "UI_Codex_Scenery_XMDuETing"
 	},
 	"aarusshut": {
-		"filename_image": "UI_Codex_Scenery_XMARuDeDaoYing"
+		"nameimage": "UI_Codex_Scenery_XMARuDeDaoYing"
 	},
 	"thegiantofthewinderodedvalley": {
-		"filename_image": "UI_Codex_Scenery_XMDaJiQiRen"
+		"nameimage": "UI_Codex_Scenery_XMDaJiQiRen"
 	},
 	"lifelessdaralshifa": {
-		"filename_image": "UI_Codex_Scenery_XMMoLinBingYiYuan"
+		"nameimage": "UI_Codex_Scenery_XMMoLinBingYiYuan"
 	},
 	"verdantfieldsvantagepoint": {
-		"filename_image": "UI_Codex_Scenery_XMYuanTiaoXuMiCheng"
+		"nameimage": "UI_Codex_Scenery_XMYuanTiaoXuMiCheng"
 	},
 	"mtdamavandwheresandstormsnevercease": {
-		"filename_image": "UI_Codex_Scenery_XMshavbaoyuanjing"
+		"nameimage": "UI_Codex_Scenery_XMshavbaoyuanjing"
 	},
 	"themoonbluecanals": {
-		"filename_image": "UI_Codex_Scenery_XMsanyunhe"
+		"nameimage": "UI_Codex_Scenery_XMsanyunhe"
 	},
 	"thetanitencampment": {
-		"filename_image": "UI_Codex_Scenery_XMheishi"
+		"nameimage": "UI_Codex_Scenery_XMheishi"
 	},
 	"thepalaceabandonedbythegods": {
-		"filename_image": "UI_Codex_Scenery_XMliushayiji"
+		"nameimage": "UI_Codex_Scenery_XMliushayiji"
 	},
 	"thetempleofburieddominion": {
-		"filename_image": "UI_Codex_Scenery_XMchiwangdong"
+		"nameimage": "UI_Codex_Scenery_XMchiwangdong"
 	},
 	"wenuttunnels": {
-		"filename_image": "UI_Codex_Scenery_XMshachongdong"
+		"nameimage": "UI_Codex_Scenery_XMshachongdong"
 	},
 	"thelosthermitage": {
-		"filename_image": "UI_Codex_Scenery_XMcaolongdong"
+		"nameimage": "UI_Codex_Scenery_XMcaolongdong"
 	},
 	"theforgottenrivervalley": {
-		"filename_image": "UI_Codex_Scenery_XMtujiuchaoxue"
+		"nameimage": "UI_Codex_Scenery_XMtujiuchaoxue"
 	},
 	"thegapofthehiddenruins": {
-		"filename_image": "UI_Codex_Scenery_XMjurenxiagu"
+		"nameimage": "UI_Codex_Scenery_XMjurenxiagu"
 	},
 	"thecourtofdriedsprings": {
-		"filename_image": "UI_Codex_Scenery_XMhuashendong"
+		"nameimage": "UI_Codex_Scenery_XMhuashendong"
 	},
 	"thecourtofwitheredlife": {
-		"filename_image": "UI_Codex_Scenery_XMcaoshendong"
+		"nameimage": "UI_Codex_Scenery_XMcaoshendong"
 	},
 	"whereatitansshinswerebroken": {
-		"filename_image": "UI_Codex_Scenery_XMjiqirenshakeng"
+		"nameimage": "UI_Codex_Scenery_XMjiqirenshakeng"
 	},
 	"safheshatranj": {
-		"filename_image": "UI_Codex_Scenery_XMshenzhiqipan"
+		"nameimage": "UI_Codex_Scenery_XMshenzhiqipan"
 	},
 	"lilouparsgaol": {
-		"filename_image": "UI_Codex_Scenery_XMdashufang"
+		"nameimage": "UI_Codex_Scenery_XMdashufang"
 	},
 	"remnantsoftheancientorchard": {
-		"filename_image": "UI_Codex_Scenery_XMjuerchengdamen"
+		"nameimage": "UI_Codex_Scenery_XMjuerchengdamen"
 	},
 	"adhocheadquartersofthefatuiexpeditionaryforce": {
-		"filename_image": "UI_Codex_Scenery_XMyurenzhonglinshidian"
+		"nameimage": "UI_Codex_Scenery_XMyurenzhonglinshidian"
 	},
 	"theparadiseofeternalpeace": {
-		"filename_image": "UI_Codex_Scenery_XMyonghenglvzhou"
+		"nameimage": "UI_Codex_Scenery_XMyonghenglvzhou"
 	},
 	"caveengulfedpalace": {
-		"filename_image": "UI_Codex_Scenery_XMKanMiJiuDaTing"
+		"nameimage": "UI_Codex_Scenery_XMKanMiJiuDaTing"
 	},
 	"elderpineatopthewastes": {
-		"filename_image": "UI_Codex_Scenery_XMJuanShuJuShu"
+		"nameimage": "UI_Codex_Scenery_XMJuanShuJuShu"
 	},
 	"forgeoftheabandonedfoundry": {
-		"filename_image": "UI_Codex_Scenery_XMShenKengYiJiDaLuZi"
+		"nameimage": "UI_Codex_Scenery_XMShenKengYiJiDaLuZi"
 	},
 	"gateofeverlastingmourning": {
-		"filename_image": "UI_Codex_Scenery_XMKanRuiYaDaMen"
+		"nameimage": "UI_Codex_Scenery_XMKanRuiYaDaMen"
 	},
 	"valleyoftheunsullied": {
-		"filename_image": "UI_Codex_Scenery_XMTuMiHeiYuan"
+		"nameimage": "UI_Codex_Scenery_XMTuMiHeiYuan"
 	},
 	"amritanourishednest": {
-		"filename_image": "UI_Codex_Scenery_XMHuaHai"
+		"nameimage": "UI_Codex_Scenery_XMHuaHai"
 	},
 	"harvisptokhm": {
-		"filename_image": "UI_Codex_Scenery_XMWanZhongMuShu"
+		"nameimage": "UI_Codex_Scenery_XMWanZhongMuShu"
 	},
 	"sourcewaternation": {
-		"filename_image": "UI_Codex_Scenery_FDFengDanGang"
+		"nameimage": "UI_Codex_Scenery_FDFengDanGang"
 	},
 	"scenerywithinelynasdepths": {
-		"filename_image": "UI_Codex_Scenery_FDXinZang"
+		"nameimage": "UI_Codex_Scenery_FDXinZang"
 	},
 	"scenerywithinelynasdeepestdepths": {
-		"filename_image": "UI_Codex_Scenery_FDXinZangNeiBu"
+		"nameimage": "UI_Codex_Scenery_FDXinZangNeiBu"
 	},
 	"oratricemecaniquedanalysecardinale": {
-		"filename_image": "UI_Codex_Scenery_FDGeJuYuanShiNei"
+		"nameimage": "UI_Codex_Scenery_FDGeJuYuanShiNei"
 	},
 	"foamyhome": {
-		"filename_image": "UI_Codex_Scenery_FDRenYuCun"
+		"nameimage": "UI_Codex_Scenery_FDRenYuCun"
 	},
 	"ancientconchmelodyofyore": {
-		"filename_image": "UI_Codex_Scenery_FDHaiLuoWu"
+		"nameimage": "UI_Codex_Scenery_FDHaiLuoWu"
 	},
 	"wheredarktidesecho": {
-		"filename_image": "UI_Codex_Scenery_FDYuSengZhen"
+		"nameimage": "UI_Codex_Scenery_FDYuSengZhen"
 	},
 	"sunkenglory": {
-		"filename_image": "UI_Codex_Scenery_FDXinShouGuanKa"
+		"nameimage": "UI_Codex_Scenery_FDXinShouGuanKa"
 	},
 	"courtofdewandsprings": {
-		"filename_image": "UI_Codex_Scenery_FDFengDanCheng"
+		"nameimage": "UI_Codex_Scenery_FDFengDanCheng"
 	},
 	"landofcorrodedshadowsandtaintedcurrents": {
-		"filename_image": "UI_Codex_Scenery_FDXiaShuiDao"
+		"nameimage": "UI_Codex_Scenery_FDXiaShuiDao"
 	},
 	"seaworncavern": {
-		"filename_image": "UI_Codex_Scenery_FDLongTou"
+		"nameimage": "UI_Codex_Scenery_FDLongTou"
 	},
 	"narzissenkreuzkingdom": {
-		"filename_image": "UI_Codex_Scenery_FDLieShui"
+		"nameimage": "UI_Codex_Scenery_FDLieShui"
 	},
 	"erinnyeswhirlingdance": {
-		"filename_image": "UI_Codex_Scenery_FDGeJuYuan"
+		"nameimage": "UI_Codex_Scenery_FDGeJuYuan"
 	},
 	"memoriesofmontesus": {
-		"filename_image": "UI_Codex_Scenery_FDLieShuiHouShan"
+		"nameimage": "UI_Codex_Scenery_FDLieShuiHouShan"
 	},
 	"viewfrommontautomnequi": {
-		"filename_image": "UI_Codex_Scenery_FDXiaoBaoDao"
+		"nameimage": "UI_Codex_Scenery_FDXiaoBaoDao"
 	},
 	"fontainehotsprings": {
-		"filename_image": "UI_Codex_Scenery_FDFeiTengHu"
+		"nameimage": "UI_Codex_Scenery_FDFeiTengHu"
 	},
 	"morningintheberylmountainsclearweather": {
-		"filename_image": "UI_Codex_Scenery_FDJuShenHouShan"
+		"nameimage": "UI_Codex_Scenery_FDJuShenHouShan"
 	},
 	"theseasidevillage": {
-		"filename_image": "UI_Codex_Scenery_FDXiaoZhen"
+		"nameimage": "UI_Codex_Scenery_FDXiaoZhen"
 	},
 	"graveyardofships": {
-<<<<<<< HEAD
 		"nameimage": "UI_Codex_Scenery_FDChuanZhongJiHuiTing"
 	},
 	"theremnantsofbrilliantwisdom": {
@@ -407,38 +406,5 @@
 	},
 	"theworldsamnioticfluid": {
 		"nameimage": "UI_Codex_Scenery_FDYuanShiTaiHai"
-=======
-		"filename_image": "UI_Codex_Scenery_FDChuanZhongJiHuiTing"
-	},
-	"theremnantsofbrilliantwisdom": {
-		"filename_image": "UI_Codex_Scenery_FDKongZhongShuiTi"
-	},
-	"thewreckofshattereddreams": {
-		"filename_image": "UI_Codex_Scenery_FDYiBianDaTing"
-	},
-	"aseaofexile": {
-		"filename_image": "UI_Codex_Scenery_FDJianYu"
-	},
-	"thecopperkeep": {
-		"filename_image": "UI_Codex_Scenery_FDDianYuZhangBanGongShi"
-	},
-	"scatteredreferences": {
-		"filename_image": "UI_Codex_Scenery_FDShenMiGangTanKe"
-	},
-	"erinnyesswateryweepingwillow": {
-		"filename_image": "UI_Codex_Scenery_FDDaPenQuanShu"
-	},
-	"thedrunkardsship": {
-		"filename_image": "UI_Codex_Scenery_FDJiuDianChuanDian"
-	},
-	"adistantharbor": {
-		"filename_image": "UI_Codex_Scenery_FDRouDengGang"
-	},
-	"towerofgestalt": {
-		"filename_image": "UI_Codex_Scenery_FDFengYinTower"
-	},
-	"theworldsamnioticfluid": {
-		"filename_image": "UI_Codex_Scenery_FDYuanShiTaiHai"
->>>>>>> upstream/main
 	}
 }

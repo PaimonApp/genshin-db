@@ -1,15 +1,10 @@
 {
-	"id": 100063,
 	"name": "Matsutake",
-	"sortRank": 321,
 	"description": "Jamur langka yang biasanya tumbuh di sekitar pohon pinus. Aromanya yang harum dapat menuntunmu ke lokasi jamur ini berada.",
-<<<<<<< HEAD
 	"sortorder": 2914,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

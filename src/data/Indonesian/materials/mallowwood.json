@@ -1,19 +1,12 @@
 {
-	"id": 101318,
 	"name": "Mallow Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Kayu yang berasal dari Mallow Tree. Inti kayunya sangat kokoh, cocok dipakai untuk membangun fondasi dan kerangka rumah. Mudah diproses sehingga tidak membutuhkan tenaga banyak orang untuk membuatnya menjadi perabotan rumah yang cantik.\nDapat digunakan untuk membuat perabotan.",
-<<<<<<< HEAD
 	"sortorder": 2977,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Ditemukan di alam liar",
-		"Rekomendasi: Ditebang di alam liar Fontaine",
-		"Konversi Kayu"
+		"Rekomendasi: Ditebang di alam liar Fontaine"
 	]
 }

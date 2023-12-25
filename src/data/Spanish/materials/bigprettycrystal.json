@@ -1,15 +1,10 @@
 {
-	"id": 111022,
 	"name": "Cristal bonito (grande)",
-	"sortRank": 430051,
 	"description": "Objeto sintetizado adicional",
-<<<<<<< HEAD
 	"sortorder": 4958,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Objeto sintetizado",
-	"sources": [
+	"materialtype": "Objeto sintetizado",
+	"source": [
 		"Sintetizar"
 	]
 }

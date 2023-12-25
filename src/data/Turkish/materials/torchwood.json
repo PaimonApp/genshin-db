@@ -1,19 +1,12 @@
 {
-	"id": 101322,
 	"name": "Meşale Ağacı Kütüğü",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Meşale Ağacından elde edilen kütük. Yumuşak bir dokusu vardır, kolaylıkla kesilebilir ve kuru kalır. Birçok parlak ve açık renk boyaya uygun bir rengi vardır. Bu sebeple narin dekorasyonlar yapmak isteyen zanaatkarlar arasında yaygın bir şekilde tercih edilir.\nDekorasyon yapmak için kullanılabilir.",
-<<<<<<< HEAD
 	"sortorder": 2981,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Doğada bulunur.",
-		"Öneri: Fontaine doğasında kesilir.",
-		"Kütüğü Dönüştür"
+		"Öneri: Fontaine doğasında kesilir."
 	]
 }

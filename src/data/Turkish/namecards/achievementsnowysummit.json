@@ -1,8 +1,7 @@
 {
-	"id": 210052,
 	"name": "Başarım: Karlı Zirve",
 	"description": "İsim Kartı arka planı.\nEjdersırtı zirvesinin yüksekliğini ölçmemiz gerek.",
-	"sortOrder": 210052,
+	"sortorder": 210052,
 	"source": [
 		"\"Buzlu Dağın Ziyaretçileri\" altındaki tüm başarımları tamamlamanın ödülü."
 	]

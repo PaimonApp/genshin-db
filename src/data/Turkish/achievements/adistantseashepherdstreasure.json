@@ -1,18 +1,14 @@
 {
-	"id": [
-		81152
-	],
 	"name": "Uzak Denizlerdeki Korsanın Hazinesi",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1138,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1138,
 	"stages": 1,
 	"stage1": {
 		"title": "Uzak Denizlerdeki Korsanın Hazinesi",
 		"description": "Sarhoşların gevezeliklerine kulak verip büyük bir korsanın en değerli hazinesini elde et.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

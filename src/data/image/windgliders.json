@@ -1,63 +1,54 @@
 {
 	"wingsoffirstflight": {
-		"filename_icon": "UI_FlycloakIcon_Glider",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Glider"
+		"nameicon": "UI_FlycloakIcon_Glider",
+		"namegacha": "UI_Gacha_FlycloakIcon_Glider"
 	},
 	"wingsofcompanionship": {
-		"filename_icon": "UI_FlycloakIcon_Starlit",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Starlit"
+		"nameicon": "UI_FlycloakIcon_Starlit",
+		"namegacha": "UI_Gacha_FlycloakIcon_Starlit"
 	},
 	"wingsofdescension": {
-		"filename_icon": "UI_FlycloakIcon_Psalmus",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Psalmus"
+		"nameicon": "UI_FlycloakIcon_Psalmus",
+		"namegacha": "UI_Gacha_FlycloakIcon_Psalmus"
 	},
 	"wingsofazurewind": {
-		"filename_icon": "UI_FlycloakIcon_Gale",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Gale"
+		"nameicon": "UI_FlycloakIcon_Gale",
+		"namegacha": "UI_Gacha_FlycloakIcon_Gale"
 	},
 	"wingsofgoldenflight": {
-		"filename_icon": "UI_FlycloakIcon_Megalith",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Megalith"
+		"nameicon": "UI_FlycloakIcon_Megalith",
+		"namegacha": "UI_Gacha_FlycloakIcon_Megalith"
 	},
 	"wingsofconcealingsnow": {
-		"filename_icon": "UI_FlycloakIcon_Nixavis",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Nixavis"
+		"nameicon": "UI_FlycloakIcon_Nixavis",
+		"namegacha": "UI_Gacha_FlycloakIcon_Nixavis"
 	},
 	"wingsoffeasting": {
-		"filename_icon": "UI_FlycloakIcon_Redcomet",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Redcomet"
+		"nameicon": "UI_FlycloakIcon_Redcomet",
+		"namegacha": "UI_Gacha_FlycloakIcon_Redcomet"
 	},
 	"wingsofthestormstrider": {
-		"filename_icon": "UI_FlycloakIcon_Thunderclap",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Thunderclap"
+		"nameicon": "UI_FlycloakIcon_Thunderclap",
+		"namegacha": "UI_Gacha_FlycloakIcon_Thunderclap"
 	},
 	"wingsofshimmeringgalaxy": {
-		"filename_icon": "UI_FlycloakIcon_Skald",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Skald"
+		"nameicon": "UI_FlycloakIcon_Skald",
+		"namegacha": "UI_Gacha_FlycloakIcon_Skald"
 	},
 	"wingsoftheforest": {
-		"filename_icon": "UI_FlycloakIcon_Ayus",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Ayus"
+		"nameicon": "UI_FlycloakIcon_Ayus",
+		"namegacha": "UI_Gacha_FlycloakIcon_Ayus"
 	},
 	"wingsofthestarlitfeast": {
-		"filename_icon": "UI_FlycloakIcon_Asterceno",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Asterceno"
+		"nameicon": "UI_FlycloakIcon_Asterceno",
+		"namegacha": "UI_Gacha_FlycloakIcon_Asterceno"
 	},
 	"wingsofmercifulwrathfulwaters": {
-<<<<<<< HEAD
 		"nameicon": "UI_FlycloakIcon_Iustitia",
 		"namegacha": "UI_Gacha_FlycloakIcon_Iustitia"
 	},
 	"wingsoftransientdreams": {
 		"nameicon": "UI_FlycloakIcon_Sternlied",
 		"namegacha": "UI_Gacha_FlycloakIcon_Sternlied"
-=======
-		"filename_icon": "UI_FlycloakIcon_Iustitia",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Iustitia"
-	},
-	"wingsoftransientdreams": {
-		"filename_icon": "UI_FlycloakIcon_Sternlied",
-		"filename_gacha": "UI_Gacha_FlycloakIcon_Sternlied"
->>>>>>> upstream/main
 	}
 }

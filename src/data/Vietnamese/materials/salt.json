@@ -1,15 +1,10 @@
 {
-	"id": 100075,
 	"name": "Muối",
-	"sortRank": 321,
 	"description": "Gia vị có vị mặn, chỉ cần cho đúng liều lượng vào món ăn sẽ có thể tăng thêm mùi vị.",
-<<<<<<< HEAD
 	"sortorder": 2917,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Mua trong Tiệm Tạp Hóa"
 	]
 }

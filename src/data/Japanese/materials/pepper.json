@@ -1,15 +1,10 @@
 {
-	"id": 100077,
 	"name": "コショウ",
-	"sortRank": 321,
 	"description": "香りと辛みを持つ調味料。油っぽさを抑え、食材の香りを引き立てる。肉料理のベストパートナー。",
-<<<<<<< HEAD
 	"sortorder": 2919,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"雑貨屋で購入"
 	]
 }

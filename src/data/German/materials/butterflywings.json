@@ -1,15 +1,10 @@
 {
-	"id": 100072,
 	"name": "Schmetterlingsflügel",
-	"sortRank": 320,
 	"description": "Bunte Flügel von Schmetterlingen. Wenn man genau hinsieht, bemerkt man, dass der herunterrieselnde Staub leuchtet. Vielleicht können Schmetterlinge damit ja besser fliegen.",
-<<<<<<< HEAD
 	"sortorder": 2892,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

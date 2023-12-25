@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Eu Acredito nos Adepti!",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1411,
-=======
-	"id": [
-		81427
-	],
-	"name": "Eu Acredito nos Adepti!",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1411,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Eu Acredito nos Adepti!",
 		"description": "Ajude Penny a resolver o problema pessoal dela.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Wriothesley",
 	"fullname": "Wriothesley",
 	"title": "El Emisario de los Culpables",
@@ -15,27 +14,6 @@
 	"affiliation": "Fuerte Merópide",
 	"birthdaymmdd": "11/23",
 	"birthday": "23 de noviembre",
-=======
-	"id": 10000086,
-	"name": "Wriothesley",
-	"title": "El Emisario de los Culpables",
-	"description": "El duque del Fuerte Merópide y gobernante oculto del oscuro fondo marino.",
-	"weaponType": "WEAPON_CATALYST",
-	"weaponText": "Catalizador",
-	"bodyType": "BODY_MALE",
-	"gender": "Masculino",
-	"qualityType": "QUALITY_ORANGE",
-	"rarity": 5,
-	"birthdaymmdd": "11/23",
-	"birthday": "23 de noviembre",
-	"elementType": "ELEMENT_CRYO",
-	"elementText": "Cryo",
-	"affiliation": "Fuerte Merópide",
-	"associationType": "ASSOC_FONTAINE",
-	"region": "Fontaine",
-	"substatType": "FIGHT_PROP_CRITICAL_HURT",
-	"substatText": "Daño CRIT",
->>>>>>> upstream/main
 	"constellation": "Cerberus",
 	"cv": {
 		"english": "Joe Zieja",
@@ -46,244 +24,128 @@
 	"costs": {
 		"ascend1": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104161,
->>>>>>> upstream/main
 				"name": "Pedacito de jade shivada",
 				"count": 1
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unidad de subdetección",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112083,
->>>>>>> upstream/main
 				"name": "Engranaje de malla",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104162,
->>>>>>> upstream/main
 				"name": "Fragmento de jade shivada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 2
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unidad de subdetección",
 				"count": 10
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112083,
->>>>>>> upstream/main
 				"name": "Engranaje de malla",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104162,
->>>>>>> upstream/main
 				"name": "Fragmento de jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unidad de subdetección",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112084,
->>>>>>> upstream/main
 				"name": "Mecaengranaje recto",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104163,
->>>>>>> upstream/main
 				"name": "Trozo de jade shivada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 8
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unidad de subdetección",
 				"count": 30
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112084,
->>>>>>> upstream/main
 				"name": "Mecaengranaje recto",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104163,
->>>>>>> upstream/main
 				"name": "Trozo de jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 12
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unidad de subdetección",
 				"count": 45
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112085,
->>>>>>> upstream/main
 				"name": "Engranaje mecadinámico",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104164,
->>>>>>> upstream/main
 				"name": "Jade shivada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113052,
->>>>>>> upstream/main
 				"name": "Dispositivo de Tubion",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101239,
->>>>>>> upstream/main
 				"name": "Unidad de subdetección",
 				"count": 60
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112085,
->>>>>>> upstream/main
 				"name": "Engranaje mecadinámico",
 				"count": 24
 			}

@@ -1,15 +1,10 @@
 {
-	"id": 100054,
 	"name": "Pha Lê Điện",
-	"sortRank": 320,
 	"description": "Tinh thạch có điện lực cao, được kết tinh từ điện trong khắp đại lục, chạm vào có cảm giác tê liệt.",
-<<<<<<< HEAD
 	"sortorder": 2891,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu thập dưới vách núi",
 		"Kiến nghị: Thu thập ở Đỉnh Lời Thề"
 	]

@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Furina",
 	"fullname": "Furina",
 	"title": "La Bailarina Incansable",
@@ -15,27 +14,6 @@
 	"affiliation": "Corte de Fontaine",
 	"birthdaymmdd": "10/13",
 	"birthday": "13 de octubre",
-=======
-	"id": 10000089,
-	"name": "Furina",
-	"title": "La Bailarina Incansable",
-	"description": "El foco de atención absoluto del escenario durante los juicios, hasta que la obra termina y el público rompe a aplaudir.",
-	"weaponType": "WEAPON_SWORD_ONE_HAND",
-	"weaponText": "Espada ligera",
-	"bodyType": "BODY_GIRL",
-	"gender": "Femenino",
-	"qualityType": "QUALITY_ORANGE",
-	"rarity": 5,
-	"birthdaymmdd": "10/13",
-	"birthday": "13 de octubre",
-	"elementType": "ELEMENT_HYDRO",
-	"elementText": "Hydro",
-	"affiliation": "Corte de Fontaine",
-	"associationType": "ASSOC_FONTAINE",
-	"region": "Fontaine",
-	"substatType": "FIGHT_PROP_CRITICAL",
-	"substatText": "Prob. CRIT",
->>>>>>> upstream/main
 	"constellation": "Animula Choragi",
 	"cv": {
 		"english": "Amber Lee Connors",
@@ -46,244 +24,128 @@
 	"costs": {
 		"ascend1": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 20000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104121,
->>>>>>> upstream/main
 				"name": "Pedacito de lazurita varunada",
 				"count": 1
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Lirio lumilago",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112038,
->>>>>>> upstream/main
 				"name": "Néctar de Megaflora",
 				"count": 3
 			}
 		],
 		"ascend2": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 40000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104122,
->>>>>>> upstream/main
 				"name": "Fragmento de lazurita varunada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Agua intrascendible",
 				"count": 2
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Lirio lumilago",
 				"count": 10
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112038,
->>>>>>> upstream/main
 				"name": "Néctar de Megaflora",
 				"count": 15
 			}
 		],
 		"ascend3": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 60000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104122,
->>>>>>> upstream/main
 				"name": "Fragmento de lazurita varunada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Agua intrascendible",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Lirio lumilago",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112039,
->>>>>>> upstream/main
 				"name": "Néctar brillante",
 				"count": 12
 			}
 		],
 		"ascend4": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 80000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104123,
->>>>>>> upstream/main
 				"name": "Trozo de lazurita varunada",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Agua intrascendible",
 				"count": 8
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Lirio lumilago",
 				"count": 30
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112039,
->>>>>>> upstream/main
 				"name": "Néctar brillante",
 				"count": 18
 			}
 		],
 		"ascend5": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 100000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104123,
->>>>>>> upstream/main
 				"name": "Trozo de lazurita varunada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Agua intrascendible",
 				"count": 12
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Lirio lumilago",
 				"count": 45
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112040,
->>>>>>> upstream/main
 				"name": "Néctar energético",
 				"count": 12
 			}
 		],
 		"ascend6": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104124,
->>>>>>> upstream/main
 				"name": "Lazurita varunada",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113057,
->>>>>>> upstream/main
 				"name": "Agua intrascendible",
 				"count": 20
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 101238,
->>>>>>> upstream/main
 				"name": "Lirio lumilago",
 				"count": 60
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112040,
->>>>>>> upstream/main
 				"name": "Néctar energético",
 				"count": 24
 			}

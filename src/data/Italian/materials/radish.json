@@ -1,15 +1,10 @@
 {
-	"id": 100014,
 	"name": "Ravanello",
-	"sortRank": 321,
 	"description": "Ricco di fibra e nutrienti. Facile da coltivare.",
-<<<<<<< HEAD
 	"sortorder": 2903,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Presente in natura"
 	]
 }

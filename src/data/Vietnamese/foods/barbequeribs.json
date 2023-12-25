@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Sườn Que Nướng",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Món Dạng Hồi Phục",
 	"foodcategory": "Recovery_HpAdd",
-=======
-	"id": 2407,
-	"name": "Sườn Que Nướng",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Món Dạng Hồi Phục",
->>>>>>> upstream/main
 	"effect": "Hồi 20%-24% giới hạn HP cho nhân vật được chọn, và hồi thêm 900-1500 điểm HP.",
 	"description": "Món thịt được bao bọc bởi lớp vỏ giòn. Trước tiên dùng lửa nhỏ chiên lớp ngoài của miếng sườn, rồi bôi một lớp sốt bao bọc bên ngoài, cuối cùng đem nướng với nhiệt độ thấp. Việc khống chế độ lửa một cách nghiêm ngặt đã làm cho lớp da giòn rụm, đồng thời thịt vẫn mọng nước.",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Thịt Rừng",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100077,
->>>>>>> upstream/main
 			"name": "Tiêu",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

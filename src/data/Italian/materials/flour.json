@@ -1,15 +1,10 @@
 {
-	"id": 110001,
 	"name": "Farina",
-	"sortRank": 322,
 	"description": "Una polvere ottenuta macinando il frumento. In qualunque modo venga utilizzata, soddisfa il palato di ogni commensale.",
-<<<<<<< HEAD
 	"sortorder": 2947,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Lavorato"
 	]
 }

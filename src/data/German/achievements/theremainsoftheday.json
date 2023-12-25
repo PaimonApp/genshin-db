@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Was vom Tage übrigblieb",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1367,
-=======
-	"id": [
-		81383
-	],
-	"name": "Was vom Tage übrigblieb",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1367,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Was vom Tage übrigblieb",
 		"description": "Verwende viel Zeit, um Ästhetik zu kultivieren.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

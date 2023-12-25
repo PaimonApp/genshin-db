@@ -1,20 +1,13 @@
 {
-	"id": [
-		81087,
-		81088,
-		81089
-	],
 	"name": "Daha Fazla Ekin Lazım!",
-	"achievementGroupId": 23,
-	"achievementGroupName": "Başka Bir Diyar: III. Seri",
-	"sortOrder": 1088,
+	"achievementgroup": "Başka Bir Diyar: III. Seri",
+	"sortorder": 1088,
 	"stages": 3,
 	"stage1": {
 		"title": "Daha Fazla Ekin Lazım!",
 		"description": "\"Değer Yolu: Yeşim Tarlası\"ndan 40 eşya topla.",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "\"Değer Yolu: Yeşim Tarlası\"ndan 200 eşya topla.",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "\"Değer Yolu: Yeşim Tarlası\"ndan 800 eşya topla.",
 		"progress": 800,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 20
 		}

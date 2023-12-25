@@ -1,15 +1,10 @@
 {
-	"id": 100082,
 	"name": "Ateşböceği Sırtı",
-	"sortRank": 320,
 	"description": "Ateş böceğinin ışık yayan kısmı. Onun için bir kur yapma organıdır ve gücü yenilemek için kullanılır.",
-<<<<<<< HEAD
 	"sortorder": 2894,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Doğada bulunur."
 	]
 }

@@ -1,18 +1,14 @@
 {
-	"id": [
-		81100
-	],
 	"name": "Quelle guigne...",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1101,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1101,
 	"stages": 1,
 	"stage1": {
 		"title": "Quelle guigne...",
 		"description": "Tirez un présage de « grande infortune » au Sanctuaire de Narukami.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

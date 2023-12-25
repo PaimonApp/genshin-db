@@ -1,13 +1,7 @@
 {
-	"id": 31,
 	"name": "スメール·微妙玄通の雨林",
-<<<<<<< HEAD
 	"sortorder": 40,
-=======
-	"sortOrder": 40,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210130,
 		"name": "スメール·瑶林"
 	}
 }

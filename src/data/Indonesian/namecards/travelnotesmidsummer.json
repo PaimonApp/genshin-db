@@ -1,8 +1,7 @@
 {
-	"id": 210074,
 	"name": "Catatan Perjalanan: Musim Panas",
 	"description": "Style kartu nama.\nWaktunya Bertualang!",
-	"sortOrder": 210074,
+	"sortorder": 210074,
 	"source": [
 		"Hadiah dari Battle Pass"
 	]

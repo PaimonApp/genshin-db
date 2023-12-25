@@ -1,18 +1,13 @@
 {
-	"id": [
-		82071
-	],
 	"name": "«Розовый бутон...»",
-	"achievementGroupId": 15,
-	"achievementGroupName": "Победитель III",
-	"sortOrder": 2071,
+	"achievementgroup": "Победитель III",
+	"sortorder": 2071,
 	"stages": 1,
 	"stage1": {
 		"title": "«Розовый бутон...»",
 		"description": "Разбейте щит мага Крио цицинов.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

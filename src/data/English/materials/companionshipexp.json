@@ -1,15 +1,9 @@
 {
-	"id": 105,
 	"name": "Companionship EXP",
-	"rarity": 3,
-	"sortRank": 11,
 	"description": "Companionship EXP. Used to increase Friendship levels.",
-<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Increases Friendship",
-	"sources": []
+	"materialtype": "Increases Friendship",
+	"source": []
 }

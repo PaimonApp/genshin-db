@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Hari Kemarin yang Sempurna",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1385,
-=======
-	"id": [
-		81401
-	],
-	"name": "Hari Kemarin yang Sempurna",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1385,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Hari Kemarin yang Sempurna",
 		"description": "Hari yang sudah berlalu tidak bisa terulang kembali ....",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

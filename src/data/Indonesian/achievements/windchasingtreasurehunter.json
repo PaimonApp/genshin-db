@@ -1,13 +1,7 @@
 {
-	"id": [
-		80037,
-		80038,
-		80039
-	],
 	"name": "Pemburu Harta, Pengejar Angin",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt: Kota Angin dan Lagu",
-	"sortOrder": 37,
+	"achievementgroup": "Mondstadt: Kota Angin dan Lagu",
+	"sortorder": 37,
 	"stages": 3,
 	"stage1": {
 		"title": "Pemburu Harta, Pengejar Angin",
@@ -15,7 +9,6 @@
 		"description": "Buka 100 peti harta di Mondstadt (tidak termasuk area Dragonspine).",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Buka 200 peti harta di Mondstadt (tidak termasuk area Dragonspine).",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Buka 400 peti harta di Mondstadt (tidak termasuk area Dragonspine).",
 		"progress": 400,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

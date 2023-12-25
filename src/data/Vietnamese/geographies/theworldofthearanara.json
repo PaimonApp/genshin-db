@@ -1,11 +1,8 @@
 {
-	"id": 70400013,
 	"name": "Thế Giới Của Aranara",
-	"areaId": 4000,
-	"areaName": "Vanarana",
+	"area": "Vanarana",
 	"description": "\"Dù bầu trời hay mặt đất có tối tăm đến thế nào, chỉ cần trái tim của bạn luôn như mặt trời, tỏa ra ánh sáng vàng ấm áp, thì sẽ luôn có hy vọng.\"",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 313
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 313
 }

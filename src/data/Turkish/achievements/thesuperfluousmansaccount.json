@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Gereksiz Adamın Hikayesi",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 1362,
-=======
-	"id": [
-		81378
-	],
-	"name": "Gereksiz Adamın Hikayesi",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1362,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Gereksiz Adamın Hikayesi",
 		"description": "Clynes'ın hikayesini dinle.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

@@ -1,11 +1,7 @@
 {
-	"id": [
-		80163
-	],
 	"name": "Duftend wie Pflanzen",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru – Regenwald der Weisheit",
-	"sortOrder": 163,
+	"achievementgroup": "Sumeru – Regenwald der Weisheit",
+	"sortorder": 163,
 	"stages": 1,
 	"stage1": {
 		"title": "Duftend wie Pflanzen",
@@ -13,7 +9,6 @@
 		"description": "Opfere einer Statue der Sieben im Gebiet von Sumeru und erreiche die Höchststufe dabei.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 20
 		}

@@ -1,19 +1,14 @@
 {
-	"id": [
-		84130
-	],
 	"name": "Чрезмерная забота",
-	"achievementGroupId": 17,
-	"achievementGroupName": "Воспоминания сердца",
-	"isHidden": true,
-	"sortOrder": 7011,
+	"achievementgroup": "Воспоминания сердца",
+	"ishidden": true,
+	"sortorder": 7011,
 	"stages": 1,
 	"stage1": {
 		"title": "Чрезмерная забота",
 		"description": "Один камень порождает тысячи волн. Кажется, Нин Гуан не видать отпуска.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

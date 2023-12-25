@@ -1,8 +1,7 @@
 {
-	"id": 210057,
 	"name": "Celebração - Hypostasis",
 	"description": "Estilo de Cartão de Visita.\nO oponente de hoje tem algum estilo artístico?",
-	"sortOrder": 210057,
+	"sortorder": 210057,
 	"source": [
 		"Obtido através do evento da Sinfonia Hipostática"
 	]

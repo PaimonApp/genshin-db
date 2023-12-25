@@ -1,15 +1,10 @@
 {
-	"id": 110010,
 	"name": "Tocino",
-	"sortRank": 322,
 	"description": "Tiras de cerdo curadas. Crujientes y un poco grasientas.",
-<<<<<<< HEAD
 	"sortorder": 2955,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Procesar comida"
 	]
 }

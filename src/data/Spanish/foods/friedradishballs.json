@@ -1,10 +1,9 @@
 {
-	"id": 2006,
 	"name": "Albóndigas de rábano fritas",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Platos que mejoran ataques",
+	"foodfilter": "Platos que mejoran ataques",
+	"foodcategory": "Atk_Add",
 	"effect": "Aumenta el ATQ de todos los miembros del equipo en 66-95 pts. durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Albóndigas de rábano fritas. Tienen una textura tierna y crujiente, por lo que lo ideal es comerlas mientras están calientes. Dicen que es una receta originaria de Liyue.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Harina",
 			"count": 3
 		},
 		{
-			"id": 100014,
 			"name": "Rábano",
 			"count": 2
 		},
 		{
-			"id": 100077,
 			"name": "Pimienta",
 			"count": 1
 		}

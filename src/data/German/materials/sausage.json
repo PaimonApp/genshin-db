@@ -1,15 +1,10 @@
 {
-	"id": 110011,
 	"name": "Wurst",
-	"sortRank": 322,
 	"description": "In Tierdärme gefülltes Hackfleisch. Lange haltbar und nicht nur deswegen sehr beliebt auf der Speisekarte vieler Gegenden.",
-<<<<<<< HEAD
 	"sortorder": 2956,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beim Verarbeiten von Gerichten zu erhalten"
 	]
 }

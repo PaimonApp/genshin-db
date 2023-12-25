@@ -1,17 +1,11 @@
 {
-	"id": 104141,
 	"name": "Scheggia d'ametista Vajrada",
-	"rarity": 2,
-	"sortRank": 12105,
 	"description": "Materiale d'ascensione personaggi.",
-<<<<<<< HEAD
 	"sortorder": 3204,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale d'ascensione personaggi",
-	"sources": [
+	"materialtype": "Materiale d'ascensione personaggi",
+	"source": [
 		"Ottenibile dalle Ipostasi di Electro",
 		"Ottenibile dalle Manifestazioni del tuono",
 		"Ottenibile dai Regisreptus di Electro",

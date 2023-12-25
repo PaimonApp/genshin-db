@@ -1,15 +1,9 @@
 {
-	"id": 200109,
 	"name": "明目の油剤",
-	"rarity": 4,
-	"sortRank": 90,
 	"description": "「誓いの明瞳」専用の精錬アイテム。\n特殊な深海ウナギから精製されたオイルは、かつて淵下宮の神器を輝かせるために使われた。",
-<<<<<<< HEAD
 	"sortorder": 2760,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "精錬素材",
-	"sources": []
+	"materialtype": "精錬素材",
+	"source": []
 }

@@ -1,23 +1,11 @@
 {
-	"id": 112066,
 	"name": "Seda Vermelha Bordada",
-	"rarity": 2,
-	"sortRank": 10123,
 	"description": "Cetim vermelho com enfeites simples incrustados.\nGuerreiros experientes podem encontrar falhas até mesmo em um olhar do oponente para obter uma oportunidade. Os Eremitas estão sem seu líder há muito tempo, e só podem confiar em si mesmos. Dizem que eles acreditam firmemente que tudo trai, até mesmo seus próprios olhos.",
-<<<<<<< HEAD
 	"sortorder": 3100,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Fortalecimento de Arma e Personagem",
 	"source": [
 		"Obtido na síntese"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Fortalecimento de Arma e Personagem",
-	"sources": [
-		"Obtido na síntese",
-		"Dropado pelos Eremitas Nv.40+",
-		"Resgate de Poeira Estrelar"
->>>>>>> upstream/main
 	]
 }

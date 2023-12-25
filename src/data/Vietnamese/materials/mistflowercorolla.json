@@ -1,15 +1,10 @@
 {
-	"id": 100052,
 	"name": "Đóa Băng Vụ Hoa",
-	"sortRank": 320,
 	"description": "Đóa hoa nằm trong băng, cho dù rời khỏi cây cũng vẫn toát ra hàn khí lạnh lẽo.",
-<<<<<<< HEAD
 	"sortorder": 2889,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu Thập Bên Ngoài",
 		"Kiến nghị: Thu thập trong Tửu Trang Dawn"
 	]

@@ -1,10 +1,9 @@
 {
-	"id": 4102,
 	"name": "Caranguejo Dourado",
-	"rarity": 4,
+	"rarity": "4",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Pratos de DEF",
+	"foodfilter": "Pratos de DEF",
+	"foodcategory": "Def_Add",
 	"effect": "Aumenta a DEF de todos os personagens da equipe em 215-308 e Efeito de Cura em 6%-10% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Um prato de caranguejo cozido à moda antiga. O caranguejo foi picado em pedaços e batido com farinha, antes de ser frito até dourar e rico em sabor. É digno da palavra \"ouro\", seja em termos de aparência ou qualidade.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Ovo de Pássaro",
 			"count": 5
 		},
 		{
-			"id": 110001,
 			"name": "Farinha",
 			"count": 5
 		},
 		{
-			"id": 100073,
 			"name": "Caranguejo",
 			"count": 4
 		},
 		{
-			"id": 100075,
 			"name": "Sal",
 			"count": 2
 		}

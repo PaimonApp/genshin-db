@@ -1,10 +1,9 @@
 {
-	"id": 4001,
 	"name": "Ay Çöreği",
-	"rarity": 4,
+	"rarity": "4",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Savunma Artırıcı Yemek",
+	"foodfilter": "Savunma Artırıcı Yemek",
+	"foodcategory": "Def_Add",
 	"effect": "300 saniyeliğine tüm grup üyelerinin Kalkan Gücünü %25 ila %35, Savunmasını 165 ila 235 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Mondstadt'ın geleneksel çöreği. Etin yoğun çeşnilere yatırılmasının yanı sıra krema da pişirme süreci boyunca tazeliğini ve nemini korumuş. Mondstadt'taki festivallerde bu yemeği kaçırmamak gerek.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 4
 		},
 		{
-			"id": 100062,
 			"name": "Kuş Yumurtası",
 			"count": 4
 		},
 		{
-			"id": 110004,
 			"name": "Tereyağı",
 			"count": 3
 		},
 		{
-			"id": 110001,
 			"name": "Un",
 			"count": 2
 		}

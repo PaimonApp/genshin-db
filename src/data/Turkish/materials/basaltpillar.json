@@ -1,20 +1,9 @@
 {
-	"id": 113009,
 	"name": "Bazalt Sütun",
-	"rarity": 4,
-	"sortRank": 11101,
 	"description": "Toprak Hipostazının kabuğundan oluşmuş, yoğun Toprak enerjisi içeren bir sütun.\nToprağın en ağır element olduğunun kanıtıdır. Belki de Toprak Hipostazı, göğe yaklaşmak ve düşmanlarıyla savaşmamak için kabuğundan bu sütunları çıkarıyordur.",
-<<<<<<< HEAD
 	"sortorder": 3158,
 	"rarity": "4",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Karakter Seviyesi Yükseltme Malzemesi",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Seviyesi Yükseltme Malzemesi",
-	"sources": [
-		"Sv. 30 ve üzeri Toprak Hipostazlarından düşer."
-	]
->>>>>>> upstream/main
 }

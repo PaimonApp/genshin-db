@@ -1,20 +1,13 @@
 {
-	"id": [
-		80203,
-		80204,
-		80205
-	],
 	"name": "Das letzte Stück im Puzzle des Sieges",
-	"achievementGroupId": 37,
-	"achievementGroupName": "Geniale Beschwörung",
-	"sortOrder": 205,
+	"achievementgroup": "Geniale Beschwörung",
+	"sortorder": 205,
 	"stages": 3,
 	"stage1": {
 		"title": "Das letzte Stück im Puzzle des Sieges",
 		"description": "Spiele in einem siegreichen Duell {param0} Aktionskarten aus.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Spiele in einem siegreichen Duell {param0} Aktionskarten aus.",
 		"progress": 300,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Spiele in einem siegreichen Duell {param0} Aktionskarten aus.",
 		"progress": 600,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 20
 		}

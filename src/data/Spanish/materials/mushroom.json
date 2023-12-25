@@ -1,15 +1,10 @@
 {
-	"id": 100011,
 	"name": "Champiñón",
-	"sortRank": 321,
 	"description": "Un tipo de hongos común y con una gran vitalidad. Puede crecer en cualquier lugar con la cantidad adecuada de sombra y humedad.",
-<<<<<<< HEAD
 	"sortorder": 2900,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en la naturaleza"
 	]
 }

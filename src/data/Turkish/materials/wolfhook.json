@@ -1,15 +1,10 @@
 {
-	"id": 100021,
 	"name": "Kurt Çengeli",
-	"sortRank": 311,
 	"description": "Genellikle bir kurdun postuna yapışık halde bulunan dikenli bir böğürtlen. Ona baktığında, neredeyse ormandaki kurtların yankılanan çığlıklarını duyabilirsin.",
-<<<<<<< HEAD
 	"sortorder": 2846,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mondstadt Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Mondstadt Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Kurtlar Diyarı'nda bulunur."
 	]

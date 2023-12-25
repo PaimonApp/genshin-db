@@ -1,60 +1,43 @@
 {
-	"id": 5222,
 	"name": "ดันเจี้ยนแห่งการต่อสู้: สนามทดลองไฟฟ้า I",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"entranceId": 52,
-	"entranceName": "ราชวังลับแห่ง Lianshan Formula",
-	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
-	"domainText": "วัสดุเลื่อนขั้นอาวุธ",
+	"region": "Liyue",
+	"domainentrance": "ราชวังลับแห่ง Lianshan Formula",
+	"domaintype": "วัสดุเลื่อนขั้นอาวุธ",
 	"description": "ที่แท่นบูชายัญที่มีสายฟ้าเกิดขึ้นตลอดเวลานี้มีพลังของธาตุไฟฟ้าอันมากมายมหาศาลอัดแน่นอยู่\nไฟฟ้าที่ปกคลุมไปทั่วทั้งพื้นที่นั้นจะปล่อยสายฟ้าลงมาเป็นระยะ ๆ\nหากว่าสามารถผ่านการทดสอบได้ล่ะก็ บางทีอาจจะได้รับวัตถุเสริมความแข็งแกร่งให้อุปกรณ์ก็เป็นได้",
-	"recommendedLevel": 15,
-	"recommendedElements": [
+	"recommendedlevel": 15,
+	"recommendedelements": [
 		"ไฟ",
 		"น้ำแข็ง"
 	],
-	"daysOfWeek": [
+	"daysofweek": [
 		"วันพุธ",
 		"วันเสาร์",
 		"วันอาทิตย์"
 	],
-	"unlockRank": 1,
-	"rewardPreview": [
+	"unlockrank": 1,
+	"rewardpreview": [
 		{
-			"id": 102,
 			"name": "Adventure EXP",
 			"count": 100
 		},
 		{
-			"id": 202,
 			"name": "Mora",
 			"count": 1125
 		},
 		{
-			"id": 105,
 			"name": "Friendship EXP",
 			"count": 10
 		},
 		{
-			"id": 114021,
 			"name": "Grain of Aerosiderite"
 		}
 	],
 	"disorder": [
 		"ตัวละครของคุณจะถูกโจมตีด้วย \"Engulfing Storm\" เป็นช่วง ๆ : ทำให้ถูกดูดพลังงานธาตุต่อเนื่อง จนกว่าจะกำจัดธาตุไฟฟ้าที่ติดอยู่กับตัวละครได้"
 	],
-	"monsterList": [
-		{
-			"id": 20010501,
-			"name": "Electro Slime"
-		},
-		{
-			"id": 20010601,
-			"name": "Large Electro Slime"
-		},
-		{
-			"id": 20010701,
-			"name": "Mutant Electro Slime"
-		}
+	"monsterlist": [
+		"Electro Slime",
+		"Large Electro Slime",
+		"Mutant Electro Slime"
 	]
 }

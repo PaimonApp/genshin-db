@@ -1,10 +1,9 @@
 {
-	"id": 2108,
 	"name": "Tagliolini di montagna",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Piatto dell'avventuriere",
+	"foodfilter": "Piatto dell'avventuriere",
+	"foodcategory": "Other_SPAdd",
 	"effect": "Ripristina 40-60 di vigore.",
 	"description": "Dei tagliolini conditi con una generosa quantità di sugo di carne e verdura, dallo spiccato sapore rustico. Un piatto umile ma sempre popolare.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100011,
 			"name": "Fungo",
 			"count": 3
 		},
 		{
-			"id": 100061,
 			"name": "Pezzo di carne cruda",
 			"count": 2
 		},
 		{
-			"id": 110001,
 			"name": "Farina",
 			"count": 2
 		}

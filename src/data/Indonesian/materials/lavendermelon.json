@@ -1,15 +1,10 @@
 {
-	"id": 101211,
 	"name": "Lavender Melon",
-	"sortRank": 321,
 	"description": "Buah yang berwarna cerah dan terang. Saat dimasak, dagingnya memberikan rasa unik di dalam mulut.",
-<<<<<<< HEAD
 	"sortorder": 2938,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Ditemukan di alam liar Inazuma"
 	]
 }

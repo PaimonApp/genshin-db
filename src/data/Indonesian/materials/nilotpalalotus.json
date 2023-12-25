@@ -1,15 +1,10 @@
 {
-	"id": 101215,
 	"name": "Nilotpala Lotus",
-	"sortRank": 314,
 	"description": "Tumbuh di tanah hutan hujan, tanaman ini hanya mekar di malam hari dengan bunga yang seterang bulan.",
-<<<<<<< HEAD
 	"sortorder": 2873,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk Khas Sumeru",
-	"sources": [
+	"materialtype": "Produk Khas Sumeru",
+	"source": [
 		"Ditemukan di perairan Sumeru"
 	]
 }

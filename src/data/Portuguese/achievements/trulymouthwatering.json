@@ -1,11 +1,8 @@
 {
-	"id": [
-		81362
-	],
 	"name": "Realmente de Dar Água na Boca!",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1329,
+	"achievementgroup": "Maravilhas do Mundo",
+	"ishidden": true,
+	"sortorder": 1329,
 	"stages": 1,
 	"stage1": {
 		"title": "Realmente de Dar Água na Boca!",
@@ -13,7 +10,6 @@
 		"description": "Ajude Henri a mudar seu destino.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

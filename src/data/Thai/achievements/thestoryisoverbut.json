@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "เรื่องราวจบลงแล้ว แต่ว่า...",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1401,
-=======
-	"id": [
-		81417
-	],
-	"name": "เรื่องราวจบลงแล้ว แต่ว่า...",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1401,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "เรื่องราวจบลงแล้ว แต่ว่า...",
 		"description": "\"เรื่องราวการผจญภัยในชีวิตยังคงดำเนินต่อไป\"",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

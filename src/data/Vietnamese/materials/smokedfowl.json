@@ -1,15 +1,10 @@
 {
-	"id": 110003,
 	"name": "Thịt Gia Cầm Xông Khói",
-	"sortRank": 322,
 	"description": "Thịt gia cầm được hun khói. Thịt săn chắc đem lại cảm giác mới lạ.",
-<<<<<<< HEAD
 	"sortorder": 2949,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Nhận khi gia công nấu nướng"
 	]
 }

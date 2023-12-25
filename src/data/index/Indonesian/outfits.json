@@ -37,7 +37,6 @@
 		"goldfishfirecracker": "Goldfish Firecracker",
 		"goldleafandpearlyjade": "Gold Leaf and Pearly Jade",
 		"goldpinionsinflamesbathed": "Gold Pinions in Flames Bathed",
-		"guardiansgun": "Guardian's Gun",
 		"gunnhildrslegacy": "Gunnhildr's Legacy",
 		"heartofthescales": "Heart of the Scales",
 		"hermitofmortallife": "Hermit of Mortal Life",
@@ -90,8 +89,7 @@
 		"wavecrestwaltz": "Wavecrest Waltz",
 		"whirlingbloom": "Floral Dance",
 		"wildsprint": "Wild Sprint",
-		"woodlandsong": "Woodland Song",
-		"yellowvelvetsalon": "Yellow Velvet Salon"
+		"woodlandsong": "Woodland Song"
 	},
 	"names": {
 		"100% Outrider": "100outrider",
@@ -131,7 +129,6 @@
 		"Goldfish Firecracker": "goldfishfirecracker",
 		"Gold Leaf and Pearly Jade": "goldleafandpearlyjade",
 		"Gold Pinions in Flames Bathed": "goldpinionsinflamesbathed",
-		"Guardian's Gun": "guardiansgun",
 		"Gunnhildr's Legacy": "gunnhildrslegacy",
 		"Heart of the Scales": "heartofthescales",
 		"Hermit of Mortal Life": "hermitofmortallife",
@@ -183,8 +180,7 @@
 		"Wavecrest Waltz": "wavecrestwaltz",
 		"Floral Dance": "whirlingbloom",
 		"Wild Sprint": "wildsprint",
-		"Woodland Song": "woodlandsong",
-		"Yellow Velvet Salon": "yellowvelvetsalon"
+		"Woodland Song": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
@@ -303,9 +299,6 @@
 		],
 		"Kaveh": [
 			"goldpinionsinflamesbathed"
-		],
-		"Chevreuse": [
-			"guardiansgun"
 		],
 		"Cyno": [
 			"heartofthescales"
@@ -432,13 +425,10 @@
 		],
 		"Tighnari": [
 			"woodlandsong"
-		],
-		"Navia": [
-			"yellowvelvetsalon"
 		]
 	},
 	"properties": {
-		"characterName": [
+		"character": [
 			"Amber",
 			"Charlotte",
 			"Collei",
@@ -474,7 +464,6 @@
 			"Yoimiya",
 			"Ningguang",
 			"Kaveh",
-			"Chevreuse",
 			"Cyno",
 			"Zhongli",
 			"Kaeya",
@@ -515,8 +504,7 @@
 			"Eula",
 			"Kirara",
 			"Razor",
-			"Tighnari",
-			"Navia"
+			"Tighnari"
 		]
 	}
 }

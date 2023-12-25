@@ -1,19 +1,12 @@
 {
-	"id": 101303,
 	"name": "Gỗ Thông",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Gỗ được lấy từ \"Cây Thông\", màu sắc và vân gỗ không bắt mắt, nhưng chất liệu cứng cáp, khi qua xử lý sẽ chịu được mối mọt.\nCó thể dùng để chế tạo đồ trang trí.",
-<<<<<<< HEAD
 	"sortorder": 2962,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu Thập Bên Ngoài",
-		"Kiến nghị: Đốn ở Long Tích Tuyết Sơn",
-		"Chuyển Hóa Gỗ"
+		"Kiến nghị: Đốn ở Long Tích Tuyết Sơn"
 	]
 }

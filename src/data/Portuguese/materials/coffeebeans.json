@@ -1,15 +1,10 @@
 {
-	"id": 100098,
 	"name": "Grão de Café",
-	"sortRank": 321,
 	"description": "Fruto de uma planta comum em Teyvat. Com um aroma especial, pode ser usado para fazer bebidas após triturado.",
-<<<<<<< HEAD
 	"sortorder": 2935,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Vendido na Cafeteria de Sumeru",
 		"Vendido na Cafeteria de Fontaine"
 	]

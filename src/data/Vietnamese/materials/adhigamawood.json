@@ -1,19 +1,12 @@
 {
-	"id": 101315,
 	"name": "Gỗ Adhigama",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Gỗ từ Cây Adhigama, gần như có thể thấy ở mọi nơi, trông có vẻ bình thường, nhưng nó thực sự nhẹ và bền.\nCó thể sử dụng để làm đồ trang trí.",
-<<<<<<< HEAD
 	"sortorder": 2974,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu Thập Bên Ngoài",
-		"Kiến nghị: Đốn ở Rừng Sumeru",
-		"Chuyển Hóa Gỗ"
+		"Kiến nghị: Đốn ở Rừng Sumeru"
 	]
 }

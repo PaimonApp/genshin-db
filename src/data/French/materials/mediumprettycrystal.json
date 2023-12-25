@@ -1,15 +1,10 @@
 {
-	"id": 111021,
 	"name": "Joli cristal (moyen)",
-	"sortRank": 430051,
 	"description": "Produit synthétisé supplémentaire",
-<<<<<<< HEAD
 	"sortorder": 4957,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Produit synthétisé",
-	"sources": [
+	"materialtype": "Produit synthétisé",
+	"source": [
 		"Synthèse"
 	]
 }

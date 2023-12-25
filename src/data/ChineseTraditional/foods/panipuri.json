@@ -1,10 +1,9 @@
 {
-	"id": 2305,
 	"name": "綠汁脆球",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "恢復類料理",
+	"foodfilter": "恢復類料理",
+	"foodcategory": "Recovery_Revive",
 	"effect": "復甦選中的角色。\n為其恢復250-550點生命值。",
 	"description": "蘸汁食用的小吃。用熱油先炸好脆球，戳個洞塞入配料，搭配綠汁一起食用。大小適中，一口一個，是須彌街頭常見的特色小吃。",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100080,
 			"name": "馬鈴薯",
 			"count": 2
 		},
 		{
-			"id": 100096,
 			"name": "禿禿豆",
 			"count": 2
 		},
 		{
-			"id": 110014,
 			"name": "香辛料",
 			"count": 1
 		}

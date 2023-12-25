@@ -1,14 +1,12 @@
 {
-	"id": 101305,
 	"name": "Bamboo Segment",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Segments of bamboo that are light and far stronger than their humble appearance might suggest. It lets off a light fragrance.\nCan be used to create furnishings.",
+	"sortorder": 2964,
+	"rarity": "1",
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
-		"Recommendation: Cut from Bishui Plain",
-		"Convert Wood"
+		"Recommendation: Cut from Bishui Plain"
 	]
 }

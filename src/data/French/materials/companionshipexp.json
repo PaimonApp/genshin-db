@@ -1,15 +1,9 @@
 {
-	"id": 105,
 	"name": "EXP d'affinité",
-	"rarity": 3,
-	"sortRank": 11,
 	"description": "L'EXP d'affinité permet d'augmenter le niveau d'affinité.",
-<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Augmente l'affinité",
-	"sources": []
+	"materialtype": "Augmente l'affinité",
+	"source": []
 }

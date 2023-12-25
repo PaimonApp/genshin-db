@@ -1,17 +1,11 @@
 {
-	"id": 111027,
 	"name": "Esca Luminerba",
-	"rarity": 2,
-	"sortRank": 340,
 	"description": "Un'esca speciale realizzata con minerale di cristallo magico e alghe, che brilla dove nessuna luce può illuminare, così da attirare l'attenzione di coloro che bramano sempre la luce.\nSe dovessi esaurirle, puoi prenderne altre da Kujirai Momiji.\n\nAdatte per pescare qualsiasi specie di pesce.",
-<<<<<<< HEAD
 	"sortorder": 2990,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "FISH_BAIT",
-	"typeText": "Esca",
-	"sources": [
+	"materialtype": "Esca",
+	"source": [
 		"Si ottiene completando la missione di Kujirai Momiji"
 	]
 }

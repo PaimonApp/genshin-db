@@ -1,11 +1,10 @@
 {
-	"id": 100098,
 	"name": "咖啡豆",
-	"sortRank": 321,
 	"description": "提瓦特常見的植物果實。帶有特殊的香氣，碾碎後，可用於製作飲品。",
+	"sortorder": 2935,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"須彌咖啡廳購買",
 		"楓丹咖啡廳購買"
 	]

@@ -1,17 +1,8 @@
 {
-<<<<<<< HEAD
 	"name": "Furina",
 	"combat1": {
 		"name": "Ataque Normal: Solicitação da Solista",
 		"info": "**Ataque Normal**\nRealiza até 4 golpes consecutivos.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para lançar uma dança sozinha e causar Dano Físico contra oponentes próximos e mudar seu alinhamento de Arkhe. Se Membros do Salon ou a Cantora das Correntes invocados por sua Habilidade Elemental \"Salon Solitaire\" estiverem presentes, sua formação mudará para a forma correspondente.\n\n**Arkhe: Trono Sagrado e Secular**\nPeriodicamente, quando o Ataque Normal de Furina atingir, um Espinho Espiritual ou Lâmina da Fluidez cairá segundo seu alinhamento atual, causando Dano Hydro.\nQuando Furina entrar no campo de batalha, seu Arkhe será Ousia.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE no impacto.",
-=======
-	"id": 8901,
-	"name": "Furina",
-	"combat1": {
-		"name": "Ataque Normal: Solicitação da Solista",
-		"descriptionRaw": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para lançar uma dança sozinha e causar Dano Físico contra oponentes próximos e mudar seu alinhamento de Arkhe. Se Membros do Salon ou a Cantora das Correntes invocados por sua Habilidade Elemental \"Salon Solitaire\" estiverem presentes, sua formação mudará para a forma correspondente.\n\n<color=#FFD780FF>Arkhe: Trono Sagrado e Secular</color>\nPeriodicamente, quando o Ataque Normal de Furina atingir, um Espinho Espiritual ou Lâmina da Fluidez cairá segundo seu alinhamento atual, causando <color=#80C0FFFF>Dano Hydro</color>.\nQuando Furina entrar no campo de batalha, seu Arkhe será Ousia.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE no impacto.",
-		"description": "Ataque Normal\nRealiza até 4 golpes consecutivos.\n\nAtaque Carregado\nConsome uma certa quantidade de Stamina para lançar uma dança sozinha e causar Dano Físico contra oponentes próximos e mudar seu alinhamento de Arkhe. Se Membros do Salon ou a Cantora das Correntes invocados por sua Habilidade Elemental \"Salon Solitaire\" estiverem presentes, sua formação mudará para a forma correspondente.\n\nArkhe: Trono Sagrado e Secular\nPeriodicamente, quando o Ataque Normal de Furina atingir, um Espinho Espiritual ou Lâmina da Fluidez cairá segundo seu alinhamento atual, causando Dano Hydro.\nQuando Furina entrar no campo de batalha, seu Arkhe será Ousia.\n\nAtaque Imersivo\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE no impacto.",
->>>>>>> upstream/main
 		"attributes": {
 			"labels": [
 				"Dano do 1° Golpe|{param1:F1P}",
@@ -29,14 +20,8 @@
 	},
 	"combat2": {
 		"name": "Salon Solitaire",
-<<<<<<< HEAD
 		"info": "Chama os convidados do Salon Solitaire a participarem da performance de Furina. Convida os Membros do Salon ou a Cantora das Correntes segundo o alinhamento **Arkhe** atual.\n\n**Ousia**\nJoga bolhas comemorativas, causa Dano Hydro em AdE baseado na Vida Máxima de Furina e invoca três Membros do Salon: Polvo de Bola \"Gentilshomme Usher\", Cavalo-Marinho de Bolhas \"Surintendante Chevalmarin\" e Caranguejo de Armadura \"Mademoiselle Crabaletta\".\nOs Membros do Salon periodicamente atacarão os inimigos próximos, e priorizarão atacar o alvo do personagem atual, causando Dano Hydro baseado na Vida Máxima.\nQuando os Membros do Salon atacarem, baseado no número de personagens próximos com mais de 50% de Vida, aumenta o poder do Ataque e consome Vida desses personagens: se 1/2/3/4 ou mais personagens cumprirem os requisitos, aumenta o Dano original de seu Ataque em 110%/120%/130%/140%.\n\n**Pneuma**\nInvoca a Cantora das Correntes que periodicamente regenera Vida para os personagens atuais próximos baseado na Vida Máxima.\nA duração dos Membros do Salon e da Cantora das Correntes é compartilhada. Quando Furina trocar a formação ao realizar um Ataque Carregado, eles continuarão herdando a duração.\nEnquanto os Membros do Salon ou a Cantora das Correntes existirem, Furina poderá se mover sobre a água.",
 		"description": "Um conjunto de frequentadores regulares no Salon Solitaire de Furina. Em outras épocas, Mademoiselle Crabaletta, Surintendante Chevalmarin e Gentilshomme Usher visitavam, e em quartas-feiras tristes, era a Cantora que vinha.",
-=======
-		"descriptionRaw": "Chama os convidados do Salon Solitaire a participarem da performance de Furina. Convida os Membros do Salon ou a Cantora das Correntes segundo o alinhamento <color=#FFD780FF>Arkhe</color> atual.\n\n<color=#FFD780FF>Ousia</color>\nJoga bolhas comemorativas, causa <color=#80C0FFFF>Dano Hydro em AdE</color> baseado na Vida Máxima de Furina e invoca três Membros do Salon: Polvo de Bola \"Gentilshomme Usher\", Cavalo-Marinho de Bolhas \"Surintendante Chevalmarin\" e Caranguejo de Armadura \"Mademoiselle Crabaletta\".\nOs Membros do Salon periodicamente atacarão os inimigos próximos, e priorizarão atacar o alvo do personagem atual, causando <color=#80C0FFFF>Dano Hydro</color> baseado na Vida Máxima.\nQuando os Membros do Salon atacarem, baseado no número de personagens próximos com mais de 50% de Vida, aumenta o poder do Ataque e consome Vida desses personagens: se 1/2/3/4 ou mais personagens cumprirem os requisitos, aumenta o Dano original de seu Ataque em 110%/120%/130%/140%.\n\n<color=#FFD780FF>Pneuma</color>\nInvoca a Cantora das Correntes que periodicamente regenera Vida para os personagens atuais próximos baseado na Vida Máxima.\nA duração dos Membros do Salon e da Cantora das Correntes é compartilhada. Quando Furina trocar a formação ao realizar um Ataque Carregado, eles continuarão herdando a duração.\nEnquanto os Membros do Salon ou a Cantora das Correntes existirem, Furina poderá se mover sobre a água.\n\n<i>Um conjunto de frequentadores regulares no Salon Solitaire de Furina. Em outras épocas, Mademoiselle Crabaletta, Surintendante Chevalmarin e Gentilshomme Usher visitavam, e em quartas-feiras tristes, era a Cantora que vinha.</i>",
-		"description": "Chama os convidados do Salon Solitaire a participarem da performance de Furina. Convida os Membros do Salon ou a Cantora das Correntes segundo o alinhamento Arkhe atual.\n\nOusia\nJoga bolhas comemorativas, causa Dano Hydro em AdE baseado na Vida Máxima de Furina e invoca três Membros do Salon: Polvo de Bola \"Gentilshomme Usher\", Cavalo-Marinho de Bolhas \"Surintendante Chevalmarin\" e Caranguejo de Armadura \"Mademoiselle Crabaletta\".\nOs Membros do Salon periodicamente atacarão os inimigos próximos, e priorizarão atacar o alvo do personagem atual, causando Dano Hydro baseado na Vida Máxima.\nQuando os Membros do Salon atacarem, baseado no número de personagens próximos com mais de 50% de Vida, aumenta o poder do Ataque e consome Vida desses personagens: se 1/2/3/4 ou mais personagens cumprirem os requisitos, aumenta o Dano original de seu Ataque em 110%/120%/130%/140%.\n\nPneuma\nInvoca a Cantora das Correntes que periodicamente regenera Vida para os personagens atuais próximos baseado na Vida Máxima.\nA duração dos Membros do Salon e da Cantora das Correntes é compartilhada. Quando Furina trocar a formação ao realizar um Ataque Carregado, eles continuarão herdando a duração.\nEnquanto os Membros do Salon ou a Cantora das Correntes existirem, Furina poderá se mover sobre a água.",
-		"flavorText": "Um conjunto de frequentadores regulares no Salon Solitaire de Furina. Em outras épocas, Mademoiselle Crabaletta, Surintendante Chevalmarin e Gentilshomme Usher visitavam, e em quartas-feiras tristes, era a Cantora que vinha.",
->>>>>>> upstream/main
 		"attributes": {
 			"labels": [
 				"Dano da Bolha de Ousia|{param1:F1P} da Vida Máxima",
@@ -54,14 +39,8 @@
 	},
 	"combat3": {
 		"name": "E o Povo Vai à Loucura",
-<<<<<<< HEAD
 		"info": "Reúne o impulso da euforia, criando um palco de espuma que causa Dano Hydro em AdE baseado na Vida Máxima de Furina, e faz todos os personagens próximos entrarem no estado \"Euforia Universal\": em sua duração, quando a Vida de um personagem próximo aumentar ou diminuir, fará Furina obter 1 ponto de Fanfarra para cada 1% da proporção de valor do aumento ou queda da Vida Máxima.\nAo mesmo tempo, Furina aumenta o Dano causado por todos os membros próximos da equipe e aumenta bônus de Cura baseado nos pontos de Fanfarra possuídos.\nQuando a duração terminar, as Fanfarras que Furina possui serão eliminadas.",
 		"description": "\"Alegrem-se! Elogiem! Choquem-se! Levantem seus copos! Cada noite de um banquete é um desperdício sórdido da luz do dia sóbria... e, hã, aqueles que ainda não têm idade podem tomar suco de fruta!\"",
-=======
-		"descriptionRaw": "Reúne o impulso da euforia, criando um palco de espuma que causa <color=#80C0FFFF>Dano Hydro em AdE</color> baseado na Vida Máxima de Furina, e faz todos os personagens próximos entrarem no estado \"Euforia Universal\": em sua duração, quando a Vida de um personagem próximo aumentar ou diminuir, fará Furina obter 1 ponto de Fanfarra para cada 1% da proporção de valor do aumento ou queda da Vida Máxima.\nAo mesmo tempo, Furina aumenta o Dano causado por todos os membros próximos da equipe e aumenta bônus de Cura baseado nos pontos de Fanfarra possuídos.\nQuando a duração terminar, as Fanfarras que Furina possui serão eliminadas.\n\n<i>\"Alegrem-se! Elogiem! Choquem-se! Levantem seus copos! Cada noite de um banquete é um desperdício sórdido da luz do dia sóbria... e, hã, aqueles que ainda não têm idade podem tomar suco de fruta!\"</i>",
-		"description": "Reúne o impulso da euforia, criando um palco de espuma que causa Dano Hydro em AdE baseado na Vida Máxima de Furina, e faz todos os personagens próximos entrarem no estado \"Euforia Universal\": em sua duração, quando a Vida de um personagem próximo aumentar ou diminuir, fará Furina obter 1 ponto de Fanfarra para cada 1% da proporção de valor do aumento ou queda da Vida Máxima.\nAo mesmo tempo, Furina aumenta o Dano causado por todos os membros próximos da equipe e aumenta bônus de Cura baseado nos pontos de Fanfarra possuídos.\nQuando a duração terminar, as Fanfarras que Furina possui serão eliminadas.",
-		"flavorText": "\"Alegrem-se! Elogiem! Choquem-se! Levantem seus copos! Cada noite de um banquete é um desperdício sórdido da luz do dia sóbria... e, hã, aqueles que ainda não têm idade podem tomar suco de fruta!\"",
->>>>>>> upstream/main
 		"attributes": {
 			"labels": [
 				"Dano de Habilidade|{param1:F1P} da Vida Máxima",
@@ -76,7 +55,6 @@
 	},
 	"passive1": {
 		"name": "Valsa Infinita",
-<<<<<<< HEAD
 		"info": "Quando o personagem ativo é curado, se a fonte da cura não for Furina e a quantidade curada for maior que o necessário, nos próximos 4s, Furina regenerará Vida para os personagens próximos da equipe a cada 2s. A quantidade regenerada é equivalente a 2% da Vida Máxima de cada personagem."
 	},
 	"passive2": {
@@ -86,292 +64,150 @@
 	"passive3": {
 		"name": "O Mar é o meu Palco",
 		"info": "Diminui a recarga das habilidades das Aberrações Primordiais Heterocromáticas em 30%."
-=======
-		"descriptionRaw": "Quando o personagem ativo é curado, se a fonte da cura não for Furina e a quantidade curada for maior que o necessário, nos próximos 4s, Furina regenerará Vida para os personagens próximos da equipe a cada 2s. A quantidade regenerada é equivalente a 2% da Vida Máxima de cada personagem.",
-		"description": "Quando o personagem ativo é curado, se a fonte da cura não for Furina e a quantidade curada for maior que o necessário, nos próximos 4s, Furina regenerará Vida para os personagens próximos da equipe a cada 2s. A quantidade regenerada é equivalente a 2% da Vida Máxima de cada personagem."
-	},
-	"passive2": {
-		"name": "Confissão Inaudita",
-		"descriptionRaw": "Cada 1.000 pontos da Vida Máxima de Furina podem dar bônus para os Arkhe diferentes de <color=#FFD780FF>Salon Solitaire</color>:\nAumenta o Dano causado pelos Membros do Salon em 0.7%. É possível aumentar o Dano causado pelos Membros do Salon em até 28% dessa forma.\nReduzirá o intervalo de cura do personagem ativo pela Cantora das Correntes em 0.4%. É possível reduzir até 16%.",
-		"description": "Cada 1.000 pontos da Vida Máxima de Furina podem dar bônus para os Arkhe diferentes de Salon Solitaire:\nAumenta o Dano causado pelos Membros do Salon em 0.7%. É possível aumentar o Dano causado pelos Membros do Salon em até 28% dessa forma.\nReduzirá o intervalo de cura do personagem ativo pela Cantora das Correntes em 0.4%. É possível reduzir até 16%."
-	},
-	"passive3": {
-		"name": "O Mar é o meu Palco",
-		"descriptionRaw": "Diminui a recarga das habilidades das Aberrações Primordiais Heterocromáticas em 30%.",
-		"description": "Diminui a recarga das habilidades das Aberrações Primordiais Heterocromáticas em 30%."
->>>>>>> upstream/main
 	},
 	"costs": {
 		"lvl2": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 12500
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104341,
->>>>>>> upstream/main
 				"name": "Ensinamentos da Justiça",
 				"count": 3
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112038,
->>>>>>> upstream/main
 				"name": "Néctar da Flor Gigante",
 				"count": 6
 			}
 		],
 		"lvl3": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 17500
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104342,
->>>>>>> upstream/main
 				"name": "Guia da Justiça",
 				"count": 2
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112039,
->>>>>>> upstream/main
 				"name": "Néctar Brilhante",
 				"count": 3
 			}
 		],
 		"lvl4": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 25000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104342,
->>>>>>> upstream/main
 				"name": "Guia da Justiça",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112039,
->>>>>>> upstream/main
 				"name": "Néctar Brilhante",
 				"count": 4
 			}
 		],
 		"lvl5": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 30000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104342,
->>>>>>> upstream/main
 				"name": "Guia da Justiça",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112039,
->>>>>>> upstream/main
 				"name": "Néctar Brilhante",
 				"count": 6
 			}
 		],
 		"lvl6": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 37500
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104342,
->>>>>>> upstream/main
 				"name": "Guia da Justiça",
 				"count": 9
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112039,
->>>>>>> upstream/main
 				"name": "Néctar Brilhante",
 				"count": 9
 			}
 		],
 		"lvl7": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 120000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104343,
->>>>>>> upstream/main
 				"name": "Filosofia da Justiça",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112040,
->>>>>>> upstream/main
 				"name": "Néctar Elemental",
 				"count": 4
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113056,
->>>>>>> upstream/main
 				"name": "Massa Sem Luz",
 				"count": 1
 			}
 		],
 		"lvl8": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 260000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104343,
->>>>>>> upstream/main
 				"name": "Filosofia da Justiça",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112040,
->>>>>>> upstream/main
 				"name": "Néctar Elemental",
 				"count": 6
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113056,
->>>>>>> upstream/main
 				"name": "Massa Sem Luz",
 				"count": 1
 			}
 		],
 		"lvl9": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 450000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104343,
->>>>>>> upstream/main
 				"name": "Filosofia da Justiça",
 				"count": 12
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112040,
->>>>>>> upstream/main
 				"name": "Néctar Elemental",
 				"count": 9
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113056,
->>>>>>> upstream/main
 				"name": "Massa Sem Luz",
 				"count": 2
 			}
 		],
 		"lvl10": [
 			{
-<<<<<<< HEAD
-=======
-				"id": 202,
->>>>>>> upstream/main
 				"name": "Mora",
 				"count": 700000
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104343,
->>>>>>> upstream/main
 				"name": "Filosofia da Justiça",
 				"count": 16
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 112040,
->>>>>>> upstream/main
 				"name": "Néctar Elemental",
 				"count": 12
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 113056,
->>>>>>> upstream/main
 				"name": "Massa Sem Luz",
 				"count": 2
 			},
 			{
-<<<<<<< HEAD
-=======
-				"id": 104319,
->>>>>>> upstream/main
 				"name": "Coroa da Sabedoria",
 				"count": 1
 			}

@@ -1,15 +1,10 @@
 {
-	"id": 100052,
 	"name": "Sis Çiçeği Tepeciği",
-	"sortRank": 320,
 	"description": "Buzla kaplı bir çiçek tomurcuğu. Toplandıktan sonra bile soğuk hava yaymaya devam eder.",
-<<<<<<< HEAD
 	"sortorder": 2889,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Şafak Şaraphanesinde bulunur."
 	]

@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Consommé",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Piatto ATT+",
 	"foodcategory": "Atk_CritRate",
-=======
-	"id": 3413,
-	"name": "Consommé",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Piatto ATT+",
->>>>>>> upstream/main
 	"effect": "Aumenta di un 10-20% il tasso di CRIT di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Una zuppa dalla preparazione complessa. Schiaccia gli ingredienti, fai bollire il tutto nel brodo e servi solo la parte chiara della zuppa derivante dalla bollitura. Tra le strade di Fontaine circola una voce secondo cui uno scrittore poco ispirato ebbe improvvisamente dei colpi di genio dopo aver mangiato questa zuppa... Questo effetto tanto incredibile, però, non sarà una trovata pubblicitaria inventata dal ristorante che serve la zuppa?",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100064,
->>>>>>> upstream/main
 			"name": "Pollame",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Uovo d'uccello",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100013,
->>>>>>> upstream/main
 			"name": "Carota",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

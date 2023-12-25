@@ -1,15 +1,10 @@
 {
-	"id": 100023,
 	"name": "Cécilia",
-	"sortRank": 311,
 	"description": "Une belle fleur qui porte un nom aussi beau que son apparence, et que l'on trouve seulement où soufflent les vents violents, et est aussi intangible que le cœur d'un vagabond.",
-<<<<<<< HEAD
 	"sortorder": 2848,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Mondstadt",
-	"sources": [
+	"materialtype": "Produit de Mondstadt",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Falaise Arrachétoile"
 	]

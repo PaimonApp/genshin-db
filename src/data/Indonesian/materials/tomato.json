@@ -1,15 +1,10 @@
 {
-	"id": 100079,
 	"name": "Tomato",
-	"sortRank": 321,
 	"description": "Tumbuhan yang kulitnya merah dan terang, memiliki rasa asam dan manis yang menyegarkan. Perdebatan tentang tomat buah atau sayuran, juga berlangsung di dunia Teyvat.",
-<<<<<<< HEAD
 	"sortorder": 2921,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Dijual di toko barang kebutuhan"
 	]
 }

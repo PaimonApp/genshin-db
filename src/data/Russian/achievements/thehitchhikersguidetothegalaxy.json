@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Автостопом по галактике",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 2187,
-=======
-	"id": [
-		82188
-	],
-	"name": "Автостопом по галактике",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2187,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Автостопом по галактике",
 		"description": "Окажитесь в желудке чудовища дважды в течение одного испытания.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 10
 		}

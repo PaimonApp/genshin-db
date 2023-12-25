@@ -1,14 +1,12 @@
 {
-	"id": 12042,
 	"name": "Эссенция чистой капли росы",
-	"filterText": "Возвышение оружия",
-	"sortOrder": 130128,
-	"unlockRank": 45,
-	"resultCount": 1,
-	"moraCost": 1075,
+	"filter": "Возвышение оружия",
+	"sortorder": 130128,
+	"unlockrank": 45,
+	"resultcount": 1,
+	"moracost": 1075,
 	"recipe": [
 		{
-			"id": 114055,
 			"name": "Источник чистой капли росы",
 			"count": 3
 		}

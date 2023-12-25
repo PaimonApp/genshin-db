@@ -1,8 +1,7 @@
 {
-	"id": 210068,
 	"name": "Celebrazione: Cucù!",
 	"description": "Stile per la carta giocatore.\nNon mi vedi. Non mi vedi.",
-	"sortOrder": 210068,
+	"sortorder": 210068,
 	"source": [
 		"Si ottiene nell'evento Cacciavento"
 	]

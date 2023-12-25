@@ -1,15 +1,10 @@
 {
-	"id": 101210,
 	"name": "Yosun",
-	"sortRank": 321,
 	"description": "Sığ denizlerde yetişen bir bitki. Yemeklere benzersiz bir lezzet katar.",
-<<<<<<< HEAD
 	"sortorder": 2937,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Inazuma'daki deniz sularında bulunur."
 	]
 }

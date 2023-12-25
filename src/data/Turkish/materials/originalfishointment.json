@@ -1,15 +1,9 @@
 {
-	"id": 200111,
 	"name": "Orijinal Balık Merhemi",
-	"rarity": 4,
-	"sortRank": 90,
 	"description": "\"Yolun Sonu\" için özel saflaştırma malzemesi.\nKuzeydeki büyük gölde tutulan balıkların özünden elde edilen merhem. Balıkların enerjisini geçici olarak geri kazandırma etkisine sahiptir.\nBu gölde, Teyvat'ta başka hiçbir yerde görülmeyen su canlılarının yaşadığı söyleniyor.",
-<<<<<<< HEAD
 	"sortorder": 2762,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Saflaştırma Malzemesi",
-	"sources": []
+	"materialtype": "Saflaştırma Malzemesi",
+	"source": []
 }

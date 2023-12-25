@@ -1,15 +1,10 @@
 {
-	"id": 100084,
 	"name": "Thịt Cá",
-	"sortRank": 321,
 	"description": "Miếng cá tươi ngon, qua chế biến sẽ thành món ngon khó cưỡng.",
-<<<<<<< HEAD
 	"sortorder": 2923,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Bắt Cá để thu thập"
 	]
 }

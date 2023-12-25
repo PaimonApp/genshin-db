@@ -1,15 +1,10 @@
 {
-	"id": 101223,
 	"name": "Yas Çiçeği",
-	"sortRank": 314,
 	"description": "Kadim savaş alanlarında ya da çölün derinliklerinde bile açan kırmızı çiçekler. Aşağı doğru sarkan çiçekleri, geçmişteki kahramanlar için yas tutuyor gibi görünür.",
-<<<<<<< HEAD
 	"sortorder": 2877,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Sumeru Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Sumeru Yöresel Ürünü",
+	"source": [
 		"Sumeru'nun çöllerinde bulunur.",
 		"Öneri: Asipattravana Bataklığı'nda bulunur."
 	]

@@ -1,25 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Makinalarınızı Dans Pistinden Alır Mısınız Lütfen?",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 2106,
-=======
-	"id": [
-		82105
-	],
-	"name": "Makinalarınızı Dans Pistinden Alır Mısınız Lütfen?",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 2106,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Makinalarınızı Dans Pistinden Alır Mısınız Lütfen?",
 		"description": "Bir Ölümsüz Mekanik Dizilimi, Harabe Nöbetçilerini alt etmeden yen.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}

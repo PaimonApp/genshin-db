@@ -1,18 +1,14 @@
 {
-	"id": [
-		82121
-	],
 	"name": "O Fim de Inugami",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 2121,
+	"achievementgroup": "Maravilhas do Mundo",
+	"ishidden": true,
+	"sortorder": 2121,
 	"stages": 1,
 	"stage1": {
 		"title": "O Fim de Inugami",
 		"description": "Destrua dois Cães da Fenda Alfa em pouco tempo.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

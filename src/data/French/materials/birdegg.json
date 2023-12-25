@@ -1,15 +1,10 @@
 {
-	"id": 100062,
 	"name": "Œuf d'oiseau",
-	"sortRank": 321,
 	"description": "Cet œuf renfermait une infinité de possibilités, mais dans son état actuel, il constituera votre apport quotidien de protéines.",
-<<<<<<< HEAD
 	"sortorder": 2913,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Dans la nature"
 	]
 }

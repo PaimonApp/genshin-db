@@ -1,11 +1,7 @@
 {
-	"id": [
-		80174
-	],
 	"name": "A Lembrança Perpétua da Floresta",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru: Floresta da Sabedoria",
-	"sortOrder": 174,
+	"achievementgroup": "Sumeru: Floresta da Sabedoria",
+	"sortorder": 174,
 	"stages": 1,
 	"stage1": {
 		"title": "A Lembrança Perpétua da Floresta",
@@ -13,7 +9,6 @@
 		"description": "Complete Aranyaka.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}

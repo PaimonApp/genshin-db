@@ -1,15 +1,10 @@
 {
-	"id": 101201,
 	"name": "Onikabuto",
-	"sortRank": 313,
 	"description": "Ein seltsamer Käfer, der in Gebieten lebt, die reich an Elektro-Energie sind. Sein sanftmütiges und sesshaftes Temperament könnte nicht unterschiedlicher sein als die grimmige, dämonische Visage, die auf seinem Panzer zu sehen ist.",
-<<<<<<< HEAD
 	"sortorder": 2862,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Inazuma",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Inazuma",
+	"source": [
 		"In der freien Natur zu finden",
 		"Empfohlen: Auf Narukami zu finden",
 		"Empfohlen: In Tatarasuna zu finden"

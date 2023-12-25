@@ -1,23 +1,12 @@
 {
-<<<<<<< HEAD
 	"name": "Essence of Pure Sacred Dewdrop",
 	"filter": "วัสดุเลื่อนขั้นอาวุธ",
 	"sortorder": 130128,
 	"unlockrank": 45,
 	"resultcount": 1,
 	"moracost": 1075,
-=======
-	"id": 12042,
-	"name": "Essence of Pure Sacred Dewdrop",
-	"filterText": "วัสดุเลื่อนขั้นอาวุธ",
-	"sortOrder": 130128,
-	"unlockRank": 45,
-	"resultCount": 1,
-	"moraCost": 1075,
->>>>>>> upstream/main
 	"recipe": [
 		{
-			"id": 114055,
 			"name": "Spring of Pure Sacred Dewdrop",
 			"count": 3
 		}

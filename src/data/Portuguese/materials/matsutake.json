@@ -1,15 +1,10 @@
 {
-	"id": 100063,
 	"name": "Matsutake",
-	"sortRank": 321,
 	"description": "Um fungo raro que geralmente cresce sobre ou perto de pinheiros. Seu aroma delicado revela sua localização.",
-<<<<<<< HEAD
 	"sortorder": 2914,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Encontrado na natureza"
 	]
 }

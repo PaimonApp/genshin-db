@@ -1,15 +1,10 @@
 {
-	"id": 100054,
 	"name": "Electro Crystal",
-	"sortRank": 320,
 	"description": "A power-rich crystal that draws electricity from the air around it. Holding it makes your hand a little numb.",
-<<<<<<< HEAD
 	"sortorder": 2891,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found under mountain cliffs",
 		"Recommendation: Found at Cape Oath"
 	]

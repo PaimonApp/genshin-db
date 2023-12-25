@@ -1,13 +1,7 @@
 {
-	"id": 9,
 	"name": "Domain dan Spiral Abyss: Seri I",
-<<<<<<< HEAD
 	"sortorder": 22,
-=======
-	"sortOrder": 22,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210029,
 		"name": "Achievement: Misteri"
 	}
 }

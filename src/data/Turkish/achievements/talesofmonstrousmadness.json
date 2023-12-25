@@ -1,11 +1,8 @@
 {
-	"id": [
-		80091
-	],
 	"name": "Korkunç Çılgınlık Hikayeleri",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 92,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 92,
 	"stages": 1,
 	"stage1": {
 		"title": "Korkunç Çılgınlık Hikayeleri",
@@ -13,7 +10,6 @@
 		"description": "\"Toki Sokağı Hikayeleri\" serisinin tüm ciltlerini topla.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

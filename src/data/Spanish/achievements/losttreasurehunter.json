@@ -1,20 +1,13 @@
 {
-	"id": [
-		80120,
-		80121,
-		80122
-	],
 	"name": "#Cazatesoros perdid{F#a}{M#o}",
-	"achievementGroupId": 27,
-	"achievementGroupName": "A través de la niebla",
-	"sortOrder": 120,
+	"achievementgroup": "A través de la niebla",
+	"sortorder": 120,
 	"stages": 3,
 	"stage1": {
 		"title": "#Cazatesoros perdid{F#a}{M#o}",
 		"description": "Abre 30 cofres en la Isla Tsurumi.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Abre 60 cofres en la Isla Tsurumi.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Abre 120 cofres en la Isla Tsurumi.",
 		"progress": 120,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 20
 		}

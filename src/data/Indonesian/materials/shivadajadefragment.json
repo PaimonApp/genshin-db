@@ -1,17 +1,11 @@
 {
-	"id": 104162,
 	"name": "Shivada Jade Fragment",
-	"rarity": 3,
-	"sortRank": 12107,
 	"description": "Material Ascension Karakter.\n\"Maaf...\"",
-<<<<<<< HEAD
 	"sortorder": 3211,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Karakter",
-	"sources": [
+	"materialtype": "Material Ascension Karakter",
+	"source": [
 		"Dijatuhkan oleh Cryo Regisvine Lv. 40+",
 		"Dijatuhkan oleh Cryo Hypostasis Lv. 40+",
 		"Didapatkan melalui Craft"

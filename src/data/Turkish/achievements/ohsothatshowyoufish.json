@@ -1,18 +1,14 @@
 {
-	"id": [
-		81142
-	],
 	"name": "\"Ah, Balıkları Böyle Yakalıyorsun Demek...\"",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1136,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1136,
 	"stages": 1,
 	"stage1": {
 		"title": "\"Ah, Balıkları Böyle Yakalıyorsun Demek...\"",
 		"description": "Oltanı attığında balığı korkutup kaçır.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

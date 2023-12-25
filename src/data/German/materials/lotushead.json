@@ -1,15 +1,10 @@
 {
-	"id": 100026,
 	"name": "Lotos",
-	"sortRank": 321,
 	"description": "Eine Pflanze mit zwei Stängeln, die in stehenden Gewässern rund um Liyue wächst. Ein Stängel duftet angenehm, der andere ist bitter. Eignet sich angeblich gut für Medizin.",
-<<<<<<< HEAD
 	"sortorder": 2910,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"An Flussufern und Seen zu finden"
 	]
 }

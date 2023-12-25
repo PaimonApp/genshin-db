@@ -1,15 +1,10 @@
 {
-	"id": 100096,
 	"name": "Legumbres peladas",
-	"sortRank": 321,
 	"description": "Una legumbre típica en Teyvat. Tiene un olor neutro. Dado que existen muchas formas de cocinarla, su uso está muy extendido y aceptado por todos.",
-<<<<<<< HEAD
 	"sortorder": 2933,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Comprando en restaurantes de Sumeru",
 		"Comprado en tiendas de Fontaine"
 	]

@@ -1,18 +1,14 @@
 {
-	"id": [
-		81171
-	],
 	"name": "\"Paisagem magnífica até onde a vista alcança\"",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1157,
+	"achievementgroup": "Maravilhas do Mundo",
+	"ishidden": true,
+	"sortorder": 1157,
 	"stages": 1,
 	"stage1": {
 		"title": "\"Paisagem magnífica até onde a vista alcança\"",
 		"description": "Diga adeus ao seu barqueiro.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,20 +1,8 @@
 {
-<<<<<<< HEAD
 	"name": "Parçalanmış Hayallerin Enkazı",
 	"area": "Merkez Laboratuvar Harabeleri",
 	"description": "Bir gaye yok olduğunda en büyük sorumluluğu barışı korumaktır.\nAncak bazıları bu alevli enerjinin başka amaçlar doğrultusunda kullanılabileceğini düşünüyor...",
 	"region": "Fontaine",
 	"showonlyunlocked": true,
 	"sortorder": 402
-=======
-	"id": 70500002,
-	"name": "Parçalanmış Hayallerin Enkazı",
-	"areaId": 50501,
-	"areaName": "Merkez Laboratuvar Harabeleri",
-	"description": "Bir gaye yok olduğunda en büyük sorumluluğu barışı korumaktır.\nAncak bazıları bu alevli enerjinin başka amaçlar doğrultusunda kullanılabileceğini düşünüyor...",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 402
->>>>>>> upstream/main
 }

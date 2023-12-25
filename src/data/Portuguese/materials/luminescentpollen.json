@@ -1,25 +1,11 @@
 {
-	"id": 112060,
 	"name": "Pólen fluorescente",
-	"rarity": 2,
-	"sortRank": 10121,
 	"description": "Uma pequena quantidade de esporos luminescentes de Cogumelos Flutuantes, um ingrediente medicinal comum na terra das florestas tropicais. Os comerciantes geralmente os vendem em pacotinhos de papel.",
-<<<<<<< HEAD
 	"sortorder": 3094,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material de Fortalecimento de Arma e Personagem",
 	"source": [
 		"Obtido na síntese"
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Fortalecimento de Arma e Personagem",
-	"sources": [
-		"Obtido na síntese",
-		"Dropado por Cogumelos Nv.40+",
-		"Dropado raramente por Cogumelos (Estado Ativo) Nv.40+",
-		"Dropado raramente por Cogumelos (Estado Queimado) Nv.40+",
-		"Resgate de Poeira Estrelar"
->>>>>>> upstream/main
 	]
 }

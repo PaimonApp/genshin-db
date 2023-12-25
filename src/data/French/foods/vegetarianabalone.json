@@ -1,10 +1,9 @@
 {
-	"id": 2109,
 	"name": "Ormeau végétarien",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Récupération",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Réanime le personnage sélectionné.\nRestaure 250 à 550 PV.",
 	"description": "Un plat végétarien riche en saveurs. Les matsutake ont été émincés et frits jusqu'à ce qu'ils soient dorés avant que la sauce ne soit versée. La fausse viande de matsutake est généreuse et possède un goût similaire à celui de l'ormeau, assez pour vous faire croire qu'il s'agit du fruit de mer.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100063,
 			"name": "Matsutake",
 			"count": 2
 		},
 		{
-			"id": 100015,
 			"name": "Gueule-de-loup",
 			"count": 2
 		}

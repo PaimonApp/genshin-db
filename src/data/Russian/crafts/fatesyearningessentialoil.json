@@ -1,12 +1,10 @@
 {
-	"id": 16005,
 	"name": "Эссенция «Тоскующей фортуны»",
-	"sortOrder": 91020,
-	"unlockRank": 1,
-	"resultCount": 1,
+	"sortorder": 91020,
+	"unlockrank": 1,
+	"resultcount": 1,
 	"recipe": [
 		{
-			"id": 100489,
 			"name": "«Тоскующая фортуна»",
 			"count": 1
 		}

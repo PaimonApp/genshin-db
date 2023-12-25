@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Old Operative's Pocket Watch",
 	"description": "นาฬิกาพกมาตรฐานที่มอบให้เจ้าหน้าที่ Fatui\nการสึกหรอและสีที่ซีดจางของตัวเรือน ได้บันทึกช่วงเวลาที่ใช้ในฐานะผู้ปฏิบัติการอย่างซื่อสัตย์",
 	"sortorder": 3128,
@@ -7,17 +6,4 @@
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "วัสดุยกระดับตัวละครและอาวุธ",
 	"source": []
-=======
-	"id": 112092,
-	"name": "Old Operative's Pocket Watch",
-	"rarity": 2,
-	"sortRank": 10132,
-	"description": "นาฬิกาพกมาตรฐานที่มอบให้เจ้าหน้าที่ Fatui\nการสึกหรอและสีที่ซีดจางของตัวเรือน ได้บันทึกช่วงเวลาที่ใช้ในฐานะผู้ปฏิบัติการอย่างซื่อสัตย์",
-	"category": "AVATAR_MATERIAL",
-	"typeText": "วัสดุยกระดับตัวละครและอาวุธ",
-	"sources": [
-		"ดรอปจาก Fatui Operative",
-		"แลกเปลี่ยนด้วย Stardust"
-	]
->>>>>>> upstream/main
 }

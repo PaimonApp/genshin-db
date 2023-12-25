@@ -1,15 +1,10 @@
 {
-	"id": 101213,
 	"name": "Champignon sacramental",
-	"sortRank": 314,
 	"description": "Un champignon qui pousse en couches successives telle une mer de nuages et que l'on trouve principalement sur les arbres au cœur de la forêt tropicale.",
-<<<<<<< HEAD
 	"sortorder": 2871,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Sumeru",
-	"sources": [
+	"materialtype": "Produit de Sumeru",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Royaume d'Ashavan",
 		"Zone conseillée : Selve de Lokapala"

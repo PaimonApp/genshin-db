@@ -1,11 +1,10 @@
 {
-	"id": 101219,
 	"name": "須彌薔薇",
-	"sortRank": 321,
 	"description": "明豔而深沉的紫色花卉，散發出使行人駐足的馥郁芬芳。雖然被稱作薔薇但其實嚴格來說應該算作玫瑰。",
+	"sortorder": 2941,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"野外採集"
 	]
 }

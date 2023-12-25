@@ -1,13 +1,7 @@
 {
-	"id": 25,
 	"name": "Guia de Pesca de Teyvat - Série I",
-<<<<<<< HEAD
 	"sortorder": 37,
-=======
-	"sortOrder": 37,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210098,
 		"name": "Conquista: Pregos"
 	}
 }

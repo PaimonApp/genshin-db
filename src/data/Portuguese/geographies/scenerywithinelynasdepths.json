@@ -1,11 +1,8 @@
 {
-	"id": 70400054,
 	"name": "Paisagem nas Profundezas Dentro de Elynas",
-	"areaId": 50203,
-	"areaName": "\"Lugar Muito Quente\"",
+	"area": "\"Lugar Muito Quente\"",
 	"description": "O coração que quase acordou, ficou silencioso mais uma vez.",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 354
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 354
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100097,
 	"name": "Carne misteriosa",
-	"sortRank": 321,
 	"description": "Un trozo de carne fresca recién cortada que emana un olor enigmático. ¿A qué sabrá cuando le hinques el diente?",
-<<<<<<< HEAD
 	"sortorder": 2934,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectado de animales"
 	]
 }

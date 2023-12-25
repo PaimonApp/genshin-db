@@ -1,10 +1,9 @@
 {
-	"id": 1402,
 	"name": "Trout Amandine",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Recovery Dish",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_HpAddAll",
 	"effect": "Restores 8–10% of Max HP to the selected character.\nRegenerates 210–300 HP every 5s for the next 30s.",
 	"description": "Fish fillets of a satisfying size, fried with butter before serving with a side of crispy fried almonds. According to the traditional recipe for this dish, a whole readied trout would be placed into the frying pan, but a new, fillet-featuring recipe for this dish has been gaining popularity recently as well.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Fish",
 			"count": 1
 		},
 		{
-			"id": 100089,
 			"name": "Almond",
 			"count": 1
 		}

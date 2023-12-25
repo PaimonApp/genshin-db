@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Crab for the Crab Throne",
 	"achievementgroup": "挑戦者·8",
 	"sortorder": 2183,
-=======
-	"id": [
-		82184
-	],
-	"name": "Crab for the Crab Throne",
-	"achievementGroupId": 40,
-	"achievementGroupName": "挑戦者·8",
-	"sortOrder": 2183,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Crab for the Crab Throne",
 		"description": "鉄甲熔炎帝王がダウンしている間に倒す。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

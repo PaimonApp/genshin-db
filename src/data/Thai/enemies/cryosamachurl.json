@@ -1,8 +1,7 @@
 {
-	"id": 21030501,
 	"name": "Cryo Samachurl",
-	"specialName": "Lata Sada",
-	"enemyType": "COMMON",
+	"specialname": "Lata Sada",
+	"enemytype": "COMMON",
 	"category": "ชนเผ่า Hilichurl",
 	"description": "Hilichurl เฒ่าซึ่งมักจะพึมพำและร่ายเวทน้ำแข็ง\nHilichurl ผู้มีความสามารถในการควบคุมธาตุ ซึ่งความสามารถของพวกมันนั้น มีแนวโน้มที่จะขึ้นสู่จุดสูงสุดในวัยชรา ชาแมนเหล่านี้มีความสามารถในการท่องจำบทสวดอันหนาวเหน็บ และเชี่ยวชาญในการใช้มันเพื่อควบคุมศัตรู",
 	"investigation": {
@@ -10,38 +9,31 @@
 		"category": "ง่าย",
 		"description": "เหล่าชาแมนในหมู่ Hilichurl ซึ่งสามารถใช้พลังธาตุได้ระดับหนึ่ง\\n\"รูปร่างของหน้ากากที่มีไว้ข่มขู่ศัตรู แต่ในทางกลับกันกลับทำให้มันดูน่าหลงใหล\" - Jacob Musk"
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112008,
 			"name": "Divining Scroll",
 			"count": 2.5212
 		},
 		{
-			"id": 112009,
 			"name": "Seal Scroll",
 			"count": 0.6723
 		},
 		{
-			"id": 112010,
 			"name": "Forbidden Curse Scroll",
 			"count": 0.168
 		},
 		{
-			"id": 112005,
 			"name": "Damaged Mask",
 			"count": 0.1681
 		},
 		{
-			"id": 112006,
 			"name": "Stained Mask",
 			"count": 0.0448
 		},
 		{
-			"id": 112007,
 			"name": "Ominous Mask",
 			"count": 0.0112
 		}

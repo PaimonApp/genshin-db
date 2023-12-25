@@ -1,8 +1,6 @@
 {
-	"id": 202000,
 	"name": "Дикий бег",
 	"description": "Наряд Рэйзора. Простая одежда, в которой удобно мчаться по просторам.",
-	"isDefault": true,
-	"characterId": 10000020,
-	"characterName": "Рэйзор"
+	"isdefault": true,
+	"character": "Рэйзор"
 }

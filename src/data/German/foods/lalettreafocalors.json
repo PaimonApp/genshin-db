@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Für den Hydro-Archon",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Gerichte für Verteidigung",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3416,
-	"name": "Für den Hydro-Archon",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Gerichte für Verteidigung",
->>>>>>> upstream/main
 	"effect": "Erhöht die max. LP aller Truppenmitglieder 300 s lang um 20 bis 25 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
 	"description": "Ein längliches Törtchen. Man erzählt sich, dass ein gewisser Konditor es vor langer, langer Zeit kreiert hat und die Muse, die ihn küsste, soll angeblich die Liebe gewesen sein, die die Bewohner Fontaines für den Hydro-Archon empfinden. Die vielen einzelnen Schichten stellen bei der Herstellung ohne Zweifel die kulinarischen Fähigkeiten des Konditors auf eine harte Probe und zeugen vom außergewöhnlichen Einfluss des Hydro-Archons auf dieses Gebäckstück.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Vogelei",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Mehl",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "Kaffeebohne",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "Mandeln",
 			"count": 2
 		}

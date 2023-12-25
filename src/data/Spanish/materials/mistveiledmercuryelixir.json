@@ -1,24 +1,17 @@
 {
-	"id": 114018,
 	"name": "Perdigones de mercurio",
-	"rarity": 3,
-	"sortRank": 15105,
 	"description": "Material de ascensión de arma.\nCon los fulu (talismanes), los Adeptus pueden almacenar su poder en forma de símbolos. Con el waijing (creación dimensional), pueden crear un paraíso cósmico gracias al poder de sus mentes. Sin embargo, los danding (perdigones) siempre han estado envueltos en misterio, ya que provocan la muerte a cualquiera que los manipule.",
-<<<<<<< HEAD
 	"sortorder": 3295,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de ascensión de arma",
-	"dropDomainId": 5219,
-	"dropDomainName": "Dominio de la forja: Ruinas atronadoras",
-	"daysOfWeek": [
+	"materialtype": "Material de ascensión de arma",
+	"dropdomain": "Dominio de la forja: Ruinas atronadoras",
+	"daysofweek": [
 		"Martes",
 		"Viernes",
 		"Domingo"
 	],
-	"sources": [
+	"source": [
 		"Sintetizar"
 	]
 }

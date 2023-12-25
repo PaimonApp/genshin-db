@@ -1,17 +1,11 @@
 {
-	"id": 104002,
 	"name": "Conseils de l'aventurier",
-	"rarity": 3,
-	"sortRank": 100,
 	"description": "Matériau d'EXP de personnage. Confère 5 000 pts d'EXP.\nCes conseils sont indispensables si vous vous aventurez dans des contrées inconnues.",
-<<<<<<< HEAD
 	"sortorder": 2771,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "EXP_FRUIT",
-	"typeText": "Matériau d'EXP de personnage",
-	"sources": [
+	"materialtype": "Matériau d'EXP de personnage",
+	"source": [
 		"Aventure et exploration",
 		"Récompense de Fleur de la révélation"
 	]

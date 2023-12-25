@@ -1,10 +1,7 @@
 {
-	"id": 70400064,
 	"name": "Regno di Narzissenkreuz",
-	"areaId": 50305,
 	"description": "\"In un futuro molto, molto remoto, in una terra lontana lontana... sorgeva lo splendente Regno di Narzissenkreuz...\"",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 364
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 364
 }

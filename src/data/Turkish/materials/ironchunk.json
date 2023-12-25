@@ -1,15 +1,10 @@
 {
-	"id": 101001,
 	"name": "Demir Parçası",
-	"sortRank": 301,
 	"description": "Bu demir parçası, yetenekli bir zanaatkarın elinde çok sayıda kullanışlı parçaya dönüştürülebilir.",
-<<<<<<< HEAD
 	"sortorder": 2821,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Dövmeye Uygun Cevher",
-	"sources": [
+	"materialtype": "Dövmeye Uygun Cevher",
+	"source": [
 		"Doğada bulunur."
 	]
 }

@@ -1,15 +1,9 @@
 {
-	"id": 105,
 	"name": "Friendship EXP",
-	"rarity": 3,
-	"sortRank": 11,
 	"description": "EXP ความประทับใจ ใช้เพื่อเพิ่มระดับความประทับใจ",
-<<<<<<< HEAD
 	"sortorder": 2668,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "เพิ่มความประทับใจ",
-	"sources": []
+	"materialtype": "เพิ่มความประทับใจ",
+	"source": []
 }

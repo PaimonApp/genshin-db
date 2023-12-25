@@ -1,11 +1,10 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface Enemy {
-		id: number;
 		name: string;
-		specialName: string;
+		specialname: string;
 
-		enemyType: 'BOSS' | 'COMMON' | 'ELITE'; // enum
-		category: string; // translated
+		type: 'COMMON' | 'ELITE' | 'BOSS';
+		category: string; 
 		description: string;
 
 		investigation?: { // almost all but not every enemy has this.
@@ -26,11 +25,10 @@ declare module "@PaimonApp/genshin-db" {
 		//     cryo: number;
 		//     electro: number;
 		// };
-		rewardPreview: Rewards[];
+		rewardpreview: Rewards[];
 
 		images: {
-			filename_icon: string;
-			filename_investigationIcon: string;
+			nameicon: string;
 		};
 		stats: EnemyStatFunction;
 	}

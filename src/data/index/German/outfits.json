@@ -37,7 +37,6 @@
 		"goldfishfirecracker": "Goldfischfeuerwerk",
 		"goldleafandpearlyjade": "Jade in Blattgold",
 		"goldpinionsinflamesbathed": "Feurige Goldfeder",
-		"guardiansgun": "Muskete der Gerechtigkeit",
 		"gunnhildrslegacy": "Gunnhildrs Erbe",
 		"heartofthescales": "Entschlossenes Herz",
 		"hermitofmortallife": "Eremit in der Sterblichkeit",
@@ -90,8 +89,7 @@
 		"wavecrestwaltz": "Wellenbergwalzer",
 		"whirlingbloom": "Blütentanz",
 		"wildsprint": "Wilder Sprint",
-		"woodlandsong": "Lied des Waldes",
-		"yellowvelvetsalon": "Salon des gelben Samts"
+		"woodlandsong": "Lied des Waldes"
 	},
 	"names": {
 		"Kundschafter durch und durch": "100outrider",
@@ -131,7 +129,6 @@
 		"Goldfischfeuerwerk": "goldfishfirecracker",
 		"Jade in Blattgold": "goldleafandpearlyjade",
 		"Feurige Goldfeder": "goldpinionsinflamesbathed",
-		"Muskete der Gerechtigkeit": "guardiansgun",
 		"Gunnhildrs Erbe": "gunnhildrslegacy",
 		"Entschlossenes Herz": "heartofthescales",
 		"Eremit in der Sterblichkeit": "hermitofmortallife",
@@ -183,8 +180,7 @@
 		"Wellenbergwalzer": "wavecrestwaltz",
 		"Blütentanz": "whirlingbloom",
 		"Wilder Sprint": "wildsprint",
-		"Lied des Waldes": "woodlandsong",
-		"Salon des gelben Samts": "yellowvelvetsalon"
+		"Lied des Waldes": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
@@ -303,9 +299,6 @@
 		],
 		"Kaveh": [
 			"goldpinionsinflamesbathed"
-		],
-		"Chevreuse": [
-			"guardiansgun"
 		],
 		"Cyno": [
 			"heartofthescales"
@@ -432,13 +425,10 @@
 		],
 		"Tighnari": [
 			"woodlandsong"
-		],
-		"Navia": [
-			"yellowvelvetsalon"
 		]
 	},
 	"properties": {
-		"characterName": [
+		"character": [
 			"Amber",
 			"Charlotte",
 			"Collei",
@@ -474,7 +464,6 @@
 			"Yoimiya",
 			"Ningguang",
 			"Kaveh",
-			"Chevreuse",
 			"Cyno",
 			"Zhongli",
 			"Kaeya",
@@ -515,8 +504,7 @@
 			"Eula",
 			"Kirara",
 			"Razor",
-			"Tighnari",
-			"Navia"
+			"Tighnari"
 		]
 	}
 }

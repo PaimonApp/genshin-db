@@ -1,15 +1,10 @@
 {
-	"id": 110014,
 	"name": "Spice",
-	"sortRank": 322,
 	"description": "A seasoning with varied flavors. It is made from dried Harra Fruits and can enrich the taste of a dish. Therefore, Sumeru locals say, \"Spice goes well with anything.\"",
-<<<<<<< HEAD
 	"sortorder": 2959,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Processed"
 	]
 }

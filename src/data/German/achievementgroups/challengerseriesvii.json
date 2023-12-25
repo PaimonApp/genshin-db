@@ -1,9 +1,7 @@
 {
-	"id": 39,
 	"name": "Herausforderer – Reihe 7",
-	"sortOrder": 20,
+	"sortorder": 20,
 	"reward": {
-		"id": 210158,
 		"name": "Errungenschaft – Vergänglichkeit"
 	}
 }

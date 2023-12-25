@@ -1,10 +1,9 @@
 {
-	"id": 2004,
 	"name": "Stufato di carne e verdure",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Piatto dell'avventuriere",
+	"foodfilter": "Piatto dell'avventuriere",
+	"foodcategory": "Other_SPReduceConsume",
 	"effect": "Riduce di un 15-25% il vigore consumato da tutti i membri del gruppo durante gli Scatti per 900 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Uno stufato di carne e verdure. Il brodo denso ha un buonissimo sapore che accompagna la carne tenera e la verdura.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Pezzo di carne cruda",
 			"count": 2
 		},
 		{
-			"id": 110002,
 			"name": "Panna",
 			"count": 2
 		},
 		{
-			"id": 100015,
 			"name": "Bocca di leone",
 			"count": 1
 		}

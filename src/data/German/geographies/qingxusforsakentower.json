@@ -1,10 +1,7 @@
 {
-	"id": 70200010,
 	"name": "Qingxus einsamer Turm",
-	"areaId": 2803,
-	"areaName": "Qingxu-Tümpel",
+	"area": "Qingxu-Tümpel",
 	"description": "Ein Turm einer untergegangenen Stadt, über die er noch immer wacht, obwohl sie schon längst zu Staub verfallen ist.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 116
+	"region": "Liyue",
+	"sortorder": 116
 }

@@ -1,10 +1,7 @@
 {
-	"id": 70200012,
 	"name": "Além do Despenhadeiro",
-	"areaId": 2200,
-	"areaName": "Despenhadeiro",
+	"area": "Despenhadeiro",
 	"description": "A junção entre Liyue e as grandes minas do Despenhadeiro. O trabalho cessou aqui recentemente devido a uma mudança profunda no abismo.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 114
+	"region": "Liyue",
+	"sortorder": 114
 }

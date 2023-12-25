@@ -1,10 +1,9 @@
 {
-	"id": 2402,
 	"name": "Sarımsaklı Baget Ekmek",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Saldırı Artırıcı Yemek",
+	"foodfilter": "Saldırı Artırıcı Yemek",
+	"foodcategory": "Atk_Add",
 	"effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 66 ila 95 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Dilimlenmiş baget ekmek. Fırından taze çıkan ekmeğin kabuğu çıtır ve gevrek, içi ise yumuşacık. Tereyağı ve sarımsağın kokusu, bagetin lezzetini daha da artırıyor! Demek bu yüzden işten eve dönen Fontainelilerin elinde sık sık baget görüyorsun.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Un",
 			"count": 4
 		},
 		{
-			"id": 110004,
 			"name": "Tereyağı",
 			"count": 2
 		}

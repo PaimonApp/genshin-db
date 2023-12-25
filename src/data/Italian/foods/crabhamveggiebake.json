@@ -1,10 +1,9 @@
 {
-	"id": 3005,
 	"name": "Tortino di granchio, prosciutto e verdure al forno",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Piatti rigenerativi",
+	"foodfilter": "Piatti rigenerativi",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Rianima il personaggio selezionato.\nRipristina 900-1.500 PS.",
 	"description": "Un piatto al forno con ingredienti di lusso. Sotto una superficie dorata e croccante, è presente un misto di verdure e prosciutto fresco. Stuzzica l'appetito!",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100074,
 			"name": "Uova di granchio",
 			"count": 1
 		},
 		{
-			"id": 110005,
 			"name": "Prosciutto",
 			"count": 1
 		},
 		{
-			"id": 110002,
 			"name": "Panna",
 			"count": 1
 		},
 		{
-			"id": 100018,
 			"name": "Cavolo",
 			"count": 1
 		}

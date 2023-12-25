@@ -1,15 +1,9 @@
 {
-	"id": 107013,
 	"name": "Frasco de Velocidade Adeptal",
-	"rarity": 4,
-	"sortRank": 410012,
 	"description": "Uma pequena garrafa que sela um pouco da Força Adepti dentro dela. Completará imediatamente uma Decoração quando utilizada.",
-<<<<<<< HEAD
 	"sortorder": 4862,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumíveis",
-	"sources": []
+	"materialtype": "Consumíveis",
+	"source": []
 }

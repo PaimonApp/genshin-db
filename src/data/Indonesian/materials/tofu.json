@@ -1,15 +1,10 @@
 {
-	"id": 100088,
 	"name": "Tofu",
-	"sortRank": 321,
 	"description": "Makanan yang dibuat dari biji kedelai segar dan memiliki tekstur lembut seperti sutra.",
-<<<<<<< HEAD
 	"sortorder": 2926,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Dijual di toko barang kebutuhan di Liyue",
 		"Dijual di toko barang kebutuhan Inazuma",
 		"Dijual di toko barang kebutuhan di Sumeru"

@@ -1,21 +1,9 @@
 {
-	"id": 112029,
 	"name": "Hunter's Sacrificial Knife",
-	"rarity": 2,
-	"sortRank": 10110,
 	"description": "Senjata logam yang tajam. Pemiliknya sudah lama tiada, tetapi cahaya yang dipancarkannya masih terasa dingin dan kelam.",
-<<<<<<< HEAD
 	"sortorder": 3062,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Penguatan Senjata dan Karakter",
-	"sources": [
-		"Dijatuhkan oleh Fatui Agent",
-		"Penukaran Stardust"
-	]
->>>>>>> upstream/main
 }

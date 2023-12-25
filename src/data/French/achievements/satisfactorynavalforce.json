@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Canonnage à outrance",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1398,
-=======
-	"id": [
-		81414
-	],
-	"name": "Canonnage à outrance",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1398,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Canonnage à outrance",
 		"description": "Obtenez un trésor grâce à une violente salve de canons navals.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

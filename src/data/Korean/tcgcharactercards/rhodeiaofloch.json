@@ -41,9 +41,9 @@
 		{
 			"id": 22012,
 			"name": "물의 환상",
-			"descriptionraw": "1종류의 <color=#FFFFFFFF>$[C122010]</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성, 소환 구역에 동시에 최대 2종류의 $[C122010]이 존재할 수 있다)",
-			"descriptionreplaced": "1종류의 <color=#FFFFFFFF>물의 환형</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성, 소환 구역에 동시에 최대 2종류의 물의 환형이 존재할 수 있다)",
-			"description": "1종류의 물의 환형을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성, 소환 구역에 동시에 최대 2종류의 물의 환형이 존재할 수 있다)",
+			"descriptionraw": "1종류의 <color=#FFFFFFFF>$[C122010]</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성)",
+			"descriptionreplaced": "1종류의 <color=#FFFFFFFF>물의 환형</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성)",
+			"description": "1종류의 물의 환형을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성)",
 			"typetag": "GCG_SKILL_TAG_E",
 			"type": "원소전투 스킬",
 			"playcost": [
@@ -56,9 +56,9 @@
 		{
 			"id": 22013,
 			"name": "임야백태",
-			"descriptionraw": "2종류의 <color=#FFFFFFFF>$[C122010]</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성, 소환 구역에 동시에 최대 2종류의 $[C122010]이 존재할 수 있다)",
-			"descriptionreplaced": "2종류의 <color=#FFFFFFFF>물의 환형</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성, 소환 구역에 동시에 최대 2종류의 물의 환형이 존재할 수 있다)",
-			"description": "2종류의 물의 환형을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성, 소환 구역에 동시에 최대 2종류의 물의 환형이 존재할 수 있다)",
+			"descriptionraw": "2종류의 <color=#FFFFFFFF>$[C122010]</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성)",
+			"descriptionreplaced": "2종류의 <color=#FFFFFFFF>물의 환형</color>을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성)",
+			"description": "2종류의 물의 환형을 랜덤으로 소환한다. (다른 종류를 우선적으로 생성)",
 			"typetag": "GCG_SKILL_TAG_E",
 			"type": "원소전투 스킬",
 			"playcost": [
@@ -71,11 +71,11 @@
 		{
 			"id": 22014,
 			"name": "밀물과 급류",
-			"descriptionraw": "$[D__KEY__ELEMENT]를 $[D__KEY__DAMAGE]pt 준다. 아군의 소환물이 1개 있을 때마다 이번 피해가 1pt 증가한다.",
-			"basedamage": 4,
+			"descriptionraw": "$[D__KEY__ELEMENT]를 $[D__KEY__DAMAGE]pt 준다. 아군의 소환물이 1개 있을 때마다 이번 피해가 2pt 증가한다.",
+			"basedamage": 2,
 			"baseelement": "GCG_ELEMENT_HYDRO",
-			"descriptionreplaced": "{SPRITE_PRESET#2102}<color=#80C0FFFF>물 원소 피해</color>를 4pt 준다. 아군의 소환물이 1개 있을 때마다 이번 피해가 1pt 증가한다.",
-			"description": "물 원소 피해를 4pt 준다. 아군의 소환물이 1개 있을 때마다 이번 피해가 1pt 증가한다.",
+			"descriptionreplaced": "{SPRITE_PRESET#2102}<color=#80C0FFFF>물 원소 피해</color>를 2pt 준다. 아군의 소환물이 1개 있을 때마다 이번 피해가 2pt 증가한다.",
+			"description": "물 원소 피해를 2pt 준다. 아군의 소환물이 1개 있을 때마다 이번 피해가 2pt 증가한다.",
 			"typetag": "GCG_SKILL_TAG_Q",
 			"type": "원소폭발",
 			"playcost": [

@@ -1,18 +1,14 @@
 {
-	"id": [
-		84518
-	],
 	"name": "\"Babacığım...\"",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 4042,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 4042,
 	"stages": 1,
 	"stage1": {
 		"title": "\"Babacığım...\"",
 		"description": "Timmie'nin hikayesine kulak ver.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

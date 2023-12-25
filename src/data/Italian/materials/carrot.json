@@ -1,15 +1,10 @@
 {
-	"id": 100013,
 	"name": "Carota",
-	"sortRank": 321,
 	"description": "Una verdura salutare e nutriente, croccante e zuccherino. Facile da coltivare.",
-<<<<<<< HEAD
 	"sortorder": 2902,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Presente in natura"
 	]
 }

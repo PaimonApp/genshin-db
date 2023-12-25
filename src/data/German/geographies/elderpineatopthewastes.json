@@ -1,11 +1,8 @@
 {
-	"id": 70400047,
 	"name": "Uralte Kiefer auf dem Gipfel der Einöde",
-	"areaId": 41103,
-	"areaName": "Barsomhöhen",
+	"area": "Barsomhöhen",
 	"description": "Der gütige Geist, der in dem riesigen Barsom wohnt, hat einst zahlreiche Kämpfer auf ihrer Heimreise beschützt. Heute gibt es jedoch niemanden mehr, der von diesem alten Pakt weiß ...",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 347
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 347
 }

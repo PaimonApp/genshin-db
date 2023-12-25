@@ -1,15 +1,10 @@
 {
-	"id": 100080,
 	"name": "Patata",
-	"sortRank": 321,
 	"description": "Un ortaggio robusto. Un dono della terra che può essere cucinato in un'infinità di modi e che, per questo, non annoia mai.",
-<<<<<<< HEAD
 	"sortorder": 2922,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Acquistabile negli empori"
 	]
 }

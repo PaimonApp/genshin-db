@@ -1,14 +1,12 @@
 {
-	"id": 11202,
 	"name": "Cristallo xenocromatico",
-	"filterText": "Materiale di potenziamento armi e personaggi",
-	"sortOrder": 150109,
-	"unlockRank": 10,
-	"resultCount": 1,
-	"moraCost": 50,
+	"filter": "Materiale di potenziamento armi e personaggi",
+	"sortorder": 150109,
+	"unlockrank": 10,
+	"resultcount": 1,
+	"moracost": 50,
 	"recipe": [
 		{
-			"id": 112081,
 			"name": "Frammento transoceanico",
 			"count": 3
 		}

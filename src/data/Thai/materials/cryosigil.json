@@ -1,17 +1,11 @@
 {
-	"id": 306,
 	"name": "Cryo Sigil",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "เครื่องหมายแห่งการรับรู้และชื่นชม ซึ่งประทานโดยสายลมที่เฝ้ามองและคอยปกป้องเมือง Mondstadt ใช้แลกเปลี่ยนเป็นไอเทมหายากได้จากบางสถานที่",
-<<<<<<< HEAD
 	"sortorder": 4932,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "เครื่องหมายธาตุ",
-	"sources": [
+	"materialtype": "เครื่องหมายธาตุ",
+	"source": [
 		"รางวัลการสำรวจ"
 	]
 }

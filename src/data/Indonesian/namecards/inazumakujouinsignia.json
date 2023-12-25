@@ -1,8 +1,7 @@
 {
-	"id": 210090,
 	"name": "Achievement: Lambang Kujou",
 	"description": "Style Kartu Nama.\nLambang Tri-Commission yang mewakili Klan Kujou dari Tenryou Commission.",
-	"sortOrder": 210090,
+	"sortorder": 210090,
 	"source": [
 		"Hadiah menyelesaikan seluruh achievement \"Inazuma: Pulau Petir dan Keabadian (I)\""
 	]

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Mageblade Corrouge",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1417,
-=======
-	"id": [
-		81433
-	],
-	"name": "Mageblade Corrouge",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1417,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Mageblade Corrouge",
 		"description": "Kalahkan Legenda Lokal: Mageblade Corrouge",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

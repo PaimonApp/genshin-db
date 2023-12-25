@@ -1,18 +1,14 @@
 {
-	"id": [
-		81000
-	],
 	"name": "Vista Panorâmica",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1000,
+	"achievementgroup": "Maravilhas do Mundo",
+	"ishidden": true,
+	"sortorder": 1000,
 	"stages": 1,
 	"stage1": {
 		"title": "Vista Panorâmica",
 		"description": "Chegue no topo do Pico de Qingyun.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

@@ -1,11 +1,10 @@
 {
-	"id": 100077,
 	"name": "胡椒",
-	"sortRank": 321,
 	"description": "帶有香辛味的調味劑。能夠解膩並激發食材的香味，和肉搭配在一起最佳。",
+	"sortorder": 2919,
 	"category": "EXCHANGE",
-	"typeText": "食材",
-	"sources": [
+	"materialtype": "食材",
+	"source": [
 		"雜貨店購買"
 	]
 }

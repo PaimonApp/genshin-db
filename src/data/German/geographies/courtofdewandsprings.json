@@ -1,10 +1,7 @@
 {
-	"id": 70400061,
 	"name": "Ein Hof voll Tau und Quellen",
-	"areaId": 50320,
-	"areaName": "Hof von Fontaine – Vasari-Passage",
+	"area": "Hof von Fontaine – Vasari-Passage",
 	"description": "„Über all den Wassern steht nur diese Stadt.“",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"sortOrder": 361
+	"region": "Fontaine",
+	"sortorder": 361
 }

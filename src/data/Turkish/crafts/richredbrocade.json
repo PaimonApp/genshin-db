@@ -1,14 +1,12 @@
 {
-	"id": 11046,
 	"name": "Koyu Kırmızı Sırmalı Kumaş",
-	"filterText": "Karakter ve Silah Geliştirme Malzemesi",
-	"sortOrder": 150099,
-	"unlockRank": 10,
-	"resultCount": 1,
-	"moraCost": 50,
+	"filter": "Karakter ve Silah Geliştirme Malzemesi",
+	"sortorder": 150099,
+	"unlockrank": 10,
+	"resultcount": 1,
+	"moracost": 50,
 	"recipe": [
 		{
-			"id": 112066,
 			"name": "İşlemeli Kırmızı İpek",
 			"count": 3
 		}

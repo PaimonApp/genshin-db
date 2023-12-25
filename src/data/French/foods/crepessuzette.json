@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Crêpes Suzette",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Exploration",
 	"foodcategory": "Other_SPReduceConsume",
-=======
-	"id": 3415,
-	"name": "Crêpes Suzette",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Exploration",
->>>>>>> upstream/main
 	"effect": "Diminue la consommation d'endurance de tous les personnages de l'équipe de 15 % à 25 % lors du planage et du sprint pendant 900 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
 	"description": "Des crêpes fourrées. C'est tout simple : faites-les d'abord cuire avant de les servir avec de la confiture, de la crème et des tranches de fruits. En fait, cette recette possède un grand nombre de variantes, le goût pouvant grandement différer selon les ingrédients utilisés.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 101230,
->>>>>>> upstream/main
 			"name": "Fruit bullé",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110002,
->>>>>>> upstream/main
 			"name": "Crème",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110008,
->>>>>>> upstream/main
 			"name": "Confiture",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Farine",
 			"count": 1
 		}

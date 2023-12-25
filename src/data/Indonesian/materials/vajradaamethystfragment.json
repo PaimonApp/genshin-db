@@ -1,17 +1,11 @@
 {
-	"id": 104142,
 	"name": "Vajrada Amethyst Fragment",
-	"rarity": 3,
-	"sortRank": 12105,
 	"description": "Material Ascension Karakter.\n\"Tubuh ini adalah yang paling mulia dan agung dari semua di dunia ini.\"",
-<<<<<<< HEAD
 	"sortorder": 3203,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Karakter",
-	"sources": [
+	"materialtype": "Material Ascension Karakter",
+	"source": [
 		"Dijatuhkan oleh Electro Hypostasis Lv. 40+",
 		"Dijatuhkan oleh Thunder Manifestation Lv. 40+",
 		"Dijatuhkan oleh Electro Regisvine Lv. 40+",

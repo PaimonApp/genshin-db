@@ -1,10 +1,9 @@
 {
-	"id": 2311,
 	"name": "Fatteh",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Makanan Pemulihan",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 250–550 HP.",
 	"description": "Hidangan dari zaman Sumeru kuno. Roti yang baru selesai dipanggang akan dihancurkan dan dicampur dengan Glabrous Bean rebus serta saus yogurt. Hidangan ini pun sudah siap dihidangkan. Resep ini sudah diwariskan turun temurun sehingga memiliki banyak variasinya, tetapi semuanya memiliki kesamaan, yaitu sederhana dan lezat.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Flour",
 			"count": 3
 		},
 		{
-			"id": 100096,
 			"name": "Glabrous Beans",
 			"count": 2
 		},
 		{
-			"id": 100078,
 			"name": "Milk",
 			"count": 2
 		},
 		{
-			"id": 100016,
 			"name": "Mint",
 			"count": 1
 		}

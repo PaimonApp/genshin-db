@@ -12,10 +12,6 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
-<<<<<<< HEAD
-=======
-		"chevreuse": "Chevreuse",
->>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -50,10 +46,6 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
-<<<<<<< HEAD
-=======
-		"navia": "Navia",
->>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -98,10 +90,6 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
-<<<<<<< HEAD
-=======
-		"Chevreuse": "chevreuse",
->>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -136,10 +124,6 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
-<<<<<<< HEAD
-=======
-		"Navia": "navia",
->>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -195,11 +179,6 @@
 		"Sagitta Scutum": "candace",
 		"เลนส์สะท้อนความจริง": "charlotte",
 		"Hualina Veritas": "charlotte",
-<<<<<<< HEAD
-=======
-		"ผู้ผดุงความยุติธรรม": "chevreuse",
-		"Sclopetum Ensiferum": "chevreuse",
->>>>>>> upstream/main
 		"ร่องรอยในหิมะ": "chongyun",
 		"Nubis Caesor": "chongyun",
 		"ต้นกล้าเมื่อคราแรกแย้ม": "collei",
@@ -267,11 +246,6 @@
 		"Astrolabos": "mona",
 		"พฤกษาช้อยวิสุทธิ์": "nahida",
 		"Sapientia Oromasdis": "nahida",
-<<<<<<< HEAD
-=======
-		"หางเสือแห่งมวลกุหลาบ": "navia",
-		"Rosa Multiflora": "navia",
->>>>>>> upstream/main
 		"คลื่นประกาศิตพ้องชะตา": "neuvillette",
 		"???": "neuvillette",
 		"ระบำนิโลตบลพรายแสง": "nilou",
@@ -341,10 +315,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"diona",
@@ -401,10 +371,6 @@
 			"lyney",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"qiqi",
@@ -422,11 +388,11 @@
 			"yoimiya",
 			"zhongli"
 		],
-		"ELEMENT_NONE": [
+		"ไม่มี": [
 			"aether",
 			"lumine"
 		],
-		"WEAPON_SWORD_ONE_HAND": [
+		"ดาบ": [
 			"aether",
 			"albedo",
 			"alhaitham",
@@ -447,7 +413,7 @@
 			"qiqi",
 			"xingqiu"
 		],
-		"FIGHT_PROP_ATTACK_PERCENT": [
+		"พลังโจมตี": [
 			"aether",
 			"amber",
 			"charlotte",
@@ -508,10 +474,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -546,10 +508,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -639,17 +597,16 @@
 			"aether",
 			"lumine"
 		],
-		"ELEMENT_GEO": [
+		"หิน": [
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"FIGHT_PROP_ROCK_ADD_HURT": [
+		"โบนัสความเสียหายหิน": [
 			"albedo",
 			"gorou",
 			"ningguang",
@@ -687,7 +644,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -710,7 +666,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -735,7 +690,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -754,13 +708,12 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"ELEMENT_DENDRO": [
+		"ไม้": [
 			"alhaitham",
 			"baizhu",
 			"collei",
@@ -770,7 +723,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"FIGHT_PROP_GRASS_ADD_HURT": [
+		"โบนัสความเสียหายไม้": [
 			"alhaitham",
 			"tighnari"
 		],
@@ -866,7 +819,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"ELEMENT_CRYO": [
+		"น้ำแข็ง": [
 			"aloy",
 			"charlotte",
 			"chongyun",
@@ -883,7 +836,7 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"WEAPON_BOW": [
+		"ธนู": [
 			"aloy",
 			"amber",
 			"collei",
@@ -900,7 +853,7 @@
 			"yelan",
 			"yoimiya"
 		],
-		"FIGHT_PROP_ICE_ADD_HURT": [
+		"โบนัสความเสียหายน้ำแข็ง": [
 			"aloy",
 			"diona"
 		],
@@ -911,10 +864,6 @@
 			"beidou",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"collei",
 			"dehya",
 			"diona",
@@ -938,7 +887,6 @@
 			"lynette",
 			"mona",
 			"nahida",
-			"navia",
 			"nilou",
 			"ningguang",
 			"noelle",
@@ -1064,10 +1012,9 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"ELEMENT_PYRO": [
+		"ไฟ": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1084,13 +1031,11 @@
 			"faruzan",
 			"mika",
 			"mona",
-			"navia",
 			"ningguang"
 		],
 		"Agnidus Agate Sliver": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1116,7 +1061,6 @@
 		"Agnidus Agate Fragment": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1145,7 +1089,6 @@
 		"Agnidus Agate Chunk": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1166,7 +1109,6 @@
 		"Agnidus Agate Gemstone": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1178,7 +1120,7 @@
 			"yanfei",
 			"yoimiya"
 		],
-		"WEAPON_CLAYMORE": [
+		"ดาบใหญ่": [
 			"aratakiitto",
 			"beidou",
 			"chongyun",
@@ -1188,13 +1130,12 @@
 			"eula",
 			"freminet",
 			"kaveh",
-			"navia",
 			"noelle",
 			"razor",
 			"sayu",
 			"xinyan"
 		],
-		"FIGHT_PROP_CRITICAL": [
+		"อัตราคริ": [
 			"aratakiitto",
 			"diluc",
 			"furina",
@@ -1266,7 +1207,7 @@
 			"yaoyao",
 			"zhongli"
 		],
-		"WEAPON_CATALYST": [
+		"สื่อเวท": [
 			"baizhu",
 			"barbara",
 			"charlotte",
@@ -1284,11 +1225,10 @@
 			"yaemiko",
 			"yanfei"
 		],
-		"FIGHT_PROP_HP_PERCENT": [
+		"พลังชีวิต": [
 			"baizhu",
 			"barbara",
 			"candace",
-			"chevreuse",
 			"dehya",
 			"dori",
 			"kirara",
@@ -1348,7 +1288,7 @@
 			"nilou",
 			"tighnari"
 		],
-		"ELEMENT_HYDRO": [
+		"น้ำ": [
 			"barbara",
 			"candace",
 			"furina",
@@ -1435,7 +1375,7 @@
 			"xingqiu",
 			"yelan"
 		],
-		"ELEMENT_ELECTRO": [
+		"ไฟฟ้า": [
 			"beidou",
 			"cyno",
 			"dori",
@@ -1448,7 +1388,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"FIGHT_PROP_ELEC_ADD_HURT": [
+		"โบนัสความเสียหายไฟฟ้า": [
 			"beidou"
 		],
 		"Vajrada Amethyst Sliver": [
@@ -1544,7 +1484,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"FIGHT_PROP_CHARGE_EFFICIENCY": [
+		"การฟื้นฟูพลังงาน": [
 			"bennett",
 			"kaeya",
 			"mona",
@@ -1552,9 +1492,8 @@
 			"venti",
 			"yunjin"
 		],
-		"WEAPON_POLE": [
+		"หอก": [
 			"candace",
-			"chevreuse",
 			"cyno",
 			"hutao",
 			"mika",
@@ -1586,18 +1525,10 @@
 		],
 		"Fontaine": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"freminet",
 			"furina",
 			"lynette",
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1606,58 +1537,23 @@
 		],
 		"Meshing Gear": [
 			"charlotte",
-<<<<<<< HEAD
 			"lynette",
 			"wriothesley"
 		],
 		"\"Tubion Device\"": [
-=======
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"\"Tourbillon Device\"": [
->>>>>>> upstream/main
 			"charlotte",
 			"wriothesley"
 		],
 		"Mechanical Spur Gear": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Artificed Dynamic Gear": [
 			"charlotte",
-<<<<<<< HEAD
 			"lynette",
 			"wriothesley"
 		],
-=======
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"มกราคม": [
-			"chevreuse",
-			"diona",
-			"kirara",
-			"rosaria",
-			"thoma",
-			"wanderer"
-		],
-		"Lumidouce Bell": [
-			"chevreuse",
-			"lynette"
-		],
-		"Fontemer Unihorn": [
-			"chevreuse",
-			"neuvillette"
-		],
->>>>>>> upstream/main
 		"Cor Lapis": [
 			"chongyun",
 			"keqing",
@@ -1679,7 +1575,7 @@
 			"collei",
 			"tighnari"
 		],
-		"FIGHT_PROP_CRITICAL_HURT": [
+		"ความแรงคริ": [
 			"cyno",
 			"eula",
 			"ganyu",
@@ -1687,10 +1583,6 @@
 			"kamisatoayaka",
 			"kamisatoayato",
 			"keqing",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1728,6 +1620,13 @@
 			"tartaglia",
 			"yelan"
 		],
+		"มกราคม": [
+			"diona",
+			"kirara",
+			"rosaria",
+			"thoma",
+			"wanderer"
+		],
 		"Calla Lily": [
 			"diona",
 			"kaeya"
@@ -1758,7 +1657,7 @@
 			"eula",
 			"jean"
 		],
-		"ELEMENT_ANEMO": [
+		"ลม": [
 			"faruzan",
 			"jean",
 			"kaedeharakazuha",
@@ -1823,30 +1722,17 @@
 		],
 		"Transoceanic Pearl": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Artificed Spare Clockwork Component — Coppelius": [
-			"freminet",
-			"navia"
+			"freminet"
 		],
 		"Transoceanic Chunk": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Xenochromatic Crystal": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Lakelight Lily": [
@@ -1907,7 +1793,7 @@
 			"xiao",
 			"yanfei"
 		],
-		"FIGHT_PROP_HEAL_ADD": [
+		"โบนัสการรักษา": [
 			"jean",
 			"qiqi"
 		],
@@ -1924,7 +1810,7 @@
 			"sucrose",
 			"venti"
 		],
-		"FIGHT_PROP_ELEMENT_MASTERY": [
+		"ความชำนาญธาตุ": [
 			"kaedeharakazuha",
 			"kaveh",
 			"lisa",
@@ -1988,7 +1874,7 @@
 			"kirara",
 			"raidenshogun"
 		],
-		"FIGHT_PROP_FIRE_ADD_HURT": [
+		"โบนัสความเสียหายไฟ": [
 			"klee",
 			"yanfei"
 		],
@@ -2022,17 +1908,14 @@
 			"noelle",
 			"rosaria"
 		],
-		"FIGHT_PROP_WIND_ADD_HURT": [
+		"โบนัสความเสียหายลม": [
 			"lynette",
 			"shikanoinheizou",
 			"sucrose"
 		],
-<<<<<<< HEAD
 		"Lumidouce Bell": [
 			"lynette"
 		],
-=======
->>>>>>> upstream/main
 		"Artificed Spare Clockwork Component — Coppelia": [
 			"lynette"
 		],
@@ -2046,21 +1929,12 @@
 			"mika",
 			"razor"
 		],
-<<<<<<< HEAD
 		"Lumitoile": [
 			"neuvillette"
 		],
 		"Fontemer Unihorn": [
 			"neuvillette"
 		],
-=======
-		"Spring of the First Dewdrop": [
-			"navia"
-		],
-		"Lumitoile": [
-			"neuvillette"
-		],
->>>>>>> upstream/main
 		"Padisarah": [
 			"nilou"
 		],
@@ -2068,13 +1942,13 @@
 			"ningguang",
 			"yunjin"
 		],
-		"FIGHT_PROP_DEFENSE_PERCENT": [
+		"พลังป้องกัน": [
 			"noelle"
 		],
-		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
+		"โบนัสความเสียหายกายภาพ": [
 			"razor"
 		],
-		"FIGHT_PROP_WATER_ADD_HURT": [
+		"โบนัสความเสียหายน้ำ": [
 			"sangonomiyakokomi",
 			"tartaglia"
 		],
@@ -2106,43 +1980,43 @@
 	},
 	"properties": {
 		"rarity": [
-			5,
-			4
+			"5",
+			"4"
 		],
-		"elementType": [
-			"ELEMENT_NONE",
-			"ELEMENT_GEO",
-			"ELEMENT_DENDRO",
-			"ELEMENT_CRYO",
-			"ELEMENT_PYRO",
-			"ELEMENT_HYDRO",
-			"ELEMENT_ELECTRO",
-			"ELEMENT_ANEMO"
+		"element": [
+			"ไม่มี",
+			"หิน",
+			"ไม้",
+			"น้ำแข็ง",
+			"ไฟ",
+			"น้ำ",
+			"ไฟฟ้า",
+			"ลม"
 		],
-		"weaponType": [
-			"WEAPON_SWORD_ONE_HAND",
-			"WEAPON_BOW",
-			"WEAPON_CLAYMORE",
-			"WEAPON_CATALYST",
-			"WEAPON_POLE"
+		"weapontype": [
+			"ดาบ",
+			"ธนู",
+			"ดาบใหญ่",
+			"สื่อเวท",
+			"หอก"
 		],
-		"substatType": [
-			"FIGHT_PROP_ATTACK_PERCENT",
-			"FIGHT_PROP_ROCK_ADD_HURT",
-			"FIGHT_PROP_GRASS_ADD_HURT",
-			"FIGHT_PROP_ICE_ADD_HURT",
-			"FIGHT_PROP_CRITICAL",
-			"FIGHT_PROP_HP_PERCENT",
-			"FIGHT_PROP_ELEC_ADD_HURT",
-			"FIGHT_PROP_CHARGE_EFFICIENCY",
-			"FIGHT_PROP_CRITICAL_HURT",
-			"FIGHT_PROP_HEAL_ADD",
-			"FIGHT_PROP_ELEMENT_MASTERY",
-			"FIGHT_PROP_FIRE_ADD_HURT",
-			"FIGHT_PROP_WIND_ADD_HURT",
-			"FIGHT_PROP_DEFENSE_PERCENT",
-			"FIGHT_PROP_PHYSICAL_ADD_HURT",
-			"FIGHT_PROP_WATER_ADD_HURT"
+		"substat": [
+			"พลังโจมตี",
+			"โบนัสความเสียหายหิน",
+			"โบนัสความเสียหายไม้",
+			"โบนัสความเสียหายน้ำแข็ง",
+			"อัตราคริ",
+			"พลังชีวิต",
+			"โบนัสความเสียหายไฟฟ้า",
+			"การฟื้นฟูพลังงาน",
+			"ความแรงคริ",
+			"โบนัสการรักษา",
+			"ความชำนาญธาตุ",
+			"โบนัสความเสียหายไฟ",
+			"โบนัสความเสียหายลม",
+			"พลังป้องกัน",
+			"โบนัสความเสียหายกายภาพ",
+			"โบนัสความเสียหายน้ำ"
 		],
 		"gender": [
 			"ชาย",
@@ -2223,17 +2097,9 @@
 			"Light Guiding Tetrahedron",
 			"Beryl Conch",
 			"Meshing Gear",
-<<<<<<< HEAD
 			"\"Tubion Device\"",
 			"Mechanical Spur Gear",
 			"Artificed Dynamic Gear",
-=======
-			"\"Tourbillon Device\"",
-			"Mechanical Spur Gear",
-			"Artificed Dynamic Gear",
-			"Lumidouce Bell",
-			"Fontemer Unihorn",
->>>>>>> upstream/main
 			"Cor Lapis",
 			"Hoarfrost Core",
 			"Rukkhashava Mushroom",
@@ -2283,21 +2149,13 @@
 			"Nilotpala Lotus",
 			"Perpetual Caliber",
 			"Valberry",
-<<<<<<< HEAD
 			"Lumidouce Bell",
-=======
->>>>>>> upstream/main
 			"Artificed Spare Clockwork Component — Coppelia",
 			"Rainbow Rose",
 			"Emperor's Resolution",
 			"Wolfhook",
-<<<<<<< HEAD
 			"Lumitoile",
 			"Fontemer Unihorn",
-=======
-			"Spring of the First Dewdrop",
-			"Lumitoile",
->>>>>>> upstream/main
 			"Padisarah",
 			"Glaze Lily",
 			"Dragonheir's False Fin",

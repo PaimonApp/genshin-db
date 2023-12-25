@@ -1,15 +1,10 @@
 {
-	"id": 100083,
 	"name": "Đuôi Rồng Đất",
-	"sortRank": 320,
 	"description": "Đuôi Rồng Đất có dược tính rất cao, có thể khiến da người cứng cáp, vị rất đắng.",
-<<<<<<< HEAD
 	"sortorder": 2895,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Bắt Rồng Đất để thu thập"
 	]
 }

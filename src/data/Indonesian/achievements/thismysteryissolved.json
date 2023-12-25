@@ -1,18 +1,14 @@
 {
-	"id": [
-		81328
-	],
 	"name": "\"Teka-Teki Ini Terpecahkan!\"",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1315,
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1315,
 	"stages": 1,
 	"stage1": {
 		"title": "\"Teka-Teki Ini Terpecahkan!\"",
 		"description": "Menyelesaikan \"Penelitian Prasasti\".",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

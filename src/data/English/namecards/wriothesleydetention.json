@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Wriothesley: Detention",
 	"description": "Namecard style.\nMaintaining order at the Fortress of Meropide is no simple affair. As such, a deft and sometimes firm hand is needed — along with a small pinch of truly regrettable cruelty.",
 	"sortorder": 210175,
-=======
-	"id": 210175,
-	"name": "Wriothesley: Detention",
-	"description": "Namecard style.\nMaintaining order at the Fortress of Meropide is no simple affair. As such, a deft and sometimes firm hand is needed — along with a small pinch of truly regrettable cruelty.",
-	"sortOrder": 210175,
->>>>>>> upstream/main
 	"source": [
 		"Reward for reaching Friendship 10 with Wriothesley"
 	]

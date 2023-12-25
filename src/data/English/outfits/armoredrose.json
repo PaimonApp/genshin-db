@@ -1,8 +1,6 @@
 {
-	"id": 203400,
 	"name": "Armored Rose",
 	"description": "Noelle's outfit. Heavy clothing made of durable velvet and metal plates.",
-	"isDefault": true,
-	"characterId": 10000034,
-	"characterName": "Noelle"
+	"isdefault": true,
+	"character": "Noelle"
 }

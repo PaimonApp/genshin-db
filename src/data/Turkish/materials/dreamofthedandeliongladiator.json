@@ -1,24 +1,17 @@
 {
-	"id": 114012,
 	"name": "Karahindiba Gladyatörü Rüyası",
-	"rarity": 5,
-	"sortRank": 15103,
 	"description": "Silah Yükseltme Malzemesi.\nVennessa kölelikten kurtuldu ama sonrasında çok daha büyük bir esaretle karşı karşıya kaldı. Kabilesinin mensuplarıyla başlayan sorumluluğu önce tüm Mondstadt'ı kapsadı, sonra özgürlük kavramıyla bağdaştırıldı, son olarak da tüm dünyanın kahramanı oldu.\nDünyanın daha güçlü bir yer olmasını istiyordu sadece.",
-<<<<<<< HEAD
 	"sortorder": 3285,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Silah Yükseltme Malzemesi",
-	"dropDomainId": 4333,
-	"dropDomainName": "Döküm Zindanı: Susuz Şehrin Harabeleri",
-	"daysOfWeek": [
+	"materialtype": "Silah Yükseltme Malzemesi",
+	"dropdomain": "Döküm Zindanı: Susuz Şehrin Harabeleri",
+	"daysofweek": [
 		"Çarşamba",
 		"Cumartesi",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

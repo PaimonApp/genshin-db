@@ -1,15 +1,10 @@
 {
-	"id": 100063,
 	"name": "Matsutake",
-	"sortRank": 321,
 	"description": "A rare fungus that generally grows on or near pine trees. Its delicate aroma gives away its location.",
-<<<<<<< HEAD
 	"sortorder": 2914,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Found in the wild"
 	]
 }

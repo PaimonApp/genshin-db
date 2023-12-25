@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "#{M#Guidé}{F#Guidée} par les vagues (2)",
 	"achievementgroup": "Fontaine - Danse de la rosée blanche (2)",
 	"sortorder": 251,
-=======
-	"id": [
-		80275,
-		80276,
-		80277
-	],
-	"name": "#{M#Guidé}{F#Guidée} par les vagues (2)",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine - Danse de la rosée blanche (2)",
-	"sortOrder": 251,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "#{M#Guidé}{F#Guidée} par les vagues (2)",
 		"description": "Suivez {param0} Fées dans la Région de Liffey et la Région de l'Institut de recherche d'ingénierie cinétique de Fontaine et activez leur support.",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Suivez {param0} Fées dans la Région de Liffey et la Région de l'Institut de recherche d'ingénierie cinétique de Fontaine et activez leur support.",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Suivez {param0} Fées dans la Région de Liffey et la Région de l'Institut de recherche d'ingénierie cinétique de Fontaine et activez leur support.",
 		"progress": 9,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 20
 		}

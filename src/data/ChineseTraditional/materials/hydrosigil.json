@@ -1,12 +1,11 @@
 {
-	"id": 302,
 	"name": "水之印",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "受到楓丹的流水認可，獲授的印記。\n可以投入露景泉中，以此得到泉水的回饋。",
+	"sortorder": 4928,
+	"rarity": "3",
 	"category": "CONSUME",
-	"typeText": "七國徽印",
-	"sources": [
+	"materialtype": "七國徽印",
+	"source": [
 		"楓丹地區探索獎勵"
 	]
 }

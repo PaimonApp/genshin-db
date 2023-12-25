@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Kıta Kaşifi: Ahenkli Pınarların Diyarı (III)",
 	"achievementgroup": "Fontaine: Çiy Beyazı Pınarların Dansı (III)",
 	"sortorder": 262,
-=======
-	"id": [
-		80286
-	],
-	"name": "Kıta Kaşifi: Ahenkli Pınarların Diyarı (III)",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (III)",
-	"sortOrder": 262,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Kıta Kaşifi: Ahenkli Pınarların Diyarı (III)",
@@ -19,10 +9,6 @@
 		"description": "Fontaine'deki şu bölgelerin haritalarını aydınlat: Morte Bölgesi ve Erinnyes Ormanı.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 5
 		}

@@ -1,17 +1,11 @@
 {
-	"id": 104112,
 	"name": "Mảnh Mã Não Cháy",
-	"rarity": 3,
-	"sortRank": 12102,
 	"description": "Nguyên liệu đột phá nhân vật.\n\"Vì nguyện vọng mà bước vào con đường lữ hành, vì danh hiệu mạnh nhất mà cố gắng chiến đấu...\"",
-<<<<<<< HEAD
 	"sortorder": 3191,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
+	"source": [
 		"Cây Nổ cấp 40 trở lên rơi",
 		"Hỏa Nguyên Bản cấp 40 trở lên rơi",
 		"Hoàng Đế Thép Lửa cấp 40 trở lên rơi",

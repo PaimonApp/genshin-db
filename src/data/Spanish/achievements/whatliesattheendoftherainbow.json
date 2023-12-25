@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Luz al final del túnel",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1364,
-=======
-	"id": [
-		81380
-	],
-	"name": "Luz al final del túnel",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1364,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Luz al final del túnel",
 		"description": "Sigue la luz para llegar al destino.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

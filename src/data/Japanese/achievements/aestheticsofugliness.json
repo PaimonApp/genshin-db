@@ -1,11 +1,8 @@
 {
-	"id": [
-		81352
-	],
 	"name": "Aesthetics of Ugliness",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1338,
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 1338,
 	"stages": 1,
 	"stage1": {
 		"title": "Aesthetics of Ugliness",
@@ -13,7 +10,6 @@
 		"description": "フォンテーヌは美しさに向かって二歩前進した。",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}

@@ -1,9 +1,7 @@
 {
-	"id": 1,
 	"name": "Andarilho do Mundo Mortal - Série I",
-	"sortOrder": 3,
+	"sortorder": 3,
 	"reward": {
-		"id": 210021,
 		"name": "Conquista - Explorador"
 	}
 }

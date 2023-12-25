@@ -1,9 +1,7 @@
 {
-	"id": 3,
 	"name": "Путешествие героя",
-	"sortOrder": 8,
+	"sortorder": 8,
 	"reward": {
-		"id": 210023,
 		"name": "Герой"
 	}
 }

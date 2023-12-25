@@ -1,13 +1,7 @@
 {
-	"id": 24,
 	"name": "Inazuma - Quần Đảo Sét Và Vĩnh Hằng (I)",
-<<<<<<< HEAD
 	"sortorder": 34,
-=======
-	"sortOrder": 34,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210090,
 		"name": "Inazuma- Hoa Văn Kujou"
 	}
 }

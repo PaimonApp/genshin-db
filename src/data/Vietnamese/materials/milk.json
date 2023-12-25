@@ -1,15 +1,10 @@
 {
-	"id": 100078,
 	"name": "Sữa",
-	"sortRank": 321,
 	"description": "Sữa của bò sữa, thơm thơm ngọt ngọt, một giọt cũng không để phí.",
-<<<<<<< HEAD
 	"sortorder": 2920,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Mua trong Tiệm Tạp Hóa"
 	]
 }

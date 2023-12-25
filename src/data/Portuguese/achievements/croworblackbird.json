@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Um Corvo ou Melro?",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1409,
-=======
-	"id": [
-		81425
-	],
-	"name": "Um Corvo ou Melro?",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1409,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Um Corvo ou Melro?",
 		"description": "É um Pelicano!",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

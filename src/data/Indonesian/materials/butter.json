@@ -1,15 +1,10 @@
 {
-	"id": 110004,
 	"name": "Butter",
-	"sortRank": 322,
 	"description": "Berasal dari ekstrak susu. Dengan takaran yang pas, dapat membuat bahan yang biasa saja menjadi harum dan manis.",
-<<<<<<< HEAD
 	"sortorder": 2950,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Didapatkan saat proses cooking"
 	]
 }

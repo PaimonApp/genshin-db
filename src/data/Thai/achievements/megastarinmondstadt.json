@@ -1,10 +1,7 @@
 {
-	"id": [
-		81024
-	],
 	"name": "ดาวเด่นแห่ง Mondstadt",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"sortOrder": 1024,
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"sortorder": 1024,
 	"stages": 1,
 	"stage1": {
 		"title": "ดาวเด่นแห่ง Mondstadt",
@@ -12,7 +9,6 @@
 		"description": "ระดับชื่อเสียงประจำเมือง Mondstadt ถึง Lv.8",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

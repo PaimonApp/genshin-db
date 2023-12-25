@@ -1,11 +1,8 @@
 {
-	"id": [
-		81005
-	],
 	"name": "Liebling des Anemo-Archons",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1005,
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1005,
 	"stages": 1,
 	"stage1": {
 		"title": "Liebling des Anemo-Archons",
@@ -13,7 +10,6 @@
 		"description": "Setz dich auf die Hände der großen Statue in Mondstadt.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}

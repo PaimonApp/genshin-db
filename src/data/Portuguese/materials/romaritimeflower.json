@@ -1,15 +1,10 @@
 {
-	"id": 101233,
 	"name": "Flor Rociomarinha",
-	"sortRank": 315,
 	"description": "Uma flor azul elegante e etérea. Suas pétalas macias são elásticas e absorvem água, tornando-a o material ideal para vários usos diários.",
-<<<<<<< HEAD
 	"sortorder": 2881,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Fontaine",
-	"sources": [
+	"materialtype": "Especialidade de Fontaine",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado na Planície Salacia"
 	]

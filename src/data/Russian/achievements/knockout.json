@@ -1,18 +1,14 @@
 {
-	"id": [
-		82081
-	],
 	"name": "Нокаут",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2081,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2081,
 	"stages": 1,
 	"stage1": {
 		"title": "Нокаут",
 		"description": "Уничтожьте венчик Крио папоротника, пока тот проводит круговое распыление.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

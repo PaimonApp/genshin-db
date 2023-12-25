@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Nuove ispirazioni, nuovi prodotti!",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 4095,
-=======
-	"id": [
-		84571
-	],
-	"name": "Nuove ispirazioni, nuovi prodotti!",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 4095,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Nuove ispirazioni, nuovi prodotti!",
 		"description": "Aiuta Heinry a sviluppare tre nuovi tipi di Fonta e prova la \"bevanda sperimentale\" una volta.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

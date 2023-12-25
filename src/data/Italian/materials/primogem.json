@@ -1,15 +1,9 @@
 {
-	"id": 201,
 	"name": "Primogemma",
-	"rarity": 5,
-	"sortRank": 30,
 	"description": "Una gemma cristallina primordiale di origini ultramondane. Risplende delle speranze e dei sogni di universi che furono.",
-<<<<<<< HEAD
 	"sortorder": 2714,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "ADSORBATE",
-	"typeText": "Moneta speciale",
-	"sources": []
+	"materialtype": "Moneta speciale",
+	"source": []
 }

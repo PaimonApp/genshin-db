@@ -1,8 +1,6 @@
 {
-	"id": 205500,
 	"name": "Panoplia del cacciatore esperto",
 	"description": "Il completo di Gorou. Quest'armatura leggera con spalle e gomiti corazzati è concepita per permettere al generale Gorou di usare comodamente il suo arco.",
-	"isDefault": true,
-	"characterId": 10000055,
-	"characterName": "Gorou"
+	"isdefault": true,
+	"character": "Gorou"
 }

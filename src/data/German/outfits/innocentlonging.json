@@ -1,8 +1,6 @@
 {
-	"id": 201400,
 	"name": "Unschuldiges Verlangen",
 	"description": "Barbaras Kleidung. Eine Bischöfin-Uniform aus der Favonius-Kathedrale, die für Barbara angepasst wurde.",
-	"isDefault": true,
-	"characterId": 10000014,
-	"characterName": "Barbara"
+	"isdefault": true,
+	"character": "Barbara"
 }

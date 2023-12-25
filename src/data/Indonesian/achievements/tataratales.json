@@ -1,18 +1,13 @@
 {
-	"id": [
-		80089
-	],
 	"name": "Kisah Tatara",
-	"achievementGroupId": 24,
-	"achievementGroupName": "Inazuma: Pulau Petir dan Keabadian (I)",
-	"sortOrder": 90,
+	"achievementgroup": "Inazuma: Pulau Petir dan Keabadian (I)",
+	"sortorder": 90,
 	"stages": 1,
 	"stage1": {
 		"title": "Kisah Tatara",
 		"description": "Menyelesaikan krisis Mikage Furnace.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

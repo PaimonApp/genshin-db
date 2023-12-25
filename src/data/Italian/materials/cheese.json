@@ -1,15 +1,10 @@
 {
-	"id": 110009,
 	"name": "Formaggio",
-	"sortRank": 322,
 	"description": "A base di latte fermentato. Ad alto contenuto energetico e usato in una vasta gamma di piatti.",
-<<<<<<< HEAD
 	"sortorder": 2954,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Lavorato"
 	]
 }

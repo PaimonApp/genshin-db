@@ -1,17 +1,13 @@
 {
-	"id": [
-		81047
-	],
 	"name": "Dönüşüm Nükliti",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"sortOrder": 1048,
+	"achievementgroup": "Dünyanın Harikaları",
+	"sortorder": 1048,
 	"stages": 1,
 	"stage1": {
 		"title": "Dönüşüm Nükliti",
 		"description": "Bir malzeme dönüşümünü tamamlamak için Parametrik Dönüştürücü kullan.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

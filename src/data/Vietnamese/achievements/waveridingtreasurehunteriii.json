@@ -1,19 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Người Săn Kho Báu Sóng Biển III",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (III)",
 	"sortorder": 268,
-=======
-	"id": [
-		80292,
-		80293,
-		80294
-	],
-	"name": "Người Săn Kho Báu Sóng Biển III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (III)",
-	"sortOrder": 268,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Người Săn Kho Báu Sóng Biển III",
@@ -21,10 +9,6 @@
 		"description": "Mở {param0} rương báu tại Khu Morte và Khu Rừng Erinnyes.",
 		"progress": 40,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}
@@ -35,10 +19,6 @@
 		"description": "Mở {param0} rương báu tại Khu Morte và Khu Rừng Erinnyes.",
 		"progress": 80,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 10
 		}
@@ -49,10 +29,6 @@
 		"description": "Mở {param0} rương báu tại Khu Morte và Khu Rừng Erinnyes.",
 		"progress": 160,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 20
 		}

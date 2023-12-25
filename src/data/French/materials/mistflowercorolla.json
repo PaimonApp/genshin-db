@@ -1,15 +1,10 @@
 {
-	"id": 100052,
 	"name": "Corolle de fleur de brume",
-	"sortRank": 320,
 	"description": "La partie supérieure d'une fleur de brume prise dans la glace. Elle continue d'émettre de l'air froid après cueillette.",
-<<<<<<< HEAD
 	"sortorder": 2889,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Matériau",
-	"sources": [
+	"materialtype": "Matériau",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Domaine de l'Aurore"
 	]

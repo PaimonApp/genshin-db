@@ -1,11 +1,10 @@
 {
-	"id": 100056,
 	"name": "Calla Lily",
-	"sortRank": 311,
 	"description": "A flower that grows near water sources. When cooked, the petals have a chunky texture, yet are sweet and a little bitter.",
+	"sortorder": 2852,
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Mondstadt)",
-	"sources": [
+	"materialtype": "Local Specialty (Mondstadt)",
+	"source": [
 		"Found near lakes",
 		"Recommendation: Found in Springvale"
 	]

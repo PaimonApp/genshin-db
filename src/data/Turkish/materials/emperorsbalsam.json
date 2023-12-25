@@ -1,15 +1,9 @@
 {
-	"id": 200106,
 	"name": "Kraliyet Balsamı",
-	"rarity": 4,
-	"sortRank": 90,
 	"description": "Denizlerin Efendisi için özel saflaştırma malzemesidir.\nBu balsamdan yoğun deniz kokusu alabilirsin. Denizlerin Efendisini ısıtıp daha da sertleştirmek için balsamı bu eşsiz çift elli kılıcın üzerine sür.",
-<<<<<<< HEAD
 	"sortorder": 2757,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Saflaştırma Malzemesi",
-	"sources": []
+	"materialtype": "Saflaştırma Malzemesi",
+	"source": []
 }

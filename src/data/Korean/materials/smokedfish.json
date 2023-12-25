@@ -1,15 +1,10 @@
 {
-	"id": 110012,
 	"name": "훈제 생선",
-	"sortRank": 322,
 	"description": "",
-<<<<<<< HEAD
 	"sortorder": 2957,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "식자재",
-	"sources": [
+	"materialtype": "식자재",
+	"source": [
 		"요리 가공 획득"
 	]
 }

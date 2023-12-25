@@ -1,17 +1,11 @@
 {
-	"id": 104103,
 	"name": "Brilliant Diamond Chunk",
-	"rarity": 4,
-	"sortRank": 12101,
 	"description": "วัสดุเลื่อนขั้นตัวละคร\n\"ขอต้อนรับสู่โลกกว้าง\"",
-<<<<<<< HEAD
 	"sortorder": 3186,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "วัสดุเลื่อนขั้นตัวละคร",
-	"sources": [
+	"materialtype": "วัสดุเลื่อนขั้นตัวละคร",
+	"source": [
 		"รางวัลแรงก์ผจญภัย"
 	]
 }

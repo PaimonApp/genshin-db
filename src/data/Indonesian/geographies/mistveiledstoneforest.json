@@ -1,10 +1,7 @@
 {
-	"id": 70200005,
 	"name": "Hutan Batu di Lautan Kabut",
-	"areaId": 2602,
-	"areaName": "Huaguang Stone Forest",
+	"area": "Huaguang Stone Forest",
 	"description": "Puncak yang menjulang tinggi dari awan ini terlihat seperti sebuah paviliun. Meskipun tempat ini terlarang bagi manusia untuk mengunjunginya. Pemandangan yang indah pastilah memikat keinginan mereka yang mendambakan langit itu.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 111
+	"region": "Liyue",
+	"sortorder": 111
 }

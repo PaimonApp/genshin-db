@@ -1,15 +1,10 @@
 {
-	"id": 100021,
 	"name": "Baie à crochet",
-	"sortRank": 311,
 	"description": "Une baie à crochet qui s'attache souvent aux poils des loups. Si vous la regardez, vous pouvez presque entendre les hurlements des loups dans les bois.",
-<<<<<<< HEAD
 	"sortorder": 2846,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Mondstadt",
-	"sources": [
+	"materialtype": "Produit de Mondstadt",
+	"source": [
 		"Dans la nature",
 		"Zone conseillée : Territoire des Loups"
 	]

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "スペースフォースのカデット",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1399,
-=======
-	"id": [
-		81415
-	],
-	"name": "スペースフォースのカデット",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1399,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "スペースフォースのカデット",
 		"description": "すべて命中！",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

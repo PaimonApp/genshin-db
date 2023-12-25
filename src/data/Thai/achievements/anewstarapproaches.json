@@ -1,11 +1,8 @@
 {
-	"id": [
-		84024
-	],
 	"name": "ดาราใหม่ฉายแสง",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 4025,
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 4025,
 	"stages": 1,
 	"stage1": {
 		"title": "ดาราใหม่ฉายแสง",
@@ -13,7 +10,6 @@
 		"description": "ทำเควสต์ \"ดาราใหม่ฉายแสง\" ให้สำเร็จ",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

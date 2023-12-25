@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "석수의 인도자·세 번째",
 	"achievementgroup": "폰타인·춤추는 샘의 흰 이슬·세 번째",
 	"sortorder": 265,
-=======
-	"id": [
-		80289,
-		80290,
-		80291
-	],
-	"name": "석수의 인도자·세 번째",
-	"achievementGroupId": 46,
-	"achievementGroupName": "폰타인·춤추는 샘의 흰 이슬·세 번째",
-	"sortOrder": 265,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "석수의 인도자·세 번째",
 		"description": "모르트 구역, 에리니에스 숲 구역에서 {param0}개의 선령을 따라가 선령의 정원 밝히기",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "모르트 구역, 에리니에스 숲 구역에서 {param0}개의 선령을 따라가 선령의 정원 밝히기",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "모르트 구역, 에리니에스 숲 구역에서 {param0}개의 선령을 따라가 선령의 정원 밝히기",
 		"progress": 9,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 20
 		}

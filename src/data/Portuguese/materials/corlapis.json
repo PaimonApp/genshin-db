@@ -1,15 +1,10 @@
 {
-	"id": 100058,
 	"name": "Cor Lapis",
-	"sortRank": 312,
 	"description": "Um cristal precioso condensado com elemento Geo puro que cresce com outros minerais. Também conhecido como \"Cor Petrae\".",
-<<<<<<< HEAD
 	"sortorder": 2861,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Liyue",
-	"sources": [
+	"materialtype": "Especialidade de Liyue",
+	"source": [
 		"Encontrado nos Penhascos de Liyue",
 		"Recomendação: Encontrado nas Montanhas de Hulao"
 	]

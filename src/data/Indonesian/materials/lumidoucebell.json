@@ -1,15 +1,10 @@
 {
-	"id": 101235,
 	"name": "Lumidouce Bell",
-	"sortRank": 315,
 	"description": "Bunga berwarna ungu yang elegan nan indah. Aromanya yang ringan, lembut, dan berkepanjangan, membuatnya sering digunakan sebagai bahan untuk membuat parfum langka.",
-<<<<<<< HEAD
 	"sortorder": 2882,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk khas Fontaine",
-	"sources": [
+	"materialtype": "Produk khas Fontaine",
+	"source": [
 		"Ditemukan di alam liar",
 		"Ditemukan di bagian utara Court of Fontaine"
 	]

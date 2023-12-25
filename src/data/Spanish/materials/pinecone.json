@@ -1,15 +1,10 @@
 {
-	"id": 100020,
 	"name": "Piñón",
-	"sortRank": 321,
 	"description": "Una semilla rica en aceite. Obviamente, no se convertirá en un árbol en el estómago de una ardilla.",
-<<<<<<< HEAD
 	"sortorder": 2909,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Recolectar en la naturaleza"
 	]
 }

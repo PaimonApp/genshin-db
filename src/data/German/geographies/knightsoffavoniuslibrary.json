@@ -1,10 +1,7 @@
 {
-	"id": 70100003,
 	"name": "Ordo Favonius – Bibliothek",
-	"areaId": 1102,
-	"areaName": "Mondstadt",
+	"area": "Mondstadt",
 	"description": "Die Bibliothek mit den meisten Büchern im Norden des Landes. Außer den Beständen im „Verbotenen Bereich“ können alle Bücher uneingeschränkt von der Öffentlichkeit gelesen werden.",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 7
+	"region": "Mondstadt",
+	"sortorder": 7
 }

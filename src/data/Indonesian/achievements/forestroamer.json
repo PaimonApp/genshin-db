@@ -1,11 +1,7 @@
 {
-	"id": [
-		80161
-	],
 	"name": "Pengelana Hutan",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru: Hutan Hikmat dan Pengetahuan",
-	"sortOrder": 161,
+	"achievementgroup": "Sumeru: Hutan Hikmat dan Pengetahuan",
+	"sortorder": 161,
 	"stages": 1,
 	"stage1": {
 		"title": "Pengelana Hutan",
@@ -13,7 +9,6 @@
 		"description": "Membuka semua Teleport Waypoint di wilayah Sumeru: Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, dan Vanarana.",
 		"progress": 46,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

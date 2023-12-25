@@ -1,15 +1,10 @@
 {
-	"id": 101004,
 	"name": "Pedazo de cristal mágico",
-	"sortRank": 301,
 	"description": "Estos trozos de cristal pueden ser refinados y convertidos en Materiales de EXP de Arma utilizando Resina original.\nLos cristales de las minas que fueron erosionados por la energía de las líneas ley no pueden ser procesados por medios ordinarios.",
-<<<<<<< HEAD
 	"sortorder": 2824,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mineral de forja",
-	"sources": [
+	"materialtype": "Mineral de forja",
+	"source": [
 		"Recolectar en la naturaleza"
 	]
 }

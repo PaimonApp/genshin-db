@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Focalors'a Mektup",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Savunma Artırıcı Yemek",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3416,
-	"name": "Focalors'a Mektup",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Savunma Artırıcı Yemek",
->>>>>>> upstream/main
 	"effect": "300 saniyeliğine tüm grup üyelerinin Maks. Canını %20 ila %25 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Uzun bir dörtgen şeklinde olan küçük bir pasta. Söylenenlere göre bir pastacı, çok ama çok uzun zaman önce Fontaine halkının Su Hükümdarı'na duyduğu sevgiden ilhamla bu pastacılık şaheserini ortaya koymuş. Üst üste dizilen katlar, pastacının becerilerini sergilemektedir ve bu pasta her yönüyle büyük Su Hükümdarı'nın etkisinin bir kanıtıdır.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Kuş Yumurtası",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Un",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "Kahve Çekirdekleri",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "Badem",
 			"count": 2
 		}

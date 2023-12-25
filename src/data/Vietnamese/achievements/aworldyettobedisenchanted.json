@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Thế Giới Chưa Tỉnh Ngộ",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1407,
-=======
-	"id": [
-		81423
-	],
-	"name": "Thế Giới Chưa Tỉnh Ngộ",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1407,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Thế Giới Chưa Tỉnh Ngộ",
 		"description": "Đưa Tinh Thạch Dị Sắc cho Người Cầm Lái của \"Bánh Lái Rỉ Sét\" 3 lần.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

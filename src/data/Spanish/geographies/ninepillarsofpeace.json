@@ -1,10 +1,7 @@
 {
-	"id": 70200009,
 	"name": "Los nueve pilares de la paz",
-	"areaId": 2607,
-	"areaName": "Pendiente Tsuijue",
+	"area": "Pendiente Tsuijue",
 	"description": "Se dice que en lo más profundo de los valles de la Pendiente Tsuijue se colocaron nueve columnas de piedra para ahuyentar el mal y purificar el mundo.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 117
+	"region": "Liyue",
+	"sortorder": 117
 }

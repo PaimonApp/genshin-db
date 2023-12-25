@@ -1,17 +1,11 @@
 {
-	"id": 104141,
 	"name": "Vajrada Amethyst Sliver",
-	"rarity": 2,
-	"sortRank": 12105,
 	"description": "Character Ascension material.",
-<<<<<<< HEAD
 	"sortorder": 3204,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Character Ascension Material",
-	"sources": [
+	"materialtype": "Character Ascension Material",
+	"source": [
 		"Dropped by Electro Hypostases",
 		"Dropped by Thunder Manifestations",
 		"Dropped by Electro Regisvines",

@@ -1,15 +1,10 @@
 {
-	"id": 100098,
 	"name": "Coffee Beans",
-	"sortRank": 321,
 	"description": "A common fruit in Teyvat with a special aroma. It can be used to make beverages after being ground.",
-<<<<<<< HEAD
 	"sortorder": 2935,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Sold at cafés in Sumeru",
 		"Sold at cafés in Fontaine"
 	]

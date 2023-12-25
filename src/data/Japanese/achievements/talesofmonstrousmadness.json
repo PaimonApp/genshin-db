@@ -1,11 +1,8 @@
 {
-	"id": [
-		80091
-	],
 	"name": "妖鬼狂言百物語",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 92,
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 92,
 	"stages": 1,
 	"stage1": {
 		"title": "妖鬼狂言百物語",
@@ -13,7 +10,6 @@
 		"description": "『朱鷺町物語』を全巻揃える。",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}

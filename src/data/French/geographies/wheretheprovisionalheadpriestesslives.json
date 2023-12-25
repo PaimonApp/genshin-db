@@ -1,11 +1,8 @@
 {
-	"id": 70300017,
 	"name": "Là où la grande prêtresse suppléante réside",
-	"areaId": 3402,
-	"areaName": "Sanctuaire d'Asase",
+	"area": "Sanctuaire d'Asase",
 	"description": "« Hibiki reviendra. »\n« Le sanctuaire est maintenant magnifique, et c'est grâce à vous. Elle reviendra très bientôt. »",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"showOnlyUnlocked": true,
-	"sortOrder": 213
+	"region": "Inazuma",
+	"showonlyunlocked": true,
+	"sortorder": 213
 }

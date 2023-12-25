@@ -1,15 +1,10 @@
 {
-	"id": 101228,
 	"name": "Viparyas",
-	"sortRank": 320,
 	"description": "A flower without seeds. \nOnce the earth remembers, the Viparyas will bloom.",
-<<<<<<< HEAD
 	"sortorder": 2898,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found in Vanarana"
 	]

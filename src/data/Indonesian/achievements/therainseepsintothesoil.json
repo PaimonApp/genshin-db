@@ -1,11 +1,8 @@
 {
-	"id": [
-		81256
-	],
 	"name": "Dari Langit Masuk ke Tanah",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1242,
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1242,
 	"stages": 1,
 	"stage1": {
 		"title": "Dari Langit Masuk ke Tanah",
@@ -13,7 +10,6 @@
 		"description": "Selesaikan \"Varuna Gatha\".",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

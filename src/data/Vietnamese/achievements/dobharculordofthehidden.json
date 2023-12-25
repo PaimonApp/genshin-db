@@ -1,18 +1,14 @@
 {
-	"id": [
-		81371
-	],
 	"name": "Dobharcu - Vua Ẩn Nấp",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1355,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1355,
 	"stages": 1,
 	"stage1": {
 		"title": "Dobharcu - Vua Ẩn Nấp",
 		"description": "Chiến thắng huyền thoại địa phương Dobharcu - Vua Ẩn Nấp.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

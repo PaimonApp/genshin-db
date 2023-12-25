@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "La Lettre a Focalors",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de DEF",
 	"foodcategory": "Def_Add",
-=======
-	"id": 3416,
-	"name": "La Lettre a Focalors",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "Pratos de DEF",
->>>>>>> upstream/main
 	"effect": "Aumenta a Vida Máxima de todos os membros da equipe em 20% - 25% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Um pequeno bolo na forma de um longo retângulo. Dizem que há muito, muito tempo, um certo confeiteiro criou essa obra-prima com o grande amor do povo de Fontaine por sua Arconte Hydro como inspiração. As camadas sobrepostas são a prova da habilidade desse chef, e cada aspecto do bolo é a prova da grande influência da Arconte Hydro.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Ovo de Pássaro",
 			"count": 4
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110001,
->>>>>>> upstream/main
 			"name": "Farinha",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100098,
->>>>>>> upstream/main
 			"name": "Grão de Café",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100089,
->>>>>>> upstream/main
 			"name": "Amêndoa",
 			"count": 2
 		}

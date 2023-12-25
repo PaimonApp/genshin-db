@@ -1,10 +1,7 @@
 {
-	"id": 70200009,
 	"name": "Dokuz Barış Sütunu",
-	"areaId": 2607,
-	"areaName": "Cuijue Yamacı",
+	"area": "Cuijue Yamacı",
 	"description": "Kötülüğü uzak tutup dünyayı arındırmak için Cuijue Yamacı'ndaki vadilerin derinliklerine dokuz taştan pranga yerleştirildiği söyleniyor.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 117
+	"region": "Liyue",
+	"sortorder": 117
 }

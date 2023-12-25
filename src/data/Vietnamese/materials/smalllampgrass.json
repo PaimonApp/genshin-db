@@ -1,15 +1,10 @@
 {
-	"id": 100055,
 	"name": "Tiểu Đăng Thảo",
-	"sortRank": 311,
 	"description": "Loài hoa dại mọc trong đêm. Nấu cùng các món khác có thể tăng thêm hương vị.",
-<<<<<<< HEAD
 	"sortorder": 2851,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Đặc Sản Khu Vực Mondstadt",
-	"sources": [
+	"materialtype": "Đặc Sản Khu Vực Mondstadt",
+	"source": [
 		"Tìm ngoài thành vào ban đêm",
 		"Kiến nghị: Thu thập trong Lang Lãnh",
 		"Kiến nghị: Thu thập ở Rừng Thì Thầm"

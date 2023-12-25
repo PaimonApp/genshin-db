@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Thám Hiểm Đại Lục - Vùng Đất Trăm Suối Hài Hòa III",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (III)",
 	"sortorder": 262,
-=======
-	"id": [
-		80286
-	],
-	"name": "Thám Hiểm Đại Lục - Vùng Đất Trăm Suối Hài Hòa III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (III)",
-	"sortOrder": 262,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Thám Hiểm Đại Lục - Vùng Đất Trăm Suối Hài Hòa III",
@@ -19,10 +9,6 @@
 		"description": "Thắp sáng bản đồ Khu Morte, Khu Rừng Erinnyes trong khu vực Fontaine.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

@@ -1,17 +1,11 @@
 {
-	"id": 104122,
 	"name": "Varunada Lazurite Fragment",
-	"rarity": 3,
-	"sortRank": 12103,
 	"description": "Material Ascension Karakter.\n\"Ideologiku tidak bernoda.\"",
-<<<<<<< HEAD
 	"sortorder": 3195,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Karakter",
-	"sources": [
+	"materialtype": "Material Ascension Karakter",
+	"source": [
 		"Dijatuhkan oleh Oceanid Lv. 40+",
 		"Dijatuhkan oleh Hydro Hypostasis Lv. 40",
 		"Dijatuhkan oleh Hydro Tulpa Lv. 40+",

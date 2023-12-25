@@ -1,17 +1,11 @@
 {
-	"id": 222,
 	"name": "Sahipsiz Yıldız Tozu",
-	"rarity": 4,
-	"sortRank": 410002,
 	"description": "Dükkandan nadir kaynakları satın almak için kullanılan para birimi.\nKaderdeki fazlalık Yıldız Tozu. Yeterince büyük miktarlarda olduğunda yeni kaderler yaratabilir.",
-<<<<<<< HEAD
 	"sortorder": 4849,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Normal Kupon",
-	"sources": [
+	"materialtype": "Normal Kupon",
+	"source": [
 		"Dilek"
 	]
 }

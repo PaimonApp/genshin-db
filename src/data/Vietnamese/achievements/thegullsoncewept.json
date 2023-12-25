@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Hải Âu Thét Gào",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 5091,
-=======
-	"id": [
-		84312
-	],
-	"name": "Hải Âu Thét Gào",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 5091,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Hải Âu Thét Gào",
 		"description": "Chứng kiến thảm họa ở Thị Trấn Poisson.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

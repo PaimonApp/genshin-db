@@ -1,10 +1,9 @@
 {
-	"id": 3403,
 	"name": "Lazanya",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Seçili karakterin Maks. Canını %30 ila %34 yeniler, ardından 600 ila 1.900 Can verir.",
 	"description": "Fırında pişen bir makarna yemeği. Makarna şeritlerinin üstüne peynir, et sosu ve beşamel sosunu yay, sonra üstüne bir kat daha makarna koy. Bu işlemi birkaç defa tekrarla, sonra da peynir altın rengi olup baloncuklar çıkarana kadar fırında pişir. Lezzetin sırrı özenle hazırlanan et sosunda saklı.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 110001,
 			"name": "Un",
 			"count": 3
 		},
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 2
 		},
 		{
-			"id": 110009,
 			"name": "Peynir",
 			"count": 2
 		},
 		{
-			"id": 110004,
 			"name": "Tereyağı",
 			"count": 1
 		}

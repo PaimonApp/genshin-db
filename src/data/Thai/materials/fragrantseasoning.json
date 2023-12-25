@@ -1,15 +1,9 @@
 {
-	"id": 101714,
 	"name": "เครื่องปรุงรสหอมกรุ่น",
-	"rarity": 1,
-	"sortRank": 10,
 	"description": "เครื่องปรุงรสตามสูตรของ Nazafarin มีกลิ่นฉุน และดูเหมือนจะสามารถดึงรสชาติออกมามากขึ้นเมื่อใส่เพิ่มเข้าไปในจานอาหาร",
-<<<<<<< HEAD
 	"sortorder": 977,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "วัสดุใช้งาน",
-	"sources": []
+	"materialtype": "วัสดุใช้งาน",
+	"source": []
 }

@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Reloj de bolsillo estándar de Senescal",
 	"filter": "Material de mejora de personaje y arma",
 	"sortorder": 140180,
@@ -8,18 +7,6 @@
 	"moracost": 50,
 	"recipe": [
 		{
-=======
-	"id": 11059,
-	"name": "Reloj de bolsillo estándar de Senescal",
-	"filterText": "Material de mejora de personaje y arma",
-	"sortOrder": 140180,
-	"unlockRank": 15,
-	"resultCount": 1,
-	"moraCost": 50,
-	"recipe": [
-		{
-			"id": 112092,
->>>>>>> upstream/main
 			"name": "Reloj de bolsillo vetusto de Senescal",
 			"count": 3
 		}

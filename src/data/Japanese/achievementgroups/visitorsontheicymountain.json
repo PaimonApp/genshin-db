@@ -1,13 +1,7 @@
 {
-	"id": 16,
 	"name": "雪山の来客",
-<<<<<<< HEAD
 	"sortorder": 30,
-=======
-	"sortOrder": 30,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210052,
 		"name": "アチーブメント·雪山"
 	}
 }

@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Ngọn Nguồn Của Muôn Dòng Nước III",
 	"achievementgroup": "Fontaine - Dòng Suối Trong Như Sương (III)",
 	"sortorder": 263,
-=======
-	"id": [
-		80287
-	],
-	"name": "Ngọn Nguồn Của Muôn Dòng Nước III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (III)",
-	"sortOrder": 263,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Ngọn Nguồn Của Muôn Dòng Nước III",
@@ -19,10 +9,6 @@
 		"description": "Mở khóa tất cả điểm dịch chuyển ở Khu Morte, Khu Rừng Erinnyes trong khu vực Fontaine.",
 		"progress": 24,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

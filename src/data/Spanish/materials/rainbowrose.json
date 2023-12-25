@@ -1,15 +1,10 @@
 {
-	"id": 101236,
 	"name": "Rosarcoíris",
-	"sortRank": 315,
 	"description": "Una delicada planta de color rosado. A pesar de lo que su nombre indica, este tipo de planta se parece más a los lirios.",
-<<<<<<< HEAD
 	"sortorder": 2883,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Fontaine",
-	"sources": [
+	"materialtype": "Objeto típico de Fontaine",
+	"source": [
 		"Recolectar en la naturaleza",
 		"Recolectar en el Condado Berilo"
 	]

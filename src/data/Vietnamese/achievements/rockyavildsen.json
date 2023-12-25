@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Rocky Avildsen",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1418,
-=======
-	"id": [
-		81434
-	],
-	"name": "Rocky Avildsen",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1418,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Rocky Avildsen",
 		"description": "Chiến thắng Huyền Thoại Địa Phương: Rocky Avildsen.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

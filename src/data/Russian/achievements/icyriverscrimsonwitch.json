@@ -1,18 +1,14 @@
 {
-	"id": [
-		82114
-	],
 	"name": "Ледник и ведьма Красного лотоса",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2114,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2114,
 	"stages": 1,
 	"stage1": {
 		"title": "Ледник и ведьма Красного лотоса",
 		"description": "Победите Синьору, не расправившись с Сердцем пламени и Оком стужи.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}

@@ -1,11 +1,8 @@
 {
-	"id": 70300018,
 	"name": "Tsurumi",
-	"areaId": 3600,
-	"areaName": "Tsurumi",
+	"area": "Tsurumi",
 	"description": "„Pirka chikappo! Kapatcir kamuy!“\n„Wir schlummern zusammen in einem spinnenseidenen Nest aus Nebel.“",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"showOnlyUnlocked": true,
-	"sortOrder": 218
+	"region": "Inazuma",
+	"showonlyunlocked": true,
+	"sortorder": 218
 }

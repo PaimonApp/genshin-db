@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "นักล่าสมบัติแห่งเกลียวคลื่น II",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว II",
 	"sortorder": 254,
-=======
-	"id": [
-		80278,
-		80279,
-		80280
-	],
-	"name": "นักล่าสมบัติแห่งเกลียวคลื่น II",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว II",
-	"sortOrder": 254,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "นักล่าสมบัติแห่งเกลียวคลื่น II",
 		"description": "เปิดหีบสมบัติ {param0} หีบ ใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region",
 		"progress": 60,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "เปิดหีบสมบัติ {param0} หีบ ใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region",
 		"progress": 120,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "เปิดหีบสมบัติ {param0} หีบ ใน Liffey Region, Fontaine Research Institute of Kinetic Energy Engineering Region",
 		"progress": 200,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 20
 		}

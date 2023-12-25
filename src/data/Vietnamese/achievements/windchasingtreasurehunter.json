@@ -1,13 +1,7 @@
 {
-	"id": [
-		80037,
-		80038,
-		80039
-	],
 	"name": "Thợ săn kho báu trong gió",
-	"achievementGroupId": 4,
-	"achievementGroupName": "Mondstadt - Thành Phố Của Gió Và Những Bài Ca Du Mục",
-	"sortOrder": 37,
+	"achievementgroup": "Mondstadt - Thành phố của gió và những bài ca du mục",
+	"sortorder": 37,
 	"stages": 3,
 	"stage1": {
 		"title": "Thợ săn kho báu trong gió",
@@ -15,7 +9,6 @@
 		"description": "Mở 100 rương báu ở Mondstadt (Trừ khu vực Long Tích Tuyết Sơn).",
 		"progress": 100,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Mở 200 rương báu ở Mondstadt (Trừ khu vực Long Tích Tuyết Sơn).",
 		"progress": 200,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Mở 400 rương báu ở Mondstadt (Trừ khu vực Long Tích Tuyết Sơn).",
 		"progress": 400,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 20
 		}

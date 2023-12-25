@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Bericht der Einsamkeit",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1380,
-=======
-	"id": [
-		81396
-	],
-	"name": "Bericht der Einsamkeit",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1380,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Bericht der Einsamkeit",
 		"description": "Erhalte Chronies privat gedruckten „Sonderbericht“.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

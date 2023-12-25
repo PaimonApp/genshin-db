@@ -1,13 +1,7 @@
 {
-	"id": [
-		80014,
-		80015,
-		80016
-	],
 	"name": "Para Frente e para Cima",
-	"achievementGroupId": 3,
-	"achievementGroupName": "A Jornada do Herói",
-	"sortOrder": 14,
+	"achievementgroup": "A Jornada do Herói",
+	"sortorder": 14,
 	"stages": 3,
 	"stage1": {
 		"title": "Para Frente e para Cima",
@@ -15,7 +9,6 @@
 		"description": "Ascenda um personagem para Fase 2 pela primeira vez.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Ascenda um personagem para Fase 4 pela primeira vez.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Ascenda um personagem para Fase 6 pela primeira vez.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 20
 		}

@@ -1,17 +1,11 @@
 {
-	"id": 221,
 	"name": "Luce stellare senza padrone",
-	"rarity": 5,
-	"sortRank": 410001,
 	"description": "Un tipo di moneta che serve per acquistare risorse rare nel negozio.\nLuce stellare del destino in eccesso. Chissà che non possa illuminare altri angoli dell'universo?",
-<<<<<<< HEAD
 	"sortorder": 4847,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Voucher superiore",
-	"sources": [
+	"materialtype": "Voucher superiore",
+	"source": [
 		"Desiderio"
 	]
 }

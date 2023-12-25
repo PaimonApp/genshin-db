@@ -1,15 +1,10 @@
 {
-	"id": 100078,
 	"name": "Leche",
-	"sortRank": 321,
 	"description": "Leche de vaca, dulce y deliciosa. No desperdicies una sola gota, ni siquiera esa que baja por tu barbilla.",
-<<<<<<< HEAD
 	"sortorder": 2920,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Comprado en tiendas"
 	]
 }

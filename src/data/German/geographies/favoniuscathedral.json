@@ -1,10 +1,7 @@
 {
-	"id": 70100004,
 	"name": "Favonius-Kathedrale",
-	"areaId": 1102,
-	"areaName": "Mondstadt",
+	"area": "Mondstadt",
 	"description": "Ein heiliger Ort, der von den frommen Jüngern des Anemo-Archons unterhalten wird.\nFrüher war dies ein Palast, der die Macht der Aristokraten zur Schau stellen sollte.",
-	"regionId": 1,
-	"regionName": "Mondstadt",
-	"sortOrder": 6
+	"region": "Mondstadt",
+	"sortorder": 6
 }

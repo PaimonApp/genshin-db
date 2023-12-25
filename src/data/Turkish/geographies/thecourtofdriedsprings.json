@@ -1,11 +1,8 @@
 {
-	"id": 70400038,
 	"name": "Kurumuş Pınarlar Bahçesi",
-	"areaId": 5016,
-	"areaName": "Bayt Al-Sukr",
+	"area": "Bayt Al-Sukr",
 	"description": "Gurabad'ın kadim halkı, bahçe yıllarını şarap, şarkı ve dansla anarlardı. Ancak unutmak, onların bütün sevinçlerin solmasına ve toz olmasına sebep oldu...",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 338
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 338
 }

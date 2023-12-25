@@ -1,15 +1,10 @@
 {
-	"id": 100061,
 	"name": "Viande crue",
-	"sortRank": 321,
 	"description": "Un morceau de viande fraîche qui peut être cuisiné.",
-<<<<<<< HEAD
 	"sortorder": 2912,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Butin d'animal"
 	]
 }

@@ -1,10 +1,9 @@
 {
-	"id": 2107,
 	"name": "Almôndegas Douradas de Camarão",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revive o Personagem selecionado.\nRestaura 900 - 1500 de Vida.",
 	"description": "Um prato de camarão frito. O aroma agride seus sentidos, enquanto as batatas crocantes realçam a doçura leve da carne de camarão. Isso, junto com sua forma fofa e pequena, o torna bastante atrativo.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100093,
 			"name": "Camarão",
 			"count": 5
 		},
 		{
-			"id": 100080,
 			"name": "Batata",
 			"count": 4
 		},
 		{
-			"id": 110001,
 			"name": "Farinha",
 			"count": 3
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 100085,
 	"name": "Núcleo de Cristal",
-	"sortRank": 320,
 	"description": "O núcleo de uma borboleta de cristal. Absorve elementos que escaparam da atmosfera.",
-<<<<<<< HEAD
 	"sortorder": 2896,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Coletado ao capturar Borboletas de Cristais"
 	]
 }

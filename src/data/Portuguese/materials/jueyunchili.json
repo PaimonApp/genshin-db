@@ -1,15 +1,10 @@
 {
-	"id": 100027,
 	"name": "Pimenta de Jueyun",
-	"sortRank": 312,
 	"description": "Uma planta picante originária de Liyue. Só o seu cheiro já é o suficiente para deixar alguém com calor e sede.",
-<<<<<<< HEAD
 	"sortorder": 2854,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Liyue",
-	"sources": [
+	"materialtype": "Especialidade de Liyue",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado na Vila Qingce"
 	]

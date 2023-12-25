@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "รายงานของผู้โดดเดี่ยว",
 	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
 	"ishidden": true,
 	"sortorder": 1380,
-=======
-	"id": [
-		81396
-	],
-	"name": "รายงานของผู้โดดเดี่ยว",
-	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
-	"isHidden": true,
-	"sortOrder": 1380,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "รายงานของผู้โดดเดี่ยว",
 		"description": "ได้รับ \"รายงานพิเศษ\" ที่ Chronie ตีพิมพ์เป็นการส่วนตัว",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

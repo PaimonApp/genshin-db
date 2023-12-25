@@ -11,10 +11,6 @@
 		"bennett": "班尼特",
 		"candace": "坎蒂絲",
 		"charlotte": "夏洛蒂",
-<<<<<<< HEAD
-=======
-		"chevreuse": "夏沃蕾",
->>>>>>> upstream/main
 		"chongyun": "重雲",
 		"collei": "柯萊",
 		"cyno": "賽諾",
@@ -48,10 +44,6 @@
 		"mika": "米卡",
 		"mona": "莫娜",
 		"nahida": "納西妲",
-<<<<<<< HEAD
-=======
-		"navia": "娜維婭",
->>>>>>> upstream/main
 		"neuvillette": "那維萊特",
 		"nilou": "妮露",
 		"ningguang": "凝光",
@@ -100,10 +92,6 @@
 		"班尼特": "bennett",
 		"坎蒂絲": "candace",
 		"夏洛蒂": "charlotte",
-<<<<<<< HEAD
-=======
-		"夏沃蕾": "chevreuse",
->>>>>>> upstream/main
 		"重雲": "chongyun",
 		"柯萊": "collei",
 		"賽諾": "cyno",
@@ -137,10 +125,6 @@
 		"米卡": "mika",
 		"莫娜": "mona",
 		"納西妲": "nahida",
-<<<<<<< HEAD
-=======
-		"娜維婭": "navia",
->>>>>>> upstream/main
 		"那維萊特": "neuvillette",
 		"妮露": "nilou",
 		"凝光": "ningguang",
@@ -191,10 +175,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -228,10 +208,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -344,10 +320,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -381,10 +353,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -767,10 +735,6 @@
 		],
 		"齧合齒輪": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -782,10 +746,6 @@
 		],
 		"機關正齒輪": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -797,40 +757,11 @@
 		],
 		"奇械機芯齒輪": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"無光絲線": [
-<<<<<<< HEAD
 			"charlotte"
-=======
-			"charlotte",
-			"navia"
-		],
-		"「秩序」的教導": [
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"「秩序」的指引": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"「秩序」的哲學": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"無光渦眼": [
-			"chevreuse"
->>>>>>> upstream/main
 		],
 		"「勤勞」的教導": [
 			"chongyun",
@@ -971,28 +902,16 @@
 		],
 		"異海凝珠": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"異海之塊": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"異色結晶石": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1150,7 +1069,6 @@
 			"razor",
 			"xiangling"
 		],
-<<<<<<< HEAD
 		"「秩序」的教導": [
 			"lynette",
 			"wriothesley"
@@ -1167,29 +1085,16 @@
 		],
 		"「公平」的教導": [
 			"lyney",
-=======
-		"「公平」的教導": [
-			"lyney",
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"「公平」的指引": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"「公平」的哲學": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1276,13 +1181,6 @@
 			"「正義」的哲學",
 			"奇械機芯齒輪",
 			"無光絲線",
-<<<<<<< HEAD
-=======
-			"「秩序」的教導",
-			"「秩序」的指引",
-			"「秩序」的哲學",
-			"無光渦眼",
->>>>>>> upstream/main
 			"「勤勞」的教導",
 			"破損的面具",
 			"「勤勞」的指引",
@@ -1325,12 +1223,9 @@
 			"「浮世」的哲學",
 			"亙古樹海之一瞬",
 			"東風之爪",
-<<<<<<< HEAD
 			"「秩序」的教導",
 			"「秩序」的指引",
 			"「秩序」的哲學",
-=======
->>>>>>> upstream/main
 			"「公平」的教導",
 			"「公平」的指引",
 			"「公平」的哲學",

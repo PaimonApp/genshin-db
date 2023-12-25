@@ -1,15 +1,10 @@
 {
-	"id": 100091,
 	"name": "Bambu Filizi",
-	"sortRank": 321,
 	"description": "Yerden çıkan taze bambu filizi. Sadece bambu yetişen bölgelerde bulunan lezzetli bir yemek malzemesi.",
-<<<<<<< HEAD
 	"sortorder": 2928,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Qingce Köyü yakınlarındaki bambu ormanında bulunur."
 	]

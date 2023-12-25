@@ -1,10 +1,7 @@
 {
-	"id": 70200008,
 	"name": "Tränenerfüllter Garten",
-	"areaId": 2509,
-	"areaName": "Luhua-Teich",
+	"area": "Luhua-Teich",
 	"description": "Man erzählt sich, dass dieser alte Garten mit aufrichtiger Zuneigung gefüllt war, wodurch der Luhua-Teich in seiner heutigen Pracht entstand.",
-	"regionId": 2,
-	"regionName": "Liyue",
-	"sortOrder": 112
+	"region": "Liyue",
+	"sortorder": 112
 }

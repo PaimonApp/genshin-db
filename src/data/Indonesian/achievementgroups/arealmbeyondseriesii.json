@@ -1,13 +1,7 @@
 {
-	"id": 19,
 	"name": "Alam Lain: Seri II",
-<<<<<<< HEAD
 	"sortorder": 32,
-=======
-	"sortOrder": 32,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210075,
 		"name": "Achievement: Rumah Liburan"
 	}
 }

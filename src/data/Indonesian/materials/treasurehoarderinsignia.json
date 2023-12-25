@@ -1,21 +1,9 @@
 {
-	"id": 112035,
 	"name": "Treasure Hoarder Insignia",
-	"rarity": 1,
-	"sortRank": 10112,
 	"description": "Lencana yang dengan bangga menandakan posisi pemiliknya sebagai anggota Treasure Hoarder. Mengejar harta tanpa mengenal batas. Tapi, ngomong-ngomong soal itu... apakah menjadi pencuri adalah sesuatu yang bisa dibanggakan?",
-<<<<<<< HEAD
 	"sortorder": 3068,
 	"rarity": "1",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Material Penguatan Senjata dan Karakter",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Penguatan Senjata dan Karakter",
-	"sources": [
-		"Dijatuhkan oleh Treasure Hoarder",
-		"Penukaran Stardust"
-	]
->>>>>>> upstream/main
 }

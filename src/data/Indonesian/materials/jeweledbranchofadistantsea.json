@@ -1,24 +1,17 @@
 {
-	"id": 114026,
 	"name": "Jeweled Branch of a Distant Sea",
-	"rarity": 3,
-	"sortRank": 15107,
 	"description": "Material Ascension Senjata.\nKoral ini tidak dapat ditemukan di mana pun di Teyvat. Koral ini adalah hadiah yang diperoleh Serpent besar saat menerobos ke Laut Hitam. Bagi seekor Serpent yang hidup di kedalaman jurang itu, tubuh yang dipenuhi cabang koral melambangkan kekuatan, dan kehilangan cabang koral berarti kekuatan juga akan menghilang. Dengan kata lain, cabang koral yang patah juga memiliki kekuatan yang luar biasa.",
-<<<<<<< HEAD
 	"sortorder": 3303,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Ascension Senjata",
-	"dropDomainId": 4341,
-	"dropDomainName": "Domain of Forgery: Desiran Pasir",
-	"daysOfWeek": [
+	"materialtype": "Material Ascension Senjata",
+	"dropdomain": "Domain of Forgery: Desiran Pasir",
+	"daysofweek": [
 		"Senin",
 		"Kamis",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

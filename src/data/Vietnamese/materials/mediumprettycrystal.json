@@ -1,15 +1,10 @@
 {
-	"id": 111021,
 	"name": "Kết Tinh Vừa Xinh Xắn",
-	"sortRank": 430051,
 	"description": "Sản Phẩm Ghép Tăng Thêm",
-<<<<<<< HEAD
 	"sortorder": 4957,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sản Phẩm Ghép",
-	"sources": [
+	"materialtype": "Sản Phẩm Ghép",
+	"source": [
 		"Ghép Nhận"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 110010,
 	"name": "Bacon",
-	"sortRank": 322,
 	"description": "Lamelles de porc fumé, croustillantes et un peu grasses.",
-<<<<<<< HEAD
 	"sortorder": 2955,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Cuisine (préparation)"
 	]
 }

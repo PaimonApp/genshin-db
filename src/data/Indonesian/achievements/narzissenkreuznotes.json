@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Jawaban Teka-Teki Narzissenkreuz",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
 	"sortorder": 275,
-=======
-	"id": [
-		80299
-	],
-	"name": "Jawaban Teka-Teki Narzissenkreuz",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
-	"sortOrder": 275,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Jawaban Teka-Teki Narzissenkreuz",
@@ -19,10 +9,6 @@
 		"description": "Siapakah yang meninggalkan namanya? Apakah yang tersebar di seluruh lembah? Benda apa yang terpantul di permukaan air? Benda apa yang melambangkan perjuangan penuh kesepian dan pengorbanan yang menyelamatkan dunia?",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

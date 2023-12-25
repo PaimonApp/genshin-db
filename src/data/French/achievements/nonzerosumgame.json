@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Jeu à somme non nulle",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 1361,
-=======
-	"id": [
-		81377
-	],
-	"name": "Jeu à somme non nulle",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1361,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Jeu à somme non nulle",
 		"description": "Terminez l'enquête de satisfaction de la Cantine à coupons.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 5
 		}

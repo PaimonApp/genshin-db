@@ -1,15 +1,10 @@
 {
-	"id": 101212,
 	"name": "Starshroom",
-	"sortRank": 90000,
 	"description": "A fungus with a cap that resembles a five-pointed star. It is quite hardy indeed. Once it matures, the center of the cap will split open.",
-<<<<<<< HEAD
 	"sortorder": 3418,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Food",
-	"sources": [
+	"materialtype": "Food",
+	"source": [
 		"Found in the wild"
 	]
 }

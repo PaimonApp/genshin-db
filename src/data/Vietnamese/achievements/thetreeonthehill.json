@@ -1,18 +1,14 @@
 {
-	"id": [
-		81316
-	],
 	"name": "Cây Trên Núi",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1303,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1303,
 	"stages": 1,
 	"stage1": {
 		"title": "Cây Trên Núi",
 		"description": "Đưa Rashnu quay về Ốc Đảo Vourukasha.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

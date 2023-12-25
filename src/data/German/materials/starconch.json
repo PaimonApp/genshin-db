@@ -1,15 +1,10 @@
 {
-	"id": 100033,
 	"name": "Sternmuschel",
-	"sortRank": 312,
 	"description": "Eine Muschel, die die Flut an den Strand gespült hat. Hält man sie ans Ohr, hört man das verheißungsvolle Rauschen des Meeres.",
-<<<<<<< HEAD
 	"sortorder": 2859,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Regionale Besonderheit aus Liyue",
-	"sources": [
+	"materialtype": "Regionale Besonderheit aus Liyue",
+	"source": [
 		"An den Stränden in Liyue zu finden"
 	]
 }

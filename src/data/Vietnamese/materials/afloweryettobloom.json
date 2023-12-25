@@ -1,21 +1,9 @@
 {
-	"id": 112077,
 	"name": "Hoa Chưa Nở Từ Nơi Nào Đó",
-	"rarity": 2,
-	"sortRank": 10127,
 	"description": "Hoa dại mà Lãng Khách Hilichurl rất trân trọng. Trước khi nở đã bị hái xuống.\nTrong khi tuần tra ở nơi hoang dã, nó không đem theo bất cứ vật phẩm dư thừa nào, ngoại trừ đóa hoa chưa nở này.",
-<<<<<<< HEAD
 	"sortorder": 3113,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
-	"sources": [
-		"Lãng Khách Hilichurl rơi",
-		"Đổi Tinh Trần"
-	]
->>>>>>> upstream/main
 }

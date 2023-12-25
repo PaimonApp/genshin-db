@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Tomates narbonnaises",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Attaque",
 	"foodcategory": "Atk_Add",
-=======
-	"id": 3412,
-	"name": "Tomates narbonnaises",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Attaque",
->>>>>>> upstream/main
 	"effect": "Augmente l'ATQ de tous les personnages de l'équipe de 160 à 228 pts pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
 	"description": "Un plat de viande et de légumes. Pour ce mélange équilibré, évidez des tomates rondes, remplissez-les de viande hachée et faites cuire vos créations. Ce plat, avec sa saveur acidulée et sa texture tendre, est un choix très populaire sur les tables des Fontainois.",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Viande crue",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100079,
->>>>>>> upstream/main
 			"name": "Tomate",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110010,
->>>>>>> upstream/main
 			"name": "Bacon",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "Oignon",
 			"count": 1
 		}

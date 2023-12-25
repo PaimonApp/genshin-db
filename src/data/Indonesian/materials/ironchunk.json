@@ -1,15 +1,10 @@
 {
-	"id": 101001,
 	"name": "Iron Chunk",
-	"sortRank": 301,
 	"description": "Di tangan pengrajin yang handal, bongkahan besi ini dapat diolah menjadi berbagai benda berguna.",
-<<<<<<< HEAD
 	"sortorder": 2821,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mineral untuk Forge",
-	"sources": [
+	"materialtype": "Mineral untuk Forge",
+	"source": [
 		"Ditemukan di alam liar"
 	]
 }

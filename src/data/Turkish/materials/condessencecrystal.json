@@ -1,15 +1,10 @@
 {
-	"id": 101009,
 	"name": "Kristal Özütü",
-	"sortRank": 301,
 	"description": "Parlak ve berrak bir kristal. Çekirdeği hem sağlam hem de şekillendirmeye uygundur.",
-<<<<<<< HEAD
 	"sortorder": 2827,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Dövmeye Uygun Cevher",
-	"sources": [
+	"materialtype": "Dövmeye Uygun Cevher",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Elynas'da (Yüzeyde) bulunur."
 	]

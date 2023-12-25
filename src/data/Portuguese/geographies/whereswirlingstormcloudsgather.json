@@ -1,10 +1,7 @@
 {
-	"id": 70300014,
 	"name": "Onde Nuvens Tempestuosas se Encontram",
-	"areaId": 3401,
-	"areaName": "Monte Tenkumo",
+	"area": "Monte Tenkumo",
 	"description": "A grande batalha em que as cores do mar e do céu mudaram se perderam no tempo, mas as vastas tempestades que foram convocadas na época permanecem.",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"sortOrder": 214
+	"region": "Inazuma",
+	"sortorder": 214
 }

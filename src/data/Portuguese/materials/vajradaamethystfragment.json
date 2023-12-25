@@ -1,17 +1,11 @@
 {
-	"id": 104142,
 	"name": "Fragmento de Ametista Vajrada",
-	"rarity": 3,
-	"sortRank": 12105,
 	"description": "Material de Ascensão de Personagem.\n\"Este corpo é o mais nobre e eminente de todos neste mundo.\"",
-<<<<<<< HEAD
 	"sortorder": 3203,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Ascensão de Personagem",
-	"sources": [
+	"materialtype": "Material de Ascensão de Personagem",
+	"source": [
 		"Dropado pelo Hypostasis Electro Nv.40+",
 		"Dropado por Manifestação Trovejante Nv.40+",
 		"Dropado por Regisvine Electro Nv.40+",

@@ -1,17 +1,11 @@
 {
-	"id": 307,
 	"name": "Insignia Geo",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Una insignia que muestra el reconocimiento de las montañas de Liyue.\nPuede ser intercambiada por objetos especiales en Liyue.",
-<<<<<<< HEAD
 	"sortorder": 4933,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Insignia Elemental",
-	"sources": [
+	"materialtype": "Insignia Elemental",
+	"source": [
 		"Recompensa de expedición en Liyue"
 	]
 }

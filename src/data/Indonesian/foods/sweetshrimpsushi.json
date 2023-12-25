@@ -1,10 +1,9 @@
 {
-	"id": 1204,
 	"name": "Sweet Shrimp Sushi",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Makanan Pemulihan",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 50–150 HP.",
 	"description": "Sebuah hidangan tradisional yang manis dan segar. Udang yang sudah dibersihkan diletakkan di atas nasi dan dibentuk dengan tangan. Daging udang segar dan rasa nasi yang enak membuat hidangan ini menjadi lebih nikmat.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100093,
 			"name": "Shrimp Meat",
 			"count": 2
 		},
 		{
-			"id": 100092,
 			"name": "Rice",
 			"count": 1
 		}

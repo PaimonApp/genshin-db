@@ -1,15 +1,10 @@
 {
-	"id": 101002,
 	"name": "白鉄の塊",
-	"sortRank": 301,
 	"description": "白鉄の鉱石。相応の技術を持った職人の手にかかれば、異彩を放つでしょう。",
-<<<<<<< HEAD
 	"sortorder": 2822,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "鍛造用鉱石",
-	"sources": [
+	"materialtype": "鍛造用鉱石",
+	"source": [
 		"野外で採集",
 		"推奨：望風山地で採集",
 		"推奨：奔狼領で採集"

@@ -1,15 +1,10 @@
 {
-	"id": 100081,
 	"name": "Ếch Xanh",
-	"sortRank": 320,
 	"description": "Ếch sống trong môi trường ẩm ướt, rất có sức sống.",
-<<<<<<< HEAD
 	"sortorder": 2893,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu thập ở vùng nước ngọt"
 	]
 }

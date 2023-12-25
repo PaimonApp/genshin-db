@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Derinliklerde Parıldayan Yıldızlara Doğru",
 	"achievementgroup": "Dünyanın Harikaları",
 	"ishidden": true,
 	"sortorder": 5086,
-=======
-	"id": [
-		84307
-	],
-	"name": "Derinliklerde Parıldayan Yıldızlara Doğru",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 5086,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Derinliklerde Parıldayan Yıldızlara Doğru",
 		"description": "\"Derinliklerde Parıldayan Yıldızlara Doğru\" görevini tamamla.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Köken Taşı",
 			"count": 10
 		}

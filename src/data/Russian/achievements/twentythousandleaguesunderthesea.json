@@ -1,18 +1,14 @@
 {
-	"id": [
-		81361
-	],
 	"name": "Двадцать тысяч лье под водой",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1347,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1347,
 	"stages": 1,
 	"stage1": {
 		"title": "Двадцать тысяч лье под водой",
 		"description": "Следуйте за потоком...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

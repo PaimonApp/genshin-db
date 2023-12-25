@@ -1,11 +1,8 @@
 {
-	"id": 70400012,
 	"name": "El pequeño jardín de Aranaga",
-	"areaId": 4101,
-	"areaName": "Arboleda Moutiyima",
+	"area": "Arboleda Moutiyima",
 	"description": "Aquí las granadas cantan y las manzanas aclaman.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 312
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 312
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100024,
 	"name": "風車アスター",
-	"sortRank": 311,
 	"description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
-<<<<<<< HEAD
 	"sortorder": 2849,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "モンド地域の特産",
-	"sources": [
+	"materialtype": "モンド地域の特産",
+	"source": [
 		"風立ちの地の七天神像付近で採集",
 		"野外の木の下で採集",
 		"推奨：風龍廃墟で採集"

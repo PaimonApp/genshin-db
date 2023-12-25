@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Удар четырёх фруктов",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1363,
-=======
-	"id": [
-		81379
-	],
-	"name": "Удар четырёх фруктов",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1363,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Удар четырёх фруктов",
 		"description": "Завершите историю Бланш и Фруктов порядка.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

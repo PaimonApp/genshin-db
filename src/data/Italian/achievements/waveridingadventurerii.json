@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Avventuriere cavalcaonde (II)",
 	"achievementgroup": "Fontaine: Danza delle sorgenti rugiadose (II)",
 	"sortorder": 257,
-=======
-	"id": [
-		80281,
-		80282,
-		80283
-	],
-	"name": "Avventuriere cavalcaonde (II)",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Danza delle sorgenti rugiadose (II)",
-	"sortOrder": 257,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "Avventuriere cavalcaonde (II)",
 		"description": "Completa {param0} sfide a tempo del mondo di gioco nella Regione di Liffey e nella Regione dell'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine.",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "Completa {param0} sfide a tempo del mondo di gioco nella Regione di Liffey e nella Regione dell'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine.",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "Completa {param0} sfide a tempo del mondo di gioco nella Regione di Liffey e nella Regione dell'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine.",
 		"progress": 12,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 20
 		}

@@ -1,13 +1,7 @@
 {
-	"id": 23,
 	"name": "Un regno al di fuori: Serie III",
-<<<<<<< HEAD
 	"sortorder": 33,
-=======
-	"sortOrder": 33,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210089,
 		"name": "Obiettivo: Piena fioritura"
 	}
 }

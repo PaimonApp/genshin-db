@@ -1,15 +1,10 @@
 {
-	"id": 110001,
 	"name": "Mehl",
-	"sortRank": 322,
 	"description": "Aus Weizen gemahlenes Pulver. Füllt jeden Magen, egal wozu es verwendet wird.",
-<<<<<<< HEAD
 	"sortorder": 2947,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"Beim Verarbeiten von Gerichten zu erhalten"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100051,
 	"name": "Quả Mâm Xôi",
-	"sortRank": 321,
 	"description": "Quả có màu sắc tươi sáng. Mọc dọc bên đường giúp người lữ hành giải khát.",
-<<<<<<< HEAD
 	"sortorder": 2911,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

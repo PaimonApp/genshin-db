@@ -1,18 +1,14 @@
 {
-	"id": [
-		81038
-	],
 	"name": "Futile Endeavor",
-	"achievementGroupName": "Wonders of the World",
-	"isHidden": true,
-	"sortOrder": 1039,
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1039,
 	"stages": 1,
 	"stage1": {
 		"title": "Futile Endeavor",
 		"description": "Discover the remains of many ruin machines.",
 		"progress": 9,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

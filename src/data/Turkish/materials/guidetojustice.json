@@ -1,25 +1,17 @@
 {
-	"id": 104342,
 	"name": "Adalet Rehberi",
-<<<<<<< HEAD
 	"description": "Yetenek Seviyesi Yükseltme Malzemesi.\nSu Ülkesinin kılıcı adalettir.\nFontaine'in kanunu adaletin kılıcını elinde taşır. Adalet kör olmalıdır ve onun kılıcını taşıyanlar, kendi hesap ve çıkarlarına kapılıp yolunu şaşırmamalıdr.",
 	"sortorder": 3257,
 	"rarity": "3",
-=======
-	"rarity": 3,
-	"sortRank": 13114,
-	"description": "Yetenek Seviyesi Yükseltme Malzemesi.\nSu Ülkesinin kılıcı adalettir.\nFontaine'in kanunu adaletin kılıcını elinde taşır. Adalet kör olmalıdır ve onun kılıcını taşıyanlar, kendi hesap ve çıkarlarına kapılıp yolunu şaşırmamalıdr.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yeteneği Malzemesi",
-	"dropDomainId": 4491,
-	"dropDomainName": "Ustalık Zindanı: Uyarı Yazıtı",
-	"daysOfWeek": [
+	"materialtype": "Karakter Yeteneği Malzemesi",
+	"dropdomain": "Ustalık Zindanı: Uyarı Yazıtı",
+	"daysofweek": [
 		"Salı",
 		"Cuma",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

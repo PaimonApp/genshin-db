@@ -1,24 +1,17 @@
 {
-	"id": 104337,
 	"name": "Philosophies of Praxis",
-	"rarity": 4,
-	"sortRank": 13112,
 	"description": "Material Penguatan Talenta.\n\"Praxis\" adalah sistem akar bangsa kebijaksanaan.\nPelaksanaan akan mendukung kebijaksanaan untuk berbuah. Tindakan membuktikan makna dari tindakan itu sendiri. Ucapan, tindakan, dan pemikiran yang selaras adalah satu-satunya cara bagi orang bijak untuk menyaksikan kesempurnaan.",
-<<<<<<< HEAD
 	"sortorder": 3250,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material Talenta Karakter",
-	"dropDomainId": 4453,
-	"dropDomainName": "Domain of Mastery: Hukum dan Aturan",
-	"daysOfWeek": [
+	"materialtype": "Material Talenta Karakter",
+	"dropdomain": "Domain of Mastery: Hukum dan Aturan",
+	"daysofweek": [
 		"Rabu",
 		"Sabtu",
 		"Minggu"
 	],
-	"sources": [
+	"source": [
 		"Didapatkan melalui Craft"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100099,
 	"name": "Jus fermenté",
-	"sortRank": 321,
 	"description": "Un jus fermenté au parfum fruité unique, souvent utilisé comme marinade.",
-<<<<<<< HEAD
 	"sortorder": 2936,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Épiceries de Fontaine"
 	]
 }

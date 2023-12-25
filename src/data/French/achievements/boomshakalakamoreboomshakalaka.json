@@ -1,18 +1,14 @@
 {
-	"id": [
-		84531
-	],
 	"name": "Du peps, encore ?",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 4055,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 4055,
 	"stages": 1,
 	"stage1": {
 		"title": "Du peps, encore ?",
 		"description": "Apprenez de nouvelles façons de cuisiner auprès de Xiangling.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

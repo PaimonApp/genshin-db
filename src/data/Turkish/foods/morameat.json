@@ -1,10 +1,9 @@
 {
-	"id": 1101,
 	"name": "Mora Bazlaması",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Seçili karakteri diriltir.\n50 ila 150 Can yeniler.",
 	"description": "Bazlama arası kavurma. İkiye böldüğünde bazlamanın içindeki kıymayı görebilirsin. Hamuru tam kıvamında pişmiş, etin yağının bıraktığı ağır tat lezzetli ekmeğin içinde neredeyse kaybolmuş. Bu tür hamur işlerinin üzerine genellikle zenginliği ve serveti simgeleyen Mora sembolü basılır.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 1
 		},
 		{
-			"id": 110001,
 			"name": "Un",
 			"count": 1
 		}

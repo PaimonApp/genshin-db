@@ -1,10 +1,9 @@
 {
-	"id": 2406,
 	"name": "Gelatina da Vila Pesqueira",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Pratos de ATQ",
+	"foodfilter": "Pratos de ATQ",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Aumenta a Taxa CRIT de todos os personagens na equipe em 6% - 12% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Um prato frio feito com frutos do mar. Moa a carne do peixe até obter uma pasta e adicione-a a uma forma retangular para assar. Deixe o prato esfriar antes de servir. Ele tem uma sensação fria na língua, mas aquece o coração.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Peixe",
 			"count": 2
 		},
 		{
-			"id": 100064,
 			"name": "Carne de Ave",
 			"count": 2
 		},
 		{
-			"id": 110002,
 			"name": "Creme",
 			"count": 1
 		}

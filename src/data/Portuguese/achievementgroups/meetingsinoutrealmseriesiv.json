@@ -1,13 +1,7 @@
 {
-	"id": 44,
 	"name": "Encontros Fora Deste Mundo - Série IV",
-<<<<<<< HEAD
 	"sortorder": 29,
-=======
-	"sortOrder": 29,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210169,
 		"name": "Conquista - Órbitas"
 	}
 }

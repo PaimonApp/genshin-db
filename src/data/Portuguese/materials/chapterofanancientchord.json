@@ -1,25 +1,17 @@
 {
-	"id": 114050,
 	"name": "Capítulo de uma Corda Antiga",
-<<<<<<< HEAD
 	"description": "Material de Ascensão de Arma.\nReza a lenda que o povo da antiga dinastia fabricou harpas de ferro negro para comemorar e lamentar os mortos.\nNo entanto, essas harpas não produziam som algum, então, para lamentar a perda da dinastia que se orgulhava de sua serenata dourada, o povo criou esses instrumentos musicais pesados e sem voz.\nDo ferro negro, tão taciturno quanto aqueles tempos, não saiu uma única nota musical.",
 	"sortorder": 3328,
 	"rarity": "3",
-=======
-	"rarity": 3,
-	"sortRank": 15113,
-	"description": "Material de Ascensão de Arma.\nReza a lenda que o povo da antiga dinastia fabricou harpas de ferro negro para comemorar e lamentar os mortos.\nNo entanto, essas harpas não produziam som algum, então, para lamentar a perda da dinastia que se orgulhava de sua serenata dourada, o povo criou esses instrumentos musicais pesados e sem voz.\nDo ferro negro, tão taciturno quanto aqueles tempos, não saiu uma única nota musical.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de Ascensão de Armas",
-	"dropDomainId": 4471,
-	"dropDomainName": "Domínio da Forja: Consciência Robótica",
-	"daysOfWeek": [
+	"materialtype": "Material de Ascensão de Armas",
+	"dropdomain": "Domínio da Forja: Consciência Robótica",
+	"daysofweek": [
 		"Segunda-feira",
 		"Quinta-feira",
 		"Domingo"
 	],
-	"sources": [
+	"source": [
 		"Obtido na síntese"
 	]
 }

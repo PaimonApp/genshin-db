@@ -1,9 +1,7 @@
 {
-	"id": 28,
 	"name": "The Light of Day",
-	"sortOrder": 38,
+	"sortorder": 38,
 	"reward": {
-		"id": 210109,
 		"name": "Inazuma: Tokoyo"
 	}
 }

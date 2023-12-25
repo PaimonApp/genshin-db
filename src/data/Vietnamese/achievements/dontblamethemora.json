@@ -1,18 +1,14 @@
 {
-	"id": [
-		84552
-	],
 	"name": "Mora Vô Tội",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 4076,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4076,
 	"stages": 1,
 	"stage1": {
 		"title": "Mora Vô Tội",
 		"description": "Chứng kiến câu chuyện của Đội Ẩm Thực Toàn Năng tại Sumeru.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

@@ -1,17 +1,14 @@
 {
-	"id": 220029,
 	"name": "Dobra Bomba",
-	"sortOrder": 89999,
-	"unlockRank": 21,
-	"resultCount": 20,
+	"sortorder": 89999,
+	"unlockrank": 21,
+	"resultcount": 20,
 	"recipe": [
 		{
-			"id": 100053,
 			"name": "Alev Çiçeği Tomurcuğu",
 			"count": 1
 		},
 		{
-			"id": 100081,
 			"name": "Kurbağa",
 			"count": 1
 		}

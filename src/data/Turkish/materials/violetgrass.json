@@ -1,15 +1,10 @@
 {
-	"id": 100034,
 	"name": "Mor Ot",
-	"sortRank": 312,
 	"description": "Güçlü canlılığa sahip küçük bir çiçek. Kokusunu korumak için aşağı doğru açtığı söylenir.",
-<<<<<<< HEAD
 	"sortorder": 2860,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Liyue Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Liyue Yöresel Ürünü",
+	"source": [
 		"Liyue'deki uçurumların yakınlarında bulunur."
 	]
 }

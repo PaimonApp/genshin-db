@@ -1,25 +1,17 @@
 {
-	"id": 114054,
 	"name": "Saf Kutsal Çiy Damlası Buharı",
-<<<<<<< HEAD
 	"description": "Silah Yükseltme Malzemesi.\n\"Ezeli denizden gelen yaşamın kaderi kaçınılmaz bir şekilde ona geri dönmektir.\" Böyle konuştu Harmost Boethius. \"Ancak insanların kaderini aşması için sonsuz ihtimal vardır ve ezeli denizin suları bile onları tamamen yok edemez...\"\nKibirli taht hırsızı bir keresinde çözünmesi mümkün olmayan İkhor ile saf suyu karıştırmayı denemişti. Bu şekilde bilgelik ve hafızayı içinde koruyabilecek ve tebaasıyla hizmetkarlarının bedenlerinden kurtularak bağımsız ve sonsuz birer hayatı olmasını sağlayacaktı.\nAncak ruhu bedenden ayırırken hissedilen acıya sıradan canlıların katlanması mümkün değildir. Bu yüzden taht hırsızının emriyle birçok ruh yırtılıp paramparça oldu...\nSayısız ruhun inlemesi ve ağlamasından İkhor siyaha çaldı ve içindeki uyum ve bilgelik yok oldu. Geriye yalnızca kaos ve delilik kaldı.",
 	"sortorder": 3332,
 	"rarity": "3",
-=======
-	"rarity": 3,
-	"sortRank": 15114,
-	"description": "Silah Yükseltme Malzemesi.\n\"Ezeli denizden gelen yaşamın kaderi kaçınılmaz bir şekilde ona geri dönmektir.\" Böyle konuştu Harmost Boethius. \"Ancak insanların kaderini aşması için sonsuz ihtimal vardır ve ezeli denizin suları bile onları tamamen yok edemez...\"\nKibirli taht hırsızı bir keresinde çözünmesi mümkün olmayan İkhor ile saf suyu karıştırmayı denemişti. Bu şekilde bilgelik ve hafızayı içinde koruyabilecek ve tebaasıyla hizmetkarlarının bedenlerinden kurtularak bağımsız ve sonsuz birer hayatı olmasını sağlayacaktı.\nAncak ruhu bedenden ayırırken hissedilen acıya sıradan canlıların katlanması mümkün değildir. Bu yüzden taht hırsızının emriyle birçok ruh yırtılıp paramparça oldu...\nSayısız ruhun inlemesi ve ağlamasından İkhor siyaha çaldı ve içindeki uyum ve bilgelik yok oldu. Geriye yalnızca kaos ve delilik kaldı.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Silah Yükseltme Malzemesi",
-	"dropDomainId": 4501,
-	"dropDomainName": "Döküm Zindanı: İşçilik",
-	"daysOfWeek": [
+	"materialtype": "Silah Yükseltme Malzemesi",
+	"dropdomain": "Döküm Zindanı: İşçilik",
+	"daysofweek": [
 		"Salı",
 		"Cuma",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

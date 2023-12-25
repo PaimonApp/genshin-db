@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Núcleo aletargado",
 	"achievementgroup": "Maravillas del mundo",
 	"ishidden": true,
 	"sortorder": 1371,
-=======
-	"id": [
-		81387
-	],
-	"name": "Núcleo aletargado",
-	"achievementGroupName": "Maravillas del mundo",
-	"isHidden": true,
-	"sortOrder": 1371,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Núcleo aletargado",
 		"description": "Descubre el secreto que se oculta en el Taller de Mecabots de Kuisel.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Protogema",
 			"count": 5
 		}

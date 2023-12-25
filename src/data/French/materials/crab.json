@@ -1,15 +1,10 @@
 {
-	"id": 100073,
 	"name": "Crabe",
-	"sortRank": 321,
 	"description": "Un petit crustacé qui vit près de la mer. Sa chair tendre et délicieuse peut être utilisée en cuisine.",
-<<<<<<< HEAD
 	"sortorder": 2916,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Plages, berges des rivières et des lacs"
 	]
 }

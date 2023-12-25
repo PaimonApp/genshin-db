@@ -1,13 +1,7 @@
 {
-	"id": 23,
 	"name": "Welt in der Welt – Reihe 3",
-<<<<<<< HEAD
 	"sortorder": 33,
-=======
-	"sortOrder": 33,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210089,
 		"name": "Errungenschaft – Volle Blüte"
 	}
 }

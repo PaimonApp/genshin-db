@@ -1,15 +1,10 @@
 {
-	"id": 100012,
 	"name": "Hoa Ngọt",
-	"sortRank": 321,
 	"description": "Mùi hương thơm nồng, cho dù là trong đêm cũng có thể lần theo mùi hoa mà tìm.",
-<<<<<<< HEAD
 	"sortorder": 2901,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

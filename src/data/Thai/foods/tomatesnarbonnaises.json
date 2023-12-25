@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Tomates Narbonnaises",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "เมนูการโจมตี",
 	"foodcategory": "Atk_Add",
-=======
-	"id": 3412,
-	"name": "Tomates Narbonnaises",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "เมนูการโจมตี",
->>>>>>> upstream/main
 	"effect": "เพิ่มพลังโจมตีให้กับสมาชิกในทีมทั้งหมด 160-228 หน่วย เป็นเวลา 300 วินาที\nเมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
 	"description": "อาหารที่ประกอบด้วยเนื้อสัตว์และผัก คว้านไส้มะเขือเทศลูกกลม ๆ ออก แล้วใส่ไส้เนื้อสับลงไป เมื่อเรียบร้อยแล้วก็นำไปอบจนสุก จะให้รสชาติหวานอมเปรี้ยว และสัมผัสที่นุ่มนวล เป็นอาหารที่นิยมนำขึ้นโต๊ะเป็นประจำใน Fontaine",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Raw Meat",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100079,
->>>>>>> upstream/main
 			"name": "Tomato",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 110010,
->>>>>>> upstream/main
 			"name": "Bacon",
 			"count": 1
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100076,
->>>>>>> upstream/main
 			"name": "Onion",
 			"count": 1
 		}

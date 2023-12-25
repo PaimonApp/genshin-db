@@ -1,11 +1,8 @@
 {
-	"id": 70400069,
 	"name": "„Ein klarer Morgen im Béryl-Gebirge“",
-	"areaId": 50200,
-	"areaName": "Bezirk Béryl",
+	"area": "Bezirk Béryl",
 	"description": "Salsa hat hier einst die Landschaft festgehalten.\nEin klarer Morgen im Béryl-Gebirge. Der Tau, den die feuchte Abendbrise auf den Blättern hinterlassen hat, ist noch nicht verschwunden ...",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 369
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 369
 }

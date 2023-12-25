@@ -1,11 +1,10 @@
 {
-	"id": 101001,
 	"name": "铁块",
-	"sortRank": 301,
 	"description": "铁的矿石，在拥有相应技能的工匠手中能绽放光采吧。",
+	"sortorder": 2821,
 	"category": "EXCHANGE",
-	"typeText": "锻造用矿石",
-	"sources": [
+	"materialtype": "锻造用矿石",
+	"source": [
 		"野外采集"
 	]
 }

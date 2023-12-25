@@ -1,10 +1,9 @@
 {
-	"id": 1003,
 	"name": "Teyvat Fried Egg",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Recovery Dish",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Revives the selected character.\nRestores 50–150 HP.",
 	"description": "An egg fried on one side. The yolk flows out nicely when broken. So satisfying.",
 	"suspicious": {
@@ -21,7 +20,6 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Bird Egg",
 			"count": 1
 		}

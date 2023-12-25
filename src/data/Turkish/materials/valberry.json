@@ -1,15 +1,10 @@
 {
-	"id": 100022,
 	"name": "Valyemiş",
-	"sortRank": 311,
 	"description": "Tatlı bir koku yayan dolgun ve parlak meyve. Geçmişte fırtına gözlemcilerinin tek tesellisi, bu meyvelerin tatlılığı ve şehirdeki barış umuduydu.",
-<<<<<<< HEAD
 	"sortorder": 2847,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mondstadt Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Mondstadt Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Fırtınakesen Dağları'nda bulunur."
 	]

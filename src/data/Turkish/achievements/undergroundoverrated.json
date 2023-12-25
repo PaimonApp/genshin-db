@@ -1,18 +1,14 @@
 {
-	"id": [
-		81104
-	],
 	"name": "Yer Altındakiler Abartılıyor mu?",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1102,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1102,
 	"stages": 1,
 	"stage1": {
 		"title": "Yer Altındakiler Abartılıyor mu?",
 		"description": "Bazen gerçek hazine, yolculuğun boyunca öğrendiklerindir.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

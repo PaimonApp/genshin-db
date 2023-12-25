@@ -1,12 +1,10 @@
 {
-	"id": 16006,
 	"name": "Tinh Dầu Bạc Hà",
-	"sortOrder": 91030,
-	"unlockRank": 1,
-	"resultCount": 1,
+	"sortorder": 91030,
+	"unlockrank": 1,
+	"resultcount": 1,
 	"recipe": [
 		{
-			"id": 100016,
 			"name": "Bạc Hà",
 			"count": 3
 		}

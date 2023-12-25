@@ -1,17 +1,11 @@
 {
-	"id": 104151,
 	"name": "Pedacito de turquesa vayuda",
-	"rarity": 2,
-	"sortRank": 12106,
 	"description": "Material de ascensión de personaje.",
-<<<<<<< HEAD
 	"sortorder": 3208,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de ascensión de personaje",
-	"sources": [
+	"materialtype": "Material de ascensión de personaje",
+	"source": [
 		"Obtenido de Hipóstasis Anemo",
 		"Obtenido de Gusano de Sutej",
 		"Canjear en la tienda de recuerdos"

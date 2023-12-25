@@ -1,11 +1,8 @@
 {
-	"id": [
-		81003
-	],
 	"name": "Unswerving",
-	"achievementGroupName": "Wonders of the World",
-	"isHidden": true,
-	"sortOrder": 1003,
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1003,
 	"stages": 1,
 	"stage1": {
 		"title": "Unswerving",
@@ -13,7 +10,6 @@
 		"description": "Open the chest in the middle of the heart-shaped rock formation.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

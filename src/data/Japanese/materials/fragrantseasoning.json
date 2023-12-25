@@ -1,15 +1,9 @@
 {
-	"id": 101714,
 	"name": "香り高い調味料",
-	"rarity": 1,
-	"sortRank": 10,
 	"description": "ナザファリンのレシピ通りに作った調味料。食欲をそそる匂いがする。料理に加えれば、より風味が増しそうだ。",
-<<<<<<< HEAD
 	"sortorder": 977,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "消耗品",
-	"sources": []
+	"materialtype": "消耗品",
+	"source": []
 }

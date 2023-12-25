@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "น้ำพุแห่งสายน้ำทั้งปวง III",
 	"achievementgroup": "Fontaine - เริงระบำในน้ำค้างขาว III",
 	"sortorder": 263,
-=======
-	"id": [
-		80287
-	],
-	"name": "น้ำพุแห่งสายน้ำทั้งปวง III",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine - เริงระบำในน้ำค้างขาว III",
-	"sortOrder": 263,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "น้ำพุแห่งสายน้ำทั้งปวง III",
@@ -19,10 +9,6 @@
 		"description": "ปลดล็อกจุดเทเลพอร์ตทั้งหมดใน Morte Region และ Erinnyes Forest ของพื้นที่ Fontaine",
 		"progress": 24,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

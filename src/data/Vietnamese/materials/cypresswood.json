@@ -1,19 +1,12 @@
 {
-	"id": 101321,
 	"name": "Gỗ Bách",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Gỗ được lấy từ cây bách. Lớp vỏ khá mỏng, lõi gỗ có đường kính lớn là ưu điểm lớn nhất. Tuy không kiên cố bằng kim loại, nhưng khi cần chế tác đồ vật có diện tích lớn, thì loại gỗ này có ưu thế độc quyền.\nCó thể dùng để làm đồ nội thất.",
-<<<<<<< HEAD
 	"sortorder": 2980,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu Thập Bên Ngoài",
-		"Đề xuất: Đốn ở ngoại ô Fontaine",
-		"Chuyển Hóa Gỗ"
+		"Đề xuất: Đốn ở ngoại ô Fontaine"
 	]
 }

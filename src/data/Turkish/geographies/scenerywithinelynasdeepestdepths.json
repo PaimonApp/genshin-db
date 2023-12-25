@@ -1,11 +1,8 @@
 {
-	"id": 70400055,
 	"name": "Elynas'ın En Derinlerindeki Manzara",
-	"areaId": 50203,
-	"areaName": "\"Çok Sıcak Bir Yer\"",
+	"area": "\"Çok Sıcak Bir Yer\"",
 	"description": "\"Tanıştığıma memnun oldum!\"",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 355
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 355
 }

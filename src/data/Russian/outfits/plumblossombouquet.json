@@ -1,8 +1,6 @@
 {
-	"id": 204600,
 	"name": "Тягучий аромат",
 	"description": "Наряд Ху Тао. Повседневная рабочая одежда управляющей ритуального бюро «Ваншэн».",
-	"isDefault": true,
-	"characterId": 10000046,
-	"characterName": "Ху Тао"
+	"isdefault": true,
+	"character": "Ху Тао"
 }

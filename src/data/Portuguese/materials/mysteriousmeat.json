@@ -1,15 +1,10 @@
 {
-	"id": 100097,
 	"name": "Carne Misteriosa",
-	"sortRank": 321,
 	"description": "Um pedaço de carne fresca que parece estar irradiando uma aura misteriosa. Qual será o seu gosto?",
-<<<<<<< HEAD
 	"sortorder": 2934,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Dropado pelos animais"
 	]
 }

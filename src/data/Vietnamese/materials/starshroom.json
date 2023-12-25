@@ -1,15 +1,10 @@
 {
-	"id": 101212,
 	"name": "Nấm Sao",
-	"sortRank": 90000,
 	"description": "Nấm có phần đầu giống như ngôi sao 5 cánh, sức sống ngoan cường. Sau khi chín muồi, phần giữa đầu nấm sẽ nứt ra.",
-<<<<<<< HEAD
 	"sortorder": 3418,
-=======
->>>>>>> upstream/main
 	"category": "NOTICE_ADD_HP",
-	"typeText": "Thực Phẩm",
-	"sources": [
+	"materialtype": "Thực Phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

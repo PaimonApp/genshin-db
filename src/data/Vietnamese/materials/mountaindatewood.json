@@ -1,19 +1,12 @@
 {
-	"id": 101316,
 	"name": "Gỗ Chà Là",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Gỗ từ Cây Chà Là, tuy không có kết cấu và đường vân quá xuất sắc, nhưng lại có khả năng giữ nước mạnh và dễ bảo dưỡng.\nCó thể sử dụng để làm đồ trang trí.",
-<<<<<<< HEAD
 	"sortorder": 2975,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Nguyên Liệu",
-	"sources": [
+	"materialtype": "Nguyên Liệu",
+	"source": [
 		"Thu Thập Bên Ngoài",
-		"Kiến nghị: Đốn ở Sa Mạc Sumeru",
-		"Chuyển Hóa Gỗ"
+		"Kiến nghị: Đốn ở Sa Mạc Sumeru"
 	]
 }

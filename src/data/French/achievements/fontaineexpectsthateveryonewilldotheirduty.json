@@ -1,18 +1,14 @@
 {
-	"id": [
-		81366
-	],
 	"name": "Le credo de chacun",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1351,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1351,
 	"stages": 1,
 	"stage1": {
 		"title": "Le credo de chacun",
 		"description": "Chaque chose à sa place...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

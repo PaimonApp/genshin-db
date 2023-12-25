@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Während die Uhrwerke schlafen ...",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1371,
-=======
-	"id": [
-		81387
-	],
-	"name": "Während die Uhrwerke schlafen ...",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1371,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Während die Uhrwerke schlafen ...",
 		"description": "Enthülle das Geheimnis rund um „Kuisels Uhrwerk-Werkstatt“.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

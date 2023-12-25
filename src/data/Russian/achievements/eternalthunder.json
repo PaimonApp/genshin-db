@@ -1,11 +1,7 @@
 {
-	"id": [
-		80077
-	],
 	"name": "Вечный гром",
-	"achievementGroupId": 24,
-	"achievementGroupName": "Инадзума: Острова молний и вечности I",
-	"sortOrder": 78,
+	"achievementgroup": "Инадзума: Острова молний и вечности I",
+	"sortorder": 78,
 	"stages": 1,
 	"stage1": {
 		"title": "Вечный гром",
@@ -13,7 +9,6 @@
 		"description": "Повысьте статую семи Архонтов в Инадзуме до макс. уровня.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 20
 		}

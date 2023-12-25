@@ -1,13 +1,8 @@
 {
-	"id": 107002,
 	"name": "Elemental Dust",
-	"sortRank": 406,
 	"description": "Serpihan Oculus Crystal yang pecah. Menunjukkan harta tersembunyi di sekitar.",
-<<<<<<< HEAD
 	"sortorder": 3033,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Item Adventure",
-	"sources": []
+	"materialtype": "Item Adventure",
+	"source": []
 }

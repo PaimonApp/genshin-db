@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Opérateur Fatui du givre",
 	"specialname": "Anna (Fatui)",
 	"enemytype": "ELITE",
-=======
-	"id": 23060101,
-	"name": "Opérateur Fatui du givre",
-	"specialName": "Anna (Fatui)",
-	"enemyType": "ELITE",
->>>>>>> upstream/main
 	"category": "Fatui",
 	"description": "Un agent d'élite des Fatui.\nSélectionnés dès l'enfance, ils ne peuvent devenir opérateurs qu'après de longues années d'entraînement et d'enseignement, et après avoir suffisamment « élagué les terrains ». Ce sont les soldats les plus remarquables des Fatui, avec des compétences extraordinaires et une loyauté inébranlable.",
 	"investigation": {
@@ -16,42 +9,23 @@
 		"category": "Élite",
 		"description": "Un agent d'élite des Fatui possédant des compétences extraordinaires et une volonté indomptable."
 	},
-<<<<<<< HEAD
 	"rewardpreview": [
 		{
 			"name": "Mora"
 		},
 		{
-=======
-	"rewardPreview": [
-		{
-			"id": 202,
-			"name": "Mora"
-		},
-		{
-			"id": 112092,
->>>>>>> upstream/main
 			"name": "Vieille montre à gousset d'opérateur",
 			"count": 5.2526
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 112093,
->>>>>>> upstream/main
 			"name": "Montre à gousset d'opérateur",
 			"count": 1.4006
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 112094,
->>>>>>> upstream/main
 			"name": "Constance d'opérateur",
 			"count": 0.3502
 		},
 		{
-<<<<<<< HEAD
 			"name": "Berserker",
 			"rarity": "3"
 		},
@@ -78,41 +52,6 @@
 		{
 			"name": "Exilé",
 			"rarity": "4"
-=======
-			"id": 400022,
-			"name": "Berserker",
-			"rarity": 3
-		},
-		{
-			"id": 400032,
-			"name": "Instructeur",
-			"rarity": 3
-		},
-		{
-			"id": 400042,
-			"name": "Exilé",
-			"rarity": 3
-		},
-		{
-			"id": 400062,
-			"name": "Médecin itinérant",
-			"rarity": 3
-		},
-		{
-			"id": 400023,
-			"name": "Berserker",
-			"rarity": 4
-		},
-		{
-			"id": 400033,
-			"name": "Instructeur",
-			"rarity": 4
-		},
-		{
-			"id": 400043,
-			"name": "Exilé",
-			"rarity": 4
->>>>>>> upstream/main
 		}
 	]
 }

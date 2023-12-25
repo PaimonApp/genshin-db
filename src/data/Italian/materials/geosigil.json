@@ -1,17 +1,11 @@
 {
-	"id": 307,
 	"name": "Sigillo di Geo",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Un emblema che esprime la riconoscenza dei promontori di Liyue.\nPuoi scambiarlo per degli oggetti speciali a Liyue.",
-<<<<<<< HEAD
 	"sortorder": 4933,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sigillo delle città stato",
-	"sources": [
+	"materialtype": "Sigillo delle città stato",
+	"source": [
 		"Ricompensa esplorazione Liyue"
 	]
 }

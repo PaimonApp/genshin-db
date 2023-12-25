@@ -1,19 +1,12 @@
 {
-	"id": 101313,
 	"name": "Madera radiante",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madera obtenida de árboles radiantes. Presenta características diferentes a las de la madera de otros árboles corrientes. Su textura es suave pero resistente, lo que hace que sea más fácil de teñir y que se le pueda dar usos diferentes.\nPuede utilizarse para fabricar decoraciones.",
-<<<<<<< HEAD
 	"sortorder": 2972,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Recolectar en la naturaleza",
-		"Talando en los bosques de Sumeru",
-		"Transformar madera"
+		"Talando en los bosques de Sumeru"
 	]
 }

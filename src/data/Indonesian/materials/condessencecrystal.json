@@ -1,15 +1,10 @@
 {
-	"id": 101009,
 	"name": "Condessence Crystal",
-	"sortRank": 301,
 	"description": "Kristal yang jernih dan bening, dengan intinya yang sangat kuat dan lunak.",
-<<<<<<< HEAD
 	"sortorder": 2827,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Mineral untuk Forge",
-	"sources": [
+	"materialtype": "Mineral untuk Forge",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Dapat ditemukan di Elynas (Permukaan)"
 	]

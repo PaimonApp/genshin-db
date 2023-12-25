@@ -21,7 +21,6 @@
 		"ahawhatsonthehook": "Kancaya Bir Şey Takıldı!",
 		"ahollowsoul": "Bomboş Bir Ruh",
 		"ahouseillfounded": "Temeli Çürük",
-		"ahumandrama": "Bir İnsanlık Dramı",
 		"akashapulsesthekalpaflamerises": "Akaşa Titreşiyor, Kalpa Alevleri Yükseliyor",
 		"alavolontedupeuple": "Halkın Dileği",
 		"aleisurelyjourney": "Sakin Bir Yolculuk",
@@ -976,7 +975,6 @@
 		"Kancaya Bir Şey Takıldı!": "ahawhatsonthehook",
 		"Bomboş Bir Ruh": "ahollowsoul",
 		"Temeli Çürük": "ahouseillfounded",
-		"Bir İnsanlık Dramı": "ahumandrama",
 		"Akaşa Titreşiyor, Kalpa Alevleri Yükseliyor": "akashapulsesthekalpaflamerises",
 		"Halkın Dileği": "alavolontedupeuple",
 		"Sakin Bir Yolculuk": "aleisurelyjourney",
@@ -1931,7 +1929,6 @@
 			"ahawhatsonthehook",
 			"ahollowsoul",
 			"ahouseillfounded",
-			"ahumandrama",
 			"akashapulsesthekalpaflamerises",
 			"alavolontedupeuple",
 			"aleisurelyjourney",
@@ -2964,7 +2961,7 @@
 		]
 	},
 	"properties": {
-		"achievementGroupName": [
+		"achievementgroup": [
 			"Dünyanın Harikaları",
 			"Zindanlar ve Hiçlik Sarmalı: I. Seri",
 			"Dehanın Yakarışı Kart Oyunu",

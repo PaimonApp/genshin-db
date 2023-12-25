@@ -1,18 +1,14 @@
 {
-	"id": [
-		81122
-	],
 	"name": "Nhờ Được Chiếu Cố",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1118,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1118,
 	"stages": 1,
 	"stage1": {
 		"title": "Nhờ Được Chiếu Cố",
 		"description": "Nhận giải thưởng lớn từ rương Takashi.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

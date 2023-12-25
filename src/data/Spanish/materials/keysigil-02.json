@@ -1,14 +1,9 @@
 {
-	"id": 100936,
 	"name": "Llave con patrón",
 	"dupealias": "Llave con patrón 2",
-	"sortRank": 430041,
 	"description": "Un sello muy común tanto en Enkanomiya como en la Isla Watatsumi. Cada tipo de llave con patrón tiene un aspecto distinto.",
-<<<<<<< HEAD
 	"sortorder": 4953,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumible",
-	"sources": []
+	"materialtype": "Consumible",
+	"source": []
 }

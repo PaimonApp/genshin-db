@@ -1,18 +1,14 @@
 {
-	"id": [
-		82177
-	],
 	"name": "Dikkat, Sıcak!",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 2177,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 2177,
 	"stages": 1,
 	"stage1": {
 		"title": "Dikkat, Sıcak!",
 		"description": "Sürekli olarak Lekeli Su Tayfını dondurmaya çalış...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

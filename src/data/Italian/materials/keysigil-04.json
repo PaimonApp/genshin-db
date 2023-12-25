@@ -1,14 +1,9 @@
 {
-	"id": 100938,
 	"name": "Chiave sigillo",
 	"dupealias": "Chiave sigillo 4",
-	"sortRank": 430041,
 	"description": "Un sigillo tramandato sull'Isola di Watatsumi e a Enkanomiya. Nasconde un qualche segreto.",
-<<<<<<< HEAD
 	"sortorder": 4955,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumabile",
-	"sources": []
+	"materialtype": "Consumabile",
+	"source": []
 }

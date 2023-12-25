@@ -1,17 +1,11 @@
 {
-	"id": 104172,
 	"name": "Prithiva-Topas-Bruchstück",
-	"rarity": 3,
-	"sortRank": 12108,
 	"description": "Material für den Figurenaufstieg.\n„Das Geld im gesamten Lande ist ein Teil meiner selbst.“",
-<<<<<<< HEAD
 	"sortorder": 3215,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für den Figurenaufstieg",
-	"sources": [
+	"materialtype": "Material für den Figurenaufstieg",
+	"source": [
 		"Beute von Geo-Hypostasen ab Stufe 40",
 		"Beute von Goldenen Garmfürsten ab Stufe 40",
 		"Beute von Ruinenschlangen ab Stufe 40",

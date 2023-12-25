@@ -1,10 +1,9 @@
 {
-	"id": 2102,
 	"name": "Pollo al peperoncino di Jueyun",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Piatto ATT+",
+	"foodfilter": "Piatto ATT+",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Aumenta di un 6-12% il tasso di CRIT di tutti i membri del gruppo per 300 s.\nIn modalità cooperativa, si applica solo ai tuoi personaggi.",
 	"description": "Del pollo in salsa, servito freddo. Il modo in cui è stato preparato il piatto cattura perfettamente la succulenza del pollo. Al di sotto della pelle dorata, la carne ha un sapore speziato e sembra cotta al punto giusto.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100064,
 			"name": "Pollame",
 			"count": 2
 		},
 		{
-			"id": 100027,
 			"name": "Peperoncino di Jueyun",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "Pepe",
 			"count": 1
 		}

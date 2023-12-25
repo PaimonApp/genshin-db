@@ -1,15 +1,10 @@
 {
-	"id": 100078,
 	"name": "Latte",
-	"sortRank": 321,
 	"description": "Latte di mucca dolce e aromatico. Non sprecarne neanche una goccia, neanche quella rimasta sulle tue labbra.",
-<<<<<<< HEAD
 	"sortorder": 2920,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Acquistabile negli empori"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 101222,
 	"name": "Crisálida arenosa",
-	"sortRank": 314,
 	"description": "Una cáscara seca que solo se encuentra en los criaderos de anguilas del desierto situados en lo más profundo del mar de arena. Esta resistente capa exterior protege los débiles cuerpos de las crías de anguila hasta que finalmente se aclimatan a las condiciones ambientales desérticas.",
-<<<<<<< HEAD
 	"sortorder": 2876,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Objeto típico de Sumeru",
-	"sources": [
+	"materialtype": "Objeto típico de Sumeru",
+	"source": [
 		"Recolectar en el desierto de Sumeru",
 		"Recolectar en los Túneles de Wenut"
 	]

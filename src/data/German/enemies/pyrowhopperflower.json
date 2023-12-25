@@ -1,8 +1,7 @@
 {
-	"id": 26010201,
 	"name": "Gigantische Pyro-Vaniloqua",
-	"specialName": "Nachahmende Pflanze, die nur auf eine Gelegenheit wartet",
-	"enemyType": "COMMON",
+	"specialname": "Nachahmende Pflanze, die nur auf eine Gelegenheit wartet",
+	"enemytype": "COMMON",
 	"category": "Mystische Bestien",
 	"description": "Eine nachahmende Pflanze, die urplötzlich angreift und mit der Pyro-Kraft ihre Beute fängt.\nIn der Welt von Teyvat existieren Pflanzen, denen die Elemente innewohnen. Mit dem gewonnenen Intellekt benötigen diese Wesen aber auch ganz andere Nährstoffe.",
 	"investigation": {
@@ -10,23 +9,19 @@
 		"category": "Normal",
 		"description": "Eine höchst seltsame nachahmende Pflanze, die die elementare Kräfte im Kampf anwenden kann.\\nManchmal verstecken sie sich unter der Erdoberfläche und schnappen so ihre Beute. Mit genügend Zeit, Nahrung und geeigneter Umgebung können sie zu gewaltigen Bäumen anwachsen, die wundersame Kräfte wirken."
 	},
-	"rewardPreview": [
+	"rewardpreview": [
 		{
-			"id": 202,
 			"name": "Mora"
 		},
 		{
-			"id": 112038,
 			"name": "Vaniloqua-Nektar",
 			"count": 4.202
 		},
 		{
-			"id": 112039,
 			"name": "Leuchtender Nektar",
 			"count": 1.1205
 		},
 		{
-			"id": 112040,
 			"name": "Elementarnektar",
 			"count": 0.28
 		}

@@ -1,8 +1,6 @@
 {
-	"id": 202700,
 	"name": "Gold Leaf and Pearly Jade",
 	"description": "Ningguang's outfit. Intricate embroidery is the hallmark of this graceful dress.",
-	"isDefault": true,
-	"characterId": 10000027,
-	"characterName": "Ningguang"
+	"isdefault": true,
+	"character": "Ningguang"
 }

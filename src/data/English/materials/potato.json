@@ -1,15 +1,10 @@
 {
-	"id": 100080,
 	"name": "Potato",
-	"sortRank": 321,
 	"description": "A chunky vegetable. A gift from the earth that you never tire of with its multitude of cooking methods.",
-<<<<<<< HEAD
 	"sortorder": 2922,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Sold at general goods shops"
 	]
 }

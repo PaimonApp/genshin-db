@@ -1,18 +1,14 @@
 {
-	"id": [
-		81238
-	],
 	"name": "Крутись, вамадха",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1224,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1224,
 	"stages": 1,
 	"stage1": {
 		"title": "Крутись, вамадха",
 		"description": "Запустите каждую вамадху со скрытым сундуком.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

@@ -1,11 +1,8 @@
 {
-	"id": [
-		81267
-	],
 	"name": "Fata Morgana",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1253,
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1253,
 	"stages": 1,
 	"stage1": {
 		"title": "Fata Morgana",
@@ -13,7 +10,6 @@
 		"description": "Der Weg zum „Thron“ liegt endlich frei.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}

@@ -1,14 +1,9 @@
 {
-	"id": 100937,
 	"name": "Key Sigil",
 	"dupealias": "Key Sigil 3",
-	"sortRank": 430041,
 	"description": "A Key Sigil passed down through Watatsumi Island and Enkanomiya. When people left the ocean depths, they combined various Key Sigils to create the Sangonomiya house emblem.",
-<<<<<<< HEAD
 	"sortorder": 4954,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumable",
-	"sources": []
+	"materialtype": "Consumable",
+	"source": []
 }

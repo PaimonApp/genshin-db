@@ -1,11 +1,8 @@
 {
-	"id": 70300017,
 	"name": "Residência da Sacerdotisa Chefe Provisória",
-	"areaId": 3402,
-	"areaName": "Santuário Asase",
+	"area": "Santuário Asase",
 	"description": "\"Hibiki irá retornar.\"\n\"O santuário agora está maravilhoso, graças a você. Ela voltará muito em breve.\"",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"showOnlyUnlocked": true,
-	"sortOrder": 213
+	"region": "Inazuma",
+	"showonlyunlocked": true,
+	"sortorder": 213
 }

@@ -1,19 +1,13 @@
 {
-	"id": [
-		80142,
-		80143,
-		80144
-	],
 	"name": "Melodías de antaño",
-	"achievementGroupName": "Maravillas del mundo",
-	"sortOrder": 142,
+	"achievementgroup": "Maravillas del mundo",
+	"sortorder": 142,
 	"stages": 3,
 	"stage1": {
 		"title": "Melodías de antaño",
 		"description": "En tu Relajatetera, activa 10 melodías en una combinación de decoraciones de “Melodías del mundo”.",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}
@@ -23,7 +17,6 @@
 		"description": "En tu Relajatetera, activa 30 melodías en una combinación de decoraciones de “Melodías del mundo”.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}
@@ -33,7 +26,6 @@
 		"description": "En tu Relajatetera, activa 60 melodías en una combinación de decoraciones de “Melodías del mundo”.",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 20
 		}

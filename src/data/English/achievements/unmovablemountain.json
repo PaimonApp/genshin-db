@@ -1,11 +1,7 @@
 {
-	"id": [
-		80045
-	],
 	"name": "Unmovable Mountain",
-	"achievementGroupId": 5,
-	"achievementGroupName": "Liyue: The Harbor of Stone and Contracts",
-	"sortOrder": 45,
+	"achievementgroup": "Liyue: The Harbor of Stone and Contracts",
+	"sortorder": 45,
 	"stages": 1,
 	"stage1": {
 		"title": "Unmovable Mountain",
@@ -13,7 +9,6 @@
 		"description": "Upgrade the Statues of The Seven in Liyue to their maximum level.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

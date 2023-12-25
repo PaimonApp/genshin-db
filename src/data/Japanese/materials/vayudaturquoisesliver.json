@@ -1,17 +1,11 @@
 {
-	"id": 104151,
 	"name": "自由のターコイズ·砕屑",
-	"rarity": 2,
-	"sortRank": 12106,
 	"description": "キャラクターの突破用アイテム。",
-<<<<<<< HEAD
 	"sortorder": 3208,
 	"rarity": "2",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "キャラクター突破素材",
-	"sources": [
+	"materialtype": "キャラクター突破素材",
+	"source": [
 		"無相の風がドロップ",
 		"風蝕ウェネトがドロップ",
 		"記念品ショップ交換"

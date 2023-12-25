@@ -1,15 +1,10 @@
 {
-	"id": 100018,
 	"name": "Cabbage",
-	"sortRank": 321,
 	"description": "Sayuran yang memiliki banyak lapisan. Dulunya banyak digunakan sebagai tumbuhan hias. Tidak dapat dipungkiri kalau sayur ini memang terlihat indah saat ditaruh di dalam pot.",
-<<<<<<< HEAD
 	"sortorder": 2907,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Bahan Masak",
-	"sources": [
+	"materialtype": "Bahan Masak",
+	"source": [
 		"Ditemukan di alam liar",
 		"Dijual di toko barang kebutuhan"
 	]

@@ -1,9 +1,7 @@
 {
-	"id": 3,
 	"name": "英雄之旅",
-	"sortOrder": 8,
+	"sortorder": 8,
 	"reward": {
-		"id": 210023,
 		"name": "成就·侠行"
 	}
 }

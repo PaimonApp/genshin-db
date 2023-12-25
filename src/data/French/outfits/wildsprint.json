@@ -1,8 +1,6 @@
 {
-	"id": 202000,
 	"name": "Sprint sauvage",
 	"description": "Tenue de Razor. Idéale pour galoper dans la nature.",
-	"isDefault": true,
-	"characterId": 10000020,
-	"characterName": "Razor"
+	"isdefault": true,
+	"character": "Razor"
 }

@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Penjelajah Benua: Dataran Mata Air Selaras (III)",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
 	"sortorder": 262,
-=======
-	"id": [
-		80286
-	],
-	"name": "Penjelajah Benua: Dataran Mata Air Selaras (III)",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (III)",
-	"sortOrder": 262,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Penjelajah Benua: Dataran Mata Air Selaras (III)",
@@ -19,10 +9,6 @@
 		"description": "Buka seluruh peta di area Fontaine berikut: Morte Region dan Erinnyes Forest.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

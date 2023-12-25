@@ -1,19 +1,13 @@
 {
-	"id": [
-		81029,
-		81030,
-		81031
-	],
 	"name": "Apprenti héros",
-	"achievementGroupName": "Merveilles du monde",
-	"sortOrder": 1030,
+	"achievementgroup": "Merveilles du monde",
+	"sortorder": 1030,
 	"stages": 3,
 	"stage1": {
 		"title": "Apprenti héros",
 		"description": "Terminez 10 Requêtes.",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -23,7 +17,6 @@
 		"description": "Terminez 20 Requêtes.",
 		"progress": 20,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -33,7 +26,6 @@
 		"description": "Terminez 30 Requêtes.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

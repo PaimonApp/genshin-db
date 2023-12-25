@@ -1,20 +1,13 @@
 {
-	"id": [
-		80263,
-		80264,
-		80265
-	],
 	"name": "Petualang Ombak Biru (I)",
-	"achievementGroupId": 42,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (I)",
-	"sortOrder": 243,
+	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (I)",
+	"sortorder": 243,
 	"stages": 3,
 	"stage1": {
 		"title": "Petualang Ombak Biru (I)",
 		"description": "Selesaikan {param0} Tantangan Time Trial Open World di area Court of Fontaine, area Belleau, dan area Beryl.",
 		"progress": 3,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Selesaikan {param0} Tantangan Time Trial Open World di area Court of Fontaine, area Belleau, dan area Beryl.",
 		"progress": 6,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Selesaikan {param0} Tantangan Time Trial Open World di area Court of Fontaine, area Belleau, dan area Beryl.",
 		"progress": 12,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

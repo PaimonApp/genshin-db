@@ -1,17 +1,14 @@
 {
-	"id": 220031,
 	"name": "Горячая бомба",
-	"sortOrder": 89997,
-	"unlockRank": 21,
-	"resultCount": 20,
+	"sortorder": 89997,
+	"unlockrank": 21,
+	"resultcount": 20,
 	"recipe": [
 		{
-			"id": 100053,
 			"name": "Пылающий цветок (тычинка)",
 			"count": 1
 		},
 		{
-			"id": 100083,
 			"name": "Хвост ящерицы",
 			"count": 1
 		}

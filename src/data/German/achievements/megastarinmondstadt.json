@@ -1,10 +1,7 @@
 {
-	"id": [
-		81024
-	],
 	"name": "Bekannt im Land",
-	"achievementGroupName": "Wunder der Welt",
-	"sortOrder": 1024,
+	"achievementgroup": "Wunder der Welt",
+	"sortorder": 1024,
 	"stages": 1,
 	"stage1": {
 		"title": "Bekannt im Land",
@@ -12,7 +9,6 @@
 		"description": "Erreiche Ansehensstufe 8 in Mondstadt.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 20
 		}

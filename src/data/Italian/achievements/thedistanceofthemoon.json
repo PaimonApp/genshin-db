@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "La distanza fino alla luna",
 	"achievementgroup": "Competitività: Serie VIII",
 	"sortorder": 2180,
-=======
-	"id": [
-		82181
-	],
-	"name": "La distanza fino alla luna",
-	"achievementGroupId": 40,
-	"achievementGroupName": "Competitività: Serie VIII",
-	"sortOrder": 2180,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "La distanza fino alla luna",
 		"description": "Esegui 11 attacchi in picchiata in un singolo campo di riduzione di gravità, colpendo un Generatore di campo sperimentale.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

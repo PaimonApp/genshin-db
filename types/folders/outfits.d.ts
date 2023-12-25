@@ -1,19 +1,16 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface Outfit {
-		id: number;
 		name: string;
 		description: string;
-		isDefault: boolean;
-		characterId: number;
-		characterName: string;
+		isdefault: boolean;
+		character: string;
 		source?: string[];
 
 		images: {
-			filename_card: string;
-			filename_icon?: string;
-			filename_iconCircle: string;
-			filename_splash?: string;
-			filename_sideIcon?: string;
+			namecard: string;
+			nameicon?: string;
+			namesideicon?: string;
+			namesplash?: string;
 		};
 		url: {
 			modelviewer?: string;

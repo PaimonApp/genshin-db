@@ -1,13 +1,11 @@
 {
-	"id": 30001,
 	"name": "Stoff",
-	"filterText": "Herstellungsmaterialien für Dekoration",
-	"sortOrder": 170000,
-	"unlockRank": 28,
-	"resultCount": 10,
+	"filter": "Herstellungsmaterialien für Dekoration",
+	"sortorder": 170000,
+	"unlockrank": 28,
+	"resultcount": 10,
 	"recipe": [
 		{
-			"id": 100029,
 			"name": "Seidenblume",
 			"count": 1
 		}

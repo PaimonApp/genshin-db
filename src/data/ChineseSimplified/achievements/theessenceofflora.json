@@ -1,11 +1,7 @@
 {
-	"id": [
-		80175
-	],
 	"name": "撷草瞻华",
-	"achievementGroupId": 32,
-	"achievementGroupName": "尘世巡游·第三辑",
-	"sortOrder": 175,
+	"achievementgroup": "尘世巡游·第三辑",
+	"sortorder": 175,
 	"stages": 1,
 	"stage1": {
 		"title": "撷草瞻华",
@@ -13,7 +9,6 @@
 		"description": "掌握「草」的元素力。",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "原石",
 			"count": 5
 		}

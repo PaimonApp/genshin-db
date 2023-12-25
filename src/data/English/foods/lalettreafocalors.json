@@ -1,10 +1,9 @@
 {
-	"id": 3416,
 	"name": "La Lettre a Focalors",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_DEFENSE",
-	"filterText": "DEF-Boosting Dish",
+	"foodfilter": "DEF-Boosting Dish",
+	"foodcategory": "Def_Add",
 	"effect": "Increases all party members' Max HP by 20–25% for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
 	"description": "A small cake, shaped into a long rectangle. It is said that long, long ago, a certain patissier used the great love the people of Fontaine held for their Hydro Archon as inspiration to create this confectionary masterpiece. The manifold layers stacked one upon the other are a true test of the chef's skills, and each aspect of this cake is proof of the great Hydro Archon's influence.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100062,
 			"name": "Bird Egg",
 			"count": 4
 		},
 		{
-			"id": 110001,
 			"name": "Flour",
 			"count": 3
 		},
 		{
-			"id": 100098,
 			"name": "Coffee Beans",
 			"count": 3
 		},
 		{
-			"id": 100089,
 			"name": "Almond",
 			"count": 2
 		}

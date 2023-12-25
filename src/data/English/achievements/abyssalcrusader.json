@@ -1,11 +1,7 @@
 {
-	"id": [
-		82051
-	],
 	"name": "Abyssal Crusader",
-	"achievementGroupId": 9,
-	"achievementGroupName": "Domains and Spiral Abyss: Series I",
-	"sortOrder": 2051,
+	"achievementgroup": "Domains and Spiral Abyss: Series I",
+	"sortorder": 2051,
 	"stages": 1,
 	"stage1": {
 		"title": "Abyssal Crusader",
@@ -13,7 +9,6 @@
 		"description": "Obtain all Abyssal Stars in the Spiral Abyss.",
 		"progress": 72,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 20
 		}

@@ -1,20 +1,13 @@
 {
-	"id": [
-		80011,
-		80012,
-		80013
-	],
 	"name": "Sternekoch",
-	"achievementGroupId": 2,
-	"achievementGroupName": "Die Kunst des Abenteuers",
-	"sortOrder": 11,
+	"achievementgroup": "Die Kunst des Abenteuers",
+	"sortorder": 11,
 	"stages": 3,
 	"stage1": {
 		"title": "Sternekoch",
 		"description": "Perfektioniere deine Kochkunst für 10 Rezepte.",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Perfektioniere deine Kochkunst für 20 Rezepte.",
 		"progress": 20,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Perfektioniere deine Kochkunst für 40 Rezepte.",
 		"progress": 40,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 20
 		}

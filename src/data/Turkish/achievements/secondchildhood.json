@@ -1,18 +1,14 @@
 {
-	"id": [
-		84569
-	],
 	"name": "Çocukluğunu Yaşa",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 4093,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 4093,
 	"stages": 1,
 	"stage1": {
 		"title": "Çocukluğunu Yaşa",
 		"description": "Çocuklarla oyun oyna ve onların hikayelerine tanık ol.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

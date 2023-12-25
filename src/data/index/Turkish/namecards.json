@@ -59,10 +59,6 @@
 		"celebrationvastness": "Kutlama: Uçsuz Bucaksız",
 		"celebrationwondrouscalculation": "Kutlama: Kusursuz Hesap",
 		"charlotteexclusive": "Charlotte: Özel Haber",
-<<<<<<< HEAD
-=======
-		"chevreusetypeii": "Chevreuse: Tip II",
->>>>>>> upstream/main
 		"childefoullegacy": "Asilzade: Kötülüğün Mirası",
 		"chongyunspiritblade": "Chongyun: Ruh Kılıcı",
 		"colleigoodvirtue": "Collei: Üstün Erdem",
@@ -119,10 +115,6 @@
 		"mondstadtherosfame": "Mondstadt: Kahramanın Şanı",
 		"mondstadtwhistlingwind": "Mondstadt: Islık Çalan Rüzgar",
 		"nahidacrescent": "Nahida: Hilal",
-<<<<<<< HEAD
-=======
-		"naviarosula": "Navia: Rosula",
->>>>>>> upstream/main
 		"neuvillettesurge": "Neuvillette: Dalgalanma",
 		"niloulotusdance": "Nilou: Nilüferin Dansı",
 		"ningguangphoenix": "Ningguang: Anka",
@@ -169,7 +161,6 @@
 		"travelnotessecrets": "Gezi Notları: Sırlar",
 		"travelnotesstellarrivers": "Gezi Notları: Yıldız Nehirleri",
 		"travelnotessubspacerecreation": "Gezi Notları: Alt Uzay Yaratma",
-		"travelnotestimeinscribed": "Gezi Notları: Zaman İşaretli",
 		"travelnotesvividillumination": "Gezi Notları: Parlak Aydınlatma",
 		"travelnoteswhirlingwaltz": "Gezi Notları: Vals Dönüşleri",
 		"travelnoteswindblume": "Gezi Notları: Rüzgarçiçeği",
@@ -248,10 +239,6 @@
 		"Kutlama: Uçsuz Bucaksız": "celebrationvastness",
 		"Kutlama: Kusursuz Hesap": "celebrationwondrouscalculation",
 		"Charlotte: Özel Haber": "charlotteexclusive",
-<<<<<<< HEAD
-=======
-		"Chevreuse: Tip II": "chevreusetypeii",
->>>>>>> upstream/main
 		"Asilzade: Kötülüğün Mirası": "childefoullegacy",
 		"Chongyun: Ruh Kılıcı": "chongyunspiritblade",
 		"Collei: Üstün Erdem": "colleigoodvirtue",
@@ -308,10 +295,6 @@
 		"Mondstadt: Kahramanın Şanı": "mondstadtherosfame",
 		"Mondstadt: Islık Çalan Rüzgar": "mondstadtwhistlingwind",
 		"Nahida: Hilal": "nahidacrescent",
-<<<<<<< HEAD
-=======
-		"Navia: Rosula": "naviarosula",
->>>>>>> upstream/main
 		"Neuvillette: Dalgalanma": "neuvillettesurge",
 		"Nilou: Nilüferin Dansı": "niloulotusdance",
 		"Ningguang: Anka": "ningguangphoenix",
@@ -358,7 +341,6 @@
 		"Gezi Notları: Sırlar": "travelnotessecrets",
 		"Gezi Notları: Yıldız Nehirleri": "travelnotesstellarrivers",
 		"Gezi Notları: Alt Uzay Yaratma": "travelnotessubspacerecreation",
-		"Gezi Notları: Zaman İşaretli": "travelnotestimeinscribed",
 		"Gezi Notları: Parlak Aydınlatma": "travelnotesvividillumination",
 		"Gezi Notları: Vals Dönüşleri": "travelnoteswhirlingwaltz",
 		"Gezi Notları: Rüzgarçiçeği": "travelnoteswindblume",

@@ -1,16 +1,13 @@
 declare module "@PaimonApp/genshin-db" {
 	export interface Geography {
-		id: number;
 		name: string;
-		areaId: number;
-		areaName: string;
-		description: string;
-		regionId: string;
-		regionName: string;
-		showOnlyUnlocked?: true;
-		sortOrder: number;
+		area: string;
+		description :string;
+		region: string;
+		showonlyunlocked?: true;
+		sortorder: number;
 		images: {
-			filename_image: string;
+			nameimage: string;
 		};
 		version: string;
 	}

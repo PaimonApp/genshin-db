@@ -1,15 +1,10 @@
 {
-	"id": 100099,
 	"name": "Jugo fermentado",
-	"sortRank": 321,
 	"description": "Un jugo fermentado con un singular aroma a fruta. Suele utilizarse como condimento para marinar carne.",
-<<<<<<< HEAD
 	"sortorder": 2936,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente",
-	"sources": [
+	"materialtype": "Ingrediente",
+	"source": [
 		"Comprado en tiendas de Fontaine"
 	]
 }

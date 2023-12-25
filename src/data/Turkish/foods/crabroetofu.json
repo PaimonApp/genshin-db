@@ -1,10 +1,9 @@
 {
-	"id": 2112,
 	"name": "Yengeç Yumurtalı Tofu",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Seçili karakteri diriltir.\n250 ila 550 Can yeniler.",
 	"description": "Ağızda yumuşak bir tat bırakan yemek. Yengeç yumurtası içindeki suyu salana kadar az yağda yüksek ateşte kızartılır, ardından haşlanmış tofuya eklenip et suyu ile son dokunuş yapılır. Evet, basit ama gayet iyi.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100074,
 			"name": "Yengeç Yumurtası",
 			"count": 1
 		},
 		{
-			"id": 100088,
 			"name": "Tofu",
 			"count": 1
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 101231,
 	"name": "Marcotte",
-	"sortRank": 321,
 	"description": "Une fleur rose avec un éclat semblable à une perle et un parfum riche. C'est l'un des ingrédients majeurs des parfums.",
-<<<<<<< HEAD
 	"sortorder": 2943,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Dans la nature"
 	]
 }

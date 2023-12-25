@@ -1,17 +1,11 @@
 {
-	"id": 307,
 	"name": "Geo Sigil",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Lencana yang menunjukkan pengakuan tebing Liyue.\nDapat ditukar untuk item khusus di Liyue.",
-<<<<<<< HEAD
 	"sortorder": 4933,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sigil Elemental",
-	"sources": [
+	"materialtype": "Sigil Elemental",
+	"source": [
 		"Hadiah Eksplorasi Liyue"
 	]
 }

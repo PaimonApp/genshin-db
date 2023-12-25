@@ -1,15 +1,10 @@
 {
-	"id": 110003,
 	"name": "Tütsülenmiş Kuş Eti",
-	"sortRank": 322,
 	"description": "Tütsülenmiş kuş eti. Etin sıkılığı yemeklere yeni bir lezzet getirir.",
-<<<<<<< HEAD
 	"sortorder": 2949,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"İşlenerek elde edilir."
 	]
 }

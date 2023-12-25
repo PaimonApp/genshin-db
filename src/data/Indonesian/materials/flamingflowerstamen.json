@@ -1,15 +1,10 @@
 {
-	"id": 100053,
 	"name": "Flaming Flower Stamen",
-	"sortRank": 320,
 	"description": "Bunga yang terbakar dengan hebat. Tetap memancarkan hawa panas bahkan setelah lama dipetik.",
-<<<<<<< HEAD
 	"sortorder": 2890,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Ditemukan di alam liar",
 		"Rekomendasi: Ditemukan di Thousand Winds Temple"
 	]

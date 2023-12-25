@@ -1,19 +1,12 @@
 {
-	"id": 101321,
 	"name": "Madeira de Cipreste",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Madeira obtida da Árvore Cipestre. Possui um cerne fino e um diâmetro amplo. Embora não seja tão rígida e confiável quanto o metal, é perfeita para fabricar peças de maior volume.\nPode ser usada para fabricar Decorações.",
-<<<<<<< HEAD
 	"sortorder": 2980,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
-		"Recomendação: Encontrado na natureza de Fontaine",
-		"Converter Madeira"
+		"Recomendação: Encontrado na natureza de Fontaine"
 	]
 }

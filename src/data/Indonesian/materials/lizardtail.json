@@ -1,15 +1,10 @@
 {
-	"id": 100083,
 	"name": "Lizard Tail",
-	"sortRank": 320,
 	"description": "Ekor kadal yang melengkung setelah terputus dari tubuhnya. Rasanya sangat pahit, tapi memiliki khasiat yang mengeraskan kulit setelah dimakan.",
-<<<<<<< HEAD
 	"sortorder": 2895,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Didapatkan dari menangkap kadal"
 	]
 }

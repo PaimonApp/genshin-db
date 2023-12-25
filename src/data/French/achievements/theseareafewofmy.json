@@ -1,11 +1,8 @@
 {
-	"id": [
-		81355
-	],
 	"name": "Quelques-unes de mes...",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 1341,
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1341,
 	"stages": 1,
 	"stage1": {
 		"title": "Quelques-unes de mes...",
@@ -13,7 +10,6 @@
 		"description": "... Choses préférées.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}

@@ -1,10 +1,9 @@
 {
-	"id": 3406,
 	"name": "Biftek Tartar",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Seçili karakterin Maks. Canını %30 ila %34 yeniler, ardından 600 ila 1.900 Can verir.",
 	"description": "Pişirilmeden servis edilen bir çiğ et yemeği. Özenle seçilen etler kıyma haline getirilip baharatlanır ve bu karışıma çiğ yumurta sarısı mükemmel bir şekilde eşlik eder. Bu fikri ilk kimin bulunduğu bilinmez. Karnını doyurmaya çalışan bir maceracının çaresizlikten denediği bir şey olabilir.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 3
 		},
 		{
-			"id": 100062,
 			"name": "Kuş Yumurtası",
 			"count": 3
 		},
 		{
-			"id": 100076,
 			"name": "Soğan",
 			"count": 2
 		},
 		{
-			"id": 101231,
 			"name": "Marcotte",
 			"count": 2
 		}

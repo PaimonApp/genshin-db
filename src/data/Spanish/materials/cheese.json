@@ -1,15 +1,10 @@
 {
-	"id": 110009,
 	"name": "Queso",
-	"sortRank": 322,
 	"description": "Hecho de leche fermentada. Aporta mucha energía y posibilidades ilimitadas. Se utiliza en una amplia gama de platos.",
-<<<<<<< HEAD
 	"sortorder": 2954,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Procesar comida"
 	]
 }

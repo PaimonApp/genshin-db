@@ -1,15 +1,10 @@
 {
-	"id": 101228,
 	"name": "Viparya",
-	"sortRank": 320,
 	"description": "Uma flor sem sementes. \nDesde que a memória perdida da terra seja evocada, Viparya florescerá novamente.",
-<<<<<<< HEAD
 	"sortorder": 2898,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado em Vanarana"
 	]

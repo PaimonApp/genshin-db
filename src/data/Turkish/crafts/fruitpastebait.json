@@ -1,18 +1,15 @@
 {
-	"id": 22033,
 	"name": "Meyve Ezmesi Yemi",
-	"filterText": "Yem",
-	"sortOrder": 160000,
-	"unlockRank": 28,
-	"resultCount": 10,
+	"filter": "Yem",
+	"sortorder": 160000,
+	"unlockrank": 28,
+	"resultcount": 10,
 	"recipe": [
 		{
-			"id": 100002,
 			"name": "Güneriği",
 			"count": 1
 		},
 		{
-			"id": 100017,
 			"name": "Buğday",
 			"count": 1
 		}

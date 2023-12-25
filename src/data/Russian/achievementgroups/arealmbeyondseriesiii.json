@@ -1,13 +1,7 @@
 {
-	"id": 23,
 	"name": "Бессмертная обитель III",
-<<<<<<< HEAD
 	"sortorder": 33,
-=======
-	"sortOrder": 33,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210089,
 		"name": "Пышное цветение"
 	}
 }

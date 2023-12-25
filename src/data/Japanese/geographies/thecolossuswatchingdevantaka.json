@@ -1,11 +1,8 @@
 {
-	"id": 70400008,
 	"name": "降魔を眺める巨人",
-	"areaId": 4204,
-	"areaName": "デーヴァーンタカ山",
+	"area": "デーヴァーンタカ山",
 	"description": "「諸君、カーンルイア数千年の歴史が我々を見ている！」",
-	"regionId": 4,
-	"regionName": "スメール",
-	"showOnlyUnlocked": true,
-	"sortOrder": 308
+	"region": "スメール",
+	"showonlyunlocked": true,
+	"sortorder": 308
 }

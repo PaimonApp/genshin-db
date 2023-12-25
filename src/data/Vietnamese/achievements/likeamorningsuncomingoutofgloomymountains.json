@@ -1,18 +1,14 @@
 {
-	"id": [
-		81315
-	],
 	"name": "Dâng Lên Giữa Vùng Núi U Ám",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1302,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1302,
 	"stages": 1,
 	"stage1": {
 		"title": "Dâng Lên Giữa Vùng Núi U Ám",
 		"description": "Hộ tống Mihir đi hết Con Đường Thanh Tẩy.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

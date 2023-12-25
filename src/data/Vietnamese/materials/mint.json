@@ -1,15 +1,10 @@
 {
-	"id": 100016,
 	"name": "Bạc Hà",
-	"sortRank": 321,
 	"description": "Loại lá có thành phần làm mát. Mùi vị thanh mát sảng khoái đánh tan cái nóng của mùa hè.",
-<<<<<<< HEAD
 	"sortorder": 2905,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

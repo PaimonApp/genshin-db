@@ -6,8 +6,6 @@
 		"crystalchunk": "Pezzo di cristallo",
 		"dandelionseed": "Seme di dente di leone",
 		"dendrobium": "Dendrobium",
-		"dragonspinecrown": "Picco del Drago: Corona",
-		"dragonspinetraces": "Picco del Drago: Tracce",
 		"electrocrystal": "Cristallo di Electro",
 		"flamingflowerstamen": "Pistillo di Fiorardente",
 		"fontaine": "Fontaine",
@@ -21,7 +19,6 @@
 		"mondstadt": "Mondstadt",
 		"origin": "Origine",
 		"sumeru": "Sumeru",
-		"thefortressofmeropide": "Forte Méropide",
 		"treasuresofthedeck": "Tesori del mazzo"
 	},
 	"names": {
@@ -31,8 +28,6 @@
 		"Pezzo di cristallo": "crystalchunk",
 		"Seme di dente di leone": "dandelionseed",
 		"Dendrobium": "dendrobium",
-		"Picco del Drago: Corona": "dragonspinecrown",
-		"Picco del Drago: Tracce": "dragonspinetraces",
 		"Cristallo di Electro": "electrocrystal",
 		"Pistillo di Fiorardente": "flamingflowerstamen",
 		"Fontaine": "fontaine",
@@ -46,7 +41,6 @@
 		"Mondstadt": "mondstadt",
 		"Origine": "origin",
 		"Sumeru": "sumeru",
-		"Forte Méropide": "thefortressofmeropide",
 		"Tesori del mazzo": "treasuresofthedeck"
 	},
 	"aliases": {},
@@ -58,8 +52,6 @@
 			"crystalchunk",
 			"dandelionseed",
 			"dendrobium",
-			"dragonspinecrown",
-			"dragonspinetraces",
 			"electrocrystal",
 			"flamingflowerstamen",
 			"fontaine",
@@ -73,7 +65,6 @@
 			"mondstadt",
 			"origin",
 			"sumeru",
-			"thefortressofmeropide",
 			"treasuresofthedeck"
 		]
 	},

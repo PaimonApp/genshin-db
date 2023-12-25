@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Dalam Bahasa Bunga, Lumidouce Bell Artinya ...?",
 	"achievementgroup": "Keajaiban Dunia",
 	"ishidden": true,
 	"sortorder": 1412,
-=======
-	"id": [
-		81428
-	],
-	"name": "Dalam Bahasa Bunga, Lumidouce Bell Artinya ...?",
-	"achievementGroupName": "Keajaiban Dunia",
-	"isHidden": true,
-	"sortOrder": 1412,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Dalam Bahasa Bunga, Lumidouce Bell Artinya ...?",
 		"description": "Kamu menemukan bunga di sudut yang tidak pernah diperhatikan oleh siapa pun.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 5
 		}

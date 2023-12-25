@@ -1,19 +1,14 @@
 {
-	"id": [
-		84127
-	],
 	"name": "Contarlo o no contarlo, esa es la cuestión",
-	"achievementGroupId": 17,
-	"achievementGroupName": "Recuerdos del corazón",
-	"isHidden": true,
-	"sortOrder": 6811,
+	"achievementgroup": "Recuerdos del corazón",
+	"ishidden": true,
+	"sortorder": 6811,
 	"stages": 1,
 	"stage1": {
 		"title": "Contarlo o no contarlo, esa es la cuestión",
 		"description": "Descubre la verdadera identidad de la Srta. Hina en la Editorial Yae.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}

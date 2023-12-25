@@ -1,11 +1,8 @@
 {
-	"id": 70400042,
 	"name": "Liloupars Gefängnis",
-	"areaId": 5013,
-	"areaName": "Dschinn-Gefängnis",
+	"area": "Dschinn-Gefängnis",
 	"description": "Was für eine Schwerverbrecherin beherbergte das einstige Gefängnis, das heute eine Oase ist?\nWelche Gelegenheit birgt ihr Erwachen für die einsamen Wüstenstämme?",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"showOnlyUnlocked": true,
-	"sortOrder": 342
+	"region": "Sumeru",
+	"showonlyunlocked": true,
+	"sortorder": 342
 }

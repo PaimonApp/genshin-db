@@ -1,15 +1,10 @@
 {
-	"id": 111020,
 	"name": "Маленький красивый кристалл",
-	"sortRank": 430051,
 	"description": "Добавочный Ремесленный Предмет",
-<<<<<<< HEAD
 	"sortorder": 4956,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Созданные Предметы",
-	"sources": [
+	"materialtype": "Созданные Предметы",
+	"source": [
 		"Алхимия"
 	]
 }

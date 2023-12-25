@@ -1,15 +1,10 @@
 {
-	"id": 100020,
 	"name": "Pinecone",
-	"sortRank": 321,
 	"description": "Filled with oil-rich seeds. Certainly won't be growing into a tree from inside a squirrel's stomach.",
-<<<<<<< HEAD
 	"sortorder": 2909,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Cooking Ingredient",
-	"sources": [
+	"materialtype": "Cooking Ingredient",
+	"source": [
 		"Found in the wild"
 	]
 }

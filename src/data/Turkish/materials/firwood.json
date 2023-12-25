@@ -1,20 +1,13 @@
 {
-	"id": 101308,
 	"name": "Köknar Kütüğü",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Köknar Ağacından elde edilen kütük. Kaliteli ve damarlı dokusu nedeniyle yaygın olarak kullanılır.\nDekorasyon yapmak için kullanılabilir.",
-<<<<<<< HEAD
 	"sortorder": 2967,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Malzeme",
-	"sources": [
+	"materialtype": "Malzeme",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Yıldızdüşen Vadisi'nde kesilir.",
-		"Öneri: Uğultu Tepesi'nde kesilir.",
-		"Kütüğü Dönüştür"
+		"Öneri: Uğultu Tepesi'nde kesilir."
 	]
 }

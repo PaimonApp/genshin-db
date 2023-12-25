@@ -1,17 +1,11 @@
 {
-	"id": 104142,
 	"name": "Vajrada Ametisti Kırıntısı",
-	"rarity": 3,
-	"sortRank": 12105,
 	"description": "Karakter Yükseltme malzemesi.\n\"Bu beden, dünyadakilerin en soylusu ve en üstünüdür.\"",
-<<<<<<< HEAD
 	"sortorder": 3203,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yükseltme Malzemesi",
-	"sources": [
+	"materialtype": "Karakter Yükseltme Malzemesi",
+	"source": [
 		"Sv. 40 ve üzeri Elektrik Hipostazlarından düşer.",
 		"Sv. 40 ve üzeri Yıldırım Alametlerinden düşer.",
 		"Sv. 40 ve üzeri Yalancı Elektrik Ağaçlarından düşer.",

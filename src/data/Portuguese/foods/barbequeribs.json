@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Churrasco de Costela",
 	"rarity": "2",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de Regeneração",
 	"foodcategory": "Recovery_HpAdd",
-=======
-	"id": 2407,
-	"name": "Churrasco de Costela",
-	"rarity": 2,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Pratos de Regeneração",
->>>>>>> upstream/main
 	"effect": "Restaura 20%- 24% de Vida Máxima e um adicional de 900 - 1500 de Vida ao personagem selecionado.",
 	"description": "Um prato de carne crocante. Frite levemente a superfície das costelas até começarem a exalar um aroma, então cubra o exterior crocante com molho e lentamente grelhe no calor baixo. Lidar meticulosamente com o calor garante que a crocância no exterior sairá perfeita, enquanto a carne continua suculenta e macia.",
 	"suspicious": {
@@ -29,26 +20,14 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100061,
->>>>>>> upstream/main
 			"name": "Carne Crua",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100077,
->>>>>>> upstream/main
 			"name": "Pimenta",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

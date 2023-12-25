@@ -1,10 +1,9 @@
 {
-	"id": 2301,
 	"name": "Rolinho Shawarma",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Pratos de ATQ",
+	"foodfilter": "Pratos de ATQ",
+	"foodcategory": "Atk_Add",
 	"effect": "Aumenta o ATQ de todos os membros da Equipe em 66 - 95 por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Rolinhos recheados com carne grelhada. A carne é cortada na grelha vertical e servida em uma panqueca com legumes e molho. A autêntica e saborosa comida de rua de Sumeru é caracterizada pela sua simplicidade.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100061,
 			"name": "Carne Crua",
 			"count": 2
 		},
 		{
-			"id": 110001,
 			"name": "Farinha",
 			"count": 2
 		},
 		{
-			"id": 110014,
 			"name": "Tempero",
 			"count": 1
 		}

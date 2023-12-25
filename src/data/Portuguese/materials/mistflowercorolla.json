@@ -1,15 +1,10 @@
 {
-	"id": 100052,
 	"name": "Flor da Neblina",
-	"sortRank": 320,
 	"description": "Um broto de flor envolta em gelo sólido. Mesmo depois de ser colhida, a flor continua a emitir frio.",
-<<<<<<< HEAD
 	"sortorder": 2889,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: Encontrado na Adega do Alvorecer"
 	]

@@ -1,15 +1,10 @@
 {
-	"id": 101008,
 	"name": "Pezzo d'ametista",
-	"sortRank": 301,
 	"description": "Un cristallo grezzo reperibile solo a Inazuma. Un artigiano professionista può farne emergere il vero valore.",
-<<<<<<< HEAD
 	"sortorder": 2826,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Minerale da forgiatura",
-	"sources": [
+	"materialtype": "Minerale da forgiatura",
+	"source": [
 		"Presente in natura",
 		"Consiglio: si trova sull'Isola di Narukami"
 	]

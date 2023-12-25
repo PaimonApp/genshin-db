@@ -1,11 +1,10 @@
 {
-	"id": 101226,
 	"name": "活化的星蕈",
-	"sortRank": 90000,
 	"description": "伞盖形如五角星星一般的菌类，生命力十分顽强。看上去似乎充满了活力。",
+	"sortorder": 3419,
 	"category": "NOTICE_ADD_HP",
-	"typeText": "食物",
-	"sources": [
+	"materialtype": "食物",
+	"source": [
 		"野外采集"
 	]
 }

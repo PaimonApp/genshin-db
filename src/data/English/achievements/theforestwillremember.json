@@ -1,11 +1,7 @@
 {
-	"id": [
-		80174
-	],
 	"name": "The Forest Will Remember",
-	"achievementGroupId": 31,
-	"achievementGroupName": "Sumeru: The Rainforest of Lore",
-	"sortOrder": 174,
+	"achievementgroup": "Sumeru: The Rainforest of Lore",
+	"sortorder": 174,
 	"stages": 1,
 	"stage1": {
 		"title": "The Forest Will Remember",
@@ -13,7 +9,6 @@
 		"description": "Complete \"Aranyaka.\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

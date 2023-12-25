@@ -1,15 +1,10 @@
 {
-	"id": 101202,
 	"name": "Kiraz Çiçeği",
-	"sortRank": 313,
 	"description": "Büyük Narukami Tapınağındaki Kutsal Kiraz Ağacından düşen çiçekler Inazuma'ya duyulan sevgiyi taşır.",
-<<<<<<< HEAD
 	"sortorder": 2863,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Inazuma Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Inazuma Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Narukami Adası'nda bulunur."
 	]

@@ -1,18 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "Consomme",
 	"rarity": "3",
 	"foodtype": "NORMAL",
 	"foodfilter": "Pratos de ATQ",
 	"foodcategory": "Atk_CritRate",
-=======
-	"id": 3413,
-	"name": "Consomme",
-	"rarity": 3,
-	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Pratos de ATQ",
->>>>>>> upstream/main
 	"effect": "Aumenta a Taxa Crítica de todos os membros da equipe em 10% - 20% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
 	"description": "Uma sopa de receita complexa. Esmague os ingredientes e então cozinhe eles em molho, servindo no final uma sopa clara desse cozido. Há uma fofoca misteriosa nas ruas de Fontaine que diz que um escritor sem inspiração finalmente a conseguiu depois de beber essa sopa... Mas será que o efeito incrível dessa sopa não é só propaganda enganosa do restaurante que faz a sopa?",
 	"suspicious": {
@@ -29,34 +20,18 @@
 	},
 	"ingredients": [
 		{
-<<<<<<< HEAD
-=======
-			"id": 100064,
->>>>>>> upstream/main
 			"name": "Carne de Ave",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100062,
->>>>>>> upstream/main
 			"name": "Ovo de Pássaro",
 			"count": 3
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 100013,
->>>>>>> upstream/main
 			"name": "Cenoura",
 			"count": 2
 		},
 		{
-<<<<<<< HEAD
-=======
-			"id": 101231,
->>>>>>> upstream/main
 			"name": "Marcotte",
 			"count": 1
 		}

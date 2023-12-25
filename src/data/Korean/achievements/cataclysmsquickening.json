@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "태동하는 종언의 계시",
 	"achievementgroup": "천지만물",
 	"ishidden": true,
 	"sortorder": 5090,
-=======
-	"id": [
-		84311
-	],
-	"name": "태동하는 종언의 계시",
-	"achievementGroupName": "천지만물",
-	"isHidden": true,
-	"sortOrder": 5090,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "태동하는 종언의 계시",
 		"description": "「태동하는 종언의 계시」 완료하기",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 10
 		}

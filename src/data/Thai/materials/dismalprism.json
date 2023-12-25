@@ -1,21 +1,9 @@
 {
-	"id": 112050,
 	"name": "Dismal Prism",
-	"rarity": 2,
-	"sortRank": 10117,
 	"description": "เดิมทีปริซึมนี้สามารถหักเหแสงได้ แต่พอนานวันเข้ามันก็มืดและขุ่นมัวไปตามกาลเวลา",
-<<<<<<< HEAD
 	"sortorder": 3083,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "วัสดุยกระดับตัวละครและอาวุธ",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "วัสดุยกระดับตัวละครและอาวุธ",
-	"sources": [
-		"ดรอปจาก Fatui - Snezhnayan Maiden",
-		"แลกเปลี่ยนด้วย Stardust"
-	]
->>>>>>> upstream/main
 }

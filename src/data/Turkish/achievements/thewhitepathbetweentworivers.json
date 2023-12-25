@@ -1,18 +1,14 @@
 {
-	"id": [
-		82175
-	],
 	"name": "İki Nehir Arasındaki Beyaz Yol",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 2175,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 2175,
 	"stages": 1,
 	"stage1": {
 		"title": "İki Nehir Arasındaki Beyaz Yol",
 		"description": "Düelloda efsanevi Avcı Vatoza karşı kaybet...",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 5
 		}

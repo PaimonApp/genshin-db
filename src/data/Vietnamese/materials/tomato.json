@@ -1,15 +1,10 @@
 {
-	"id": 100079,
 	"name": "Cà Chua",
-	"sortRank": 321,
 	"description": "Thực vật có vỏ màu đỏ tươi. Chua ngọt nhiều nước, người ta từ xưa vẫn tranh luận nó là trái cây hay rau củ.",
-<<<<<<< HEAD
 	"sortorder": 2921,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Mua trong Tiệm Tạp Hóa"
 	]
 }

@@ -1,10 +1,8 @@
 {
-	"id": 201401,
 	"name": "Glänzende Darbietung",
 	"description": "Barbaras Strandkleidung. Der hübsche kurze Rock strotzt vor sommerlicher Vitalität und trägt die frische Luft des Meeres in sich.",
-	"isDefault": false,
-	"characterId": 10000014,
-	"characterName": "Barbara",
+	"isdefault": false,
+	"character": "Barbara",
 	"source": [
 		"Bei Händlern zu erhalten"
 	]

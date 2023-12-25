@@ -1,13 +1,7 @@
 {
-	"id": 37,
 	"name": "GCC Invokazione del genio",
-<<<<<<< HEAD
 	"sortorder": 43,
-=======
-	"sortOrder": 43,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210145,
 		"name": "Obiettivo: Invokatore"
 	}
 }

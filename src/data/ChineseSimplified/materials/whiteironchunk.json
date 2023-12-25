@@ -1,11 +1,10 @@
 {
-	"id": 101002,
 	"name": "白铁块",
-	"sortRank": 301,
 	"description": "白铁的矿石，在拥有相应技能的工匠手中能大放异彩吧。",
+	"sortorder": 2822,
 	"category": "EXCHANGE",
-	"typeText": "锻造用矿石",
-	"sources": [
+	"materialtype": "锻造用矿石",
+	"source": [
 		"野外采集",
 		"推荐：望风山地采集",
 		"推荐：奔狼领采集"

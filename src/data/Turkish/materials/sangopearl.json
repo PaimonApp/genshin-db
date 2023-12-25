@@ -1,15 +1,10 @@
 {
-	"id": 101207,
 	"name": "Sango İncisi",
-	"sortRank": 313,
 	"description": "Watatsumi mercanında yetişen değerli bir inci. Ay ışığına benzer serin bir parlaklık verir.",
-<<<<<<< HEAD
 	"sortorder": 2868,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Inazuma Yöresel Ürünü",
-	"sources": [
+	"materialtype": "Inazuma Yöresel Ürünü",
+	"source": [
 		"Doğada bulunur.",
 		"Öneri: Watatsumi Adası'nda bulunur."
 	]

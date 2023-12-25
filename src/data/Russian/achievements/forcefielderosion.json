@@ -1,18 +1,14 @@
 {
-	"id": [
-		82075
-	],
 	"name": "Разрушение силового поля",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 2075,
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2075,
 	"stages": 1,
 	"stage1": {
 		"title": "Разрушение силового поля",
 		"description": "Уничтожьте барьер Электро гипостазиса.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}

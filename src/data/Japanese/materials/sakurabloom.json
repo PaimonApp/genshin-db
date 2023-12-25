@@ -1,15 +1,10 @@
 {
-	"id": 101202,
 	"name": "緋櫻毬",
-	"sortRank": 313,
 	"description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
-<<<<<<< HEAD
 	"sortorder": 2863,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "稲妻地域の特産",
-	"sources": [
+	"materialtype": "稲妻地域の特産",
+	"source": [
 		"野外で採集",
 		"推奨：鳴神島で採集"
 	]

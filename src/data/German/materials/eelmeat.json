@@ -1,15 +1,10 @@
 {
-	"id": 100095,
 	"name": "Aalfleisch",
-	"sortRank": 321,
 	"description": "Das frische Fleisch eines Unagi. Wenn es richtig behandelt wird, kann es für die Zubereitung von frischem, herrlichem Essen verwendet werden.",
-<<<<<<< HEAD
 	"sortorder": 2932,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In der freien Natur zu finden",
 		"Empfohlen: Auf Watatsumi zu finden"
 	]

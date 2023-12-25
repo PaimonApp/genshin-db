@@ -1,9 +1,7 @@
 {
-	"id": 2,
-	"name": "Nghệ Thuật Phiêu Lưu",
-	"sortOrder": 7,
+	"name": "Nghệ thuật phiêu lưu",
+	"sortorder": 7,
 	"reward": {
-		"id": 210022,
 		"name": "Thành Tựu - Đặc Kỹ"
 	}
 }

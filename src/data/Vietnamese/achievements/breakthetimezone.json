@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Phá Vỡ Bức Tường Thời Gian",
 	"achievementgroup": "Thế giới muôn màu",
 	"ishidden": true,
 	"sortorder": 1369,
-=======
-	"id": [
-		81385
-	],
-	"name": "Phá Vỡ Bức Tường Thời Gian",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 1369,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Phá Vỡ Bức Tường Thời Gian",
 		"description": "Phá hủy Khối U Cầu Gai, thanh lọc cho vùng nước.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

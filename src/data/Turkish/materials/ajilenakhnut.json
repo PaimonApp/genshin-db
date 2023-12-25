@@ -1,15 +1,10 @@
 {
-	"id": 101221,
 	"name": "Ajilenakh Yemişi",
-	"sortRank": 321,
 	"description": "Çöl vahalarındaki yaprak dökmeyen ağaçlarda yetişen bir meyve. Sert kabuğunun içindeki meyve dolgun, tatlı ve lezzetlidir. Dolayısıyla çöl halkı için önemli bir yiyecektir.",
-<<<<<<< HEAD
 	"sortorder": 2942,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Yemek Malzemesi",
-	"sources": [
+	"materialtype": "Yemek Malzemesi",
+	"source": [
 		"Sumeru'nun çöl vahalarında bulunur."
 	]
 }

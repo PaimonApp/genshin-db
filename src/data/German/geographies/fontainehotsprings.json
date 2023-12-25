@@ -1,11 +1,8 @@
 {
-	"id": 70400068,
 	"name": "„Fontaines heiße Quellen“",
-	"areaId": 50200,
-	"areaName": "Bezirk Béryl",
+	"area": "Bezirk Béryl",
 	"description": "Salsa hat hier einst die Landschaft festgehalten.\nDurch den dichten Nebel der dampfend-heißen Quellen kann man einen Blick auf den hoch aufragenden Mont Automnéqui und die durch ihn verlaufende Clémentine-Linie erhaschen.",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 368
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 368
 }

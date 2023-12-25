@@ -1,17 +1,11 @@
 {
-	"id": 104152,
 	"name": "Vayuda-Türkis-Bruchstück",
-	"rarity": 3,
-	"sortRank": 12106,
 	"description": "Material für den Figurenaufstieg.\n„Die Windrichtung kann sich jederzeit ändern.“",
-<<<<<<< HEAD
 	"sortorder": 3207,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material für den Figurenaufstieg",
-	"sources": [
+	"materialtype": "Material für den Figurenaufstieg",
+	"source": [
 		"Beute von Anemo-Hypostasen ab Stufe 40",
 		"Beute von Setekh Wenut ab Stufe 40",
 		"Kann hergestellt werden"

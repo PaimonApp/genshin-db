@@ -1,15 +1,10 @@
 {
-	"id": 100018,
 	"name": "Weißkohl",
-	"sortRank": 321,
 	"description": "Ein Gemüse mit vielen Schichten, das ursprünglich wohl als Topfpflanze großen Anklang gefunden hat. Macht sich wirklich gut im Topf.",
-<<<<<<< HEAD
 	"sortorder": 2907,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zutat",
-	"sources": [
+	"materialtype": "Zutat",
+	"source": [
 		"In der freien Natur zu finden",
 		"In Gemischtwarenläden zu erstehen"
 	]

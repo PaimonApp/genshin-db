@@ -1,11 +1,10 @@
 {
-	"id": 100023,
 	"name": "Cecilia",
-	"sortRank": 311,
 	"description": "A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul.",
+	"sortorder": 2848,
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Mondstadt)",
-	"sources": [
+	"materialtype": "Local Specialty (Mondstadt)",
+	"source": [
 		"Found in the wild",
 		"Recommendation: Found on Starsnatch Cliff"
 	]

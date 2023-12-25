@@ -1,14 +1,9 @@
 {
-	"id": 100935,
 	"name": "Llave con patrón",
 	"dupealias": "Llave con patrón 1",
-	"sortRank": 430041,
 	"description": "Un sello muy común tanto en Enkanomiya como en la Isla Watatsumi. Se hizo desmontando los emblemas de los antiguos habitantes de Byakuya.",
-<<<<<<< HEAD
 	"sortorder": 4952,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Consumible",
-	"sources": []
+	"materialtype": "Consumible",
+	"source": []
 }

@@ -1,15 +1,10 @@
 {
-	"id": 101210,
 	"name": "Seagrass",
-	"sortRank": 321,
 	"description": "พืชที่เติบโตในเขตทะเลตื้น สามารถเพิ่มรสชาติที่พิเศษให้กับอาหารได้",
-<<<<<<< HEAD
 	"sortorder": 2937,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "วัตถุดิบประกอบอาหาร",
-	"sources": [
+	"materialtype": "วัตถุดิบประกอบอาหาร",
+	"source": [
 		"หาได้จากบริเวณทะเลของ Inazuma"
 	]
 }

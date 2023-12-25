@@ -1,15 +1,10 @@
 {
-	"id": 101001,
 	"name": "Brocken Eisen",
-	"sortRank": 301,
 	"description": "Ein Klumpen Eisenerz, der in den Händen eines begabten Schmieds zu einer ganzen Reihe an nützlichen Gegenständen werden kann.",
-<<<<<<< HEAD
 	"sortorder": 2821,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zum Schmieden geeignetes Erz",
-	"sources": [
+	"materialtype": "Zum Schmieden geeignetes Erz",
+	"source": [
 		"In der freien Natur zu finden"
 	]
 }

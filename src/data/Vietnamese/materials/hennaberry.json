@@ -1,15 +1,10 @@
 {
-	"id": 101220,
 	"name": "Quả Xích Niệm",
-	"sortRank": 314,
 	"description": "Quả của một loại cây có thể sinh tồn trong môi trường khắc nghiệt của sa mạc, những trái màu đỏ thẫm rực rỡ của nó càng trở nên bắt mắt hơn trên nền cát vàng.",
-<<<<<<< HEAD
 	"sortorder": 2875,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Đặc Sản Khu Vực Sumeru",
-	"sources": [
+	"materialtype": "Đặc Sản Khu Vực Sumeru",
+	"source": [
 		"Thu thập ở sa mạc Sumeru"
 	]
 }

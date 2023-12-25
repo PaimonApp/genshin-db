@@ -1,10 +1,7 @@
 {
-	"id": [
-		81024
-	],
 	"name": "Superstar di Mondstadt",
-	"achievementGroupName": "Meraviglie del mondo",
-	"sortOrder": 1024,
+	"achievementgroup": "Meraviglie del mondo",
+	"sortorder": 1024,
 	"stages": 1,
 	"stage1": {
 		"title": "Superstar di Mondstadt",
@@ -12,7 +9,6 @@
 		"description": "Raggiungi il liv. reputazione 8 a Mondstadt.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 20
 		}

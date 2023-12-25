@@ -1,10 +1,9 @@
 {
-	"id": 2003,
 	"name": "Räuchergeflügel nach Art des Nordens",
-	"rarity": 2,
+	"rarity": "2",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_FUNCTION",
-	"filterText": "Gerichte für Abenteuer",
+	"foodfilter": "Gerichte für Abenteuer",
+	"foodcategory": "Other_SPAdd",
 	"effect": "Stellt 40 bis 60 Punkte Ausdauer wieder her.",
 	"description": "Etwas Gemüse mit geräuchertem Geflügel. Dies ist ein Gericht, das wohl in jedem Haushalt im Norden zubereitet wird, besonders wenn sich wichtige Gäste angekündigt haben.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 110003,
 			"name": "Räuchergeflügel",
 			"count": 1
 		},
 		{
-			"id": 100076,
 			"name": "Zwiebel",
 			"count": 1
 		},
 		{
-			"id": 100018,
 			"name": "Weißkohl",
 			"count": 1
 		}

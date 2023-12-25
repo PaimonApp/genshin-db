@@ -1,15 +1,10 @@
 {
-	"id": 100096,
 	"name": "Fagioli glabri",
-	"sortRank": 321,
 	"description": "Un legume comune di Teyvat dal sapore delicato. Lo si può preparare in diversi modi, perciò è molto diffuso in tutto il mondo.",
-<<<<<<< HEAD
 	"sortorder": 2933,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Acquistabile nei ristoranti di Sumeru",
 		"Acquistabile negli empori di Fontaine"
 	]

@@ -1,15 +1,10 @@
 {
-	"id": 100034,
 	"name": "Muguet bleu",
-	"sortRank": 312,
 	"description": "Une petite fleur qui possède une forte vitalité. On dit qu'elle fleurit vers le bas pour que son parfum dure plus longtemps.",
-<<<<<<< HEAD
 	"sortorder": 2860,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produit de Liyue",
-	"sources": [
+	"materialtype": "Produit de Liyue",
+	"source": [
 		"Montagnes de Liyue"
 	]
 }

@@ -1,17 +1,11 @@
 {
-	"id": 221,
 	"name": "Sahipsiz Yıldız Parıltısı",
-	"rarity": 5,
-	"sortRank": 410001,
 	"description": "Dükkandan nadir kaynakları satın almak için kullanılan para birimi.\nKaderdeki fazlalık Yıldız Parıltısı. Belki evrenin diğer köşelerini aydınlatabilir.",
-<<<<<<< HEAD
 	"sortorder": 4847,
 	"rarity": "5",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Üstün Kupon",
-	"sources": [
+	"materialtype": "Üstün Kupon",
+	"source": [
 		"Dilek"
 	]
 }

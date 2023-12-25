@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "The Perfect Yesterday",
 	"achievementgroup": "天地万象",
 	"ishidden": true,
 	"sortorder": 1385,
-=======
-	"id": [
-		81401
-	],
-	"name": "The Perfect Yesterday",
-	"achievementGroupName": "天地万象",
-	"isHidden": true,
-	"sortOrder": 1385,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "The Perfect Yesterday",
 		"description": "昨日の日にして、留む可からず…",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

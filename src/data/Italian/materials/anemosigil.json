@@ -1,17 +1,11 @@
 {
-	"id": 305,
 	"name": "Sigillo di Anemo",
-	"rarity": 3,
-	"sortRank": 430001,
 	"description": "Un emblema che esprime la riconoscenza dei venti di Mondstadt.\nPuoi scambiarlo per degli oggetti speciali a Mondstadt.",
-<<<<<<< HEAD
 	"sortorder": 4931,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Sigillo delle città stato",
-	"sources": [
+	"materialtype": "Sigillo delle città stato",
+	"source": [
 		"Ricompensa esplorazione Mondstadt"
 	]
 }

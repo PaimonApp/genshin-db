@@ -1,25 +1,17 @@
 {
-	"id": 104345,
 	"name": "Düzen Rehberi",
-<<<<<<< HEAD
 	"description": "Yetenek Seviyesi Yükseltme Malzemesi.\nSu Ülkesinin kalkanı düzendir.\nFontaine'deki tüm kanunlar nihayetinde düzeni sağlamak için vardır. Düzenin sağladığı güvence olmazsa adalet, herkesin herkese karşı kullandığı, sınırsız şiddet getiren bir silaha dönüşür.",
 	"sortorder": 3260,
 	"rarity": "3",
-=======
-	"rarity": 3,
-	"sortRank": 13115,
-	"description": "Yetenek Seviyesi Yükseltme Malzemesi.\nSu Ülkesinin kalkanı düzendir.\nFontaine'deki tüm kanunlar nihayetinde düzeni sağlamak için vardır. Düzenin sağladığı güvence olmazsa adalet, herkesin herkese karşı kullandığı, sınırsız şiddet getiren bir silaha dönüşür.",
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Karakter Yeteneği Malzemesi",
-	"dropDomainId": 4495,
-	"dropDomainName": "Ustalık Zindanı: Ahenkli Okuma",
-	"daysOfWeek": [
+	"materialtype": "Karakter Yeteneği Malzemesi",
+	"dropdomain": "Ustalık Zindanı: Ahenkli Okuma",
+	"daysofweek": [
 		"Çarşamba",
 		"Cumartesi",
 		"Pazar"
 	],
-	"sources": [
+	"source": [
 		"Üretilir."
 	]
 }

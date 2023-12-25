@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "L'amore distrugge",
 	"achievementgroup": "Meraviglie del mondo",
 	"ishidden": true,
 	"sortorder": 5092,
-=======
-	"id": [
-		84313
-	],
-	"name": "L'amore distrugge",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 5092,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "L'amore distrugge",
 		"description": "Navia sopravvive al suo incontro con l'Acqua primordiale.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogemma",
 			"count": 5
 		}

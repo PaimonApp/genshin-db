@@ -1,13 +1,7 @@
 {
-	"id": [
-		80014,
-		80015,
-		80016
-	],
 	"name": "Stets nach vorn",
-	"achievementGroupId": 3,
-	"achievementGroupName": "Reise eines Helden",
-	"sortOrder": 14,
+	"achievementgroup": "Reise eines Helden",
+	"sortorder": 14,
 	"stages": 3,
 	"stage1": {
 		"title": "Stets nach vorn",
@@ -15,7 +9,6 @@
 		"description": "Erreiche das erste Mal Durchbruchsstufe 2 für eine Figur.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Erreiche das erste Mal Durchbruchsstufe 4 für eine Figur.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Erreiche das erste Mal Durchbruchsstufe 6 für eine Figur.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 20
 		}

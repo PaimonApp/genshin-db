@@ -1,15 +1,9 @@
 {
-	"id": 102,
 	"name": "EXP d'aventure",
-	"rarity": 3,
-	"sortRank": 13,
 	"description": "L'EXP d'aventure permet d'augmenter le Niv. d'aventure.",
-<<<<<<< HEAD
 	"sortorder": 2670,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "ITEM_VIRTUAL",
-	"typeText": "Objet de déverrouillage de système",
-	"sources": []
+	"materialtype": "Objet de déverrouillage de système",
+	"source": []
 }

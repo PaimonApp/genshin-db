@@ -1,19 +1,12 @@
 {
-	"id": 101305,
 	"name": "Bambussegment",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Bambussegmente, die leicht und viel stärker sind, als ihr bescheidenes Aussehen vermuten lässt. Sie verströmen einen leichten Duft.\nKann zum Herstellen von Dekoration verwendet werden.",
-<<<<<<< HEAD
 	"sortorder": 2964,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"In der freien Natur zu finden",
-		"Empfohlen: Auf der Bishui-Ebene zu finden",
-		"Holz umwandeln"
+		"Empfohlen: Auf der Bishui-Ebene zu finden"
 	]
 }

@@ -1,15 +1,10 @@
 {
-	"id": 100085,
 	"name": "Crystal Core",
-	"sortRank": 320,
 	"description": "Inti dari kupu-kupu kristal. Ia menyerap elemental energy yang terlepas ke atmosfir.",
-<<<<<<< HEAD
 	"sortorder": 2896,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Didapatkan dari menangkap Anemo Crystalfly"
 	]
 }

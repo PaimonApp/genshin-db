@@ -1,21 +1,9 @@
 {
-	"id": 112050,
 	"name": "Dismal Prism",
-	"rarity": 2,
-	"sortRank": 10117,
 	"description": "This was once a prism that could polarize light, but has grown dull through the passing of years.",
-<<<<<<< HEAD
 	"sortorder": 3083,
 	"rarity": "2",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "Character and Weapon Enhancement Material",
 	"source": []
-=======
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Character and Weapon Enhancement Material",
-	"sources": [
-		"Dropped by Mirror Maidens",
-		"Stardust Exchange"
-	]
->>>>>>> upstream/main
 }

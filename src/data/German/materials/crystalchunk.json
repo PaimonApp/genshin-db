@@ -1,15 +1,10 @@
 {
-	"id": 101003,
 	"name": "Brocken Kristall",
-	"sortRank": 301,
 	"description": "Ein ungeschliffener Kristall, der erst nach Bearbeitung durch qualifizierte Handwerker seinen wahren Wert zeigt.",
-<<<<<<< HEAD
 	"sortorder": 2823,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Zum Schmieden geeignetes Erz",
-	"sources": [
+	"materialtype": "Zum Schmieden geeignetes Erz",
+	"source": [
 		"In der freien Natur zu finden",
 		"Empfohlen: In Dvalins Ruinen zu finden"
 	]

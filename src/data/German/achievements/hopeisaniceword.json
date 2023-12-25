@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Hoffnung, ein schönes Wort",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1414,
-=======
-	"id": [
-		81430
-	],
-	"name": "Hoffnung, ein schönes Wort",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1414,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Hoffnung, ein schönes Wort",
 		"description": "Werde Zeuge des neuen Lebens einer gewissen Ruine.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

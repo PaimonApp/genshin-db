@@ -1,13 +1,8 @@
 {
-	"id": 101402,
 	"name": "Kırmızı Boya",
-	"sortRank": 331,
 	"description": "Kırmızı boya. Dekorasyon yapımında mutlaka işine yarayacak.",
-<<<<<<< HEAD
 	"sortorder": 2983,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Malzeme",
-	"sources": []
+	"materialtype": "Malzeme",
+	"source": []
 }

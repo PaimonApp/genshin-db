@@ -1,15 +1,10 @@
 {
-	"id": 110013,
 	"name": "Poisson séché",
-	"sortRank": 322,
 	"description": "",
-<<<<<<< HEAD
 	"sortorder": 2958,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrédient",
-	"sources": [
+	"materialtype": "Ingrédient",
+	"source": [
 		"Cuisine (préparation)"
 	]
 }

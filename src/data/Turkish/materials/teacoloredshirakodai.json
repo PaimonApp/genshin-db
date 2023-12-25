@@ -1,17 +1,11 @@
 {
-	"id": 131015,
 	"name": "Yeşil Kırlangıç Balığı",
-	"rarity": 3,
-	"sortRank": 341,
 	"description": "Nazik, zarif bir kırlangıç balığı türü. Güzel, aerodinamik bir sırt yüzgecine sahiptir ve \"Suların Kraliçesi\" olarak bilinir.\nVücudunda yeşil desenler bulunur. Çok meraklıdır, etrafındaki her şeye büyük ilgi gösterir. Her ne kadar kötü bir niyeti olmasa da ilgisini ifade etme biçimi karşısına çıkan her şeyi yemeye çalışmak olduğu için bu merakının sonu genelde felaketle sonuçlanır.",
-<<<<<<< HEAD
 	"sortorder": 3009,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Balık",
-	"sources": [
+	"materialtype": "Balık",
+	"source": [
 		"Balık tutarak elde edilir."
 	]
 }

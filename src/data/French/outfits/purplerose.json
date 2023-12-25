@@ -1,8 +1,6 @@
 {
-	"id": 200600,
 	"name": "Rose pourpre",
 	"description": "Tenue de Lisa. Un ensemble à motifs de roses qui met en avant l'élégance de celle qui le porte.",
-	"isDefault": true,
-	"characterId": 10000006,
-	"characterName": "Lisa"
+	"isdefault": true,
+	"character": "Lisa"
 }

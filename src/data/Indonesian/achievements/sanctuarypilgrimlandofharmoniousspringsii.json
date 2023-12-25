@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "Peziarah Kuil: Dataran Mata Air Selaras (II)",
 	"achievementgroup": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
 	"sortorder": 250,
-=======
-	"id": [
-		80274
-	],
-	"name": "Peziarah Kuil: Dataran Mata Air Selaras (II)",
-	"achievementGroupId": 45,
-	"achievementGroupName": "Fontaine: Tarian Mata Air Sejernih Embun Pagi (II)",
-	"sortOrder": 250,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Peziarah Kuil: Dataran Mata Air Selaras (II)",
 		"description": "Buka seluruh Shrines of Depths di area Fontaine berikut: Area Liffey dan Area Fontaine Research Institute of Kinetic Energy Engineering.",
 		"progress": 2,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primogem",
 			"count": 10
 		}

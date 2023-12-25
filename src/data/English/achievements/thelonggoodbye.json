@@ -1,18 +1,14 @@
 {
-	"id": [
-		84017
-	],
 	"name": "The Long Goodbye",
-	"achievementGroupName": "Wonders of the World",
-	"isHidden": true,
-	"sortOrder": 4018,
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 4018,
 	"stages": 1,
 	"stage1": {
 		"title": "The Long Goodbye",
 		"description": "Prepare everything necessary for the Rite of Parting.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 5
 		}

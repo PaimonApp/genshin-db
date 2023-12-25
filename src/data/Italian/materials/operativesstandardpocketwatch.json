@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Orologio comune da operativo",
 	"description": "Un normale orologio in dotazione agli operativi Fatui.\nLa parte superiore non è finemente progettata e la cassa esterna ha fin troppi angoli appuntiti che possono causare strappi e scuciture nei vestiti. Per questo, ci sarà sempre chi metterà quest'orologio dentro a delle casse più pratiche e meno particolari.",
 	"sortorder": 3127,
@@ -8,18 +7,5 @@
 	"materialtype": "Materiale di potenziamento armi e personaggi",
 	"source": [
 		"Creato"
-=======
-	"id": 112093,
-	"name": "Orologio comune da operativo",
-	"rarity": 3,
-	"sortRank": 10132,
-	"description": "Un normale orologio in dotazione agli operativi Fatui.\nLa parte superiore non è finemente progettata e la cassa esterna ha fin troppi angoli appuntiti che possono causare strappi e scuciture nei vestiti. Per questo, ci sarà sempre chi metterà quest'orologio dentro a delle casse più pratiche e meno particolari.",
-	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale di potenziamento armi e personaggi",
-	"sources": [
-		"Creato",
-		"Ottenibile dagli operativi dei Fatui di liv. 40+",
-		"Scambio di Polvere stellare"
->>>>>>> upstream/main
 	]
 }

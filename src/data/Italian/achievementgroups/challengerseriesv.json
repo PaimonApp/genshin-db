@@ -1,9 +1,7 @@
 {
-	"id": 29,
 	"name": "Competitività: Serie V",
-	"sortOrder": 18,
+	"sortorder": 18,
 	"reward": {
-		"id": 210116,
 		"name": "Obiettivo: Tuono"
 	}
 }

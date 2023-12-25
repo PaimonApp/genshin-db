@@ -1,24 +1,14 @@
 {
-	"id": 104122,
 	"name": "Fragmento de lazurita varunada",
-	"rarity": 3,
-	"sortRank": 12103,
 	"description": "Material de ascensión de personaje.\n“Mis ideales son inmaculados”.",
-<<<<<<< HEAD
 	"sortorder": 3195,
 	"rarity": "3",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Material de ascensión de personaje",
-	"sources": [
+	"materialtype": "Material de ascensión de personaje",
+	"source": [
 		"Obtenido de Oceánida (Niv. 40+)",
 		"Obtenido de Hipóstasis Hydro (Niv. 40+)",
-<<<<<<< HEAD
 		"#Obtenido de Tulpas Hidromiméticos (Niv.{NON_BREAK_SPACE}40+)",
-=======
-		"#Obtenido de Tulpa Hidromimético (Niv.{NON_BREAK_SPACE}40+)",
->>>>>>> upstream/main
 		"Sintetizar"
 	]
 }

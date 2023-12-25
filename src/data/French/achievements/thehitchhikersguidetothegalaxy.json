@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Le Guide du voyageur galactique",
 	"achievementgroup": "Merveilles du monde",
 	"ishidden": true,
 	"sortorder": 2187,
-=======
-	"id": [
-		82188
-	],
-	"name": "Le Guide du voyageur galactique",
-	"achievementGroupName": "Merveilles du monde",
-	"isHidden": true,
-	"sortOrder": 2187,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Le Guide du voyageur galactique",
 		"description": "Entrez deux fois dans le ventre de la bête en un seul défi.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Primo-gemme",
 			"count": 10
 		}

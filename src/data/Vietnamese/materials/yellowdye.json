@@ -1,13 +1,8 @@
 {
-	"id": 101403,
 	"name": "Thuốc Nhuộm Vàng",
-	"sortRank": 331,
 	"description": "Thuốc nhuộm vàng, có thể dùng để chế tạo đồ trang trí.",
-<<<<<<< HEAD
 	"sortorder": 2984,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu",
-	"sources": []
+	"materialtype": "Nguyên Liệu",
+	"source": []
 }

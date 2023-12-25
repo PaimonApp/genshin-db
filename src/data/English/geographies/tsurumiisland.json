@@ -1,11 +1,8 @@
 {
-	"id": 70300018,
 	"name": "Tsurumi Island",
-	"areaId": 3600,
-	"areaName": "Tsurumi Island",
+	"area": "Tsurumi Island",
 	"description": "\"Pirka chikappo! Kapatcir kamuy!\"\n\"We slumber together in a spider-silk nest of fog.\"",
-	"regionId": 3,
-	"regionName": "Inazuma",
-	"showOnlyUnlocked": true,
-	"sortOrder": 218
+	"region": "Inazuma",
+	"showonlyunlocked": true,
+	"sortorder": 218
 }

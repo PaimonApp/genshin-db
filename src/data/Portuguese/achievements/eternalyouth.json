@@ -1,23 +1,13 @@
 {
-	"id": [
-		80072
-	],
 	"name": "Juventude Eterna",
-<<<<<<< HEAD
 	"achievementgroup": "Andarilho do Mundo Mortal - Série II",
 	"sortorder": 72,
-=======
-	"achievementGroupId": 22,
-	"achievementGroupName": "Andarilho do Mundo Mortal - Série II",
-	"sortOrder": 72,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Juventude Eterna",
 		"description": "Colete toda a série “A Melancolia de Vera”",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Gema Essencial",
 			"count": 5
 		}

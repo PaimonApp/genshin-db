@@ -1,13 +1,7 @@
 {
-	"id": 26,
 	"name": "Inazuma: Yıldırımı ve Sonsuzluğu Kucaklayan Adalar - II. Seri",
-<<<<<<< HEAD
 	"sortorder": 35,
-=======
-	"sortOrder": 35,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210097,
 		"name": "Inazuma: Sangonomiya Arması"
 	}
 }

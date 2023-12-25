@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Надежда - хорошее слово",
 	"achievementgroup": "Чудеса света",
 	"ishidden": true,
 	"sortorder": 1414,
-=======
-	"id": [
-		81430
-	],
-	"name": "Надежда - хорошее слово",
-	"achievementGroupName": "Чудеса света",
-	"isHidden": true,
-	"sortOrder": 1414,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Надежда - хорошее слово",
 		"description": "Лицезрейте появление новой жизни в руинах.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 5
 		}

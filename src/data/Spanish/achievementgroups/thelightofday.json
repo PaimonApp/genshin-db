@@ -1,13 +1,7 @@
 {
-	"id": 28,
 	"name": "La claridad del día",
-<<<<<<< HEAD
 	"sortorder": 38,
-=======
-	"sortOrder": 38,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210109,
 		"name": "Inazuma - Tokoyo"
 	}
 }

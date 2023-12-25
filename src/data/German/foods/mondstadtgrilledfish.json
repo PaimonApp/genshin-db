@@ -1,10 +1,9 @@
 {
-	"id": 1006,
 	"name": "Gegrillter Fischspieß",
-	"rarity": 1,
+	"rarity": "1",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "Gericht zur LP-Wiederherstellung",
+	"foodfilter": "Gericht zur LP-Wiederherstellung",
+	"foodcategory": "Recovery_Revive",
 	"effect": "Belebt die gewählte Figur wieder.\nStellt 50 bis 150 LP wieder her.",
 	"description": "Ein auf kleiner Flamme gegrillter Fischspieß. Das Fleisch hat aufgrund des Grillens seinen hohen Wasseranteil verloren und dafür eine feste Konsistenz bekommen. Der Pfeffer gibt dem frischen Geschmack eine besondere Note.",
 	"suspicious": {
@@ -21,12 +20,10 @@
 	},
 	"ingredients": [
 		{
-			"id": 100084,
 			"name": "Fisch",
 			"count": 1
 		},
 		{
-			"id": 100077,
 			"name": "Pfeffer",
 			"count": 1
 		}

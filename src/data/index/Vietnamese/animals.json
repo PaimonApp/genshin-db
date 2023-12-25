@@ -299,7 +299,7 @@
 		"Vịt 0": "scarletbeakduck"
 	},
 	"categories": {
-		"SUBTYPE_FISH": [
+		"Cá": [
 			"abidingangelfish",
 			"aizenmedaka",
 			"akaimaou",
@@ -342,7 +342,7 @@
 			"truefruitangler",
 			"venomspinefish"
 		],
-		"COUNT_TYPE_FISH": [
+		"FISH": [
 			"abidingangelfish",
 			"aizenmedaka",
 			"akaimaou",
@@ -381,7 +381,7 @@
 			"truefruitangler",
 			"venomspinefish"
 		],
-		"SUBTYPE_CRITTER": [
+		"Khác": [
 			"adornedunagi",
 			"anemocrystalfly",
 			"bluefrog",
@@ -414,7 +414,7 @@
 			"sunnyloach",
 			"sunsetloach"
 		],
-		"COUNT_TYPE_CAPTURE": [
+		"CAPTURE": [
 			"adornedunagi",
 			"amberhuntinghound",
 			"anemocrystalfly",
@@ -487,7 +487,7 @@
 			"viridianfantailpigeon",
 			"whitepigeon"
 		],
-		"SUBTYPE_ANIMAL": [
+		"Thú": [
 			"amateurweaselthief",
 			"amberhuntinghound",
 			"bakedanuki",
@@ -532,7 +532,7 @@
 			"tenttortoise",
 			"tigerstripedcat"
 		],
-		"COUNT_TYPE_NONE": [
+		"NONE": [
 			"amateurweaselthief",
 			"azurecrane",
 			"bakedanuki",
@@ -572,7 +572,7 @@
 			"tigerstripedcat",
 			"umbertailfalcon"
 		],
-		"SUBTYPE_AVIARY": [
+		"Chim": [
 			"azurecrane",
 			"blackkingpigeon",
 			"bluecrownfinch",
@@ -607,16 +607,16 @@
 		]
 	},
 	"properties": {
-		"categoryType": [
-			"SUBTYPE_FISH",
-			"SUBTYPE_CRITTER",
-			"SUBTYPE_ANIMAL",
-			"SUBTYPE_AVIARY"
+		"category": [
+			"Cá",
+			"Khác",
+			"Thú",
+			"Chim"
 		],
-		"countType": [
-			"COUNT_TYPE_FISH",
-			"COUNT_TYPE_CAPTURE",
-			"COUNT_TYPE_NONE"
+		"counttype": [
+			"FISH",
+			"CAPTURE",
+			"NONE"
 		]
 	}
 }

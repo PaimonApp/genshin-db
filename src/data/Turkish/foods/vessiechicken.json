@@ -1,10 +1,9 @@
 {
-	"id": 4401,
 	"name": "Vessie Tavuğu",
-	"rarity": 4,
+	"rarity": "4",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Saldırı Artırıcı Yemek",
+	"foodfilter": "Saldırı Artırıcı Yemek",
+	"foodcategory": "Atk_Add",
 	"effect": "300 saniyeliğine tüm grup üyelerinin Fiziksel Hasarını %25 ila %45, Kritik Oranını %6 ila %10 artırır.\nEşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
 	"description": "Meşhur bir Fontaine yiyeceği. \"Vessie\" Fontaine'de \"mesane\" anlamına gelir. İsminden anlaşılacağı gibi, baharat katılan tavuk eti bir mesaneye doldurulur ve et suyunda haşlanır. Pişerken mesane toparlak bir Uçarlop gibi şişer. İnsanlar genelde sadece tavuk etini yemeyi sever.",
 	"suspicious": {
@@ -21,22 +20,18 @@
 	},
 	"ingredients": [
 		{
-			"id": 100064,
 			"name": "Kuş Eti",
 			"count": 4
 		},
 		{
-			"id": 100061,
 			"name": "Çiğ Et",
 			"count": 4
 		},
 		{
-			"id": 101231,
 			"name": "Marcotte",
 			"count": 3
 		},
 		{
-			"id": 100099,
 			"name": "Fermente Meyve Suyu",
 			"count": 2
 		}

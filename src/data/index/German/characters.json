@@ -12,10 +12,6 @@
 		"bennett": "Bennett",
 		"candace": "Candace",
 		"charlotte": "Charlotte",
-<<<<<<< HEAD
-=======
-		"chevreuse": "Chevreuse",
->>>>>>> upstream/main
 		"chongyun": "Chongyun",
 		"collei": "Collei",
 		"cyno": "Cyno",
@@ -50,10 +46,6 @@
 		"mika": "Mika",
 		"mona": "Mona",
 		"nahida": "Nahida",
-<<<<<<< HEAD
-=======
-		"navia": "Navia",
->>>>>>> upstream/main
 		"neuvillette": "Neuvillette",
 		"nilou": "Nilou",
 		"ningguang": "Ningguang",
@@ -98,10 +90,6 @@
 		"Bennett": "bennett",
 		"Candace": "candace",
 		"Charlotte": "charlotte",
-<<<<<<< HEAD
-=======
-		"Chevreuse": "chevreuse",
->>>>>>> upstream/main
 		"Chongyun": "chongyun",
 		"Collei": "collei",
 		"Cyno": "cyno",
@@ -136,10 +124,6 @@
 		"Mika": "mika",
 		"Mona": "mona",
 		"Nahida": "nahida",
-<<<<<<< HEAD
-=======
-		"Navia": "navia",
->>>>>>> upstream/main
 		"Neuvillette": "neuvillette",
 		"Nilou": "nilou",
 		"Ningguang": "ningguang",
@@ -195,11 +179,6 @@
 		"Sagitta Scutum": "candace",
 		"Linse der Wahrheit": "charlotte",
 		"Hualina Veritas": "charlotte",
-<<<<<<< HEAD
-=======
-		"Vollstreckerin des Gesetzes": "chevreuse",
-		"Sclopetum Ensiferum": "chevreuse",
->>>>>>> upstream/main
 		"Spuren im schmelzenden Schnee": "chongyun",
 		"Nubis Caesor": "chongyun",
 		"Taufrisches Keimblatt": "collei",
@@ -267,11 +246,6 @@
 		"Astrolabos": "mona",
 		"Natürliche Reinheit": "nahida",
 		"Sapientia Oromasdis": "nahida",
-<<<<<<< HEAD
-=======
-		"Leiterin der leuchtenden Rose": "navia",
-		"Rosa Multiflora": "navia",
->>>>>>> upstream/main
 		"Fäller des unerbittlichen Urteils": "neuvillette",
 		"???": "neuvillette",
 		"Lotoslicht auf der Tanzbühne": "nilou",
@@ -341,10 +315,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"diona",
@@ -401,10 +371,6 @@
 			"lyney",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"qiqi",
@@ -422,11 +388,11 @@
 			"yoimiya",
 			"zhongli"
 		],
-		"ELEMENT_NONE": [
+		"k. A.": [
 			"aether",
 			"lumine"
 		],
-		"WEAPON_SWORD_ONE_HAND": [
+		"Einhänder": [
 			"aether",
 			"albedo",
 			"alhaitham",
@@ -447,7 +413,7 @@
 			"qiqi",
 			"xingqiu"
 		],
-		"FIGHT_PROP_ATTACK_PERCENT": [
+		"ANG": [
 			"aether",
 			"amber",
 			"charlotte",
@@ -508,10 +474,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -546,10 +508,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -639,17 +597,16 @@
 			"aether",
 			"lumine"
 		],
-		"ELEMENT_GEO": [
+		"Geo": [
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"FIGHT_PROP_ROCK_ADD_HURT": [
+		"Geo-SCH-Bonus": [
 			"albedo",
 			"gorou",
 			"ningguang",
@@ -687,7 +644,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -710,7 +666,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -735,7 +690,6 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
@@ -754,13 +708,12 @@
 			"albedo",
 			"aratakiitto",
 			"gorou",
-			"navia",
 			"ningguang",
 			"noelle",
 			"yunjin",
 			"zhongli"
 		],
-		"ELEMENT_DENDRO": [
+		"Dendro": [
 			"alhaitham",
 			"baizhu",
 			"collei",
@@ -770,7 +723,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"FIGHT_PROP_GRASS_ADD_HURT": [
+		"Dendro-SCH-Bonus": [
 			"alhaitham",
 			"tighnari"
 		],
@@ -866,7 +819,7 @@
 			"tighnari",
 			"yaoyao"
 		],
-		"ELEMENT_CRYO": [
+		"Kryo": [
 			"aloy",
 			"charlotte",
 			"chongyun",
@@ -883,7 +836,7 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"WEAPON_BOW": [
+		"Bogen": [
 			"aloy",
 			"amber",
 			"collei",
@@ -900,7 +853,7 @@
 			"yelan",
 			"yoimiya"
 		],
-		"FIGHT_PROP_ICE_ADD_HURT": [
+		"Kryo-SCH-Bonus": [
 			"aloy",
 			"diona"
 		],
@@ -911,10 +864,6 @@
 			"beidou",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"collei",
 			"dehya",
 			"diona",
@@ -938,7 +887,6 @@
 			"lynette",
 			"mona",
 			"nahida",
-			"navia",
 			"nilou",
 			"ningguang",
 			"noelle",
@@ -1064,10 +1012,9 @@
 			"shenhe",
 			"wriothesley"
 		],
-		"ELEMENT_PYRO": [
+		"Pyro": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1084,13 +1031,11 @@
 			"faruzan",
 			"mika",
 			"mona",
-			"navia",
 			"ningguang"
 		],
 		"Agnidus-Achat-Splitter": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1116,7 +1061,6 @@
 		"Agnidus-Achat-Bruchstück": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1145,7 +1089,6 @@
 		"Agnidus-Achat-Brocken": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1166,7 +1109,6 @@
 		"Agnidus-Achat": [
 			"amber",
 			"bennett",
-			"chevreuse",
 			"dehya",
 			"diluc",
 			"hutao",
@@ -1178,7 +1120,7 @@
 			"yanfei",
 			"yoimiya"
 		],
-		"WEAPON_CLAYMORE": [
+		"Zweihänder": [
 			"aratakiitto",
 			"beidou",
 			"chongyun",
@@ -1188,13 +1130,12 @@
 			"eula",
 			"freminet",
 			"kaveh",
-			"navia",
 			"noelle",
 			"razor",
 			"sayu",
 			"xinyan"
 		],
-		"FIGHT_PROP_CRITICAL": [
+		"KT": [
 			"aratakiitto",
 			"diluc",
 			"furina",
@@ -1266,7 +1207,7 @@
 			"yaoyao",
 			"zhongli"
 		],
-		"WEAPON_CATALYST": [
+		"Katalysator": [
 			"baizhu",
 			"barbara",
 			"charlotte",
@@ -1284,11 +1225,10 @@
 			"yaemiko",
 			"yanfei"
 		],
-		"FIGHT_PROP_HP_PERCENT": [
+		"LP": [
 			"baizhu",
 			"barbara",
 			"candace",
-			"chevreuse",
 			"dehya",
 			"dori",
 			"kirara",
@@ -1348,7 +1288,7 @@
 			"nilou",
 			"tighnari"
 		],
-		"ELEMENT_HYDRO": [
+		"Hydro": [
 			"barbara",
 			"candace",
 			"furina",
@@ -1435,7 +1375,7 @@
 			"xingqiu",
 			"yelan"
 		],
-		"ELEMENT_ELECTRO": [
+		"Elektro": [
 			"beidou",
 			"cyno",
 			"dori",
@@ -1448,7 +1388,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"FIGHT_PROP_ELEC_ADD_HURT": [
+		"Elektro-SCH-Bonus": [
 			"beidou"
 		],
 		"Vajrada-Amethyst-Splitter": [
@@ -1544,7 +1484,7 @@
 			"razor",
 			"yaemiko"
 		],
-		"FIGHT_PROP_CHARGE_EFFICIENCY": [
+		"Aufladerate": [
 			"bennett",
 			"kaeya",
 			"mona",
@@ -1552,9 +1492,8 @@
 			"venti",
 			"yunjin"
 		],
-		"WEAPON_POLE": [
+		"Stangenwaffe": [
 			"candace",
-			"chevreuse",
 			"cyno",
 			"hutao",
 			"mika",
@@ -1586,18 +1525,10 @@
 		],
 		"Fontaine": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"freminet",
 			"furina",
 			"lynette",
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1606,10 +1537,6 @@
 		],
 		"Greifendes Zahnrad": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -1619,41 +1546,14 @@
 		],
 		"Mechanisches Stirnrad": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"Neuartiges Uhrwerk-Zahnrad": [
 			"charlotte",
-<<<<<<< HEAD
 			"lynette",
 			"wriothesley"
 		],
-=======
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"Januar": [
-			"chevreuse",
-			"diona",
-			"kirara",
-			"rosaria",
-			"thoma",
-			"wanderer"
-		],
-		"Lumidouce-Glockenblume": [
-			"chevreuse",
-			"lynette"
-		],
-		"Fontemer-Horn": [
-			"chevreuse",
-			"neuvillette"
-		],
->>>>>>> upstream/main
 		"Cor Lapis": [
 			"chongyun",
 			"keqing",
@@ -1675,7 +1575,7 @@
 			"collei",
 			"tighnari"
 		],
-		"FIGHT_PROP_CRITICAL_HURT": [
+		"KSCH": [
 			"cyno",
 			"eula",
 			"ganyu",
@@ -1683,10 +1583,6 @@
 			"kamisatoayaka",
 			"kamisatoayato",
 			"keqing",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"wriothesley"
 		],
@@ -1724,6 +1620,13 @@
 			"tartaglia",
 			"yelan"
 		],
+		"Januar": [
+			"diona",
+			"kirara",
+			"rosaria",
+			"thoma",
+			"wanderer"
+		],
 		"Wasserlilie": [
 			"diona",
 			"kaeya"
@@ -1754,7 +1657,7 @@
 			"eula",
 			"jean"
 		],
-		"ELEMENT_ANEMO": [
+		"Anemo": [
 			"faruzan",
 			"jean",
 			"kaedeharakazuha",
@@ -1819,30 +1722,17 @@
 		],
 		"Transozeanische Perle": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Neuartiges Uhrwerk-Ersatzteil – Coppelius": [
-			"freminet",
-			"navia"
+			"freminet"
 		],
 		"Transozeanischer Brocken": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Xenochromatischer Kristall": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette"
 		],
 		"Seeschimmer-Maiglöckchen": [
@@ -1903,7 +1793,7 @@
 			"xiao",
 			"yanfei"
 		],
-		"FIGHT_PROP_HEAL_ADD": [
+		"Heilungsbonus": [
 			"jean",
 			"qiqi"
 		],
@@ -1920,7 +1810,7 @@
 			"sucrose",
 			"venti"
 		],
-		"FIGHT_PROP_ELEMENT_MASTERY": [
+		"Elementarkunde": [
 			"kaedeharakazuha",
 			"kaveh",
 			"lisa",
@@ -1984,7 +1874,7 @@
 			"kirara",
 			"raidenshogun"
 		],
-		"FIGHT_PROP_FIRE_ADD_HURT": [
+		"Pyro-SCH-Bonus": [
 			"klee",
 			"yanfei"
 		],
@@ -2018,17 +1908,14 @@
 			"noelle",
 			"rosaria"
 		],
-		"FIGHT_PROP_WIND_ADD_HURT": [
+		"Anemo-SCH-Bonus": [
 			"lynette",
 			"shikanoinheizou",
 			"sucrose"
 		],
-<<<<<<< HEAD
 		"Lumidouce-Glockenblume": [
 			"lynette"
 		],
-=======
->>>>>>> upstream/main
 		"Neuartiges Uhrwerk-Ersatzteil – Coppelia": [
 			"lynette"
 		],
@@ -2042,21 +1929,12 @@
 			"mika",
 			"razor"
 		],
-<<<<<<< HEAD
 		"Lumitoile": [
 			"neuvillette"
 		],
 		"Fontemer-Horn": [
 			"neuvillette"
 		],
-=======
-		"Quelle des ersten Taus": [
-			"navia"
-		],
-		"Lumitoile": [
-			"neuvillette"
-		],
->>>>>>> upstream/main
 		"Padisarah": [
 			"nilou"
 		],
@@ -2064,13 +1942,13 @@
 			"ningguang",
 			"yunjin"
 		],
-		"FIGHT_PROP_DEFENSE_PERCENT": [
+		"VTD": [
 			"noelle"
 		],
-		"FIGHT_PROP_PHYSICAL_ADD_HURT": [
+		"Physischer SCH-Bonus": [
 			"razor"
 		],
-		"FIGHT_PROP_WATER_ADD_HURT": [
+		"Hydro-SCH-Bonus": [
 			"sangonomiyakokomi",
 			"tartaglia"
 		],
@@ -2102,43 +1980,43 @@
 	},
 	"properties": {
 		"rarity": [
-			5,
-			4
+			"5",
+			"4"
 		],
-		"elementType": [
-			"ELEMENT_NONE",
-			"ELEMENT_GEO",
-			"ELEMENT_DENDRO",
-			"ELEMENT_CRYO",
-			"ELEMENT_PYRO",
-			"ELEMENT_HYDRO",
-			"ELEMENT_ELECTRO",
-			"ELEMENT_ANEMO"
+		"element": [
+			"k. A.",
+			"Geo",
+			"Dendro",
+			"Kryo",
+			"Pyro",
+			"Hydro",
+			"Elektro",
+			"Anemo"
 		],
-		"weaponType": [
-			"WEAPON_SWORD_ONE_HAND",
-			"WEAPON_BOW",
-			"WEAPON_CLAYMORE",
-			"WEAPON_CATALYST",
-			"WEAPON_POLE"
+		"weapontype": [
+			"Einhänder",
+			"Bogen",
+			"Zweihänder",
+			"Katalysator",
+			"Stangenwaffe"
 		],
-		"substatType": [
-			"FIGHT_PROP_ATTACK_PERCENT",
-			"FIGHT_PROP_ROCK_ADD_HURT",
-			"FIGHT_PROP_GRASS_ADD_HURT",
-			"FIGHT_PROP_ICE_ADD_HURT",
-			"FIGHT_PROP_CRITICAL",
-			"FIGHT_PROP_HP_PERCENT",
-			"FIGHT_PROP_ELEC_ADD_HURT",
-			"FIGHT_PROP_CHARGE_EFFICIENCY",
-			"FIGHT_PROP_CRITICAL_HURT",
-			"FIGHT_PROP_HEAL_ADD",
-			"FIGHT_PROP_ELEMENT_MASTERY",
-			"FIGHT_PROP_FIRE_ADD_HURT",
-			"FIGHT_PROP_WIND_ADD_HURT",
-			"FIGHT_PROP_DEFENSE_PERCENT",
-			"FIGHT_PROP_PHYSICAL_ADD_HURT",
-			"FIGHT_PROP_WATER_ADD_HURT"
+		"substat": [
+			"ANG",
+			"Geo-SCH-Bonus",
+			"Dendro-SCH-Bonus",
+			"Kryo-SCH-Bonus",
+			"KT",
+			"LP",
+			"Elektro-SCH-Bonus",
+			"Aufladerate",
+			"KSCH",
+			"Heilungsbonus",
+			"Elementarkunde",
+			"Pyro-SCH-Bonus",
+			"Anemo-SCH-Bonus",
+			"VTD",
+			"Physischer SCH-Bonus",
+			"Hydro-SCH-Bonus"
 		],
 		"gender": [
 			"Männlich",
@@ -2222,11 +2100,6 @@
 			"„Tourbillon-Apparat“",
 			"Mechanisches Stirnrad",
 			"Neuartiges Uhrwerk-Zahnrad",
-<<<<<<< HEAD
-=======
-			"Lumidouce-Glockenblume",
-			"Fontemer-Horn",
->>>>>>> upstream/main
 			"Cor Lapis",
 			"Fluxeiskern",
 			"Rukkhashava-Pilz",
@@ -2276,21 +2149,13 @@
 			"Nilotpala-Lotos",
 			"Ewiges Uhrwerk",
 			"Valbeere",
-<<<<<<< HEAD
 			"Lumidouce-Glockenblume",
-=======
->>>>>>> upstream/main
 			"Neuartiges Uhrwerk-Ersatzteil – Coppelia",
 			"Regenbogenrose",
 			"Des Kaisers Entschlossenheit",
 			"Wolfshaken",
-<<<<<<< HEAD
 			"Lumitoile",
 			"Fontemer-Horn",
-=======
-			"Quelle des ersten Taus",
-			"Lumitoile",
->>>>>>> upstream/main
 			"Padisarah",
 			"Glaslilie",
 			"Falsche Flosse der Drachennachfahren",

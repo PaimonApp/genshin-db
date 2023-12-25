@@ -1,10 +1,7 @@
 {
-	"id": 70400005,
 	"name": "Memorie di Alcazarzaray",
-	"areaId": 4100,
-	"areaName": "Giungla di Lokapala",
+	"area": "Giungla di Lokapala",
 	"description": "Un giardino viola si estende dinanzi al palazzo del cuore della foresta. I fiori danzano e gli uccellini cinguettano. Esiste uno scenario più appropriato per un incontro romantico?",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"sortOrder": 305
+	"region": "Sumeru",
+	"sortorder": 305
 }

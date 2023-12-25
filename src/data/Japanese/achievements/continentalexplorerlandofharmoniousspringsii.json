@@ -1,27 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "大地調査·百泉調和の地·2",
 	"achievementgroup": "フォンテーヌ·澄み渡った白露の泉舞·2",
 	"sortorder": 248,
-=======
-	"id": [
-		80272
-	],
-	"name": "大地調査·百泉調和の地·2",
-	"achievementGroupId": 45,
-	"achievementGroupName": "フォンテーヌ·澄み渡った白露の泉舞·2",
-	"sortOrder": 248,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "大地調査·百泉調和の地·2",
 		"description": "フォンテーヌ地域のリフィー地区、フォンテーヌ運動エネルギー工学科学研究院地区のマップを開放する。",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "原石",
 			"count": 5
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 110011,
 	"name": "Xúc Xích",
-	"sortRank": 322,
 	"description": "Thịt được nhồi trong lòng dài. Rất tiện để lưu trữ, có thể đáp ứng nhu cầu người thích ăn thịt.",
-<<<<<<< HEAD
 	"sortorder": 2956,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Nhận khi gia công nấu nướng"
 	]
 }

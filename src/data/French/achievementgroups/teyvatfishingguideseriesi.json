@@ -1,13 +1,7 @@
 {
-	"id": 25,
 	"name": "Guide de pêche en Teyvat - Partie I",
-<<<<<<< HEAD
 	"sortorder": 37,
-=======
-	"sortOrder": 37,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210098,
 		"name": "Succès - Clous"
 	}
 }

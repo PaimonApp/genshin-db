@@ -1,18 +1,14 @@
 {
-	"id": [
-		81359
-	],
 	"name": "Dopodiché...",
-	"achievementGroupName": "Meraviglie del mondo",
-	"isHidden": true,
-	"sortOrder": 1345,
+	"achievementgroup": "Meraviglie del mondo",
+	"ishidden": true,
+	"sortorder": 1345,
 	"stages": 1,
 	"stage1": {
 		"title": "Dopodiché...",
 		"description": "\"Il cavaliere ha sconfitto. il re demone, salvando la principessa imprigionata. La luce è tornata nel regno...\"",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogemma",
 			"count": 5
 		}

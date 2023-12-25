@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Relato do Sobrevivente",
 	"achievementgroup": "Maravilhas do Mundo",
 	"ishidden": true,
 	"sortorder": 1362,
-=======
-	"id": [
-		81378
-	],
-	"name": "Relato do Sobrevivente",
-	"achievementGroupName": "Maravilhas do Mundo",
-	"isHidden": true,
-	"sortOrder": 1362,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Relato do Sobrevivente",
 		"description": "Escute Clynes narrar o que aconteceu.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Gema Essencial",
 			"count": 5
 		}

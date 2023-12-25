@@ -1,24 +1,17 @@
 {
-	"id": 104325,
 	"name": "Filosofie dell'eleganza",
-	"rarity": 4,
-	"sortRank": 13108,
 	"description": "Materiale per l'aumento di livello dei talenti.\nL'eleganza è la forma della Nazione del Tuono.\nL'eleganza detesta la volgarità, e cammina sempre sola. Non soccombe al male, non è scossa dall'amore e non cerca rifugio nell'ignoranza: è questo il modo in cui viene percepito il divario tra l'elegante e lo sprezzante.",
-<<<<<<< HEAD
 	"sortorder": 3238,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Materiale per talenti dei personaggi",
-	"dropDomainId": 4413,
-	"dropDomainName": "Dominio della maestria: Valle del tuono",
-	"daysOfWeek": [
+	"materialtype": "Materiale per talenti dei personaggi",
+	"dropdomain": "Dominio della maestria: Valle del tuono",
+	"daysofweek": [
 		"Martedì",
 		"Venerdì",
 		"Domenica"
 	],
-	"sources": [
+	"source": [
 		"Creato"
 	]
 }

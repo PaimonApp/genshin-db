@@ -1,13 +1,7 @@
 {
-	"id": 38,
 	"name": "Sumeru: Deserto Dourado — II",
-<<<<<<< HEAD
 	"sortorder": 42,
-=======
-	"sortOrder": 42,
->>>>>>> upstream/main
 	"reward": {
-		"id": 210151,
 		"name": "Sumeru: Névoa de Areia"
 	}
 }

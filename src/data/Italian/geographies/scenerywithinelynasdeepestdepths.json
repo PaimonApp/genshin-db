@@ -1,11 +1,8 @@
 {
-	"id": 70400055,
 	"name": "Scenario nelle profondità recondite di Elynas",
-	"areaId": 50203,
-	"areaName": "\"Un luogo molto caldo\"",
+	"area": "\"Un luogo molto caldo\"",
 	"description": "\"Piacere di conoscerti!\"",
-	"regionId": 5,
-	"regionName": "Fontaine",
-	"showOnlyUnlocked": true,
-	"sortOrder": 355
+	"region": "Fontaine",
+	"showonlyunlocked": true,
+	"sortorder": 355
 }

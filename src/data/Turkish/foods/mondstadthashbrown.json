@@ -1,10 +1,9 @@
 {
-	"id": 3007,
 	"name": "Mondstadt Usulü Mücver",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_HEAL",
-	"filterText": "İyileştirici Yemek",
+	"foodfilter": "İyileştirici Yemek",
+	"foodcategory": "Recovery_HpAdd",
 	"effect": "Seçili karakterin Maks. Canını %30 ila %34 yeniler, ardından 600 ila 1.900 Can verir.",
 	"description": "Mondstadt usulü patates mücveri. İçerisine eklenen çam kozalağı mücvere gevreklik kazandırmış, yanında servis edilen reçel ile her yaştan insana hitap eden bir lezzete sahiptir.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 100020,
 			"name": "Çam Kozalağı",
 			"count": 2
 		},
 		{
-			"id": 100080,
 			"name": "Patates",
 			"count": 1
 		},
 		{
-			"id": 110008,
 			"name": "Reçel",
 			"count": 1
 		}

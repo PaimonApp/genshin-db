@@ -1,15 +1,10 @@
 {
-	"id": 101001,
 	"name": "Iron Chunk",
-	"sortRank": 301,
 	"description": "This iron chunk can be turned into a multitude of handy items in the hands of a skilled craftsman.",
-<<<<<<< HEAD
 	"sortorder": 2821,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Forging Ore",
-	"sources": [
+	"materialtype": "Forging Ore",
+	"source": [
 		"Found in the wild"
 	]
 }

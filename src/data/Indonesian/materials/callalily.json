@@ -1,15 +1,10 @@
 {
-	"id": 100056,
 	"name": "Calla Lily",
-	"sortRank": 311,
 	"description": "Bunga yang tumbuh di dekat sumber air. Saat dimasak, kelopaknya memiliki tekstur yang renyah, dengan rasa manis dan sedikit pahit.",
-<<<<<<< HEAD
 	"sortorder": 2852,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Produk khas Mondstadt",
-	"sources": [
+	"materialtype": "Produk khas Mondstadt",
+	"source": [
 		"Ditemukan di dekat danau",
 		"Rekomendasi: Ditemukan di Springvale"
 	]

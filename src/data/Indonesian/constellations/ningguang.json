@@ -1,46 +1,27 @@
 {
-	"id": 2701,
 	"name": "Ningguang",
 	"c1": {
 		"name": "Piercing Fragments",
-		"descriptionRaw": "Saat Normal Attack mengenai musuh, mengakibatkan DMG Area.",
-		"description": "Saat Normal Attack mengenai musuh, mengakibatkan DMG Area."
+		"effect": "Saat Normal Attack mengenai musuh, mengakibatkan DMG Area."
 	},
 	"c2": {
 		"name": "Shock Effect",
-<<<<<<< HEAD
 		"effect": "Saat **Jade Screen** pecah, cooldown skill tersebut selesai.\nDapat terpicu sekali setiap 6 detik."
-=======
-		"descriptionRaw": "Saat <color=#FFD780FF>Jade Screen</color> pecah, cooldown skill tersebut selesai.\nDapat terpicu sekali setiap 6 detik.",
-		"description": "Saat Jade Screen pecah, cooldown skill tersebut selesai.\nDapat terpicu sekali setiap 6 detik."
->>>>>>> upstream/main
 	},
 	"c3": {
 		"name": "Majesty be the Array of Stars",
-		"descriptionRaw": "Meningkatkan 3 level <color=#FFD780FF>Starshatter</color>.\nMaksimum: Lv. 15.",
-		"description": "Meningkatkan 3 level Starshatter.\nMaksimum: Lv. 15."
+		"effect": "Meningkatkan 3 level **Starshatter**.\nMaksimum: Lv. 15."
 	},
 	"c4": {
 		"name": "Exquisite be the Jade, Outshining All Beneath",
-<<<<<<< HEAD
 		"effect": "**Jade Screen** meningkatkan Elemental RES karakter di sekitar sebesar 10%."
-=======
-		"descriptionRaw": "<color=#FFD780FF>Jade Screen</color> meningkatkan Elemental RES karakter di sekitar sebesar 10%.",
-		"description": "Jade Screen meningkatkan Elemental RES karakter di sekitar sebesar 10%."
->>>>>>> upstream/main
 	},
 	"c5": {
 		"name": "Invincible be the Jade Screen",
-		"descriptionRaw": "Meningkatkan 3 level <color=#FFD780FF>Jade Screen</color>.\nMaksimum: Lv. 15.",
-		"description": "Meningkatkan 3 level Jade Screen.\nMaksimum: Lv. 15."
+		"effect": "Meningkatkan 3 level **Jade Screen**.\nMaksimum: Lv. 15."
 	},
 	"c6": {
 		"name": "Grandeur be the Seven Stars",
-<<<<<<< HEAD
 		"effect": "Ningguang akan mendapatkan 7 Star Jade ketika melancarkan **Starshatter**."
-=======
-		"descriptionRaw": "Ningguang akan mendapatkan 7 Star Jade ketika melancarkan <color=#FFD780FF>Starshatter</color>.",
-		"description": "Ningguang akan mendapatkan 7 Star Jade ketika melancarkan Starshatter."
->>>>>>> upstream/main
 	}
 }

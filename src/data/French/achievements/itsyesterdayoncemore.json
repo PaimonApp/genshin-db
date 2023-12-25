@@ -1,19 +1,13 @@
 {
-	"id": [
-		80142,
-		80143,
-		80144
-	],
 	"name": "Hier encore",
-	"achievementGroupName": "Merveilles du monde",
-	"sortOrder": 142,
+	"achievementgroup": "Merveilles du monde",
+	"sortorder": 142,
 	"stages": 3,
 	"stage1": {
 		"title": "Hier encore",
 		"description": "Activez 10 mélodies dans la Sérénithéière en utilisant l'ensemble décoratif « Euphonie céleste ».",
 		"progress": 10,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 5
 		}
@@ -23,7 +17,6 @@
 		"description": "Activez 30 mélodies dans la Sérénithéière en utilisant l'ensemble décoratif « Euphonie céleste ».",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 10
 		}
@@ -33,7 +26,6 @@
 		"description": "Activez 60 mélodies dans la Sérénithéière en utilisant l'ensemble décoratif « Euphonie céleste ».",
 		"progress": 60,
 		"reward": {
-			"id": 201,
 			"name": "Primo-gemme",
 			"count": 20
 		}

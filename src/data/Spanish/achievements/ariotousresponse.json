@@ -1,20 +1,13 @@
 {
-	"id": [
-		80197,
-		80198,
-		80199
-	],
 	"name": "Respuesta cromática",
-	"achievementGroupId": 37,
-	"achievementGroupName": "Invocación de los Sabios",
-	"sortOrder": 199,
+	"achievementgroup": "Invocación de los Sabios",
+	"sortorder": 199,
 	"stages": 3,
 	"stage1": {
 		"title": "Respuesta cromática",
 		"description": "Causa {param0} Reacciones Elementales en partidas que hayas ganado.",
 		"progress": 30,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 5
 		}
@@ -24,7 +17,6 @@
 		"description": "Causa {param0} Reacciones Elementales en partidas que hayas ganado.",
 		"progress": 150,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 10
 		}
@@ -34,7 +26,6 @@
 		"description": "Causa {param0} Reacciones Elementales en partidas que hayas ganado.",
 		"progress": 300,
 		"reward": {
-			"id": 201,
 			"name": "Protogema",
 			"count": 20
 		}

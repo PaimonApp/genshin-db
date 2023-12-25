@@ -1,15 +1,10 @@
 {
-	"id": 100053,
 	"name": "화염꽃 꽃술",
-	"sortRank": 320,
 	"description": "활활 타오르듯 뜨거운 꽃. 불타오르는 꽃잎은 물에 의해 꺼져도 은은한 열기를 뿜어낸다",
-<<<<<<< HEAD
 	"sortorder": 2890,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "소재",
-	"sources": [
+	"materialtype": "소재",
+	"source": [
 		"야외 채집",
 		"추천: 천풍 신전 채집"
 	]

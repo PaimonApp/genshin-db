@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "푸른 바다의 모험가·세 번째",
 	"achievementgroup": "폰타인·춤추는 샘의 흰 이슬·세 번째",
 	"sortorder": 271,
-=======
-	"id": [
-		80295,
-		80296,
-		80297
-	],
-	"name": "푸른 바다의 모험가·세 번째",
-	"achievementGroupId": 46,
-	"achievementGroupName": "폰타인·춤추는 샘의 흰 이슬·세 번째",
-	"sortOrder": 271,
->>>>>>> upstream/main
 	"stages": 3,
 	"stage1": {
 		"title": "푸른 바다의 모험가·세 번째",
 		"description": "모르트 구역, 에리니에스 숲 구역에서 월드 타임어택 {param0}개 클리어하기",
 		"progress": 3,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 5
 		}
@@ -33,10 +17,6 @@
 		"description": "모르트 구역, 에리니에스 숲 구역에서 월드 타임어택 {param0}개 클리어하기",
 		"progress": 6,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 10
 		}
@@ -46,10 +26,6 @@
 		"description": "모르트 구역, 에리니에스 숲 구역에서 월드 타임어택 {param0}개 클리어하기",
 		"progress": 9,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "원석",
 			"count": 20
 		}

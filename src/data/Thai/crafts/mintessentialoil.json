@@ -1,12 +1,10 @@
 {
-	"id": 16006,
 	"name": "Mint Essential Oil",
-	"sortOrder": 91030,
-	"unlockRank": 1,
-	"resultCount": 1,
+	"sortorder": 91030,
+	"unlockrank": 1,
+	"resultcount": 1,
 	"recipe": [
 		{
-			"id": 100016,
 			"name": "Mint",
 			"count": 3
 		}

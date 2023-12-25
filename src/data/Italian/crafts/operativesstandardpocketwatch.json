@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "Orologio comune da operativo",
 	"filter": "Materiale di potenziamento armi e personaggi",
 	"sortorder": 140180,
@@ -8,18 +7,6 @@
 	"moracost": 50,
 	"recipe": [
 		{
-=======
-	"id": 11059,
-	"name": "Orologio comune da operativo",
-	"filterText": "Materiale di potenziamento armi e personaggi",
-	"sortOrder": 140180,
-	"unlockRank": 15,
-	"resultCount": 1,
-	"moraCost": 50,
-	"recipe": [
-		{
-			"id": 112092,
->>>>>>> upstream/main
 			"name": "Vecchio orologio da operativo",
 			"count": 3
 		}

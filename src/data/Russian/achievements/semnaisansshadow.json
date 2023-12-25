@@ -1,17 +1,7 @@
 {
-<<<<<<< HEAD
 	"name": "Семнай без тени",
 	"achievementgroup": "Фонтейн: Танец источников белых рос III",
 	"sortorder": 274,
-=======
-	"id": [
-		80298
-	],
-	"name": "Семнай без тени",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Фонтейн: Танец источников белых рос III",
-	"sortOrder": 274,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Семнай без тени",
@@ -19,10 +9,6 @@
 		"description": "Познакомьтесь с таинственным духом на острове Эриний.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Камень Истока",
 			"count": 10
 		}

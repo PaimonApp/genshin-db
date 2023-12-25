@@ -1,11 +1,7 @@
 {
-	"id": [
-		80043
-	],
 	"name": "Erkundung des Landes – Liyue",
-	"achievementGroupId": 5,
-	"achievementGroupName": "Liyue: Der Hafen des Gesteins und der Verträge",
-	"sortOrder": 43,
+	"achievementgroup": "Liyue: Der Hafen des Gesteins und der Verträge",
+	"sortorder": 43,
 	"stages": 1,
 	"stage1": {
 		"title": "Erkundung des Landes – Liyue",
@@ -13,7 +9,6 @@
 		"description": "Schalte die folgenden Gebiete auf der Karte frei: Bishui-Ebene, Qiongji-Mündung, Minlin, Lisha und Wolkenmeer.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Urgestein",
 			"count": 5
 		}

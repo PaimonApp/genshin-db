@@ -1,10 +1,7 @@
 {
-	"id": 70400029,
 	"name": "Unablässiger Sandsturm des Damavand-Bergs",
-	"areaId": 5001,
-	"areaName": "Tanit-Lager",
+	"area": "Tanit-Lager",
 	"description": "Inmitten des Damavand-Bergs weht unablässig ein nie endender Sandsturm.\nDer mündlichen Überlieferung der Wüstenbewohner zufolge verbirgt sich im Zentrum dieses Sandsturms die „Oase der Ewigkeit“.",
-	"regionId": 4,
-	"regionName": "Sumeru",
-	"sortOrder": 329
+	"region": "Sumeru",
+	"sortorder": 329
 }

@@ -1,28 +1,14 @@
 {
-<<<<<<< HEAD
 	"name": "Selbst ein Kaiser könnte mir das nicht abkaufen",
 	"achievementgroup": "Wunder der Welt",
 	"ishidden": true,
 	"sortorder": 1415,
-=======
-	"id": [
-		81431
-	],
-	"name": "Selbst ein Kaiser könnte mir das nicht abkaufen",
-	"achievementGroupName": "Wunder der Welt",
-	"isHidden": true,
-	"sortOrder": 1415,
->>>>>>> upstream/main
 	"stages": 1,
 	"stage1": {
 		"title": "Selbst ein Kaiser könnte mir das nicht abkaufen",
 		"description": "Erhalte das größte Kunstwerk dieser Welt.",
 		"progress": 1,
 		"reward": {
-<<<<<<< HEAD
-=======
-			"id": 201,
->>>>>>> upstream/main
 			"name": "Urgestein",
 			"count": 5
 		}

@@ -1,15 +1,10 @@
 {
-	"id": 101236,
 	"name": "Rosa Arco-Íris",
-	"sortRank": 315,
 	"description": "Uma flor cor de rosa suave e delicada. Apesar do nome, Rosas Arco-Íris são, essencialmente, mais parecidas com lírios.",
-<<<<<<< HEAD
 	"sortorder": 2883,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Especialidade de Fontaine",
-	"sources": [
+	"materialtype": "Especialidade de Fontaine",
+	"source": [
 		"Encontrado na natureza",
 		"Recomendação: encontrado no Distrito Beryl"
 	]

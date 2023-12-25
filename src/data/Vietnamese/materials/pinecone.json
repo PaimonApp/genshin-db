@@ -1,15 +1,10 @@
 {
-	"id": 100020,
 	"name": "Quả Thông",
-	"sortRank": 321,
 	"description": "Loại hạt chắc mẩy có lượng dầu cao, chắc chắn sẽ không mọc thành cây trong bụng của loài sóc.",
-<<<<<<< HEAD
 	"sortorder": 2909,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Nguyên Liệu Thực Phẩm",
-	"sources": [
+	"materialtype": "Nguyên Liệu Thực Phẩm",
+	"source": [
 		"Thu Thập Bên Ngoài"
 	]
 }

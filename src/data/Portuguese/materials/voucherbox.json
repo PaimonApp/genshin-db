@@ -1,13 +1,8 @@
 {
-	"id": 107024,
 	"name": "Caixa Misteriosa de Cupons",
-	"sortRank": 420001,
 	"description": "Caixas que contêm Cupons das Boas-vindas. Elas têm um formato de flor único e podem ser encontradas apenas na Miragem Veluriyam. Elas também são colecionáveis importantes para convidados que desejam ganhar recompensas. Usar o Cristal Alegre e o Cristal Inebriante parece permitir que se encontre elas com mais eficácia...",
-<<<<<<< HEAD
 	"sortorder": 4877,
-=======
->>>>>>> upstream/main
 	"category": "CONSUME",
-	"typeText": "Item de Aventura",
-	"sources": []
+	"materialtype": "Item de Aventura",
+	"source": []
 }

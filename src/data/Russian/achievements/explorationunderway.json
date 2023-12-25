@@ -1,18 +1,13 @@
 {
-	"id": [
-		80159
-	],
 	"name": "Ведётся исследование...",
-	"achievementGroupId": 30,
-	"achievementGroupName": "Светоч пропасти",
-	"sortOrder": 159,
+	"achievementgroup": "Светоч пропасти",
+	"sortorder": 159,
 	"stages": 1,
 	"stage1": {
 		"title": "Ведётся исследование...",
 		"description": "Выполните поручение по исследованию Департамента по делам граждан.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}

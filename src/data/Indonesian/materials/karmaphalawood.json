@@ -1,19 +1,12 @@
 {
-	"id": 101314,
 	"name": "Karmaphala Wood",
-	"rarity": 1,
-	"sortRank": 330,
 	"description": "Kayu Pohon Karmaphala. Seseorang dapat dengan mudah mendapatkan sebuah papan permukaan yang halus dan bagus saat menggunakan bahan ini dan juga akan mendapatkan hasil yang cukup bagus tanpa melalui proses yang kompleks.\nDapat digunakan untuk membuat perabotan.",
-<<<<<<< HEAD
 	"sortorder": 2973,
 	"rarity": "1",
-=======
->>>>>>> upstream/main
 	"category": "WOOD",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Ditemukan di alam liar",
-		"Rekomendasi: Ditebang dari hutan di Sumeru",
-		"Konversi Kayu"
+		"Rekomendasi: Ditebang dari hutan di Sumeru"
 	]
 }

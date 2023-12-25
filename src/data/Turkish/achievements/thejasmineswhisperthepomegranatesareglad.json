@@ -1,11 +1,8 @@
 {
-	"id": [
-		81252
-	],
 	"name": "Yaseminler Fısıldar, Narlar Dinler",
-	"achievementGroupName": "Dünyanın Harikaları",
-	"isHidden": true,
-	"sortOrder": 1238,
+	"achievementgroup": "Dünyanın Harikaları",
+	"ishidden": true,
+	"sortorder": 1238,
 	"stages": 1,
 	"stage1": {
 		"title": "Yaseminler Fısıldar, Narlar Dinler",
@@ -13,7 +10,6 @@
 		"description": "\"Agnihotra Sutra\" görevini tamamla.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Köken Taşı",
 			"count": 10
 		}

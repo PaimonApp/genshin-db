@@ -1,13 +1,7 @@
 {
-	"id": [
-		80014,
-		80015,
-		80016
-	],
 	"name": "Вперёд и ввысь",
-	"achievementGroupId": 3,
-	"achievementGroupName": "Путешествие героя",
-	"sortOrder": 14,
+	"achievementgroup": "Путешествие героя",
+	"sortorder": 14,
 	"stages": 3,
 	"stage1": {
 		"title": "Вперёд и ввысь",
@@ -15,7 +9,6 @@
 		"description": "Возвысьте персонажа до фазы 2 в первый раз.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 5
 		}
@@ -26,7 +19,6 @@
 		"description": "Возвысьте персонажа до фазы 4 в первый раз.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 10
 		}
@@ -37,7 +29,6 @@
 		"description": "Возвысьте персонажа до фазы 6 в первый раз.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Камень Истока",
 			"count": 20
 		}

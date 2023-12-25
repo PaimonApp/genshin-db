@@ -1,18 +1,14 @@
 {
-	"id": [
-		84560
-	],
 	"name": "Học Giả Sumeru",
-	"achievementGroupName": "Thế Giới Muôn Màu",
-	"isHidden": true,
-	"sortOrder": 4084,
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4084,
 	"stages": 1,
 	"stage1": {
 		"title": "Học Giả Sumeru",
 		"description": "Đáp đúng 6 câu hỏi khác nhau.",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Nguyên Thạch",
 			"count": 5
 		}

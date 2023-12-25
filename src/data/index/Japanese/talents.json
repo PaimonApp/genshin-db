@@ -11,10 +11,6 @@
 		"bennett": "ベネット",
 		"candace": "キャンディス",
 		"charlotte": "シャルロット",
-<<<<<<< HEAD
-=======
-		"chevreuse": "シュヴルーズ",
->>>>>>> upstream/main
 		"chongyun": "重雲",
 		"collei": "コレイ",
 		"cyno": "セノ",
@@ -48,10 +44,6 @@
 		"mika": "ミカ",
 		"mona": "モナ",
 		"nahida": "ナヒーダ",
-<<<<<<< HEAD
-=======
-		"navia": "ナヴィア",
->>>>>>> upstream/main
 		"neuvillette": "ヌヴィレット",
 		"nilou": "ニィロウ",
 		"ningguang": "凝光",
@@ -100,10 +92,6 @@
 		"ベネット": "bennett",
 		"キャンディス": "candace",
 		"シャルロット": "charlotte",
-<<<<<<< HEAD
-=======
-		"シュヴルーズ": "chevreuse",
->>>>>>> upstream/main
 		"重雲": "chongyun",
 		"コレイ": "collei",
 		"セノ": "cyno",
@@ -137,10 +125,6 @@
 		"ミカ": "mika",
 		"モナ": "mona",
 		"ナヒーダ": "nahida",
-<<<<<<< HEAD
-=======
-		"ナヴィア": "navia",
->>>>>>> upstream/main
 		"ヌヴィレット": "neuvillette",
 		"ニィロウ": "nilou",
 		"凝光": "ningguang",
@@ -191,10 +175,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -228,10 +208,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -344,10 +320,6 @@
 			"bennett",
 			"candace",
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"chongyun",
 			"collei",
 			"cyno",
@@ -381,10 +353,6 @@
 			"mika",
 			"mona",
 			"nahida",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"nilou",
 			"ningguang",
@@ -767,10 +735,6 @@
 		],
 		"整合の歯車": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -782,10 +746,6 @@
 		],
 		"機構の平歯車": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
@@ -797,40 +757,11 @@
 		],
 		"奇械のコア歯車": [
 			"charlotte",
-<<<<<<< HEAD
-=======
-			"chevreuse",
->>>>>>> upstream/main
 			"lynette",
 			"wriothesley"
 		],
 		"光なき糸": [
-<<<<<<< HEAD
 			"charlotte"
-=======
-			"charlotte",
-			"navia"
-		],
-		"「秩序」の教え": [
-			"chevreuse",
-			"lynette",
-			"wriothesley"
-		],
-		"「秩序」の導き": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"「秩序」の哲学": [
-			"chevreuse",
-			"lynette",
-			"travelerhydro",
-			"wriothesley"
-		],
-		"光なき渦の眼": [
-			"chevreuse"
->>>>>>> upstream/main
 		],
 		"「勤労」の教え": [
 			"chongyun",
@@ -971,28 +902,16 @@
 		],
 		"異海の露": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"異海の塊": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"色変わりの結晶": [
 			"freminet",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1150,7 +1069,6 @@
 			"razor",
 			"xiangling"
 		],
-<<<<<<< HEAD
 		"「秩序」の教え": [
 			"lynette",
 			"wriothesley"
@@ -1167,29 +1085,16 @@
 		],
 		"「公平」の教え": [
 			"lyney",
-=======
-		"「公平」の教え": [
-			"lyney",
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"「公平」の導き": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
 		"「公平」の哲学": [
 			"lyney",
-<<<<<<< HEAD
-=======
-			"navia",
->>>>>>> upstream/main
 			"neuvillette",
 			"travelerhydro"
 		],
@@ -1276,13 +1181,6 @@
 			"「正義」の哲学",
 			"奇械のコア歯車",
 			"光なき糸",
-<<<<<<< HEAD
-=======
-			"「秩序」の教え",
-			"「秩序」の導き",
-			"「秩序」の哲学",
-			"光なき渦の眼",
->>>>>>> upstream/main
 			"「勤労」の教え",
 			"破損した仮面",
 			"「勤労」の導き",
@@ -1325,12 +1223,9 @@
 			"「浮世」の哲学",
 			"太古の樹海の一瞬",
 			"東風の爪",
-<<<<<<< HEAD
 			"「秩序」の教え",
 			"「秩序」の導き",
 			"「秩序」の哲学",
-=======
->>>>>>> upstream/main
 			"「公平」の教え",
 			"「公平」の導き",
 			"「公平」の哲学",

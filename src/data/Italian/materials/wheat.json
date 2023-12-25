@@ -1,15 +1,10 @@
 {
-	"id": 100017,
 	"name": "Frumento",
-	"sortRank": 321,
 	"description": "Un cereale dorato e baciato dal sole. Trasformato in farina, rappresenta un ingrediente di base per molti piatti.",
-<<<<<<< HEAD
 	"sortorder": 2906,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Ingrediente culinario",
-	"sources": [
+	"materialtype": "Ingrediente culinario",
+	"source": [
 		"Presente in natura",
 		"Acquistabile negli empori"
 	]

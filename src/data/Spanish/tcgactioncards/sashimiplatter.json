@@ -2,7 +2,7 @@
 	"id": 333010,
 	"name": "Surtido de sashimi",
 	"cardtype": "GCG_CARD_EVENT",
-	"cardtypetext": "Carta de evento",
+	"cardtypetext": "Evento",
 	"tags": [
 		"GCG_TAG_FOOD"
 	],

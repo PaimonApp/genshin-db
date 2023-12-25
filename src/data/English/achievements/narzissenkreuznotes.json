@@ -1,11 +1,7 @@
 {
-	"id": [
-		80299
-	],
 	"name": "Narzissenkreuz Notes",
-	"achievementGroupId": 46,
-	"achievementGroupName": "Fontaine: Dance of the Dew-White Springs (III)",
-	"sortOrder": 275,
+	"achievementgroup": "Fontaine: Dance of the Dew-White Springs (III)",
+	"sortorder": 275,
 	"stages": 1,
 	"stage1": {
 		"title": "Narzissenkreuz Notes",
@@ -13,7 +9,6 @@
 		"description": "What left its name behind? What lies spread all over the valley? What reflects itself in the mirror-water? What symbolizes the lonely, world-saving sacrifice?",
 		"progress": 1,
 		"reward": {
-			"id": 201,
 			"name": "Primogem",
 			"count": 10
 		}

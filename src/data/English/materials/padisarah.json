@@ -1,15 +1,10 @@
 {
-	"id": 101214,
 	"name": "Padisarah",
-	"sortRank": 314,
 	"description": "A holy and noble plant. The conditions for growth in its environment are very demanding. The flower buds can be processed to make valuable spices.",
-<<<<<<< HEAD
 	"sortorder": 2872,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Local Specialty (Sumeru)",
-	"sources": [
+	"materialtype": "Local Specialty (Sumeru)",
+	"source": [
 		"Found near Sumeru City"
 	]
 }

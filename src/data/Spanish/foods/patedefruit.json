@@ -1,10 +1,9 @@
 {
-	"id": 3408,
 	"name": "Golosinas de frutas",
-	"rarity": 3,
+	"rarity": "3",
 	"foodtype": "NORMAL",
-	"filterType": "COOK_FOOD_ATTACK",
-	"filterText": "Platos que mejoran ataques",
+	"foodfilter": "Platos que mejoran ataques",
+	"foodcategory": "Atk_CritRate",
 	"effect": "Aumenta la Prob. CRIT de todos los miembros del equipo en un 10%-20% durante 300 s.\nEn modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
 	"description": "Un caramelo blando hecho de fruta. Antiguamente era simplemente una forma de almacenar la fruta, pero, con el paso del tiempo, se ha convertido en uno de los recuerdos de la infancia más dulces de la gente de Fontaine. Tiene una textura suave y chiclosa que lo vuelve simplemente irresistible.",
 	"suspicious": {
@@ -21,17 +20,14 @@
 	},
 	"ingredients": [
 		{
-			"id": 101230,
 			"name": "Burburanja",
 			"count": 1
 		},
 		{
-			"id": 110008,
 			"name": "Mermelada",
 			"count": 1
 		},
 		{
-			"id": 110006,
 			"name": "Azúcar",
 			"count": 1
 		}

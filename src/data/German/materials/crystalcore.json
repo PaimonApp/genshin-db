@@ -1,15 +1,10 @@
 {
-	"id": 100085,
 	"name": "Kristallkern",
-	"sortRank": 320,
 	"description": "Das Innere eines Kristallschmetterlings. Dieses Organ absorbiert winzige elementare Bestandteile aus der Luft.",
-<<<<<<< HEAD
 	"sortorder": 2896,
-=======
->>>>>>> upstream/main
 	"category": "EXCHANGE",
-	"typeText": "Material",
-	"sources": [
+	"materialtype": "Material",
+	"source": [
 		"Beim Fangen von Kristallschmetterlingen zu erhalten"
 	]
 }

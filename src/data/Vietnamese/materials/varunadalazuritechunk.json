@@ -1,17 +1,11 @@
 {
-	"id": 104123,
 	"name": "Miếng Thanh Kim Sạch",
-	"rarity": 4,
-	"sortRank": 12103,
 	"description": "Nguyên liệu đột phá nhân vật.\n\"Trong lý tưởng của ta không có chút vấy bẩn nào.\"\n\"Tôi phải đính chính với bạn, ở nơi này, người không phải gánh vác tội lỗi nào với Thần...\"",
-<<<<<<< HEAD
 	"sortorder": 3194,
 	"rarity": "4",
-=======
->>>>>>> upstream/main
 	"category": "AVATAR_MATERIAL",
-	"typeText": "Nguyên Liệu Đột Phá Nhân Vật",
-	"sources": [
+	"materialtype": "Nguyên Liệu Đột Phá Nhân Vật",
+	"source": [
 		"Tinh Linh Nước Trong cấp 60 trở lên rơi",
 		"Thủy Nguyên Bản cấp 60 trở lên rơi",
 		"Nhân Dạng Nước cấp 60 trở lên rơi",
