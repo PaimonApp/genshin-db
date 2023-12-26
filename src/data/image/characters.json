@@ -317,8 +317,8 @@
 	"rosaria": {
 		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png",
 		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Rosaria.png",
-		"cover1": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20210325/2021032515083899881.png",
-		"cover2": "https://webstatic.hoyoverse.com/upload/contentweb/2022/06/28/a41b9128c686df0f18008cc8d03e2710_3923950722138931917.png",
+		"cover1": "https://fastcdn.hoyoverse.com/content-v2/hk4e/104817/54dc681e2d8ac63f61012557b2f5e70b_8355821143127517203.png",
+		"cover2": "https://fastcdn.hoyoverse.com/content-v2/hk4e/104817/a41b9128c686df0f18008cc8d03e2710_1880644237863275563.png",
 		"hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/da6ff2b868b5ff680484149c69518001.png",
 		"nameicon": "UI_AvatarIcon_Rosaria",
 		"nameiconcard": "UI_AvatarIcon_Rosaria_Card",
@@ -946,5 +946,25 @@
 		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Furina.png",
 		"cover1": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113447/e8d153da1a2dca7a07fd76397cd60612_2043628622447437530.png",
 		"cover2": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113447/a28573fbba728cd873a56337bf83ff31_2734275279164942426.png"
+	},
+	"chevreuse": {
+		"nameicon": "UI_AvatarIcon_Chevreuse",
+		"nameiconcard": "UI_AvatarIcon_Chevreuse_Card",
+		"namegachasplash": "UI_Gacha_AvatarImg_Chevreuse",
+		"namegachaslice": "UI_Gacha_AvatarIcon_Chevreuse",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chevreuse.png",
+		"namesideicon": "UI_AvatarIcon_Side_Chevreuse",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chevreuse.png"
+	},
+	"navia": {
+		"nameicon": "UI_AvatarIcon_Navia",
+		"nameiconcard": "UI_AvatarIcon_Navia_Card",
+		"namegachasplash": "UI_Gacha_AvatarImg_Navia",
+		"namegachaslice": "UI_Gacha_AvatarIcon_Navia",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png",
+		"namesideicon": "UI_AvatarIcon_Side_Navia",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Navia.png",
+		"cover1": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113799/c765b3ba5e3b25ce6e8afd3e758251a8_8182638561484390418.png",
+		"cover2": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113799/865a415e7278fa634898a3d55fbd3884_137330819669966012.png"
 	}
 }
