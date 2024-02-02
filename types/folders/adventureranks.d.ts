@@ -1,4 +1,4 @@
-declare module "genshin-db" {
+declare module "@PaimonApp/genshin-db" {
 	export interface AdventureRank {
 		id: number;
 		name: string;

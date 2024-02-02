@@ -1,4 +1,4 @@
-import * as genshindb from "genshin-db";
+import * as genshindb from "@PaimonApp/genshin-db";
 
 // Test examples
 genshindb.characters("names", { matchCategories: true }); // string[]
