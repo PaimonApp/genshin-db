@@ -1,0 +1,46 @@
+[
+	{
+		"language": "French",
+		"folder": "tcgstatuseffects",
+		"filename": "elementaldevourer",
+		"dataid": 134091,
+		"from": "Soif de magie|s1:Soifs de magie|s2:soif de magie|s3:soifs de magie",
+		"to": "Soif de magie"
+	},
+	{
+		"language": "Japanese",
+		"folder": "tcgactioncards",
+		"filename": "chaoticentropy",
+		"dataid": 215011,
+		"from": "混元熵增論",
+		"to": "混元熵増論"
+	},
+	{
+		"language": "Russian",
+		"folder": "achievements",
+		"filename": "allswellthatendswell",
+		"dataid": [
+			84524
+		],
+		"from": "Все хорошо, что хорошо кончается",
+		"to": "Всё хорошо, что хорошо кончается"
+	},
+	{
+		"language": "Turkish",
+		"folder": "achievements",
+		"filename": "towalkthehorizon",
+		"dataid": [
+			84565
+		],
+		"from": "Ufuğa Yürüyüş...",
+		"to": "Ufka Yürüyüş..."
+	},
+	{
+		"language": "Japanese",
+		"folder": "tcgstatuseffects",
+		"filename": "chaoticentropy",
+		"dataid": 215011,
+		"from": "混元熵增論",
+		"to": "混元熵増論"
+	}
+]

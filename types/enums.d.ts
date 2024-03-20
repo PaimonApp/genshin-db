@@ -43,6 +43,9 @@ declare module "@PaimonApp/genshin-db" {
 
 		adventureranks = "adventureranks",
 
+		emojis         = "emojis",
+		voiceovers     = "voiceovers",
+
 		rarity         = "rarity", // deprecated
 		elements       = "elements",
 

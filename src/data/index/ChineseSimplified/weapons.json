@@ -29,6 +29,7 @@
 		"darkironsword": "暗铁剑",
 		"deathmatch": "决斗之枪",
 		"debateclub": "以理服人",
+		"dialoguesofthedesertsages": "沙中伟贤的对答",
 		"dodocotales": "嘟嘟可故事集",
 		"dragonsbane": "匣里灭辰",
 		"dragonspinespear": "龙脊长枪",
@@ -98,9 +99,9 @@
 		"predator": "掠食者",
 		"primordialjadecutter": "磐岩结绿",
 		"primordialjadewingedspear": "和璞鸢",
+		"prizedisshinblade": "「一心传」名刀",
 		"prizedisshinblade-01": "「一心传」名刀",
 		"prizedisshinblade-02": "「一心传」名刀",
-		"prizedisshinblade": "「一心传」名刀",
 		"prospectorsdrill": "勘探钻机",
 		"prototypeamber": "试作金珀",
 		"prototypearchaic": "试作古华",
@@ -169,6 +170,7 @@
 		"tulaytullahsremembrance": "图莱杜拉的回忆",
 		"twinnephrite": "甲级宝珏",
 		"ultimateoverlordsmegamagicsword": "「究极霸王超级魔剑」",
+		"urakumisugiri": "有乐御簾切",
 		"verdict": "裁断",
 		"vortexvanquisher": "贯虹之槊",
 		"wanderingevenstar": "流浪的晚星",
@@ -213,6 +215,7 @@
 		"暗铁剑": "darkironsword",
 		"决斗之枪": "deathmatch",
 		"以理服人": "debateclub",
+		"沙中伟贤的对答": "dialoguesofthedesertsages",
 		"嘟嘟可故事集": "dodocotales",
 		"匣里灭辰": "dragonsbane",
 		"龙脊长枪": "dragonspinespear",
@@ -282,7 +285,7 @@
 		"掠食者": "predator",
 		"磐岩结绿": "primordialjadecutter",
 		"和璞鸢": "primordialjadewingedspear",
-		"「一心传」名刀": "prizedisshinblade-01",
+		"「一心传」名刀": "prizedisshinblade",
 		"勘探钻机": "prospectorsdrill",
 		"试作金珀": "prototypeamber",
 		"试作古华": "prototypearchaic",
@@ -351,6 +354,7 @@
 		"图莱杜拉的回忆": "tulaytullahsremembrance",
 		"甲级宝珏": "twinnephrite",
 		"「究极霸王超级魔剑」": "ultimateoverlordsmegamagicsword",
+		"有乐御簾切": "urakumisugiri",
 		"裁断": "verdict",
 		"贯虹之槊": "vortexvanquisher",
 		"流浪的晚星": "wanderingevenstar",
@@ -366,9 +370,9 @@
 		"西福斯的月光": "xiphosmoonlight"
 	},
 	"aliases": {
+		"「一心传」名刀 0": "prizedisshinblade",
 		"「一心传」名刀 1": "prizedisshinblade-01",
-		"「一心传」名刀 2": "prizedisshinblade-02",
-		"「一心传」名刀 0": "prizedisshinblade"
+		"「一心传」名刀 2": "prizedisshinblade-02"
 	},
 	"categories": {
 		"1": [
@@ -426,6 +430,7 @@
 			"compoundbow",
 			"crescentpike",
 			"deathmatch",
+			"dialoguesofthedesertsages",
 			"dodocotales",
 			"dragonsbane",
 			"dragonspinespear",
@@ -466,9 +471,9 @@
 			"oathsworneye",
 			"portablepowersaw",
 			"predator",
+			"prizedisshinblade",
 			"prizedisshinblade-01",
 			"prizedisshinblade-02",
-			"prizedisshinblade",
 			"prospectorsdrill",
 			"prototypeamber",
 			"prototypearchaic",
@@ -559,6 +564,7 @@
 			"thunderingpulse",
 			"tomeoftheeternalflow",
 			"tulaytullahsremembrance",
+			"urakumisugiri",
 			"verdict",
 			"vortexvanquisher",
 			"wolfsgravestone"
@@ -629,9 +635,9 @@
 			"mouunsmoon",
 			"oathsworneye",
 			"predator",
+			"prizedisshinblade",
 			"prizedisshinblade-01",
 			"prizedisshinblade-02",
-			"prizedisshinblade",
 			"prospectorsdrill",
 			"prototypearchaic",
 			"prototypecrescent",
@@ -684,6 +690,7 @@
 			"darkironsword",
 			"deathmatch",
 			"debateclub",
+			"dialoguesofthedesertsages",
 			"dodocotales",
 			"dragonsbane",
 			"dragonspinespear",
@@ -753,9 +760,9 @@
 			"predator",
 			"primordialjadecutter",
 			"primordialjadewingedspear",
+			"prizedisshinblade",
 			"prizedisshinblade-01",
 			"prizedisshinblade-02",
-			"prizedisshinblade",
 			"prospectorsdrill",
 			"prototypeamber",
 			"prototypearchaic",
@@ -824,6 +831,7 @@
 			"tulaytullahsremembrance",
 			"twinnephrite",
 			"ultimateoverlordsmegamagicsword",
+			"urakumisugiri",
 			"verdict",
 			"vortexvanquisher",
 			"wanderingevenstar",
@@ -844,7 +852,8 @@
 			"everlastingmoonglow",
 			"hakushinring",
 			"mistsplitterreforged",
-			"oathsworneye"
+			"oathsworneye",
+			"urakumisugiri"
 		],
 		"隐兽指爪": [
 			"akuoumaru",
@@ -864,6 +873,7 @@
 			"mistsplitterreforged",
 			"redhornstonethresher",
 			"toukaboushigure",
+			"urakumisugiri",
 			"wavebreakersfin"
 		],
 		"远海夷地的玉枝": [
@@ -872,7 +882,8 @@
 			"everlastingmoonglow",
 			"hakushinring",
 			"mistsplitterreforged",
-			"oathsworneye"
+			"oathsworneye",
+			"urakumisugiri"
 		],
 		"隐兽利爪": [
 			"akuoumaru",
@@ -892,6 +903,7 @@
 			"mistsplitterreforged",
 			"redhornstonethresher",
 			"toukaboushigure",
+			"urakumisugiri",
 			"wavebreakersfin"
 		],
 		"远海夷地的琼枝": [
@@ -900,7 +912,8 @@
 			"everlastingmoonglow",
 			"hakushinring",
 			"mistsplitterreforged",
-			"oathsworneye"
+			"oathsworneye",
+			"urakumisugiri"
 		],
 		"隐兽鬼爪": [
 			"akuoumaru",
@@ -920,6 +933,7 @@
 			"mistsplitterreforged",
 			"redhornstonethresher",
 			"toukaboushigure",
+			"urakumisugiri",
 			"wavebreakersfin"
 		],
 		"远海夷地的金枝": [
@@ -928,7 +942,8 @@
 			"everlastingmoonglow",
 			"hakushinring",
 			"mistsplitterreforged",
-			"oathsworneye"
+			"oathsworneye",
+			"urakumisugiri"
 		],
 		"WEAPON_BOW": [
 			"alleyhunter",
@@ -1230,9 +1245,9 @@
 			"lionsroar",
 			"mistsplitterreforged",
 			"primordialjadecutter",
+			"prizedisshinblade",
 			"prizedisshinblade-01",
 			"prizedisshinblade-02",
-			"prizedisshinblade",
 			"prototyperancour",
 			"royallongsword",
 			"sacrificialsword",
@@ -1250,6 +1265,7 @@
 			"theflute",
 			"toukaboushigure",
 			"travelershandysword",
+			"urakumisugiri",
 			"wolffang",
 			"xiphosmoonlight"
 		],
@@ -1259,7 +1275,8 @@
 			"katsuragikirinagamasa",
 			"kitaincrossspear",
 			"mistsplitterreforged",
-			"thecatch"
+			"thecatch",
+			"urakumisugiri"
 		],
 		"混沌枢纽": [
 			"amenomakageuchi",
@@ -1267,7 +1284,8 @@
 			"katsuragikirinagamasa",
 			"kitaincrossspear",
 			"mistsplitterreforged",
-			"thecatch"
+			"thecatch",
+			"urakumisugiri"
 		],
 		"混沌真眼": [
 			"amenomakageuchi",
@@ -1275,7 +1293,8 @@
 			"katsuragikirinagamasa",
 			"kitaincrossspear",
 			"mistsplitterreforged",
-			"thecatch"
+			"thecatch",
+			"urakumisugiri"
 		],
 		"WEAPON_CATALYST": [
 			"apprenticesnotes",
@@ -1496,7 +1515,8 @@
 			"thewidsith",
 			"thunderingpulse",
 			"tomeoftheeternalflow",
-			"tulaytullahsremembrance"
+			"tulaytullahsremembrance",
+			"urakumisugiri"
 		],
 		"孤云寒林的光砂": [
 			"aquasimulacra",
@@ -1527,6 +1547,7 @@
 		],
 		"浮游干核": [
 			"aquasimulacra",
+			"dialoguesofthedesertsages",
 			"everlastingmoonglow",
 			"kagotsurubeisshin",
 			"kagurasverity",
@@ -1565,6 +1586,7 @@
 		],
 		"浮游幽核": [
 			"aquasimulacra",
+			"dialoguesofthedesertsages",
 			"everlastingmoonglow",
 			"kagotsurubeisshin",
 			"kagurasverity",
@@ -1603,6 +1625,7 @@
 		],
 		"浮游晶化核": [
 			"aquasimulacra",
+			"dialoguesofthedesertsages",
 			"everlastingmoonglow",
 			"kagotsurubeisshin",
 			"kagurasverity",
@@ -2112,6 +2135,7 @@
 			"calamityqueller",
 			"crescentpike",
 			"deathmatch",
+			"dialoguesofthedesertsages",
 			"dragonsbane",
 			"dragonspinespear",
 			"engulfinglightning",
@@ -2651,6 +2675,7 @@
 		],
 		"FIGHT_PROP_HP_PERCENT": [
 			"blacktassel",
+			"dialoguesofthedesertsages",
 			"everlastingmoonglow",
 			"ferrousshadow",
 			"jadefallssplendor",
@@ -2878,13 +2903,52 @@
 			"wolffang"
 		],
 		"羽状鳍翅": [
-			"cranesechoingcall"
+			"cranesechoingcall",
+			"dialoguesofthedesertsages"
 		],
 		"月色鳍翅": [
-			"cranesechoingcall"
+			"cranesechoingcall",
+			"dialoguesofthedesertsages"
 		],
 		"渊光鳍翅": [
-			"cranesechoingcall"
+			"cranesechoingcall",
+			"dialoguesofthedesertsages"
+		],
+		"谧林涓露的铜符": [
+			"dialoguesofthedesertsages",
+			"forestregalia",
+			"ibispiercer",
+			"keyofkhajnisut",
+			"lightoffoliarincision",
+			"sapwoodblade",
+			"xiphosmoonlight"
+		],
+		"谧林涓露的铁符": [
+			"dialoguesofthedesertsages",
+			"forestregalia",
+			"ibispiercer",
+			"keyofkhajnisut",
+			"lightoffoliarincision",
+			"sapwoodblade",
+			"xiphosmoonlight"
+		],
+		"谧林涓露的银符": [
+			"dialoguesofthedesertsages",
+			"forestregalia",
+			"ibispiercer",
+			"keyofkhajnisut",
+			"lightoffoliarincision",
+			"sapwoodblade",
+			"xiphosmoonlight"
+		],
+		"谧林涓露的金符": [
+			"dialoguesofthedesertsages",
+			"forestregalia",
+			"ibispiercer",
+			"keyofkhajnisut",
+			"lightoffoliarincision",
+			"sapwoodblade",
+			"xiphosmoonlight"
 		],
 		"失活菌核": [
 			"endoftheline",
@@ -3079,28 +3143,12 @@
 			"tomeoftheeternalflow",
 			"verdict"
 		],
-		"谧林涓露的铜符": [
-			"forestregalia",
-			"ibispiercer",
-			"keyofkhajnisut",
-			"lightoffoliarincision",
-			"sapwoodblade",
-			"xiphosmoonlight"
-		],
 		"混沌容器": [
 			"forestregalia",
 			"makhairaaquamarine",
 			"moonpiercer",
 			"sapwoodblade",
 			"staffofthescarletsands"
-		],
-		"谧林涓露的铁符": [
-			"forestregalia",
-			"ibispiercer",
-			"keyofkhajnisut",
-			"lightoffoliarincision",
-			"sapwoodblade",
-			"xiphosmoonlight"
 		],
 		"混沌模块": [
 			"forestregalia",
@@ -3109,28 +3157,12 @@
 			"sapwoodblade",
 			"staffofthescarletsands"
 		],
-		"谧林涓露的银符": [
-			"forestregalia",
-			"ibispiercer",
-			"keyofkhajnisut",
-			"lightoffoliarincision",
-			"sapwoodblade",
-			"xiphosmoonlight"
-		],
 		"混沌锚栓": [
 			"forestregalia",
 			"makhairaaquamarine",
 			"moonpiercer",
 			"sapwoodblade",
 			"staffofthescarletsands"
-		],
-		"谧林涓露的金符": [
-			"forestregalia",
-			"ibispiercer",
-			"keyofkhajnisut",
-			"lightoffoliarincision",
-			"sapwoodblade",
-			"xiphosmoonlight"
 		],
 		"鸣神御灵的明惠": [
 			"hamayumi",
@@ -3345,6 +3377,10 @@
 			"羽状鳍翅",
 			"月色鳍翅",
 			"渊光鳍翅",
+			"谧林涓露的铜符",
+			"谧林涓露的铁符",
+			"谧林涓露的银符",
+			"谧林涓露的金符",
 			"失活菌核",
 			"休眠菌核",
 			"茁壮菌核",
@@ -3369,13 +3405,9 @@
 			"隙间之核",
 			"外世突触",
 			"异界生命核",
-			"谧林涓露的铜符",
 			"混沌容器",
-			"谧林涓露的铁符",
 			"混沌模块",
-			"谧林涓露的银符",
 			"混沌锚栓",
-			"谧林涓露的金符",
 			"鸣神御灵的明惠",
 			"鸣神御灵的欢喜",
 			"鸣神御灵的亲爱",
