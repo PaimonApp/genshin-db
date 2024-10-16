@@ -46,7 +46,8 @@ declare module "@PaimonApp/genshin-db" {
 		emojis         = "emojis",
 		voiceovers     = "voiceovers",
 
-		rarity         = "rarity", // deprecated
+		/** @deprecated */
+		rarity         = "rarity",
 		elements       = "elements",
 
 		tcgactioncards    = "tcgactioncards",
@@ -54,6 +55,7 @@ declare module "@PaimonApp/genshin-db" {
 		tcgcardboxes      = "tcgcardboxes",
 		tcgcharactercards = "tcgcharactercards",
 		tcgdetailedrules  = "tcgdetailedrules",
+		tcgenemycards     = "tcgenemycards",
 		tcgkeywords       = "tcgkeywords",
 		tcglevelrewards   = "tcglevelrewards",
 		tcgstatuseffects  = "tcgstatuseffects",
