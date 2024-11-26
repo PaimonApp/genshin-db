@@ -1,10 +1,11 @@
 {
 	"name": "@PaimonApp/genshin-db",
-	"version": "5.51.0",
-	"description": "Genshin Impact v5.1 JSON data. Search and get results in all in-game languages! Sources from the fandom wiki and GenshinData repo.",
+	"version": "5.52.0",
+	"description": "Genshin Impact v5.2 JSON data. Search and get results in all in-game languages! Sources from the fandom wiki and GenshinData repo.",
 	"main": "./src/main.js",
 	"types": "./types/index.d.ts",
 	"scripts": {
+		"import": "cd scripts/import && node ./import.js",
 		"examples": "cd scripts/generate && node ./examples.js",
 		"makeIndex": "cd scripts/generate && node ./makeIndex.js",
 		"combineData": "cd scripts/generate && node ./combineData.js",
