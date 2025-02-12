@@ -1,0 +1,288 @@
+{
+	"characters": [
+		{
+			"dataid": 10000109,
+			"filename": "yumemizukimizuki"
+		}
+	],
+	"materials": [
+		{
+			"dataid": 200124,
+			"filename": "smolderingphosphorescentflame"
+		}
+	],
+	"constellations": [
+		{
+			"dataid": 10901,
+			"filename": "yumemizukimizuki"
+		}
+	],
+	"talents": [
+		{
+			"dataid": 10901,
+			"filename": "yumemizukimizuki"
+		}
+	],
+	"weapons": [
+		{
+			"dataid": 14518,
+			"filename": "sunnymorningsleepin"
+		},
+		{
+			"dataid": 13432,
+			"filename": "tamayurateinoohanashi"
+		}
+	],
+	"foods": [
+		{
+			"dataid": 10000109,
+			"filename": "dreamsofhealing"
+		},
+		{
+			"dataid": 3222,
+			"filename": "bathhousemanjuu"
+		}
+	],
+	"voiceovers": [
+		{
+			"dataid": 10000109,
+			"filename": "yumemizukimizuki"
+		}
+	],
+	"outfits": [
+		{
+			"dataid": 210900,
+			"filename": "dawnbreathdreambelle"
+		}
+	],
+	"namecards": [
+		{
+			"dataid": 210235,
+			"filename": "travelnoteswondrousreverie"
+		},
+		{
+			"dataid": 210233,
+			"filename": "yumemizukimizukinightmaredevourer"
+		},
+		{
+			"dataid": 210234,
+			"filename": "celebrationscorch"
+		}
+	],
+	"emojis": [
+		{
+			"dataid": 38016,
+			"filename": "promise"
+		},
+		{
+			"dataid": 38014,
+			"filename": "fortunesfavor"
+		},
+		{
+			"dataid": 38012,
+			"filename": "shakehands"
+		},
+		{
+			"dataid": 38010,
+			"filename": "timetorelax"
+		},
+		{
+			"dataid": 38008,
+			"filename": "annoyed"
+		},
+		{
+			"dataid": 38006,
+			"filename": "blearyeyed"
+		},
+		{
+			"dataid": 38004,
+			"filename": "cheers-02"
+		},
+		{
+			"dataid": 38002,
+			"filename": "fullthrottle"
+		},
+		{
+			"dataid": 38001,
+			"filename": "comequick"
+		},
+		{
+			"dataid": 38003,
+			"filename": "headtohead"
+		},
+		{
+			"dataid": 38005,
+			"filename": "refusetoface"
+		},
+		{
+			"dataid": 38007,
+			"filename": "blush-01"
+		},
+		{
+			"dataid": 38009,
+			"filename": "greetings-03"
+		},
+		{
+			"dataid": 38011,
+			"filename": "yummy"
+		},
+		{
+			"dataid": 38013,
+			"filename": "wassup-01"
+		},
+		{
+			"dataid": 38015,
+			"filename": "luckystreak"
+		}
+	],
+	"tcgkeywords": [
+		{
+			"dataid": 206,
+			"filename": "geoapplication"
+		},
+		{
+			"dataid": 60,
+			"filename": "wholematch"
+		}
+	],
+	"tcgcharactercards": [
+		{
+			"dataid": 1709,
+			"filename": "kinich"
+		},
+		{
+			"dataid": 1314,
+			"filename": "arlecchino"
+		}
+	],
+	"tcgactioncards": [
+		{
+			"dataid": 187041,
+			"filename": "sauruscrackers-01"
+		},
+		{
+			"dataid": 423078,
+			"filename": "transfiguringflame"
+		},
+		{
+			"dataid": 422070,
+			"filename": "hilichurlreserve"
+		},
+		{
+			"dataid": 421018,
+			"filename": "elevatedarray"
+		},
+		{
+			"dataid": 421016,
+			"filename": "bloodbondensemble"
+		},
+		{
+			"dataid": 333019,
+			"filename": "hotspringoclock"
+		},
+		{
+			"dataid": 321026,
+			"filename": "flowerfeatherclan"
+		},
+		{
+			"dataid": 217091,
+			"filename": "nightrealmsgiftrepaidinfull"
+		},
+		{
+			"dataid": 213141,
+			"filename": "allreprisalsandarrearsminetobear"
+		},
+		{
+			"dataid": 311204,
+			"filename": "amosbow-01"
+		},
+		{
+			"dataid": 332043,
+			"filename": "littletepetlisaurtreasurehunteratlarge"
+		},
+		{
+			"dataid": 421015,
+			"filename": "bloodbonddarkdecay"
+		},
+		{
+			"dataid": 421017,
+			"filename": "rekindledflame"
+		},
+		{
+			"dataid": 421019,
+			"filename": "elementalforte"
+		},
+		{
+			"dataid": 422071,
+			"filename": "spreadingcold"
+		},
+		{
+			"dataid": 182071,
+			"filename": "bonecrunchersenergyblock-01"
+		}
+	],
+	"tcgsummons": [
+		{
+			"dataid": 502209,
+			"filename": "electrohilichurlshooter-01"
+		},
+		{
+			"dataid": 502207,
+			"filename": "hydrosamachurl-01"
+		},
+		{
+			"dataid": 117093,
+			"filename": "almightydragonlordajaw"
+		},
+		{
+			"dataid": 502206,
+			"filename": "cryohilichurlshooter-01"
+		},
+		{
+			"dataid": 502208,
+			"filename": "hilichurlberserker-01"
+		}
+	],
+	"tcgstatuseffects": [
+		{
+			"dataid": 186043,
+			"filename": "powerofshatteringstone"
+		},
+		{
+			"dataid": 301024,
+			"filename": "flowerfeatherclanineffect"
+		},
+		{
+			"dataid": 217091,
+			"filename": "nightrealmsgiftrepaidinfull"
+		},
+		{
+			"dataid": 117092,
+			"filename": "nightsoulsblessing-01"
+		},
+		{
+			"dataid": 213141,
+			"filename": "allreprisalsandarrearsminetobear"
+		},
+		{
+			"dataid": 113141,
+			"filename": "blooddebtdirective"
+		},
+		{
+			"dataid": 117091,
+			"filename": "grapplelink"
+		},
+		{
+			"dataid": 117094,
+			"filename": "grappleprepare"
+		},
+		{
+			"dataid": 311204,
+			"filename": "amosbow-01"
+		},
+		{
+			"dataid": 173171,
+			"filename": "wushoustance"
+		}
+	]
+}
