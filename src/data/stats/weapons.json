@@ -8,6 +8,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -40,6 +41,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -2040,6 +2042,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -2072,6 +2075,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -3621,6 +3625,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -3653,6 +3658,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -5038,6 +5044,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -5070,6 +5077,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -6774,6 +6782,47 @@
 			}
 		]
 	},
+	"vividnotions": {
+		"base": {
+			"attack": 47.537,
+			"specialized": 0.096
+		},
+		"curve": {
+			"attack": "GROW_CURVE_ATTACK_302",
+			"specialized": "GROW_CURVE_CRITICAL_301"
+		},
+		"specialized": "FIGHT_PROP_CRITICAL_HURT",
+		"promotion": [
+			{
+				"maxlevel": 20,
+				"attack": 0
+			},
+			{
+				"maxlevel": 40,
+				"attack": 31.1
+			},
+			{
+				"maxlevel": 50,
+				"attack": 62.2
+			},
+			{
+				"maxlevel": 60,
+				"attack": 93.4
+			},
+			{
+				"maxlevel": 70,
+				"attack": 124.5
+			},
+			{
+				"maxlevel": 80,
+				"attack": 155.6
+			},
+			{
+				"maxlevel": 90,
+				"attack": 186.7
+			}
+		]
+	},
 	"huntersbow": {
 		"base": {
 			"attack": 23.245,
@@ -6783,6 +6832,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,
@@ -6815,6 +6865,7 @@
 			"attack": "GROW_CURVE_ATTACK_101",
 			"specialized": "GROW_CURVE_CRITICAL_101"
 		},
+		"specialized": "FIGHT_PROP_NONE",
 		"promotion": [
 			{
 				"maxlevel": 20,

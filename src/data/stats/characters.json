@@ -6334,5 +6334,137 @@
 				"specialized": 115.2
 			}
 		]
+	},
+	"iansan": {
+		"base": {
+			"hp": 893.5552,
+			"attack": 21.54768,
+			"defense": 53.505375,
+			"critrate": 0.05,
+			"critdmg": 0.5
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_S4",
+			"attack": "GROW_CURVE_ATTACK_S4",
+			"defense": "GROW_CURVE_HP_S4"
+		},
+		"specialized": "FIGHT_PROP_ATTACK_PERCENT",
+		"promotion": [
+			{
+				"maxlevel": 20,
+				"hp": 0,
+				"attack": 0,
+				"defense": 0,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 40,
+				"hp": 667.5315,
+				"attack": 16.097597,
+				"defense": 39.97125,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 50,
+				"hp": 1141.8302,
+				"attack": 27.535364,
+				"defense": 68.37187,
+				"specialized": 0.06
+			},
+			{
+				"maxlevel": 60,
+				"hp": 1774.2284,
+				"attack": 42.78572,
+				"defense": 106.23937,
+				"specialized": 0.12
+			},
+			{
+				"maxlevel": 70,
+				"hp": 2248.527,
+				"attack": 54.223488,
+				"defense": 134.64,
+				"specialized": 0.12
+			},
+			{
+				"maxlevel": 80,
+				"hp": 2722.8257,
+				"attack": 65.661255,
+				"defense": 163.04062,
+				"specialized": 0.18
+			},
+			{
+				"maxlevel": 90,
+				"hp": 3197.1245,
+				"attack": 77.09902,
+				"defense": 191.44125,
+				"specialized": 0.24
+			}
+		]
+	},
+	"varesa": {
+		"base": {
+			"hp": 988.59283,
+			"attack": 27.7438,
+			"defense": 60.84711,
+			"critrate": 0.05,
+			"critdmg": 0.5
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_S5",
+			"attack": "GROW_CURVE_ATTACK_S5",
+			"defense": "GROW_CURVE_HP_S5"
+		},
+		"specialized": "FIGHT_PROP_CRITICAL",
+		"promotion": [
+			{
+				"maxlevel": 20,
+				"hp": 0,
+				"attack": 0,
+				"defense": 0,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 40,
+				"hp": 847.62897,
+				"attack": 23.786062,
+				"defense": 52.1721,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 50,
+				"hp": 1449.8916,
+				"attack": 40.686684,
+				"defense": 89.24175,
+				"specialized": 0.048
+			},
+			{
+				"maxlevel": 60,
+				"hp": 2252.9087,
+				"attack": 63.220848,
+				"defense": 138.66795,
+				"specialized": 0.096
+			},
+			{
+				"maxlevel": 70,
+				"hp": 2855.1714,
+				"attack": 80.121475,
+				"defense": 175.7376,
+				"specialized": 0.096
+			},
+			{
+				"maxlevel": 80,
+				"hp": 3457.434,
+				"attack": 97.022095,
+				"defense": 212.80725,
+				"specialized": 0.144
+			},
+			{
+				"maxlevel": 90,
+				"hp": 4059.6965,
+				"attack": 113.922714,
+				"defense": 249.8769,
+				"specialized": 0.192
+			}
+		]
 	}
 }
