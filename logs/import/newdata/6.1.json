@@ -1,0 +1,304 @@
+{
+	"characters": [
+		{
+			"dataid": 10000122,
+			"filename": "nefer"
+		},
+		{
+			"dataid": 10000117,
+			"filename": "manekin"
+		},
+		{
+			"dataid": 10000118,
+			"filename": "manekina"
+		}
+	],
+	"talents": [
+		{
+			"dataid": 12201,
+			"filename": "nefer"
+		},
+		{
+			"dataid": 11701,
+			"filename": "manekin"
+		},
+		{
+			"dataid": 11801,
+			"filename": "manekina"
+		}
+	],
+	"constellations": [
+		{
+			"dataid": 12201,
+			"filename": "nefer"
+		}
+	],
+	"weapons": [
+		{
+			"dataid": 14521,
+			"filename": "reliquaryoftruth"
+		},
+		{
+			"dataid": 13434,
+			"filename": "sacrificersstaff"
+		},
+		{
+			"dataid": 14434,
+			"filename": "dawningfrost"
+		}
+	],
+	"enemies": [
+		{
+			"dataid": 20081001,
+			"filename": "frostnightherra"
+		}
+	],
+	"foods": [
+		{
+			"dataid": 3607,
+			"filename": "lakkaberrypie"
+		},
+		{
+			"dataid": 10000122,
+			"filename": "secretsexchanged"
+		},
+		{
+			"dataid": 2605,
+			"filename": "lohikeitto"
+		}
+	],
+	"materials": [
+		{
+			"dataid": 239,
+			"filename": "chronicleexp"
+		},
+		{
+			"dataid": 107026,
+			"filename": "spiritcarp"
+		},
+		{
+			"dataid": 107015,
+			"filename": "moonchasecharm"
+		},
+		{
+			"dataid": 107010,
+			"filename": "crimsonagate"
+		},
+		{
+			"dataid": 107030,
+			"filename": "lunoculus"
+		},
+		{
+			"dataid": 107023,
+			"filename": "hydroculus"
+		},
+		{
+			"dataid": 107014,
+			"filename": "electroculus"
+		},
+		{
+			"dataid": 107001,
+			"filename": "anemoculus"
+		},
+		{
+			"dataid": 113079,
+			"filename": "radiantantler"
+		},
+		{
+			"dataid": 121330,
+			"filename": "recordedintel"
+		},
+		{
+			"dataid": 107003,
+			"filename": "geoculus"
+		},
+		{
+			"dataid": 107017,
+			"filename": "dendroculus"
+		},
+		{
+			"dataid": 107028,
+			"filename": "pyroculus"
+		},
+		{
+			"dataid": 101644,
+			"filename": "lumenstoneore"
+		},
+		{
+			"dataid": 107011,
+			"filename": "crimsonagatedisplay"
+		},
+		{
+			"dataid": 107016,
+			"filename": "lumenspar"
+		},
+		{
+			"dataid": 240,
+			"filename": "chroniclesoftherealms"
+		}
+	],
+	"voiceovers": [
+		{
+			"dataid": 10000122,
+			"filename": "nefer"
+		},
+		{
+			"dataid": 10000120,
+			"filename": "flins"
+		},
+		{
+			"dataid": 10000118,
+			"filename": "manekina"
+		},
+		{
+			"dataid": 10000117,
+			"filename": "manekin"
+		},
+		{
+			"dataid": 10000119,
+			"filename": "lauma"
+		},
+		{
+			"dataid": 10000121,
+			"filename": "aino"
+		}
+	],
+	"outfits": [
+		{
+			"dataid": 212200,
+			"filename": "emeraldcipher"
+		}
+	],
+	"namecards": [
+		{
+			"dataid": 210262,
+			"filename": "travelnotesbygoneruins"
+		},
+		{
+			"dataid": 210261,
+			"filename": "nefersecrets"
+		}
+	],
+	"emojis": [
+		{
+			"dataid": 44016,
+			"filename": "thankyou"
+		},
+		{
+			"dataid": 44014,
+			"filename": "warning-01"
+		},
+		{
+			"dataid": 44012,
+			"filename": "repair"
+		},
+		{
+			"dataid": 44010,
+			"filename": "angry-02"
+		},
+		{
+			"dataid": 44008,
+			"filename": "illuminate"
+		},
+		{
+			"dataid": 44006,
+			"filename": "goahead"
+		},
+		{
+			"dataid": 44004,
+			"filename": "protect"
+		},
+		{
+			"dataid": 44002,
+			"filename": "awkward-02"
+		},
+		{
+			"dataid": 44001,
+			"filename": "praise-02"
+		},
+		{
+			"dataid": 44003,
+			"filename": "meeting"
+		},
+		{
+			"dataid": 44005,
+			"filename": "bow-01"
+		},
+		{
+			"dataid": 44007,
+			"filename": "begone"
+		},
+		{
+			"dataid": 44009,
+			"filename": "sneakysnacking"
+		},
+		{
+			"dataid": 44011,
+			"filename": "coverup"
+		},
+		{
+			"dataid": 44013,
+			"filename": "comfort"
+		},
+		{
+			"dataid": 44015,
+			"filename": "gotcha-01"
+		}
+	],
+	"achievements": [
+		{
+			"dataid": [
+				84365
+			],
+			"filename": "anelegyforfadedmoonlight"
+		},
+		{
+			"dataid": [
+				84363
+			],
+			"filename": "gameofbloodandsand"
+		},
+		{
+			"dataid": [
+				84361
+			],
+			"filename": "anationthatdoesntexist"
+		},
+		{
+			"dataid": [
+				84359
+			],
+			"filename": "firesuppression"
+		},
+		{
+			"dataid": [
+				81624
+			],
+			"filename": "goldentravelersilvermoon"
+		},
+		{
+			"dataid": [
+				82302
+			],
+			"filename": "strandedconstellation"
+		},
+		{
+			"dataid": [
+				84360
+			],
+			"filename": "onlyembersremain"
+		},
+		{
+			"dataid": [
+				84362
+			],
+			"filename": "moonlessnight"
+		},
+		{
+			"dataid": [
+				84364
+			],
+			"filename": "beforethemoonsfell"
+		}
+	]
+}
