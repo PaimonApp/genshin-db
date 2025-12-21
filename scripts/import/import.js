@@ -5,6 +5,7 @@
 const fs = require('fs');
 const language = require(`../../src/language.js`);
 //const genshindb = require('../src/main.js');
+const getHoyowikiIcons = require('./getHoyowikiIcons.js');
 
 
 if(!fs.existsSync('./import/EN')) {
@@ -177,7 +178,7 @@ async function getCharList(region) {
 }
 async function getUpperBodyImages() {
 	const util = require('util');
-	const regions = ['mondstadt', 'liyue', 'inazuma', 'sumeru', 'Fontaine', 'Natlan'];
+	const regions = ['mondstadt', 'liyue', 'inazuma', 'sumeru', 'Fontaine', 'Natlan', 'NODKRAI'];
 	let myimages = {};
 	try { myimages = require(`../../src/data/image/characters.json`); } catch(e) {}
 
@@ -527,13 +528,14 @@ function importData(folder, collateFunc, dontwrite=false, deleteexisting, skipim
 }
 
 // checkExistingImageBlacklist = true; // 
-gameVersion = "6.1"; // new data will use this as added version
+gameVersion = "6.2"; // new data will use this as added version
 console.log(gameVersion);
 
 // importData('characters');
 // importCurve('characters');
 
-// getUpperBodyImages(); // RUN SEPARATELY. grabbing cover1, cover2 from official genshin impact site, // MUST IMPORT SEPARATELY FROM import characters
+// getHoyowikiIcons(); // RUN SEPARATELY. grabbing hoyowiki_icon from hoyolab wiki API, // MUST IMPORT SEPARATELY FROM import characters
+// // getUpperBodyImages(); // RUN SEPARATELY. grabbing cover1, cover2 from official genshin impact site, // MUST IMPORT SEPARATELY FROM import characters
 
 // importData('constellations');
 // importData('talents');
@@ -553,7 +555,7 @@ console.log(gameVersion);
 // importData('geographies');
 // importData('crafts');
 // importData('emojis');
-// importData('voiceovers')
+// // importData('voiceovers')
 // importData('achievements');
 // importData('achievementgroups');
 // importData('adventureranks'); // max 60
